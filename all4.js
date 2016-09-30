@@ -112031,7 +112031,7 @@ function h$mainZCMainziapp46_e()
   h$l2(h$mainZCMainziapp47, h$baseZCGHCziSTzirunSTRep);
   return h$ap_1_1_fast();
 };
-var h$$mainZCMain_1K = h$str("src\/Main.hs:(225,13)-(227,36)|case");
+var h$$mainZCMain_1K = h$str("src\/Main.hs:(227,13)-(229,36)|case");
 function h$mainZCMainziapp45_e()
 {
   h$bh();
@@ -114286,7 +114286,7 @@ function h$mainZCHaskellziVerificationziex46_e()
   return h$ap_3_3_fast();
 };
 var h$mainZCHaskellziVerificationziex47 = h$strta("Beweisen Sie");
-var h$mainZCHaskellziVerificationziex49 = h$strt("\xdcbung Induktionsbeweis \xfcber Zahlen");
+var h$mainZCHaskellziVerificationziex49 = h$strt("\xdcbung: Induktionsbeweis \xfcber Zahlen");
 function h$mainZCHaskellziVerificationziex6_e()
 {
   return h$e(h$mainZCHaskellziVerificationziex1zuk);
@@ -116123,31 +116123,31 @@ function h$mainZCHaskellziSlideShowzislideShow2zuk_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziSlideShowzislideShow3zuk_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow14, h$mainZCHaskellziDifferenceEnginezislideShow,
-  h$mainZCSlidezizdfFunctorSlide, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziSlideShowzislideShow3zuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow15, h$mainZCHaskellziLazzyzislideShow, h$mainZCSlidezizdfFunctorSlide,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziSlideShowzislideShow3zuk2_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow8, h$mainZCHaskellziEratostheneszislideShow, h$mainZCSlidezizdfFunctorSlide,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
 function h$mainZCHaskellziSlideShowzislideShow4zuk_e()
 {
   h$bh();
   h$l4(h$mainZCHaskellziSlideShowzislideShow8, h$mainZCHaskellziVerificationzislideShow, h$mainZCSlidezizdfFunctorSlide,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziSlideShowzislideShow5zuk_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziSlideShowzislideShow17, h$mainZCHaskellziADTzislideShow, h$mainZCSlidezizdfFunctorSlide,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziSlideShowzislideShow5zuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziSlideShowzislideShow18, h$mainZCHaskellziInterpreterzislideShow, h$mainZCSlidezizdfFunctorSlide,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziSlideShowzislideShow5zuk2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziSlideShowzislideShow8, h$mainZCHaskellziFunctionTypeszislideShow, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -116181,6 +116181,18 @@ function h$mainZCHaskellziSlideShowzislideShow6zuk1_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
+function h$mainZCHaskellziSlideShowzislideShow7_e()
+{
+  return h$e(h$mainZCHaskellziSlideShowzislideShow4zuk);
+};
+function h$mainZCHaskellziSlideShowzislideShow8_e()
+{
+  return h$e(h$mainZCHaskellziTitlezitheEnd);
+};
+function h$mainZCHaskellziSlideShowzislideShow9_e()
+{
+  return h$e(h$mainZCHaskellziSlideShowzislideShow1zuk);
+};
 function h$mainZCHaskellziSlideShowzislideShow15_e()
 {
   return h$e(h$mainZCHaskellziSlideShowzislideShow3zuk2);
@@ -116197,18 +116209,6 @@ function h$mainZCHaskellziSlideShowzislideShow18_e()
 {
   return h$e(h$mainZCHaskellziSlideShowzislideShow5zuk2);
 };
-function h$mainZCHaskellziSlideShowzislideShow7_e()
-{
-  return h$e(h$mainZCHaskellziSlideShowzislideShow4zuk);
-};
-function h$mainZCHaskellziSlideShowzislideShow8_e()
-{
-  return h$e(h$mainZCHaskellziTitlezitheEnd);
-};
-function h$mainZCHaskellziSlideShowzislideShow9_e()
-{
-  return h$e(h$mainZCHaskellziSlideShowzislideShow1zuk);
-};
 function h$mainZCHaskellziSlideShowzislideShow19_e()
 {
   return h$e(h$mainZCHaskellziSlideShowzislideShow6zuk);
@@ -116217,24 +116217,24 @@ function h$mainZCHaskellziSlideShowzislideShow20_e()
 {
   return h$e(h$mainZCHaskellziSlideShowzislideShow6zuk1);
 };
-function h$mainZCHaskellziSlideShowzislideShow5zuk_e()
+function h$mainZCHaskellziSlideShowzislideShow3zuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow17, h$mainZCHaskellziADTzislideShow, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziSlideShowzislideShow14, h$mainZCHaskellziDifferenceEnginezislideShow,
+  h$mainZCSlidezizdfFunctorSlide, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziSlideShowzislideShow3zuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziSlideShowzislideShow15, h$mainZCHaskellziLazzyzislideShow, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziSlideShowzislideShow5zuk1_e()
+function h$mainZCHaskellziSlideShowzislideShow3zuk2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow18, h$mainZCHaskellziInterpreterzislideShow, h$mainZCSlidezizdfFunctorSlide,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziSlideShowzislideShow5zuk2_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziSlideShowzislideShow8, h$mainZCHaskellziFunctionTypeszislideShow, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziSlideShowzislideShow8, h$mainZCHaskellziEratostheneszislideShow, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -120139,7 +120139,7 @@ function h$mainZCHaskellziMonadzimonadDefinition6_e()
 {
   return h$e(h$mainZCHaskellziMonadzimonadDefinitionzuk3);
 };
-var h$mainZCHaskellziMonadzimonadDefinition21 = h$strta("[a],Maybea,Eitherba,IOa,...");
+var h$mainZCHaskellziMonadzimonadDefinition21 = h$strta("[a], Maybe a, Either b a, IO a, ...");
 function h$mainZCHaskellziMonadzimonadDefinition32_e()
 {
   h$bh();
@@ -120920,204 +120920,243 @@ function h$mainZCHaskellziLazzyzievalStrat10_e()
 function h$mainZCHaskellziLazzyzievalStratIIzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII55, h$mainZCStylezilightgreen1, h$mainZCStylezilightgreen3,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII66, h$mainZCStylezilightgreen1, h$mainZCStylezilightgreen3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzievalStratII2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII3, h$mainZCHaskellziLazzyzievalStratII51, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII3, h$mainZCHaskellziLazzyzievalStratII62, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII13_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII14, h$mainZCHaskellziLazzyzievalStratII32, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII32_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII33, h$mainZCHaskellziLazzyzievalStratII35, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziLazzyzievalStratII11 = h$strta("Welche Evaluierungsstrategie wendet Haskell an?");
 function h$mainZCHaskellziLazzyzievalStratII14_e()
 {
-  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk4);
-};
-function h$mainZCHaskellziLazzyzievalStratIIzuk4_e()
-{
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII15, h$mainZCHaskellziLazzyzievalStratII24, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII15, h$mainZCHaskellziLazzyzievalStratII33, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII33_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII34, h$mainZCHaskellziLazzyzievalStratII36, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII15_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk5);
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII16, h$mainZCHaskellziLazzyzievalStratII18, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII16, h$mainZCHaskellziLazzyzievalStratII25, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII17, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII21_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII22, h$mainZCHelperzighci, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII17, h$mainZCHaskellziLazzyzievalStratII19, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII19_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk7);
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk7_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzievalStratII20, h$mainZCHelperziem);
-  return h$ap_1_1_fast();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII18, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII22_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII23, h$mainZCHelperzighci, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII20_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk8);
 };
 function h$mainZCHaskellziLazzyzievalStratII3_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk);
 };
-function h$mainZCHaskellziLazzyzievalStratII22_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk8);
-};
 function h$mainZCHaskellziLazzyzievalStratIIzuk8_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII23, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziLazzyzievalStratII21, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII27_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII28, h$mainZCHaskellziLazzyzievalStratII30, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII25_e()
+function h$mainZCHaskellziLazzyzievalStratII23_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk9);
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII26, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII30_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII31, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII24, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzievalStratII28_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII29, h$mainZCHaskellziLazzyzievalStratII31, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII26_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk10);
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk10_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzievalStratII29, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratIIzuk_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII4, h$mainZCHaskellziLazzyzievalStratII41, h$mainZCSlidezizdfFunctorParagraph,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII27, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzievalStratII31 = h$strta("und");
-function h$mainZCHaskellziLazzyzievalStratII35_e()
+function h$mainZCHaskellziLazzyzievalStratII31_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII32, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII33_e()
+function h$mainZCHaskellziLazzyzievalStratII29_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk11);
 };
 function h$mainZCHaskellziLazzyzievalStratIIzuk11_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzievalStratII34, h$mainZCHelperzicmd);
+  h$l2(h$mainZCHaskellziLazzyzievalStratII30, h$mainZCHelperzicmd);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziLazzyzievalStratII36 = h$strt("Werten sie die Ausdr\xfccke");
-function h$mainZCHaskellziLazzyzievalStratII39_e()
+function h$mainZCHaskellziLazzyzievalStratIIzuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII40, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziLazzyzievalStratII40 = h$strta("Wieviele Reduktionsschritte brauchen Sie jeweils?");
-function h$mainZCHaskellziLazzyzievalStratIIzuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII5, h$mainZCHaskellziLazzyzievalStratII37, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII4, h$mainZCHaskellziLazzyzievalStratII52, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII43_e()
+var h$mainZCHaskellziLazzyzievalStratII32 = h$strta("und");
+function h$mainZCHaskellziLazzyzievalStratII36_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII44, h$mainZCHaskellziLazzyzievalStratII47, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII37, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII44_e()
+function h$mainZCHaskellziLazzyzievalStratII34_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk12);
 };
-var h$mainZCHaskellziLazzyzievalStratII46 = h$strta("> square (1 + 2)");
-var h$mainZCHaskellziLazzyzievalStratII49 = h$strta("> let square x = x * x");
-function h$mainZCHaskellziLazzyzievalStratIIzuk2_e()
+function h$mainZCHaskellziLazzyzievalStratIIzuk12_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII6, h$mainZCHaskellziLazzyzievalStratII11, h$mainZCSlidezizdfFunctorParagraph,
+  h$l2(h$mainZCHaskellziLazzyzievalStratII35, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziLazzyzievalStratII37 = h$strt("Werten sie die Ausdr\xfccke");
+function h$mainZCHaskellziLazzyzievalStratII40_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII41, h$mainZCHaskellziLazzyzievalStratII46, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII53_e()
+function h$mainZCHaskellziLazzyzievalStratIIzuk1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII54, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII5, h$mainZCHaskellziLazzyzievalStratII48, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzievalStratII54 = h$strta("Bringen Sie die zweite Zeile in Normalform:");
-var h$mainZCHaskellziLazzyzievalStratII56 = h$strta("Evaluation by Hand");
+function h$mainZCHaskellziLazzyzievalStratII46_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII47, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII41_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk13);
+};
+function h$mainZCHaskellziLazzyzievalStratIIzuk13_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII42, h$mainZCHaskellziLazzyzievalStratII44, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratIIzuk14_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII43, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzievalStratII45 = h$strta("const x y = x");
+var h$mainZCHaskellziLazzyzievalStratII47 = h$strta("Das Prelude definiert eine Funktion");
+function h$mainZCHaskellziLazzyzievalStratII50_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII51, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratIIzuk2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII6, h$mainZCHaskellziLazzyzievalStratII38, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzievalStratII51 = h$strta("Wieviele Reduktionsschritte brauchen Sie jeweils?");
+function h$mainZCHaskellziLazzyzievalStratII54_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII55, h$mainZCHaskellziLazzyzievalStratII58, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII55_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk15);
+};
+var h$mainZCHaskellziLazzyzievalStratII57 = h$strta("> square (1 + 2)");
+var h$mainZCHaskellziLazzyzievalStratII60 = h$strta("> let square x = x * x");
 function h$mainZCHaskellziLazzyzievalStratIIzuk3_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII7, h$mainZCStylezibglightblue1, h$mainZCStylezibglightblue5,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII7, h$mainZCHaskellziLazzyzievalStratII12, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII64_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII65, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzievalStratII65 = h$strta("Bringen Sie die zweite Zeile in Normalform:");
+var h$mainZCHaskellziLazzyzievalStratII67 = h$strta("Evaluation by Hand");
+function h$mainZCHaskellziLazzyzievalStratIIzuk4_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII8, h$mainZCStylezibglightblue1, h$mainZCStylezibglightblue5,
   h$mainZCSlidezizdwzdcstyle);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzievalStratII9_e()
+function h$mainZCHaskellziLazzyzievalStratII10_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII10, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII11, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzievalStratII10 = h$strta("Welche Strategie wendet Haskell an?");
-function h$mainZCHaskellziLazzyzievalStratII55_e()
+function h$mainZCHaskellziLazzyzievalStratII66_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII56, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII67, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzievalStratII4_e()
@@ -121128,27 +121167,32 @@ function h$mainZCHaskellziLazzyzievalStratII5_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk2);
 };
-var h$mainZCHaskellziLazzyzievalStratII29 = h$strta("const [1..] 5");
-var h$mainZCHaskellziLazzyzievalStratII34 = h$strta("[1..]");
+var h$mainZCHaskellziLazzyzievalStratII27 = h$strta("im");
+var h$mainZCHaskellziLazzyzievalStratII30 = h$strta("const 5 [1..]");
+var h$mainZCHaskellziLazzyzievalStratII35 = h$strta("[1..]");
+function h$mainZCHaskellziLazzyzievalStratII44_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziLazzyzievalStratII45, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII42_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk14);
+};
+var h$mainZCHaskellziLazzyzievalStratII43 = h$strta(".");
 function h$mainZCHaskellziLazzyzievalStratII6_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk3);
 };
-function h$mainZCHaskellziLazzyzievalStratII24_e()
+function h$mainZCHaskellziLazzyzievalStratII7_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk4);
+};
+function h$mainZCHaskellziLazzyzievalStratII25_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII25, h$mainZCHaskellziLazzyzievalStratII27, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzievalStratII15_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk5);
-};
-function h$mainZCHaskellziLazzyzievalStratII18_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzievalStratII19, h$mainZCHaskellziLazzyzievalStratII21, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII26, h$mainZCHaskellziLazzyzievalStratII28, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -121156,10 +121200,20 @@ function h$mainZCHaskellziLazzyzievalStratII16_e()
 {
   return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk6);
 };
-var h$mainZCHaskellziLazzyzievalStratII17 = h$strt("k\xf6nnen Sie eine Berechnung unterbrechen.");
-var h$mainZCHaskellziLazzyzievalStratII20 = h$strta("Strg-C");
-var h$mainZCHaskellziLazzyzievalStratII23 = h$strta("aus. Mit");
-var h$mainZCHaskellziLazzyzievalStratII26 = h$strta("im");
+function h$mainZCHaskellziLazzyzievalStratII19_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzievalStratII20, h$mainZCHaskellziLazzyzievalStratII22, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzievalStratII17_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzievalStratIIzuk7);
+};
+var h$mainZCHaskellziLazzyzievalStratII18 = h$strt("k\xf6nnen Sie eine Berechnung unterbrechen.");
+var h$mainZCHaskellziLazzyzievalStratII21 = h$strta("Strg-C");
+var h$mainZCHaskellziLazzyzievalStratII24 = h$strta("aus. Mit");
 function h$mainZCHaskellziLazzyzievalStrat58_e()
 {
   h$bh();
@@ -121194,14 +121248,14 @@ var h$mainZCHaskellziLazzyzievalStrat27 = h$strta("call-by-value");
 function h$mainZCHaskellziLazzyzilazzyEvalzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval70, h$mainZCStylezilightgreen1, h$mainZCStylezilightgreen3,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval68, h$mainZCStylezilightgreen1, h$mainZCStylezilightgreen3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEval2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval3, h$mainZCHaskellziLazzyzilazzyEval60, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval3, h$mainZCHaskellziLazzyzilazzyEval58, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -121225,14 +121279,14 @@ var h$mainZCHaskellziLazzyzilazzyEval14 = h$strta("Werten Sie");
 function h$mainZCHaskellziLazzyzilazzyEval17_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval18, h$mainZCHaskellziLazzyzilazzyEval41, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval18, h$mainZCHaskellziLazzyzilazzyEval39, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval41_e()
+function h$mainZCHaskellziLazzyzilazzyEval39_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval42, h$mainZCHaskellziLazzyzilazzyEval44, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval40, h$mainZCHaskellziLazzyzilazzyEval42, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -121243,14 +121297,14 @@ function h$mainZCHaskellziLazzyzilazzyEval18_e()
 function h$mainZCHaskellziLazzyzilazzyEvalzuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval19, h$mainZCHaskellziLazzyzilazzyEval39, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval19, h$mainZCHaskellziLazzyzilazzyEval37, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval20, h$mainZCHaskellziLazzyzilazzyEval37, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval20, h$mainZCHaskellziLazzyzilazzyEval35, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -121295,49 +121349,49 @@ function h$mainZCHaskellziLazzyzilazzyEvalzuk10_e()
   return h$ap_3_3_fast();
 };
 var h$mainZCHaskellziLazzyzilazzyEval28 = h$strta("Thunks");
-function h$mainZCHaskellziLazzyzilazzyEval32_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval33, h$mainZCHaskellziLazzyzilazzyEval35, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
 function h$mainZCHaskellziLazzyzilazzyEval30_e()
 {
-  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk11);
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval31, h$mainZCHaskellziLazzyzilazzyEval33, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval4, h$mainZCHaskellziLazzyzilazzyEval46, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval4, h$mainZCHaskellziLazzyzilazzyEval44, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEvalzuk11_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval31, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval35_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEval33_e()
 {
-  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk12);
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval34, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEvalzuk12_e()
+function h$mainZCHaskellziLazzyzilazzyEval31_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk11);
+};
+function h$mainZCHaskellziLazzyzilazzyEvalzuk11_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyEval34, h$mainZCHelperziem);
+  h$l2(h$mainZCHaskellziLazzyzilazzyEval32, h$mainZCHelperziem);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyEval36 = h$strta("wurde, nennt man ihn");
-var h$mainZCHaskellziLazzyzilazzyEval38 = h$strta("werden. Solange ein solcher Redex nicht ausgewertet");
-var h$mainZCHaskellziLazzyzilazzyEval40 = h$strta("gleiche Variable gebunden sind, nur einmal ausgewertet");
+var h$mainZCHaskellziLazzyzilazzyEval34 = h$strta("wurde, nennt man ihn");
+var h$mainZCHaskellziLazzyzilazzyEval36 = h$strta("werden. Solange ein solcher Redex nicht ausgewertet");
+var h$mainZCHaskellziLazzyzilazzyEval38 = h$strta("gleiche Variable gebunden sind, nur einmal ausgewertet");
+function h$mainZCHaskellziLazzyzilazzyEval42_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziLazzyzilazzyEval43, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval40_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk12);
+};
 function h$mainZCHaskellziLazzyzilazzyEvalzuk1_e()
 {
   h$bh();
@@ -121345,83 +121399,80 @@ function h$mainZCHaskellziLazzyzilazzyEvalzuk1_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval44_e()
+function h$mainZCHaskellziLazzyzilazzyEvalzuk12_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyEval45, h$mainZCHelperziem);
-  return h$ap_1_1_fast();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval41, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval42_e()
+var h$mainZCHaskellziLazzyzilazzyEval43 = h$strta("Sharing");
+function h$mainZCHaskellziLazzyzilazzyEval46_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval47, h$mainZCHaskellziLazzyzilazzyEval50, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval50_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval51, h$mainZCHaskellziLazzyzilazzyEval53, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval47_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk13);
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk13_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval43, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziLazzyzilazzyEval45 = h$strta("Sharing");
-function h$mainZCHaskellziLazzyzilazzyEval48_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval49, h$mainZCHaskellziLazzyzilazzyEval52, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII42, h$mainZCHaskellziLazzyzilazzyEval48, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval52_e()
+var h$mainZCHaskellziLazzyzilazzyEval49 = h$strta("sharing");
+function h$mainZCHaskellziLazzyzilazzyEval53_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval53, h$mainZCHaskellziLazzyzilazzyEval55, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval54, h$mainZCHaskellziLazzyzilazzyEval56, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval49_e()
+function h$mainZCHaskellziLazzyzilazzyEval51_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk14);
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk14_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval30, h$mainZCHaskellziLazzyzilazzyEval50, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval52, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyEval51 = h$strta("sharing");
-function h$mainZCHaskellziLazzyzilazzyEval55_e()
+function h$mainZCHaskellziLazzyzilazzyEval56_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval56, h$mainZCHaskellziLazzyzilazzyEval58, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval57, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval53_e()
+function h$mainZCHaskellziLazzyzilazzyEval54_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk15);
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk15_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval54, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval58_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval59, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval56_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk16);
-};
-function h$mainZCHaskellziLazzyzilazzyEvalzuk16_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyEval57, h$mainZCHelperziem);
+  h$l2(h$mainZCHaskellziLazzyzilazzyEval55, h$mainZCHelperziem);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyEval59 = h$strta("Die Strategie");
+var h$mainZCHaskellziLazzyzilazzyEval57 = h$strta("Die Strategie");
+function h$mainZCHaskellziLazzyzilazzyEval60_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval61, h$mainZCHaskellziLazzyzilazzyEval63, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
 function h$mainZCHaskellziLazzyzilazzyEval7_e()
 {
   h$bh();
@@ -121429,47 +121480,41 @@ function h$mainZCHaskellziLazzyzilazzyEval7_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyEval62_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval63, h$mainZCHaskellziLazzyzilazzyEval65, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval65_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval66, h$mainZCHaskellziLazzyzilazzyEval68, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
 function h$mainZCHaskellziLazzyzilazzyEval63_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval64, h$mainZCHaskellziLazzyzilazzyEval66, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval61_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk16);
+};
+function h$mainZCHaskellziLazzyzilazzyEvalzuk16_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval62, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval66_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval67, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyEval64_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk17);
 };
 function h$mainZCHaskellziLazzyzilazzyEvalzuk17_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval64, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval68_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval69, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyEval66_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk18);
-};
-function h$mainZCHaskellziLazzyzilazzyEvalzuk18_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyEval67, h$mainZCHelperziem);
+  h$l2(h$mainZCHaskellziLazzyzilazzyEval65, h$mainZCHelperziem);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyEval69 = h$strta("Haskell verwendet");
+var h$mainZCHaskellziLazzyzilazzyEval67 = h$strta("Haskell verwendet");
+var h$mainZCHaskellziLazzyzilazzyEval65 = h$strta("Lazy Evaluation");
 function h$mainZCHaskellziLazzyzilazzyEval10_e()
 {
   h$bh();
@@ -121481,7 +121526,6 @@ function h$mainZCHaskellziLazzyzilazzyEval8_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk3);
 };
-var h$mainZCHaskellziLazzyzilazzyEval67 = h$strta("Lazy Evaluation");
 function h$mainZCHaskellziLazzyzilazzyEvalzuk3_e()
 {
   h$bh();
@@ -121503,7 +121547,7 @@ function h$mainZCHaskellziLazzyzilazzyEvalII2_e()
   return h$ap_3_3_fast();
 };
 var h$mainZCHaskellziLazzyzilazzyEvalII12 = h$strta("[0,3,9,21,45,93,189,381]");
-var h$mainZCHaskellziLazzyzilazzyEvalII15 = h$strta("takeWhile (< 500) xs");
+var h$mainZCHaskellziLazzyzilazzyEvalII15 = h$strta("> takeWhile (< 500) xs");
 var h$mainZCHaskellziLazzyzilazzyEvalII18 = h$strta("93");
 function h$mainZCHaskellziLazzyzilazzyEvalII3_e()
 {
@@ -121623,10 +121667,10 @@ function h$mainZCHaskellziLazzyzilazzyEvalII10_e()
 };
 var h$mainZCHaskellziLazzyzilazzyEvalII29 = h$strta("von der Kontrolle zu trennen:");
 var h$mainZCHaskellziLazzyzilazzyEvalII36 = h$strta("bei minimaler Anzahl von Auswertungsschritten.");
-function h$mainZCHaskellziLazzyzilazzyEval70_e()
+function h$mainZCHaskellziLazzyzilazzyEval68_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval67, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval65, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEval4_e()
@@ -121637,35 +121681,34 @@ function h$mainZCHaskellziLazzyzilazzyEval5_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk2);
 };
-var h$mainZCHaskellziLazzyzilazzyEval26 = h$strt(", die f\xfcr das Ergebnis nicht ben\xf6tigt werden");
-var h$mainZCHaskellziLazzyzilazzyEval31 = h$strta(".");
-var h$mainZCHaskellziLazzyzilazzyEval34 = h$strta("Thunk");
-var h$mainZCHaskellziLazzyzilazzyEval43 = h$strt("bedeutet, dass Ausdr\xfccke, die an die");
-function h$mainZCHaskellziLazzyzilazzyEval50_e()
+var h$mainZCHaskellziLazzyzilazzyEval26 = h$strt(", die f\xfcr das Ergebnis nicht ben\xf6tigt werden,");
+var h$mainZCHaskellziLazzyzilazzyEval32 = h$strta("Thunk");
+var h$mainZCHaskellziLazzyzilazzyEval41 = h$strt("bedeutet, dass Ausdr\xfccke, die an die");
+function h$mainZCHaskellziLazzyzilazzyEval48_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyEval51, h$mainZCHelperziem);
+  h$l2(h$mainZCHaskellziLazzyzilazzyEval49, h$mainZCHelperziem);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyEval54 = h$strta("zusammen mit");
-var h$mainZCHaskellziLazzyzilazzyEval57 = h$strta("outermos");
-var h$mainZCHaskellziLazzyzilazzyEval64 = h$strta(", d.h:");
+var h$mainZCHaskellziLazzyzilazzyEval52 = h$strta("zusammen mit");
+var h$mainZCHaskellziLazzyzilazzyEval55 = h$strta("outermost");
+var h$mainZCHaskellziLazzyzilazzyEval62 = h$strta(", d.h:");
 var h$mainZCHaskellziLazzyzilazzyEval9 = h$strta("mit dieser Strategie nocheinmal aus.");
 var h$mainZCHaskellziLazzyzilazzyEval12 = h$strta("square (1+2)");
-function h$mainZCHaskellziLazzyzilazzyEval39_e()
+function h$mainZCHaskellziLazzyzilazzyEval37_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval40, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval38, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEval19_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk6);
 };
-function h$mainZCHaskellziLazzyzilazzyEval37_e()
+function h$mainZCHaskellziLazzyzilazzyEval35_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval38, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzilazzyEval36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyEval20_e()
@@ -121675,7 +121718,7 @@ function h$mainZCHaskellziLazzyzilazzyEval20_e()
 function h$mainZCHaskellziLazzyzilazzyEval29_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyEval30, h$mainZCHaskellziLazzyzilazzyEval32, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzievalStratII42, h$mainZCHaskellziLazzyzilazzyEval30, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -121694,22 +121737,24 @@ function h$mainZCHaskellziLazzyzilazzyEval22_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyEvalzuk9);
 };
-var h$mainZCHaskellziLazzyzilazzyEval23 = h$strt("m\xfcssen, bleiben unausgewertet.");
+var h$mainZCHaskellziLazzyzilazzyEval23 = h$strta("bleiben unausgewertet.");
 function h$mainZCHaskellziLazzyzilazzyIntro2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro3, h$mainZCHaskellziLazzyzilazzyIntro33, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro3, h$mainZCHaskellziLazzyzilazzyIntro37, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyIntro15 = h$strta("> mult (1 + 2) (2 + 3)");
-function h$mainZCHaskellziLazzyzilazzyIntro18_e()
+function h$mainZCHaskellziLazzyzilazzyIntrozuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro19, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzievalStratII42, h$mainZCHaskellziLazzyzilazzyIntro11, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyIntro19 = h$strta("Welche Redexs erkennen Sie in folgendem Ausdruck:");
+var h$mainZCHaskellziLazzyzilazzyIntro12 = h$strta("Normalform");
+var h$mainZCHaskellziLazzyzilazzyIntro14 = h$strta("Ist kein Redex vorhanden, ist der Ausdruck in");
+var h$mainZCHaskellziLazzyzilazzyIntro19 = h$strta("> mult (1 + 2) (2 + 3)");
 function h$mainZCHaskellziLazzyzilazzyIntro3_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk);
@@ -121717,114 +121762,131 @@ function h$mainZCHaskellziLazzyzilazzyIntro3_e()
 function h$mainZCHaskellziLazzyzilazzyIntro22_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro23, h$mainZCHaskellziLazzyzilazzyIntro26, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro23, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzilazzyIntro23 = h$strta("Welche Redexs erkennen Sie in folgendem Ausdruck:");
+function h$mainZCHaskellziLazzyzilazzyIntro26_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro27, h$mainZCHaskellziLazzyzilazzyIntro30, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyIntro23_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk5);
-};
-var h$mainZCHaskellziLazzyzilazzyIntro25 = h$strta("mult x y = x * y");
-var h$mainZCHaskellziLazzyzilazzyIntro28 = h$strta("mult :: Int -> Int -> Int");
-function h$mainZCHaskellziLazzyzilazzyIntrozuk_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro4, h$mainZCHaskellziLazzyzilazzyIntro29, h$mainZCSlidezizdfFunctorParagraph,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntro31_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro32, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziLazzyzilazzyIntro32 = h$strta("Gegeben sei:");
-function h$mainZCHaskellziLazzyzilazzyIntro35_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro36, h$mainZCHaskellziLazzyzilazzyIntro47, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntro47_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro48, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntro36_e()
+function h$mainZCHaskellziLazzyzilazzyIntro27_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk6);
 };
-function h$mainZCHaskellziLazzyzilazzyIntrozuk6_e()
+var h$mainZCHaskellziLazzyzilazzyIntro29 = h$strta("mult x y = x * y");
+function h$mainZCHaskellziLazzyzilazzyIntrozuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro37, h$mainZCHaskellziLazzyzilazzyIntro42, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro4, h$mainZCHaskellziLazzyzilazzyIntro33, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzilazzyIntro32 = h$strta("mult :: Int -> Int -> Int");
+function h$mainZCHaskellziLazzyzilazzyIntro35_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzilazzyIntro36 = h$strta("Gegeben sei:");
+function h$mainZCHaskellziLazzyzilazzyIntro39_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro40, h$mainZCHaskellziLazzyzilazzyIntro51, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro51_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro52, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro40_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk7);
+};
+function h$mainZCHaskellziLazzyzilazzyIntrozuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro5, h$mainZCHaskellziLazzyzilazzyIntro24, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyIntrozuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro38, h$mainZCHaskellziLazzyzilazzyIntro40, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro41, h$mainZCHaskellziLazzyzilazzyIntro46, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyIntrozuk8_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro39, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntrozuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro5, h$mainZCHaskellziLazzyzilazzyIntro20, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro42, h$mainZCHaskellziLazzyzilazzyIntro44, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziLazzyzilazzyIntro41 = h$strta("ist ein Funktion zusammen mit ihren Argumenten,");
-function h$mainZCHaskellziLazzyzilazzyIntro45_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziLazzyzilazzyIntro46, h$mainZCHelperziem);
-  return h$ap_1_1_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntro43_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk9);
 };
 function h$mainZCHaskellziLazzyzilazzyIntrozuk9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro44, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro43, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyIntro46 = h$strta("Redex");
-var h$mainZCHaskellziLazzyzilazzyIntro48 = h$strta("Eine reducible expression, kurz");
+var h$mainZCHaskellziLazzyzilazzyIntro45 = h$strta("ist ein Funktion zusammen mit ihren Argumenten,");
+function h$mainZCHaskellziLazzyzilazzyIntro49_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziLazzyzilazzyIntro50, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro47_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk10);
+};
+function h$mainZCHaskellziLazzyzilazzyIntrozuk10_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro48, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziLazzyzilazzyIntro50 = h$strta("Redex");
 function h$mainZCHaskellziLazzyzilazzyIntrozuk2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro6, h$mainZCHaskellziLazzyzilazzyIntro16, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro6, h$mainZCHaskellziLazzyzilazzyIntro20, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
+var h$mainZCHaskellziLazzyzilazzyIntro52 = h$strta("Eine reducible expression, kurz");
 function h$mainZCHaskellziLazzyzilazzyIntrozuk3_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro7, h$mainZCHaskellziLazzyzilazzyIntro11, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro7, h$mainZCHaskellziLazzyzilazzyIntro15, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziLazzyzilazzyIntro9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro10, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro10, h$mainZCHaskellziLazzyzilazzyIntro13, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziLazzyzilazzyIntro10 = h$strta("Ist kein Redex vorhanden, ist der Ausdruck in Normalform.");
+function h$mainZCHaskellziLazzyzilazzyIntro13_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro14, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro10_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk5);
+};
 function h$mainZCHaskellziLazzyzilazzyIntro4_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk1);
@@ -121833,6 +121895,7 @@ function h$mainZCHaskellziLazzyzilazzyIntro5_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk2);
 };
+var h$mainZCHaskellziLazzyzilazzyIntro48 = h$strta(",");
 function h$mainZCHaskellziLazzyzilazzyIntro6_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk3);
@@ -121841,29 +121904,34 @@ function h$mainZCHaskellziLazzyzilazzyIntro7_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk4);
 };
-function h$mainZCHaskellziLazzyzilazzyIntro42_e()
+function h$mainZCHaskellziLazzyzilazzyIntro11_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro43, h$mainZCHaskellziLazzyzilazzyIntro45, h$mainZCSlidezizdfFunctorWord,
+  h$l2(h$mainZCHaskellziLazzyzilazzyIntro12, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro46_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro47, h$mainZCHaskellziLazzyzilazzyIntro49, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziLazzyzilazzyIntro37_e()
-{
-  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk7);
-};
-function h$mainZCHaskellziLazzyzilazzyIntro40_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziLazzyzilazzyIntro41, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziLazzyzilazzyIntro38_e()
+function h$mainZCHaskellziLazzyzilazzyIntro41_e()
 {
   return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk8);
 };
-var h$mainZCHaskellziLazzyzilazzyIntro39 = h$strta("so dass die Funktion angewendet werden kann.");
-var h$mainZCHaskellziLazzyzilazzyIntro44 = h$strta(",");
+function h$mainZCHaskellziLazzyzilazzyIntro44_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziLazzyzilazzyIntro45, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziLazzyzilazzyIntro42_e()
+{
+  return h$e(h$mainZCHaskellziLazzyzilazzyIntrozuk9);
+};
+var h$mainZCHaskellziLazzyzilazzyIntro43 = h$strta("so dass die Funktion angewendet werden kann.");
 function h$mainZCHaskellziLazzyzislideShow1_e()
 {
   return h$e(h$mainZCHaskellziLazzyzislideShowzuk);
@@ -126910,7 +126978,7 @@ function h$mainZCHaskellziFunctionziexpressions38_e()
 function h$mainZCHaskellziFunctionzifunctionszuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions39, h$mainZCStylezidarkblue1, h$mainZCStylezidarkblue3,
+  h$l4(h$mainZCHaskellziFunctionzifunctions46, h$mainZCStylezidarksalmon1, h$mainZCStylezidarksalmon3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
@@ -126921,44 +126989,44 @@ function h$mainZCHaskellziFunctionzifunctions2_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionzifunctions11 = h$strta("3");
-var h$mainZCHaskellziFunctionzifunctions14 = h$strta("> g 1 2");
-var h$mainZCHaskellziFunctionzifunctions17 = h$strta("> let g = \\x y -> x + y");
-function h$mainZCHaskellziFunctionzifunctions20_e()
+var h$mainZCHaskellziFunctionzifunctions12 = h$strta("brauchen Sie kein");
+var h$mainZCHaskellziFunctionzifunctions14 = h$strt("F\xfcr Top-Level-Definitionen in einer Datei");
+function h$mainZCHaskellziFunctionzifunctions17_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions21, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionzifunctions18, h$mainZCHaskellziFunctionzifunctions29, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions18_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk4);
+};
+function h$mainZCHaskellziFunctionzifunctionszuk4_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions19, h$mainZCHaskellziFunctionzifunctions26, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctionszuk5_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions20, h$mainZCHaskellziFunctionzifunctions23, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzifunctions3_e()
 {
   return h$e(h$mainZCHaskellziFunctionzifunctionszuk);
 };
-var h$mainZCHaskellziFunctionzifunctions21 = h$strt("oder \xe4quivalent:");
-function h$mainZCHaskellziFunctionzifunctions24_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions25, h$mainZCHaskellziFunctionzifunctions29, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzifunctions25_e()
-{
-  return h$e(h$mainZCHaskellziFunctionzifunctionszuk5);
-};
-function h$mainZCHaskellziFunctionzifunctionszuk5_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions9, h$mainZCHaskellziFunctionzifunctions26, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziFunctionzifunctions28 = h$strta("> f 1 2");
+var h$mainZCHaskellziFunctionzifunctions22 = h$strta("3");
+var h$mainZCHaskellziFunctionzifunctions25 = h$strta("> f 1 a");
+var h$mainZCHaskellziFunctionzifunctions28 = h$strta("> let a = 2");
 function h$mainZCHaskellziFunctionzifunctionszuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions4, h$mainZCHaskellziFunctionzifunctions22, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionzifunctions4, h$mainZCHaskellziFunctionzifunctions15, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -126966,59 +127034,109 @@ var h$mainZCHaskellziFunctionzifunctions31 = h$strta("> let f x y = x + y");
 function h$mainZCHaskellziFunctionzifunctions34_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions35, h$mainZCHaskellziFunctionzifunctions37, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzifunctions35, h$mainZCHaskellziFunctionzifunctions40, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzifunctions37_e()
+function h$mainZCHaskellziFunctionzifunctions40_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions38, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionzifunctions41, h$mainZCHaskellziFunctionzifunctions43, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzifunctions35_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzifunctionszuk6);
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk7);
 };
-function h$mainZCHaskellziFunctionzifunctionszuk6_e()
+function h$mainZCHaskellziFunctionzifunctionszuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions36, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzifunctions36, h$mainZCHaskellziFunctionzifunctions38, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctionszuk8_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions37, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionzifunctions38 = h$strt("Funktionen sind ebenfalls Ausdr\xfccke.");
-var h$mainZCHaskellziFunctionzifunctions40 = h$strt("Funktionsausdr\xfccke");
-function h$mainZCHaskellziFunctionzifunctionszuk1_e()
+var h$mainZCHaskellziFunctionzifunctions39 = h$strta("in");
+function h$mainZCHaskellziFunctionzifunctions43_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions5, h$mainZCHaskellziFunctionzifunctions18, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionziexpressions27, h$mainZCHaskellziFunctionzifunctions44, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions41_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk9);
+};
+function h$mainZCHaskellziFunctionzifunctionszuk9_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions42, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions44_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions45, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzifunctions45 = h$strt("Funktionen und Ausdr\xfccke k\xf6nnen im");
+var h$mainZCHaskellziFunctionzifunctions47 = h$strta("Let ohne in");
+function h$mainZCHaskellziFunctionzifunctions6_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions7, h$mainZCHaskellziFunctionzifunctions13, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions13_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions14, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzifunctions7_e()
 {
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk2);
+};
+function h$mainZCHaskellziFunctionzifunctionszuk2_e()
+{
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions8, h$mainZCHaskellziFunctionzifunctions15, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziexpressions40, h$mainZCHaskellziFunctionzifunctions8, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzifunctions8_e()
+function h$mainZCHaskellziFunctionzifunctions11_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions12, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions9_e()
 {
   return h$e(h$mainZCHaskellziFunctionzifunctionszuk3);
 };
 function h$mainZCHaskellziFunctionzifunctionszuk3_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions9, h$mainZCHaskellziFunctionzifunctions12, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziFunctionzifunctions10, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
 };
-function h$mainZCHaskellziFunctionzifunctions39_e()
+function h$mainZCHaskellziFunctionzifunctions46_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzifunctions40, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzifunctions47, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
@@ -127026,15 +127144,34 @@ function h$mainZCHaskellziFunctionzifunctions4_e()
 {
   return h$e(h$mainZCHaskellziFunctionzifunctionszuk1);
 };
-function h$mainZCHaskellziFunctionzifunctions5_e()
+function h$mainZCHaskellziFunctionzifunctions8_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzifunctionszuk2);
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions9, h$mainZCHaskellziFunctionzifunctions11, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzifunctions9_e()
+var h$mainZCHaskellziFunctionzifunctions10 = h$strta("let");
+function h$mainZCHaskellziFunctionzifunctions19_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzifunctionszuk4);
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk5);
 };
-var h$mainZCHaskellziFunctionzifunctions36 = h$strt("Sie k\xf6nnen auf zwei Weisen geschrieben werden:");
+function h$mainZCHaskellziFunctionzifunctions20_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk6);
+};
+function h$mainZCHaskellziFunctionzifunctions38_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzifunctions39, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziFunctionzifunctions36_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzifunctionszuk8);
+};
+var h$mainZCHaskellziFunctionzifunctions37 = h$strta("definiert werden.");
+var h$mainZCHaskellziFunctionzifunctions42 = h$strta("auch ohne");
 function h$mainZCHaskellziFunctionzighciTipszuh1_e()
 {
   h$bh();
@@ -127437,6 +127574,164 @@ function h$mainZCHaskellziFunctionzilambdazuk4_e()
   h$l4(h$mainZCHaskellziFunctionzilambda10, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
+function h$mainZCHaskellziFunctionzilambdaIIzuh1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII40, h$mainZCStylezidarkblue1, h$mainZCStylezidarkblue3,
+  h$mainZCSlidezizdwzdcstyle2);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII3, h$mainZCHaskellziFunctionzilambdaII30, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII11_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII12, h$mainZCHaskellziFunctionzilambdaII14, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII14_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII15, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII12_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk3);
+};
+function h$mainZCHaskellziFunctionzilambdaIIzuk3_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII13, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzilambdaII15 = h$strt("Der Schr\xe4gstrich \\ steht f\xfcr den griechischen");
+function h$mainZCHaskellziFunctionzilambdaII18_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII19, h$mainZCHaskellziFunctionzifunctions29, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII19_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk4);
+};
+function h$mainZCHaskellziFunctionzilambdaIIzuk4_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII20, h$mainZCHaskellziFunctionzilambdaII27, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII3_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk);
+};
+function h$mainZCHaskellziFunctionzilambdaIIzuk5_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII21, h$mainZCHaskellziFunctionzilambdaII24, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzilambdaII23 = h$strta("> let f = (+)");
+var h$mainZCHaskellziFunctionzilambdaII26 = h$strta("> let f = \\x y -> x + y");
+var h$mainZCHaskellziFunctionzilambdaII29 = h$strta("> let f x = \\y -> x + y");
+function h$mainZCHaskellziFunctionzilambdaIIzuk_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII4, h$mainZCHaskellziFunctionzilambdaII16, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII32_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII33, h$mainZCHaskellziFunctionzilambdaII38, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII38_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII39, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII33_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk7);
+};
+function h$mainZCHaskellziFunctionzilambdaIIzuk7_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII34, h$mainZCHaskellziFunctionzilambdaII36, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaIIzuk8_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII35, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzilambdaII37 = h$strta("vorgenommen werden.");
+var h$mainZCHaskellziFunctionzilambdaII39 = h$strt("Funktionsdefinitionen k\xf6nne auch mit Lambda-Ausdr\xfccken");
+function h$mainZCHaskellziFunctionzilambdaIIzuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII5, h$mainZCHaskellziFunctionzilambdaII9, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzilambdaII41 = h$strt("Lambda-Ausdr\xfccke (Teil II)");
+function h$mainZCHaskellziFunctionzilambdaII7_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII8, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzilambdaII8 = h$strt("Der Funktionsk\xf6rper steht nach dem Pfeil (->).");
+function h$mainZCHaskellziFunctionzilambdaII40_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII41, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII4_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk1);
+};
+function h$mainZCHaskellziFunctionzilambdaII5_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk2);
+};
+var h$mainZCHaskellziFunctionzilambdaII13 = h$strta("Buchstaben Lambda.");
+function h$mainZCHaskellziFunctionzilambdaII20_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk5);
+};
+function h$mainZCHaskellziFunctionzilambdaII21_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk6);
+};
+function h$mainZCHaskellziFunctionzilambdaII36_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzilambdaII37, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzilambdaII34_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzilambdaIIzuk8);
+};
+var h$mainZCHaskellziFunctionzilambdaII35 = h$strta("Alle vier Definitionenen sind identisch:");
 function h$mainZCHaskellziFunctionzilambda51_e()
 {
   h$bh();
@@ -127498,207 +127793,272 @@ function h$mainZCHaskellziFunctionzilambda40_e()
 function h$mainZCHaskellziFunctionziletExprzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr51, h$mainZCStylezidarksalmon1, h$mainZCStylezidarksalmon3,
+  h$l4(h$mainZCHaskellziFunctionziletExpr48, h$mainZCStylezidarksalmon1, h$mainZCStylezidarksalmon3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExpr2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr3, h$mainZCHaskellziFunctionziletExpr37, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionziletExpr3, h$mainZCHaskellziFunctionziletExpr38, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionziletExpr12 = h$strta("let ... in ...");
-var h$mainZCHaskellziFunctionziletExpr14 = h$strta("Innerhalb eines");
-function h$mainZCHaskellziFunctionziletExpr17_e()
+var h$mainZCHaskellziFunctionziletExpr13 = h$strta("> 1 + (let a = 3 in 2*a)");
+function h$mainZCHaskellziFunctionziletExpr16_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr18, h$mainZCHaskellziFunctionziletExpr24, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExpr17, h$mainZCHaskellziFunctionziletExpr19, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExpr19_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionziletExpr20, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziFunctionziletExpr17_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprzuk4);
+};
+function h$mainZCHaskellziFunctionziletExprzuk4_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExpr18, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExpr20 = h$strta("let .. in ...");
+function h$mainZCHaskellziFunctionziletExpr3_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprzuk);
+};
+function h$mainZCHaskellziFunctionziletExpr23_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExpr24, h$mainZCHaskellziFunctionziletExpr35, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExpr24_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr25, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr18_e()
 {
   return h$e(h$mainZCHaskellziFunctionziletExprzuk5);
 };
 function h$mainZCHaskellziFunctionziletExprzuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr19, h$mainZCHaskellziFunctionziletExpr21, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExpr25, h$mainZCHaskellziFunctionziletExpr32, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExprzuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr20, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr3_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk);
-};
-function h$mainZCHaskellziFunctionziletExpr22_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr23, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-var h$mainZCHaskellziFunctionziletExpr23 = h$strta("sowohl im");
-var h$mainZCHaskellziFunctionziletExpr25 = h$strta("Definieren Sie eine Funktion");
-function h$mainZCHaskellziFunctionziletExpr28_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr29, h$mainZCHaskellziFunctionziletExpr35, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExpr26, h$mainZCHaskellziFunctionziletExpr29, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExpr35_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr29_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk7);
-};
-function h$mainZCHaskellziFunctionziletExprzuk7_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziexpressions40, h$mainZCHaskellziFunctionziletExpr30, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziFunctionziletExpr28 = h$strta("6");
 function h$mainZCHaskellziFunctionziletExprzuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr4, h$mainZCHaskellziFunctionziletExpr26, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionziletExpr4, h$mainZCHaskellziFunctionziletExpr21, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExpr33_e()
+var h$mainZCHaskellziFunctionziletExpr31 = h$strta("> let f x = 2*x in f 3");
+var h$mainZCHaskellziFunctionziletExpr34 = h$strta("20");
+var h$mainZCHaskellziFunctionziletExpr37 = h$strta("> let a = 3; b = 7 in 2*(a+b)");
+function h$mainZCHaskellziFunctionziletExpr40_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr34, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionziletExpr41, h$mainZCHaskellziFunctionziletExpr46, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExpr31_e()
+function h$mainZCHaskellziFunctionziletExprzuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExpr5, h$mainZCHaskellziFunctionziletExpr14, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExpr46_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExpr47, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExpr41_e()
 {
   return h$e(h$mainZCHaskellziFunctionziletExprzuk8);
 };
 function h$mainZCHaskellziFunctionziletExprzuk8_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziFunctionziletExpr32, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionziletExpr34 = h$strta("brauchen Sie kein");
-var h$mainZCHaskellziFunctionziletExpr36 = h$strt("F\xfcr Top-Level-Definitionen in einer Datei");
-function h$mainZCHaskellziFunctionziletExpr39_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr40, h$mainZCHaskellziFunctionziletExpr49, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr49_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr50, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr40_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk9);
-};
-function h$mainZCHaskellziFunctionziletExprzuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr5, h$mainZCHaskellziFunctionziletExpr15, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionziletExpr42, h$mainZCHaskellziFunctionziletExpr44, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExprzuk9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr41, h$mainZCHaskellziFunctionziletExpr11, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExprzuk10_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr42, h$mainZCHaskellziFunctionziletExpr44, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExprzuk11_e()
-{
-  h$bh();
   h$l4(h$mainZCHaskellziFunctionziletExpr43, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExpr47_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr48, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr45_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk12);
-};
-function h$mainZCHaskellziFunctionziletExprzuk12_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionziletExpr46, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionziletExpr48 = h$strta("bzw. einfach");
-var h$mainZCHaskellziFunctionziletExpr50 = h$strta("Mit");
-var h$mainZCHaskellziFunctionziletExpr52 = h$strta("Let ... in ...");
+var h$mainZCHaskellziFunctionziletExpr45 = h$strta("let ... in ...");
+var h$mainZCHaskellziFunctionziletExpr47 = h$strta("Mit");
+var h$mainZCHaskellziFunctionziletExpr49 = h$strta("Let ... in ...");
 function h$mainZCHaskellziFunctionziletExpr7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr8, h$mainZCHaskellziFunctionziletExpr13, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExpr8, h$mainZCHaskellziFunctionziletExpr11, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr13_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr14, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExpr8_e()
 {
   return h$e(h$mainZCHaskellziFunctionziletExprzuk3);
 };
-function h$mainZCHaskellziFunctionziletExprzuk3_e()
+var h$mainZCHaskellziFunctionziletExpr10 = h$strta("7");
+function h$mainZCHaskellziFunctionziletExprIIzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr9, h$mainZCHaskellziFunctionziletExpr11, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExprII40, h$mainZCStylezidarksalmon1, h$mainZCStylezidarksalmon3,
+  h$mainZCSlidezizdwzdcstyle2);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII3, h$mainZCHaskellziFunctionziletExprII32, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExprzuk4_e()
+function h$mainZCHaskellziFunctionziletExprII12_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr10, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionziletExprII13, h$mainZCHaskellziFunctionziletExprII16, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionziletExpr51_e()
+function h$mainZCHaskellziFunctionziletExprII13_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk4);
+};
+var h$mainZCHaskellziFunctionziletExprII15 = h$strta("[0,0,0,0,Interupted.");
+var h$mainZCHaskellziFunctionziletExprII18 = h$strta("> let zeros = 0 : zeros in zeros");
+function h$mainZCHaskellziFunctionziletExprII3_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk);
+};
+function h$mainZCHaskellziFunctionziletExprII21_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr52, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionziletExprII22, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExprII22 = h$strta("Auch rekursive Definitionen sind erlaubt:");
+function h$mainZCHaskellziFunctionziletExprII25_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII26, h$mainZCHaskellziFunctionziletExprII29, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII26_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk5);
+};
+var h$mainZCHaskellziFunctionziletExprII28 = h$strt("let b = 3; a = b in a      -- \xe4quivalent");
+function h$mainZCHaskellziFunctionziletExprIIzuk_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII4, h$mainZCHaskellziFunctionziletExprII23, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExprII31 = h$strta("let a = b; b = 3 in a");
+function h$mainZCHaskellziFunctionziletExprII34_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII35, h$mainZCHaskellziFunctionziletExprII37, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII37_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzifunctions9, h$mainZCHaskellziFunctionziletExprII38, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII35_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk6);
+};
+function h$mainZCHaskellziFunctionziletExprIIzuk6_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII36, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII38_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII39, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExprII39 = h$strta("Innerhalb eines");
+function h$mainZCHaskellziFunctionziletExprIIzuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII5, h$mainZCHaskellziFunctionziletExprII19, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExprII41 = h$strta("Let ... in ... (Teil II)");
+function h$mainZCHaskellziFunctionziletExprIIzuk2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII6, h$mainZCHaskellziFunctionziletExprII10, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII8_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII9, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionziletExprII9 = h$strta("Mit Strg-C brechen Sie den unendlichen Stream ab.");
+function h$mainZCHaskellziFunctionziletExprII40_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExprII41, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionziletExprII4_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk1);
+};
+function h$mainZCHaskellziFunctionziletExprII5_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk2);
+};
+function h$mainZCHaskellziFunctionziletExprII6_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprIIzuk3);
+};
+var h$mainZCHaskellziFunctionziletExprII36 = h$strta("ist die Reihenfolge der Definitionen egal:");
+function h$mainZCHaskellziFunctionziletExpr48_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionziletExpr49, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionziletExpr4_e()
@@ -127709,65 +128069,37 @@ function h$mainZCHaskellziFunctionziletExpr5_e()
 {
   return h$e(h$mainZCHaskellziFunctionziletExprzuk2);
 };
-function h$mainZCHaskellziFunctionziletExpr44_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr45, h$mainZCHaskellziFunctionziletExpr47, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr42_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk11);
-};
-var h$mainZCHaskellziFunctionziletExpr43 = h$strt("k\xf6nnen Sie im GHCi Funktionen und Ausdr\xfccke definieren.");
-var h$mainZCHaskellziFunctionziletExpr46 = h$strta("let ...");
-function h$mainZCHaskellziFunctionziletExpr11_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionziletExpr12, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr9_e()
-{
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk4);
-};
-var h$mainZCHaskellziFunctionziletExpr10 = h$strta("-Ausdrucks ist die Reihenfolge egal.");
-function h$mainZCHaskellziFunctionziletExpr21_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionziexpressions27, h$mainZCHaskellziFunctionziletExpr22, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionziletExpr19_e()
+var h$mainZCHaskellziFunctionziletExpr18 = h$strta("ist selbst ein Ausdruck:");
+function h$mainZCHaskellziFunctionziletExpr25_e()
 {
   return h$e(h$mainZCHaskellziFunctionziletExprzuk6);
 };
-var h$mainZCHaskellziFunctionziletExpr20 = h$strta("als auch in einer Datei.");
-function h$mainZCHaskellziFunctionziletExpr30_e()
+function h$mainZCHaskellziFunctionziletExpr26_e()
+{
+  return h$e(h$mainZCHaskellziFunctionziletExprzuk7);
+};
+function h$mainZCHaskellziFunctionziletExpr44_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziletExpr31, h$mainZCHaskellziFunctionziletExpr33, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziFunctionziletExpr45, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziFunctionziletExpr32 = h$strta("let");
-function h$mainZCHaskellziFunctionziletExpr41_e()
+function h$mainZCHaskellziFunctionziletExpr42_e()
 {
-  return h$e(h$mainZCHaskellziFunctionziletExprzuk10);
+  return h$e(h$mainZCHaskellziFunctionziletExprzuk9);
 };
+var h$mainZCHaskellziFunctionziletExpr43 = h$strt("k\xf6nnen Sie Ausdr\xfccke und Funktionen definieren und verwenden:");
 function h$mainZCHaskellziFunctionzioperatorszuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators72, h$mainZCStylezidarkblue1, h$mainZCStylezidarkblue3,
+  h$l4(h$mainZCHaskellziFunctionzioperators75, h$mainZCStylezidarkblue1, h$mainZCStylezidarkblue3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperators2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators3, h$mainZCHaskellziFunctionzioperators65, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionzioperators3, h$mainZCHaskellziFunctionzioperators68, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -127775,7 +128107,7 @@ var h$mainZCHaskellziFunctionzioperators12 = h$strt("Lassen Sie sich die Typen d
 function h$mainZCHaskellziFunctionzioperators15_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators16, h$mainZCHaskellziFunctionzioperators24, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators16, h$mainZCHaskellziFunctionzioperators21, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -127786,159 +128118,156 @@ function h$mainZCHaskellziFunctionzioperators16_e()
 function h$mainZCHaskellziFunctionzioperatorszuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators17, h$mainZCHaskellziFunctionzioperatorszuk7, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators17, h$mainZCHaskellziFunctionziletExprzuk7, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators18, h$mainZCHaskellziFunctionzioperators21, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionziletExpr26, h$mainZCHaskellziFunctionzioperators18, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionzioperators20 = h$strta("6");
+var h$mainZCHaskellziFunctionzioperators20 = h$strta("> (*) 2 3");
 function h$mainZCHaskellziFunctionzioperators3_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk);
 };
-var h$mainZCHaskellziFunctionzioperators23 = h$strta("> (*) 2 3");
-var h$mainZCHaskellziFunctionzioperators26 = h$strta("> 2*3");
-function h$mainZCHaskellziFunctionzioperators29_e()
+var h$mainZCHaskellziFunctionzioperators23 = h$strta("> 2*3");
+function h$mainZCHaskellziFunctionzioperators26_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators30, h$mainZCHaskellziFunctionzioperators35, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators27, h$mainZCHaskellziFunctionzioperators32, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators35_e()
+function h$mainZCHaskellziFunctionzioperators32_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators36, h$mainZCHaskellziFunctionzioperators38, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators33, h$mainZCHaskellziFunctionzioperators35, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators30_e()
+function h$mainZCHaskellziFunctionzioperators27_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk8);
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk7);
 };
-function h$mainZCHaskellziFunctionzioperatorszuk_e()
+function h$mainZCHaskellziFunctionzioperatorszuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators4, h$mainZCHaskellziFunctionzioperators40, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionzioperators28, h$mainZCHaskellziFunctionzioperators30, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk8_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators31, h$mainZCHaskellziFunctionzioperators33, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators29, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperatorszuk_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators4, h$mainZCHaskellziFunctionzioperators37, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzioperators31 = h$strt("-Schreibweise verwenden, k\xf6nnen Sie die Klammern");
+function h$mainZCHaskellziFunctionzioperators35_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators36, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators33_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk9);
 };
 function h$mainZCHaskellziFunctionzioperatorszuk9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators32, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziFunctionzioperators34, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziFunctionzioperators34 = h$strt("-Schreibweise verwenden, k\xf6nnen Sie die Klammern");
-function h$mainZCHaskellziFunctionzioperators38_e()
+var h$mainZCHaskellziFunctionzioperators36 = h$strta("Wenn Sie Operatoren in");
+function h$mainZCHaskellziFunctionzioperators39_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators39, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziFunctionzioperators40, h$mainZCHaskellziFunctionzioperators65, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators36_e()
+function h$mainZCHaskellziFunctionzioperators65_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionzioperators66, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators40_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk10);
+};
+function h$mainZCHaskellziFunctionzioperatorszuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators5, h$mainZCHaskellziFunctionzioperators24, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk10_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators37, h$mainZCHelperziem);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionzioperators39 = h$strta("Wenn Sie Operatoren in");
-function h$mainZCHaskellziFunctionzioperatorszuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators5, h$mainZCHaskellziFunctionzioperators27, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziFunctionzioperators41, h$mainZCHaskellziFunctionzioperators62, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators42_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators43, h$mainZCHaskellziFunctionzioperators62, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators62_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators49, h$mainZCHaskellziFunctionzioperators63, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators43_e()
-{
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk11);
 };
 function h$mainZCHaskellziFunctionzioperatorszuk11_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators44, h$mainZCHaskellziFunctionzioperators59, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators42, h$mainZCHaskellziFunctionzioperators59, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk12_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators45, h$mainZCHaskellziFunctionzioperators56, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators43, h$mainZCHaskellziFunctionzioperators56, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk13_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators46, h$mainZCHaskellziFunctionzioperators53, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators44, h$mainZCHaskellziFunctionzioperators53, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk14_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators47, h$mainZCHaskellziFunctionzioperators48, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators45, h$mainZCHaskellziFunctionzioperators50, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperatorszuk15_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionziexpressions40, h$mainZCHaskellziFunctionziexpressionsII24,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziFunctionzioperators46, h$mainZCHaskellziFunctionzioperators48, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators51_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators52, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-function h$mainZCHaskellziFunctionzioperators49_e()
-{
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk16);
 };
 function h$mainZCHaskellziFunctionzioperatorszuk16_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators50, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzioperators47, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
+var h$mainZCHaskellziFunctionzioperators49 = h$strta("(,)");
 function h$mainZCHaskellziFunctionzioperatorszuk2_e()
 {
   h$bh();
@@ -127946,58 +128275,57 @@ function h$mainZCHaskellziFunctionzioperatorszuk2_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionzioperators52 = h$strta("(\/=)");
-function h$mainZCHaskellziFunctionzioperators54_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators55, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionzioperators55 = h$strta("(||)");
-function h$mainZCHaskellziFunctionzioperators57_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators58, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionzioperators58 = h$strta("(&&)");
-function h$mainZCHaskellziFunctionzioperators60_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators61, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionzioperators61 = h$strta("(^)");
-function h$mainZCHaskellziFunctionzioperators63_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziFunctionzioperators64, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziFunctionzioperators64 = h$strta("(+)");
-function h$mainZCHaskellziFunctionzioperators67_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators68, h$mainZCHaskellziFunctionzioperators70, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators70_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators71, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziFunctionzioperators68_e()
+function h$mainZCHaskellziFunctionzioperators51_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk17);
 };
 function h$mainZCHaskellziFunctionzioperatorszuk17_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators69, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzioperators52, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators54_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzioperators55, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziFunctionzioperators55 = h$strta("(\/=)");
+function h$mainZCHaskellziFunctionzioperators57_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzioperators58, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziFunctionzioperators58 = h$strta("(||)");
+function h$mainZCHaskellziFunctionzioperators60_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzioperators61, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziFunctionzioperators61 = h$strta("(&&)");
+function h$mainZCHaskellziFunctionzioperators63_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzioperators64, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziFunctionzioperators64 = h$strta("(^)");
+function h$mainZCHaskellziFunctionzioperators66_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziFunctionzioperators67, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+var h$mainZCHaskellziFunctionzioperators67 = h$strta("(+)");
+function h$mainZCHaskellziFunctionzioperators70_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators71, h$mainZCHaskellziFunctionzioperators73, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzioperators8_e()
@@ -128007,8 +128335,26 @@ function h$mainZCHaskellziFunctionzioperators8_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziFunctionzioperators71 = h$strta("Operatoren sind Funktionen,");
-var h$mainZCHaskellziFunctionzioperators73 = h$strta("Operatoren");
+function h$mainZCHaskellziFunctionzioperators73_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators74, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators71_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk18);
+};
+function h$mainZCHaskellziFunctionzioperatorszuk18_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators72, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziFunctionzioperators74 = h$strta("Operatoren sind Funktionen,");
+var h$mainZCHaskellziFunctionzioperators76 = h$strta("Operatoren");
 function h$mainZCHaskellziFunctionzioperators11_e()
 {
   h$bh();
@@ -128253,10 +128599,10 @@ function h$mainZCHaskellziFunctionzioperatorsII36_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorsIIzuk10);
 };
-function h$mainZCHaskellziFunctionzioperators72_e()
+function h$mainZCHaskellziFunctionzioperators75_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators73, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzioperators76, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
@@ -128268,53 +128614,74 @@ function h$mainZCHaskellziFunctionzioperators5_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk2);
 };
-var h$mainZCHaskellziFunctionzioperators37 = h$strta("infix");
-function h$mainZCHaskellziFunctionzioperators59_e()
+function h$mainZCHaskellziFunctionzioperators62_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators49, h$mainZCHaskellziFunctionzioperators60, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionzioperators63, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators44_e()
+function h$mainZCHaskellziFunctionzioperators41_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk11);
+};
+function h$mainZCHaskellziFunctionzioperators59_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionzioperators60, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators42_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk12);
 };
 function h$mainZCHaskellziFunctionzioperators56_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators49, h$mainZCHaskellziFunctionzioperators57, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionzioperators57, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators45_e()
+function h$mainZCHaskellziFunctionzioperators43_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk13);
 };
 function h$mainZCHaskellziFunctionzioperators53_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators49, h$mainZCHaskellziFunctionzioperators54, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionzioperators54, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators46_e()
+function h$mainZCHaskellziFunctionzioperators44_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk14);
+};
+function h$mainZCHaskellziFunctionzioperators50_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzioperators51, h$mainZCHaskellziFunctionziexpressionsII24, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzioperators45_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk15);
 };
 function h$mainZCHaskellziFunctionzioperators48_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators49, h$mainZCHaskellziFunctionzioperators51, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziFunctionzioperators49, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
 };
-function h$mainZCHaskellziFunctionzioperators47_e()
+function h$mainZCHaskellziFunctionzioperators46_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk15);
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk16);
 };
-var h$mainZCHaskellziFunctionzioperators50 = h$strta(",");
-var h$mainZCHaskellziFunctionzioperators69 = h$strta("die zwei Argumente nehmen:");
+var h$mainZCHaskellziFunctionzioperators47 = h$strta("...");
+var h$mainZCHaskellziFunctionzioperators52 = h$strta(",");
+var h$mainZCHaskellziFunctionzioperators72 = h$strta("die zwei Argumente nehmen:");
 function h$mainZCHaskellziFunctionzioperators6_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk3);
@@ -128324,22 +128691,19 @@ function h$mainZCHaskellziFunctionzioperators17_e()
 {
   return h$e(h$mainZCHaskellziFunctionzioperatorszuk6);
 };
-function h$mainZCHaskellziFunctionzioperators18_e()
-{
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk7);
-};
-function h$mainZCHaskellziFunctionzioperators33_e()
+function h$mainZCHaskellziFunctionzioperators30_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzioperators34, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziFunctionzioperators31, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziFunctionzioperators31_e()
+function h$mainZCHaskellziFunctionzioperators28_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzioperatorszuk9);
+  return h$e(h$mainZCHaskellziFunctionzioperatorszuk8);
 };
-var h$mainZCHaskellziFunctionzioperators32 = h$strta("weglassen:");
+var h$mainZCHaskellziFunctionzioperators29 = h$strta("weglassen:");
+var h$mainZCHaskellziFunctionzioperators34 = h$strta("infix");
 function h$mainZCHaskellziFunctionzislideShow1_e()
 {
   return h$e(h$mainZCHaskellziFunctionzislideShowzuk);
@@ -128354,35 +128718,49 @@ function h$mainZCHaskellziFunctionzislideShowzuk_e()
 function h$mainZCHaskellziFunctionzislideShowzuk1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzislideShow3, h$mainZCHaskellziFunctionzifunctions, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziFunctionzislideShow3, h$mainZCHaskellziFunctionziletExpr, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzislideShowzuk2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzislideShow4, h$mainZCHaskellziFunctionziletExpr, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziFunctionzislideShow4, h$mainZCHaskellziFunctionziletExprII, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzislideShowzuk3_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzislideShow5, h$mainZCHaskellziFunctionzighciTips, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziFunctionzislideShow5, h$mainZCHaskellziFunctionzifunctions, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzislideShowzuk4_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzislideShow6, h$mainZCHaskellziFunctionzilambda, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziFunctionzislideShow6, h$mainZCHaskellziFunctionzioperators, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziFunctionzislideShowzuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziFunctionzislideShow7, h$mainZCHaskellziFunctionzioperators, h$mainZCSlidezizdfFunctorSlide,
+  h$l4(h$mainZCHaskellziFunctionzislideShow7, h$mainZCHaskellziFunctionzioperatorsII, h$mainZCSlidezizdfFunctorSlide,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzislideShowzuk6_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzislideShow8, h$mainZCHaskellziFunctionzilambda, h$mainZCSlidezizdfFunctorSlide,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziFunctionzislideShowzuk7_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziFunctionzislideShow9, h$mainZCHaskellziFunctionzilambdaII, h$mainZCSlidezizdfFunctorSlide,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -128408,7 +128786,15 @@ function h$mainZCHaskellziFunctionzislideShow6_e()
 };
 function h$mainZCHaskellziFunctionzislideShow7_e()
 {
-  return h$e(h$mainZCHaskellziFunctionzioperatorsII);
+  return h$e(h$mainZCHaskellziFunctionzislideShowzuk6);
+};
+function h$mainZCHaskellziFunctionzislideShow8_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzislideShowzuk7);
+};
+function h$mainZCHaskellziFunctionzislideShow9_e()
+{
+  return h$e(h$mainZCHaskellziFunctionzighciTips);
 };
 function h$mainZCHaskellziEratostheneszislideShow_e()
 {
@@ -129223,6 +129609,29 @@ function h$mainZCHaskellziDotAndDollarzislideShow1_e()
 {
   return h$e(h$mainZCHaskellziDotAndDollarzidollar);
 };
+var h$mainZCHaskellziDifferenceEnginezideBegin57 = h$strta("Der Anfang");
+function h$mainZCHaskellziDifferenceEnginezideBegin56_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin57, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziDifferenceEnginezideBegin55 = h$strt("\xd6ffnen Sie eine neue Datei");
+function h$mainZCHaskellziDifferenceEnginezideBegin54_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin55, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziDifferenceEnginezideBeginzuk11_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEngineziallZZero19, h$mainZCHaskellziDifferenceEnginezideBegin52,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
 function h$mainZCHaskellziDifferenceEnginezislideShow_e()
 {
   h$bh();
@@ -129537,54 +129946,57 @@ var h$mainZCHaskellziDifferenceEngineziallZZero23 = h$strta("all");
 function h$mainZCHaskellziDifferenceEnginezideBeginzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin52, h$mainZCStylezired1, h$mainZCStylezired3,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin56, h$mainZCStylezired1, h$mainZCStylezired3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin3, h$mainZCHaskellziDifferenceEnginezideBegin44,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin3, h$mainZCHaskellziDifferenceEnginezideBegin48,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin13_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin14, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziDifferenceEngineziallZZero19, h$mainZCHaskellziDifferenceEnginezideBegin14,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezideBegin14 = h$strta("Benutzen Sie dazu die Funktion map.");
+function h$mainZCHaskellziDifferenceEnginezideBegin14_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin15, h$mainZCHaskellziDifferenceEnginezideBegin17,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziDifferenceEnginezideBegin16 = h$strta("map");
 function h$mainZCHaskellziDifferenceEnginezideBegin17_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin18, h$mainZCHaskellziDifferenceEnginezideBegin26,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin18, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin26_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin27, h$mainZCHaskellziDifferenceEnginezideBegin29,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin27, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezideBegin18_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk5);
-};
+var h$mainZCHaskellziDifferenceEnginezideBegin18 = h$strta("Benutzen Sie dazu die Funktion");
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin19, h$mainZCHaskellziDifferenceEnginezideBegin24,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin16, h$mainZCHelperzilib);
+  return h$ap_1_1_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin20, h$mainZCHaskellziDifferenceEnginezideBegin22,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin23, h$mainZCHaskellziDifferenceEnginezideBegin28,
   h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -129595,99 +130007,98 @@ function h$mainZCHaskellziDifferenceEnginezideBegin3_e()
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk7_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin21, h$mainZCHelperzicmd);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziDifferenceEnginezideBegin23 = h$strta("und eine Liste");
-var h$mainZCHaskellziDifferenceEnginezideBegin25 = h$strta("Ihrer Wahl mit Grad 3");
-function h$mainZCHaskellziDifferenceEnginezideBegin29_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin30, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin24, h$mainZCHaskellziDifferenceEnginezideBegin26,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezideBegin27_e()
+function h$mainZCHaskellziDifferenceEnginezideBegin23_e()
 {
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk8);
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk7);
 };
+var h$mainZCHaskellziDifferenceEnginezideBegin25 = h$strta("xs = [p(0), p(1), p(2), p(3), p(4)].");
+var h$mainZCHaskellziDifferenceEnginezideBegin29 = h$strta("Ihrer Wahl mit Grad 3");
+var h$mainZCHaskellziDifferenceEnginezideBegin27 = h$strta("und eine Liste");
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk8_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin28, h$mainZCHelperzicmd);
+  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin25, h$mainZCHelperzicmd);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezideBegin30 = h$strta("Definieren Sie ein Polynom");
+function h$mainZCHaskellziDifferenceEnginezideBegin30_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin31, h$mainZCHaskellziDifferenceEnginezideBegin33,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin4, h$mainZCHaskellziDifferenceEnginezideBegin40,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin4, h$mainZCHaskellziDifferenceEnginezideBegin44,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
+var h$mainZCHaskellziDifferenceEnginezideBegin32 = h$strta("p");
 function h$mainZCHaskellziDifferenceEnginezideBegin33_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin34, h$mainZCHaskellziDifferenceEnginezideBegin37,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziDifferenceEnginezideBegin34_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk9);
-};
-var h$mainZCHaskellziDifferenceEnginezideBegin36 = h$strta("import qualified Data.List as List");
-var h$mainZCHaskellziDifferenceEnginezideBegin39 = h$strta("module DifferenceEngine where");
-function h$mainZCHaskellziDifferenceEnginezideBeginzuk1_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin5, h$mainZCHaskellziDifferenceEnginezideBegin31,
-  h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziDifferenceEnginezideBegin42_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin43, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin34, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezideBegin43 = h$strta("Beginnen Sie diese mit den Zeilen:");
+function h$mainZCHaskellziDifferenceEnginezideBegin37_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin38, h$mainZCHaskellziDifferenceEnginezideBegin41,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziDifferenceEnginezideBegin34 = h$strta("Definieren Sie ein Polynom");
+function h$mainZCHaskellziDifferenceEnginezideBeginzuk9_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin32, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
+};
+function h$mainZCHaskellziDifferenceEnginezideBegin38_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk10);
+};
+function h$mainZCHaskellziDifferenceEnginezideBeginzuk1_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin5, h$mainZCHaskellziDifferenceEnginezideBegin35,
+  h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziDifferenceEnginezideBegin43 = h$strta("module DifferenceEngine where");
 function h$mainZCHaskellziDifferenceEnginezideBegin46_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin47, h$mainZCHaskellziDifferenceEnginezideBegin50,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin47, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin50_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin51, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziDifferenceEnginezideBegin47_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk10);
-};
-function h$mainZCHaskellziDifferenceEnginezideBeginzuk10_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEngineziallZZero19, h$mainZCHaskellziDifferenceEnginezideBegin48,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin51, h$mainZCHaskellziDifferenceEnginezideBegin54,
   h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezideBegin49 = h$strta("DifferenceEngine.hs");
+var h$mainZCHaskellziDifferenceEnginezideBegin47 = h$strta("Beginnen Sie diese mit den Zeilen:");
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin6, h$mainZCHaskellziDifferenceEnginezideBegin15,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin6, h$mainZCHaskellziDifferenceEnginezideBegin19,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezideBegin51 = h$strt("\xd6ffnen Sie eine neue Datei");
-var h$mainZCHaskellziDifferenceEnginezideBegin53 = h$strta("Der Anfang");
+function h$mainZCHaskellziDifferenceEnginezideBegin51_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk11);
+};
+var h$mainZCHaskellziDifferenceEnginezideBegin53 = h$strta("DifferenceEngine.hs");
 function h$mainZCHaskellziDifferenceEnginezideBeginzuk3_e()
 {
   h$bh();
@@ -129706,23 +130117,25 @@ var h$mainZCHaskellziDifferenceEnginezideBegin10 = h$strta("Vergessen Sie die Si
 function h$mainZCHaskellziDifferenceEnginezideBegin52_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin53, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin53, h$mainZCHelperziem);
+  return h$ap_1_1_fast();
 };
+var h$mainZCHaskellziDifferenceEnginezideBegin40 = h$strta("import qualified Data.List as List");
 function h$mainZCHaskellziDifferenceEnginezideBegin4_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk1);
+};
+function h$mainZCHaskellziDifferenceEnginezideBegin31_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk9);
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin5_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk2);
 };
-function h$mainZCHaskellziDifferenceEnginezideBegin48_e()
+function h$mainZCHaskellziDifferenceEnginezideBegin15_e()
 {
-  h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezideBegin49, h$mainZCHelperziem);
-  return h$ap_1_1_fast();
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk5);
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin6_e()
 {
@@ -129734,28 +130147,26 @@ function h$mainZCHaskellziDifferenceEnginezideBegin7_e()
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin24_e()
 {
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin25, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziDifferenceEnginezideBegin19_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk6);
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk8);
 };
 function h$mainZCHaskellziDifferenceEnginezideBegin22_e()
 {
+  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk6);
+};
+function h$mainZCHaskellziDifferenceEnginezideBegin21_e()
+{
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin23, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin22, h$mainZCHaskellziDifferenceEnginezideBegin30,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziDifferenceEnginezideBegin28_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin29, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezideBegin20_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezideBeginzuk7);
-};
-var h$mainZCHaskellziDifferenceEnginezideBegin21 = h$strta("xs = [p(0), p(1), p(2), p(3), p(4)].");
-var h$mainZCHaskellziDifferenceEnginezideBegin28 = h$strta("p");
 function h$mainZCHaskellziDifferenceEnginezideIntrozuh1_e()
 {
   h$bh();
@@ -130361,14 +130772,14 @@ function h$mainZCHaskellziDifferenceEnginezidiffs30_e()
 function h$mainZCHaskellziDifferenceEnginezilastStepszuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps64, h$mainZCStylezidarkred1, h$mainZCStylezidarkred5,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps62, h$mainZCStylezidarkred1, h$mainZCStylezidarkred5,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastSteps2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps3, h$mainZCHaskellziDifferenceEnginezilastSteps60,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps3, h$mainZCHaskellziDifferenceEnginezilastSteps58,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -130386,6 +130797,13 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps15_e()
 };
 var h$mainZCHaskellziDifferenceEnginezilastSteps17 = h$strta("True");
 var h$mainZCHaskellziDifferenceEnginezilastSteps20 = h$strta("> next [p(0), p(1), p(2), p(3), p(4)] == p(5)");
+function h$mainZCHaskellziDifferenceEnginezilastSteps60_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps61, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
 function h$mainZCHaskellziDifferenceEnginezilastSteps3_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk);
@@ -130419,24 +130837,18 @@ var h$mainZCHaskellziDifferenceEnginezilastSteps27 = h$strt("Pr\xfcfen Sie, ob n
 function h$mainZCHaskellziDifferenceEnginezilastSteps30_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps31, h$mainZCHaskellziDifferenceEnginezilastSteps50,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps31, h$mainZCHaskellziDifferenceEnginezilastSteps48,
   h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps4, h$mainZCHaskellziDifferenceEnginezilastSteps55,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps4, h$mainZCHaskellziDifferenceEnginezilastSteps53,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps50_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps51, h$mainZCHaskellziDifferenceEnginezilastSteps53,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziDifferenceEnginezilastSteps50 = h$strta("allDiffs");
 function h$mainZCHaskellziDifferenceEnginezilastSteps31_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk7);
@@ -130444,7 +130856,7 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps31_e()
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps32, h$mainZCHaskellziDifferenceEnginezilastSteps48,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps32, h$mainZCHaskellziDifferenceEnginezilastSteps46,
   h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -130472,22 +130884,20 @@ function h$mainZCHaskellziDifferenceEnginezilastStepszuk10_e()
   h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps36, h$mainZCHelperzilib);
   return h$ap_1_1_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps40_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps41, h$mainZCHaskellziDifferenceEnginezilastSteps43,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziDifferenceEnginezilastSteps40 = h$strta(",");
 function h$mainZCHaskellziDifferenceEnginezilastSteps38_e()
 {
-  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk11);
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps39, h$mainZCHaskellziDifferenceEnginezilastSteps41,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk11_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps39, h$mainZCHelperzilib);
-  return h$ap_1_1_fast();
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps40, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk1_e()
 {
@@ -130496,23 +130906,19 @@ function h$mainZCHaskellziDifferenceEnginezilastStepszuk1_e()
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps43_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps44, h$mainZCHaskellziDifferenceEnginezilastSteps46,
-  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziDifferenceEnginezilastSteps43 = h$strta("sum");
 function h$mainZCHaskellziDifferenceEnginezilastSteps41_e()
 {
-  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk12);
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps42, h$mainZCHaskellziDifferenceEnginezilastSteps44,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk12_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps42, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps43, h$mainZCHelperzilib);
+  return h$ap_1_1_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastSteps46_e()
 {
@@ -130523,16 +130929,22 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps46_e()
 };
 function h$mainZCHaskellziDifferenceEnginezilastSteps44_e()
 {
-  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk13);
+  h$bh();
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps45, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk13_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps45, h$mainZCHelperzilib);
+  h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps50, h$mainZCHelperzifunc);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezilastSteps47 = h$strta("Benutzen Sie");
-var h$mainZCHaskellziDifferenceEnginezilastSteps49 = h$strta("und summiert die jeweil letzten Zahlen.");
+var h$mainZCHaskellziDifferenceEnginezilastSteps47 = h$strta("und summiert die jeweil letzten Zahlen.");
+function h$mainZCHaskellziDifferenceEnginezilastSteps49_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk13);
+};
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk2_e()
 {
   h$bh();
@@ -130540,25 +130952,14 @@ function h$mainZCHaskellziDifferenceEnginezilastStepszuk2_e()
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps53_e()
+function h$mainZCHaskellziDifferenceEnginezilastSteps51_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps54, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps52, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps51_e()
-{
-  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk14);
-};
-function h$mainZCHaskellziDifferenceEnginezilastStepszuk14_e()
-{
-  h$bh();
-  h$l2(h$mainZCHaskellziDifferenceEnginezilastSteps52, h$mainZCHelperzifunc);
-  return h$ap_1_1_fast();
-};
-var h$mainZCHaskellziDifferenceEnginezilastSteps54 = h$strta("Sie nimmt das Ergebnis von");
-var h$mainZCHaskellziDifferenceEnginezilastSteps59 = h$strta("next :: [Integer] -> Integer");
+var h$mainZCHaskellziDifferenceEnginezilastSteps57 = h$strta("next :: [Integer] -> Integer");
 function h$mainZCHaskellziDifferenceEnginezilastStepszuk3_e()
 {
   h$bh();
@@ -130566,6 +130967,7 @@ function h$mainZCHaskellziDifferenceEnginezilastStepszuk3_e()
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
+var h$mainZCHaskellziDifferenceEnginezilastSteps61 = h$strta("Schreiben Sie die Funktion");
 function h$mainZCHaskellziDifferenceEnginezilastSteps62_e()
 {
   h$bh();
@@ -130573,8 +130975,7 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps62_e()
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziDifferenceEnginezilastSteps63 = h$strta("Schreiben Sie die Funktion");
-var h$mainZCHaskellziDifferenceEnginezilastSteps65 = h$strta("Fast geschafft");
+var h$mainZCHaskellziDifferenceEnginezilastSteps63 = h$strta("Fast geschafft");
 function h$mainZCHaskellziDifferenceEnginezilastSteps9_e()
 {
   h$bh();
@@ -130589,13 +130990,6 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps10_e()
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziDifferenceEnginezilastSteps64_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps65, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
 function h$mainZCHaskellziDifferenceEnginezilastSteps4_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk1);
@@ -130605,10 +130999,16 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps5_e()
   return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk2);
 };
 var h$mainZCHaskellziDifferenceEnginezilastSteps36 = h$strta("last");
-var h$mainZCHaskellziDifferenceEnginezilastSteps39 = h$strta("map");
-var h$mainZCHaskellziDifferenceEnginezilastSteps42 = h$strta(",");
-var h$mainZCHaskellziDifferenceEnginezilastSteps45 = h$strta("sum");
-var h$mainZCHaskellziDifferenceEnginezilastSteps52 = h$strta("allDiffs");
+function h$mainZCHaskellziDifferenceEnginezilastSteps39_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk11);
+};
+function h$mainZCHaskellziDifferenceEnginezilastSteps42_e()
+{
+  return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk12);
+};
+var h$mainZCHaskellziDifferenceEnginezilastSteps45 = h$strta("Benutzen Sie");
+var h$mainZCHaskellziDifferenceEnginezilastSteps52 = h$strta("Sie nimmt das Ergebnis von");
 function h$mainZCHaskellziDifferenceEnginezilastSteps6_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezilastStepszuk3);
@@ -130621,8 +131021,8 @@ var h$mainZCHaskellziDifferenceEnginezilastSteps25 = h$strta("korrekt vorraussag
 function h$mainZCHaskellziDifferenceEnginezilastSteps48_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps49, h$mainZCSlideziline1, h$mainZCSlideziline2,
-  h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps49, h$mainZCHaskellziDifferenceEnginezilastSteps51,
+  h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziDifferenceEnginezilastSteps32_e()
@@ -130632,7 +131032,7 @@ function h$mainZCHaskellziDifferenceEnginezilastSteps32_e()
 function h$mainZCHaskellziDifferenceEnginezilastSteps37_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziDifferenceEnginezilastSteps38, h$mainZCHaskellziDifferenceEnginezilastSteps40,
+  h$l4(h$mainZCHaskellziDifferenceEnginezideBegin15, h$mainZCHaskellziDifferenceEnginezilastSteps38,
   h$mainZCSlidezizdfFunctorWord, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -131243,6 +131643,26 @@ function h$mainZCHaskellziDifferenceEnginezislideShow9_e()
 {
   return h$e(h$mainZCHaskellziDifferenceEnginezilastSteps);
 };
+var h$mainZCHaskellziADTzitrees54 = h$strta("Rekursive Datenstrukturen");
+function h$mainZCHaskellziADTzitrees53_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees54, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziADTzitrees52 = h$strt("Datenstrukturen k\xf6nnen rekursiv definiert werden,");
+function h$mainZCHaskellziADTzitrees51_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees52, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitreeszuk11_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees50, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
 function h$mainZCHaskellziADTzislideShow_e()
 {
   h$bh();
@@ -131318,7 +131738,7 @@ function h$mainZCHaskellziADTzicaseExprzuk_e()
 };
 var h$mainZCHaskellziADTzicaseExpr32 = h$strta("             False -> True");
 var h$mainZCHaskellziADTzicaseExpr35 = h$strta("not x = case x of");
-var h$mainZCHaskellziADTzicaseExpr38 = h$strta("not :: Bool -> Integer");
+var h$mainZCHaskellziADTzicaseExpr38 = h$strta("not :: Bool -> Bool");
 function h$mainZCHaskellziADTzicaseExprzuk1_e()
 {
   h$bh();
@@ -132071,14 +132491,14 @@ function h$mainZCHaskellziADTzimaybeType32_e()
 function h$mainZCHaskellziADTzipatternMatchingzuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching42, h$mainZCStylezigreen1, h$mainZCStylezigreen3,
+  h$l4(h$mainZCHaskellziADTzipatternMatching39, h$mainZCStylezigreen1, h$mainZCStylezigreen3,
   h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziADTzipatternMatching2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching3, h$mainZCHaskellziADTzipatternMatching35,
+  h$l4(h$mainZCHaskellziADTzipatternMatching3, h$mainZCHaskellziADTzipatternMatching32,
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -132100,7 +132520,7 @@ var h$mainZCHaskellziADTzipatternMatching21 = h$strta("Variablen im Pattern werd
 function h$mainZCHaskellziADTzipatternMatching24_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching25, h$mainZCHaskellziADTzipatternMatching32, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziADTzipatternMatching25, h$mainZCHaskellziADTzicaseExpr36, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
@@ -132124,32 +132544,33 @@ function h$mainZCHaskellziADTzipatternMatchingzuk_e()
   return h$ap_3_3_fast();
 };
 var h$mainZCHaskellziADTzipatternMatching31 = h$strta("not True = False");
-var h$mainZCHaskellziADTzipatternMatching34 = h$strta("not :: Bool -> Bool");
-function h$mainZCHaskellziADTzipatternMatching37_e()
+function h$mainZCHaskellziADTzipatternMatching34_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching38, h$mainZCHaskellziADTzipatternMatching40, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziADTzipatternMatching35, h$mainZCHaskellziADTzipatternMatching37, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzipatternMatching40_e()
+function h$mainZCHaskellziADTzipatternMatching37_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching41, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziADTzipatternMatching38, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzipatternMatching38_e()
+function h$mainZCHaskellziADTzipatternMatching35_e()
 {
   return h$e(h$mainZCHaskellziADTzipatternMatchingzuk7);
 };
 function h$mainZCHaskellziADTzipatternMatchingzuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching39, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziADTzipatternMatching36, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
+var h$mainZCHaskellziADTzipatternMatching38 = h$strta("Die verschiedenen Konstruktoren eines Datentypes");
+var h$mainZCHaskellziADTzipatternMatching40 = h$strta("Pattern Matching");
 function h$mainZCHaskellziADTzipatternMatchingzuk1_e()
 {
   h$bh();
@@ -132157,8 +132578,6 @@ function h$mainZCHaskellziADTzipatternMatchingzuk1_e()
   h$mainZCSlidezizdfFunctorParagraph, h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziADTzipatternMatching41 = h$strta("Die verschiedenen Konstruktoren eines Datentypes");
-var h$mainZCHaskellziADTzipatternMatching43 = h$strta("Pattern Matching");
 function h$mainZCHaskellziADTzipatternMatching7_e()
 {
   h$bh();
@@ -132177,10 +132596,10 @@ function h$mainZCHaskellziADTzipatternMatchingzuk3_e()
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzipatternMatching42_e()
+function h$mainZCHaskellziADTzipatternMatching39_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzipatternMatching43, h$mainZCSlideziline1, h$mainZCSlideziline2,
+  h$l4(h$mainZCHaskellziADTzipatternMatching40, h$mainZCSlideziline1, h$mainZCSlideziline2,
   h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
@@ -132200,7 +132619,7 @@ function h$mainZCHaskellziADTzipatternMatching26_e()
 {
   return h$e(h$mainZCHaskellziADTzipatternMatchingzuk6);
 };
-var h$mainZCHaskellziADTzipatternMatching39 = h$strt("k\xf6nnen durch Pattern-Matching unterschieden werden.");
+var h$mainZCHaskellziADTzipatternMatching36 = h$strt("k\xf6nnen durch Pattern-Matching unterschieden werden.");
 function h$mainZCHaskellziADTzislideShow1_e()
 {
   return h$e(h$mainZCHaskellziADTzislideShowzuk);
@@ -132252,156 +132671,168 @@ function h$mainZCHaskellziADTzislideShow5_e()
 function h$mainZCHaskellziADTzitreeszuh1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees47, h$mainZCStylezigreen1, h$mainZCStylezigreen3, h$mainZCSlidezizdwzdcstyle2);
+  h$l4(h$mainZCHaskellziADTzitrees53, h$mainZCStylezigreen1, h$mainZCStylezigreen3, h$mainZCSlidezizdwzdcstyle2);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziADTzitrees2_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees3, h$mainZCHaskellziADTzitrees40, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziADTzitrees3, h$mainZCHaskellziADTzitrees46, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees13_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees14, h$mainZCHaskellziADTzitrees19, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees19_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees20, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees14_e()
-{
-  return h$e(h$mainZCHaskellziADTzitreeszuk5);
 };
 function h$mainZCHaskellziADTzitreeszuk5_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees15, h$mainZCHaskellziADTzitrees17, h$mainZCSlidezizdfFunctorWord,
+  h$l4(h$mainZCHaskellziADTzitrees11, h$mainZCHaskellziADTzitrees13, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziADTzitreeszuk6_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees16, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziADTzitrees12, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziADTzitrees18 = h$strta("Definieren Sie eine Funktion, die die");
-var h$mainZCHaskellziADTzitrees20 = h$strt("Definieren Sie einen bin\xe4ren Baum.");
+var h$mainZCHaskellziADTzitrees14 = h$strt("Knoten eines Baums z\xe4hlt.");
+var h$mainZCHaskellziADTzitrees16 = h$strta("Definieren Sie eine Funktion, die die");
+function h$mainZCHaskellziADTzitrees18_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees19, h$mainZCHaskellziADTzitrees21, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziADTzitrees20 = h$strta("Tree a");
+var h$mainZCHaskellziADTzitrees42 = h$strta("  Nil | Cons a (List a) deriving (Show)");
 function h$mainZCHaskellziADTzitrees3_e()
 {
   return h$e(h$mainZCHaskellziADTzitreeszuk);
 };
-function h$mainZCHaskellziADTzitrees23_e()
+function h$mainZCHaskellziADTzitrees21_e()
 {
   h$bh();
-  h$l2(h$mainZCHaskellziADTzitrees24, h$mainZCHelperziem);
+  h$l4(h$mainZCHaskellziADTzitrees22, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziADTzitrees22 = h$strt("Definieren Sie einen bin\xe4ren Baum");
+function h$mainZCHaskellziADTzitrees25_e()
+{
+  h$bh();
+  h$l2(h$mainZCHaskellziADTzitrees26, h$mainZCHelperziem);
   return h$ap_1_1_fast();
 };
-var h$mainZCHaskellziADTzitrees24 = h$strt("\xdcbung:");
-function h$mainZCHaskellziADTzitrees27_e()
+function h$mainZCHaskellziADTzitrees31_e()
 {
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees28, h$mainZCHaskellziADTzitrees33, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  return h$e(h$mainZCHaskellziADTzitreeszuk9);
 };
-function h$mainZCHaskellziADTzitrees33_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees34, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees28_e()
-{
-  return h$e(h$mainZCHaskellziADTzitreeszuk7);
-};
+var h$mainZCHaskellziADTzitrees26 = h$strt("\xdcbung:");
 function h$mainZCHaskellziADTzitreeszuk7_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees29, h$mainZCHaskellziADTzitrees31, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
+  h$l2(h$mainZCHaskellziADTzitrees20, h$mainZCHelperzicmd);
+  return h$ap_1_1_fast();
 };
 function h$mainZCHaskellziADTzitreeszuk8_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees30, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziADTzitrees31, h$mainZCHaskellziADTzitrees33, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees30_e()
+{
+  return h$e(h$mainZCHaskellziADTzitreeszuk8);
 };
 function h$mainZCHaskellziADTzitreeszuk_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees4, h$mainZCHaskellziADTzitrees35, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziADTzitrees4, h$mainZCHaskellziADTzitrees37, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziADTzitrees32 = h$strt("nat\xfcrlich hervorragend dazu, mit einer rekursiven");
-var h$mainZCHaskellziADTzitrees34 = h$strta("Eine solche rekursive Struktur eignet sich");
-var h$mainZCHaskellziADTzitrees39 = h$strta("data List a = Nil | Cons a deriving (Show)");
-function h$mainZCHaskellziADTzitreeszuk1_e()
+var h$mainZCHaskellziADTzitrees32 = h$strta("Funktion durchlaufen zu werden.");
+var h$mainZCHaskellziADTzitrees34 = h$strt("nat\xfcrlich hervorragend dazu, mit einer rekursiven");
+function h$mainZCHaskellziADTzitrees35_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees5, h$mainZCHaskellziADTzitrees25, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziADTzitrees36, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees39_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees40, h$mainZCHaskellziADTzitrees43, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzitrees42_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees43, h$mainZCHaskellziADTzitrees45, h$mainZCSlidezizdfFunctorWord,
-  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees45_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees46, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
-function h$mainZCHaskellziADTzitrees43_e()
-{
-  return h$e(h$mainZCHaskellziADTzitreeszuk9);
-};
+var h$mainZCHaskellziADTzitrees36 = h$strta("Eine solche rekursive Struktur eignet sich");
 function h$mainZCHaskellziADTzitreeszuk9_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees44, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziADTzitrees32, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziADTzitrees46 = h$strt("Datenstrukturen k\xf6nnen rekursiv definiert werden,");
-var h$mainZCHaskellziADTzitrees48 = h$strta("Rekursive Datenstrukturen");
-function h$mainZCHaskellziADTzitreeszuk2_e()
+function h$mainZCHaskellziADTzitrees40_e()
+{
+  return h$e(h$mainZCHaskellziADTzitreeszuk10);
+};
+function h$mainZCHaskellziADTzitreeszuk1_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees6, h$mainZCHaskellziADTzitrees21, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziADTzitrees5, h$mainZCHaskellziADTzitrees27, h$mainZCSlidezizdfFunctorParagraph,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzitreeszuk3_e()
+var h$mainZCHaskellziADTzitrees45 = h$strta("data List a =");
+function h$mainZCHaskellziADTzitrees48_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees7, h$mainZCHaskellziADTzitrees11, h$mainZCSlidezizdfFunctorParagraph,
+  h$l4(h$mainZCHaskellziADTzitrees49, h$mainZCHaskellziADTzitrees51, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+var h$mainZCHaskellziADTzitrees50 = h$strta("so z.B. die Liste:");
+function h$mainZCHaskellziADTzitreeszuk2_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees6, h$mainZCHaskellziADTzitrees23, h$mainZCSlidezizdfFunctorParagraph,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees8_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees9, h$mainZCHaskellziADTzitrees17, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees17_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzicaseExpr10, h$mainZCHaskellziADTzitrees18, h$mainZCSlidezizdfFunctorWord,
   h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziADTzitrees9_e()
 {
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees10, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
+  return h$e(h$mainZCHaskellziADTzitreeszuk4);
 };
-var h$mainZCHaskellziADTzitrees10 = h$strt("Z\xe4hlen Sie die Bl\xe4tter eines Baums.");
-function h$mainZCHaskellziADTzitrees47_e()
+function h$mainZCHaskellziADTzitreeszuk4_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees48, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziADTzitrees10, h$mainZCHaskellziADTzitrees15, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees49_e()
+{
+  return h$e(h$mainZCHaskellziADTzitreeszuk11);
+};
+function h$mainZCHaskellziADTzitrees33_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees34, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
 function h$mainZCHaskellziADTzitrees4_e()
@@ -132412,37 +132843,42 @@ function h$mainZCHaskellziADTzitrees5_e()
 {
   return h$e(h$mainZCHaskellziADTzitreeszuk2);
 };
+function h$mainZCHaskellziADTzitrees19_e()
+{
+  return h$e(h$mainZCHaskellziADTzitreeszuk7);
+};
 function h$mainZCHaskellziADTzitrees6_e()
 {
   return h$e(h$mainZCHaskellziADTzitreeszuk3);
 };
-function h$mainZCHaskellziADTzitrees7_e()
-{
-  return h$e(h$mainZCHaskellziADTzitreeszuk4);
-};
-function h$mainZCHaskellziADTzitrees17_e()
+function h$mainZCHaskellziADTzitrees15_e()
 {
   h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees18, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  h$l4(h$mainZCHaskellziADTzitrees16, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
   return h$ap_3_3_fast();
 };
-function h$mainZCHaskellziADTzitrees15_e()
+function h$mainZCHaskellziADTzitrees10_e()
+{
+  return h$e(h$mainZCHaskellziADTzitreeszuk5);
+};
+function h$mainZCHaskellziADTzitrees13_e()
+{
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees14, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
+  return h$ap_3_3_fast();
+};
+function h$mainZCHaskellziADTzitrees11_e()
 {
   return h$e(h$mainZCHaskellziADTzitreeszuk6);
 };
-var h$mainZCHaskellziADTzitrees16 = h$strt("Knoten eines Baums z\xe4hlt.");
-function h$mainZCHaskellziADTzitrees31_e()
-{
-  h$bh();
-  h$l4(h$mainZCHaskellziADTzitrees32, h$mainZCSlideziline1, h$mainZCSlideziline2, h$baseZCDataziOldListziwordsFB);
-  return h$ap_3_3_fast();
-};
+var h$mainZCHaskellziADTzitrees12 = h$strt("Z\xe4hlen Sie die Bl\xe4tter eines Baums.");
 function h$mainZCHaskellziADTzitrees29_e()
 {
-  return h$e(h$mainZCHaskellziADTzitreeszuk8);
+  h$bh();
+  h$l4(h$mainZCHaskellziADTzitrees30, h$mainZCHaskellziADTzitrees35, h$mainZCSlidezizdfFunctorWord,
+  h$freezu23yXuq0FVWmAbxyRIBuqjFZCControlziMonadziFreezizdwzdczgzgze);
+  return h$ap_3_3_fast();
 };
-var h$mainZCHaskellziADTzitrees30 = h$strta("Funktion durchlaufen zu werden.");
-var h$mainZCHaskellziADTzitrees44 = h$strta("so z.B. die Liste:");
 function h$$aIO()
 {
   var a = h$r1.d1;
@@ -146314,28 +146750,28 @@ var h$mainZCHaskellziSlideShowzislideShow1zuk = h$d();
 var h$mainZCHaskellziSlideShowzislideShow1zuk1 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow1zuk2 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow2zuk = h$d();
-var h$mainZCHaskellziSlideShowzislideShow3zuk = h$d();
-var h$mainZCHaskellziSlideShowzislideShow3zuk1 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow3zuk2 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow4zuk = h$d();
+var h$mainZCHaskellziSlideShowzislideShow5zuk = h$d();
+var h$mainZCHaskellziSlideShowzislideShow5zuk1 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow5zuk2 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow6zuk = h$d();
 var h$mainZCHaskellziSlideShowzislideShow12 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow13 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow10 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow14 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow6zuk1 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow7 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow8 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow9 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow15 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow16 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow17 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow18 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow7 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow8 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow9 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow19 = h$d();
 var h$mainZCHaskellziSlideShowzislideShow20 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow5zuk = h$d();
-var h$mainZCHaskellziSlideShowzislideShow5zuk1 = h$d();
-var h$mainZCHaskellziSlideShowzislideShow5zuk2 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow3zuk = h$d();
+var h$mainZCHaskellziSlideShowzislideShow3zuk1 = h$d();
+var h$mainZCHaskellziSlideShowzislideShow3zuk2 = h$d();
 var h$mainZCHaskellziRecursionzilistszugo = h$d();
 var h$mainZCHaskellziRecursionzilistszugo1 = h$d();
 var h$mainZCHaskellziRecursionzilistszugo2 = h$d();
@@ -147643,73 +148079,87 @@ var h$mainZCHaskellziLazzyzievalStratIIzuh1 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII2 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII1 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII = h$d();
-var h$mainZCHaskellziLazzyzievalStratII13 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII12 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII32 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII11);
 var h$mainZCHaskellziLazzyzievalStratII14 = h$d();
-var h$mainZCHaskellziLazzyzievalStratIIzuk4 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII13 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII33 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII15 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk5 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk6 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII21 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII19 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk7 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII3 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII22 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII20 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII3 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk8 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII27 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII25 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII23 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk9 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII30 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII28 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII26 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk10 = h$d();
-var h$mainZCHaskellziLazzyzievalStratIIzuk = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII31);
-var h$mainZCHaskellziLazzyzievalStratII35 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII33 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII31 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII29 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk11 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII36);
-var h$mainZCHaskellziLazzyzievalStratII39 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII38 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII40);
-var h$mainZCHaskellziLazzyzievalStratIIzuk1 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII50 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII43 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII42 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII44 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII46);
-h$di(h$mainZCHaskellziLazzyzievalStratII49);
-var h$mainZCHaskellziLazzyzievalStratII48 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII47 = h$d();
-var h$mainZCHaskellziLazzyzievalStratIIzuk2 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII53 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII52 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII51 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII54);
-h$di(h$mainZCHaskellziLazzyzievalStratII56);
-var h$mainZCHaskellziLazzyzievalStratIIzuk3 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII9 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII8 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII10);
-var h$mainZCHaskellziLazzyzievalStratII55 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII41 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII4 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII37 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII5 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII29);
-h$di(h$mainZCHaskellziLazzyzievalStratII34);
-var h$mainZCHaskellziLazzyzievalStratII45 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII32);
+var h$mainZCHaskellziLazzyzievalStratII36 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII34 = h$d();
 var h$mainZCHaskellziLazzyzievalStratIIzuk12 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII11 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII37);
+var h$mainZCHaskellziLazzyzievalStratII40 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII39 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk1 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII46 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII41 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk13 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk14 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII45);
+h$di(h$mainZCHaskellziLazzyzievalStratII47);
+var h$mainZCHaskellziLazzyzievalStratII50 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII49 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk2 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII51);
+var h$mainZCHaskellziLazzyzievalStratII61 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII54 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII53 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII55 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII57);
+h$di(h$mainZCHaskellziLazzyzievalStratII60);
+var h$mainZCHaskellziLazzyzievalStratII59 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII58 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk3 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII64 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII63 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII62 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII65);
+h$di(h$mainZCHaskellziLazzyzievalStratII67);
+var h$mainZCHaskellziLazzyzievalStratIIzuk4 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII10 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII9 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII66 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII52 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII4 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII48 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII5 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII27);
+h$di(h$mainZCHaskellziLazzyzievalStratII30);
+h$di(h$mainZCHaskellziLazzyzievalStratII35);
+var h$mainZCHaskellziLazzyzievalStratII44 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII42 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII43);
+var h$mainZCHaskellziLazzyzievalStratII56 = h$d();
+var h$mainZCHaskellziLazzyzievalStratIIzuk15 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII38 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII6 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII12 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII7 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII24 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII15 = h$d();
-var h$mainZCHaskellziLazzyzievalStratII18 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII8 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII25 = h$d();
 var h$mainZCHaskellziLazzyzievalStratII16 = h$d();
-h$di(h$mainZCHaskellziLazzyzievalStratII17);
-h$di(h$mainZCHaskellziLazzyzievalStratII20);
-h$di(h$mainZCHaskellziLazzyzievalStratII23);
-h$di(h$mainZCHaskellziLazzyzievalStratII26);
+var h$mainZCHaskellziLazzyzievalStratII19 = h$d();
+var h$mainZCHaskellziLazzyzievalStratII17 = h$d();
+h$di(h$mainZCHaskellziLazzyzievalStratII18);
+h$di(h$mainZCHaskellziLazzyzievalStratII21);
+h$di(h$mainZCHaskellziLazzyzievalStratII24);
 var h$mainZCHaskellziLazzyzievalStrat58 = h$d();
 var h$mainZCHaskellziLazzyzievalStrat47 = h$d();
 var h$mainZCHaskellziLazzyzievalStrat4 = h$d();
@@ -147740,7 +148190,7 @@ var h$mainZCHaskellziLazzyzilazzyEvalzuk4 = h$d();
 h$di(h$mainZCHaskellziLazzyzilazzyEval14);
 var h$mainZCHaskellziLazzyzilazzyEval17 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval16 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval41 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval39 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval18 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalzuk5 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalzuk6 = h$d();
@@ -147752,48 +148202,46 @@ var h$mainZCHaskellziLazzyzilazzyEval27 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval25 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalzuk10 = h$d();
 h$di(h$mainZCHaskellziLazzyzilazzyEval28);
-var h$mainZCHaskellziLazzyzilazzyEval32 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval30 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalzuk = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk11 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval35 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval33 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk12 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval31 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk11 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval34);
 h$di(h$mainZCHaskellziLazzyzilazzyEval36);
 h$di(h$mainZCHaskellziLazzyzilazzyEval38);
-h$di(h$mainZCHaskellziLazzyzilazzyEval40);
-var h$mainZCHaskellziLazzyzilazzyEvalzuk1 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval44 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval42 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk13 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval45);
-var h$mainZCHaskellziLazzyzilazzyEval48 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval40 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk1 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk12 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval43);
+var h$mainZCHaskellziLazzyzilazzyEval46 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval45 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval50 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval47 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval52 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval49 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk14 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval51);
-var h$mainZCHaskellziLazzyzilazzyEval55 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk13 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval49);
 var h$mainZCHaskellziLazzyzilazzyEval53 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk15 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval58 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval51 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk14 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval56 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk16 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval59);
-var h$mainZCHaskellziLazzyzilazzyEval7 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval62 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval61 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval54 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk15 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval57);
 var h$mainZCHaskellziLazzyzilazzyEval60 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval65 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval59 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval58 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval7 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval63 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk17 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval68 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval61 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk16 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval66 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEvalzuk18 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval69);
+var h$mainZCHaskellziLazzyzilazzyEval64 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEvalzuk17 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval67);
+h$di(h$mainZCHaskellziLazzyzilazzyEval65);
 var h$mainZCHaskellziLazzyzilazzyEval10 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval8 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval67);
 var h$mainZCHaskellziLazzyzilazzyEvalzuk3 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalIIzuh1 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalII2 = h$d();
@@ -147845,26 +148293,25 @@ var h$mainZCHaskellziLazzyzilazzyEvalII11 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalIIzuk5 = h$d();
 h$di(h$mainZCHaskellziLazzyzilazzyEvalII29);
 h$di(h$mainZCHaskellziLazzyzilazzyEvalII36);
-var h$mainZCHaskellziLazzyzilazzyEval70 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval46 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval68 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval44 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval4 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval15 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval5 = h$d();
 h$di(h$mainZCHaskellziLazzyzilazzyEval26);
-h$di(h$mainZCHaskellziLazzyzilazzyEval31);
-h$di(h$mainZCHaskellziLazzyzilazzyEval34);
-h$di(h$mainZCHaskellziLazzyzilazzyEval43);
-var h$mainZCHaskellziLazzyzilazzyEval50 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyEval54);
-h$di(h$mainZCHaskellziLazzyzilazzyEval57);
-h$di(h$mainZCHaskellziLazzyzilazzyEval64);
+h$di(h$mainZCHaskellziLazzyzilazzyEval32);
+h$di(h$mainZCHaskellziLazzyzilazzyEval41);
+var h$mainZCHaskellziLazzyzilazzyEval48 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyEval52);
+h$di(h$mainZCHaskellziLazzyzilazzyEval55);
+h$di(h$mainZCHaskellziLazzyzilazzyEval62);
 var h$mainZCHaskellziLazzyzilazzyEval6 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEvalzuk2 = h$d();
 h$di(h$mainZCHaskellziLazzyzilazzyEval9);
 h$di(h$mainZCHaskellziLazzyzilazzyEval12);
-var h$mainZCHaskellziLazzyzilazzyEval39 = h$d();
-var h$mainZCHaskellziLazzyzilazzyEval19 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval37 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval19 = h$d();
+var h$mainZCHaskellziLazzyzilazzyEval35 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval20 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval29 = h$d();
 var h$mainZCHaskellziLazzyzilazzyEval21 = h$d();
@@ -147874,62 +148321,67 @@ h$di(h$mainZCHaskellziLazzyzilazzyEval23);
 var h$mainZCHaskellziLazzyzilazzyIntro2 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro1 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro15);
-var h$mainZCHaskellziLazzyzilazzyIntro14 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro13 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro12 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntrozuk5 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro12);
+h$di(h$mainZCHaskellziLazzyzilazzyIntro14);
+h$di(h$mainZCHaskellziLazzyzilazzyIntro19);
 var h$mainZCHaskellziLazzyzilazzyIntro18 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro17 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro19);
+var h$mainZCHaskellziLazzyzilazzyIntro16 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro3 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro22 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro21 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro23 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro25);
-h$di(h$mainZCHaskellziLazzyzilazzyIntro28);
-var h$mainZCHaskellziLazzyzilazzyIntro27 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro23);
 var h$mainZCHaskellziLazzyzilazzyIntro26 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro25 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro27 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro29);
 var h$mainZCHaskellziLazzyzilazzyIntrozuk = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro32);
 var h$mainZCHaskellziLazzyzilazzyIntro31 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro30 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro32);
 var h$mainZCHaskellziLazzyzilazzyIntro35 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro34 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro33 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro47 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro36 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntrozuk6 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro36);
+var h$mainZCHaskellziLazzyzilazzyIntro39 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro38 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro37 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro51 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro40 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntrozuk1 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntrozuk7 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntrozuk8 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntrozuk1 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro41);
-var h$mainZCHaskellziLazzyzilazzyIntro45 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro43 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntrozuk9 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro46);
-h$di(h$mainZCHaskellziLazzyzilazzyIntro48);
+h$di(h$mainZCHaskellziLazzyzilazzyIntro45);
+var h$mainZCHaskellziLazzyzilazzyIntro49 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro47 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntrozuk10 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro50);
 var h$mainZCHaskellziLazzyzilazzyIntrozuk2 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro52);
 var h$mainZCHaskellziLazzyzilazzyIntrozuk3 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro9 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro10);
-var h$mainZCHaskellziLazzyzilazzyIntro29 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro13 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro10 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro33 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro4 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro20 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro24 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro5 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro16 = h$d();
+h$di(h$mainZCHaskellziLazzyzilazzyIntro48);
+var h$mainZCHaskellziLazzyzilazzyIntro20 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro6 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro11 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro15 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro7 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro8 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntrozuk4 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro24 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntrozuk5 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro11 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro28 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntrozuk6 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro46 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro41 = h$d();
+var h$mainZCHaskellziLazzyzilazzyIntro44 = h$d();
 var h$mainZCHaskellziLazzyzilazzyIntro42 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro37 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro40 = h$d();
-var h$mainZCHaskellziLazzyzilazzyIntro38 = h$d();
-h$di(h$mainZCHaskellziLazzyzilazzyIntro39);
-h$di(h$mainZCHaskellziLazzyzilazzyIntro44);
+h$di(h$mainZCHaskellziLazzyzilazzyIntro43);
 var h$mainZCHaskellziLazzyzislideShow1 = h$d();
 var h$mainZCHaskellziLazzyzislideShowzuk = h$d();
 var h$mainZCHaskellziLazzyzislideShowzuk1 = h$d();
@@ -149369,19 +149821,17 @@ var h$mainZCHaskellziFunctionzifunctionszuh1 = h$d();
 var h$mainZCHaskellziFunctionzifunctions2 = h$d();
 var h$mainZCHaskellziFunctionzifunctions1 = h$d();
 var h$mainZCHaskellziFunctionzifunctions = h$d();
-h$di(h$mainZCHaskellziFunctionzifunctions11);
+h$di(h$mainZCHaskellziFunctionzifunctions12);
 h$di(h$mainZCHaskellziFunctionzifunctions14);
-var h$mainZCHaskellziFunctionzifunctions13 = h$d();
-h$di(h$mainZCHaskellziFunctionzifunctions17);
+var h$mainZCHaskellziFunctionzifunctions17 = h$d();
 var h$mainZCHaskellziFunctionzifunctions16 = h$d();
-var h$mainZCHaskellziFunctionzifunctions20 = h$d();
-var h$mainZCHaskellziFunctionzifunctions19 = h$d();
-var h$mainZCHaskellziFunctionzifunctions3 = h$d();
-h$di(h$mainZCHaskellziFunctionzifunctions21);
-var h$mainZCHaskellziFunctionzifunctions24 = h$d();
-var h$mainZCHaskellziFunctionzifunctions23 = h$d();
-var h$mainZCHaskellziFunctionzifunctions25 = h$d();
+var h$mainZCHaskellziFunctionzifunctions18 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk4 = h$d();
 var h$mainZCHaskellziFunctionzifunctionszuk5 = h$d();
+var h$mainZCHaskellziFunctionzifunctions3 = h$d();
+h$di(h$mainZCHaskellziFunctionzifunctions22);
+h$di(h$mainZCHaskellziFunctionzifunctions25);
+var h$mainZCHaskellziFunctionzifunctions24 = h$d();
 h$di(h$mainZCHaskellziFunctionzifunctions28);
 var h$mainZCHaskellziFunctionzifunctions27 = h$d();
 var h$mainZCHaskellziFunctionzifunctionszuk = h$d();
@@ -149391,29 +149841,41 @@ var h$mainZCHaskellziFunctionzifunctions29 = h$d();
 var h$mainZCHaskellziFunctionzifunctions34 = h$d();
 var h$mainZCHaskellziFunctionzifunctions33 = h$d();
 var h$mainZCHaskellziFunctionzifunctions32 = h$d();
-var h$mainZCHaskellziFunctionzifunctions37 = h$d();
+var h$mainZCHaskellziFunctionzifunctions40 = h$d();
 var h$mainZCHaskellziFunctionzifunctions35 = h$d();
-var h$mainZCHaskellziFunctionzifunctionszuk6 = h$d();
-h$di(h$mainZCHaskellziFunctionzifunctions38);
-h$di(h$mainZCHaskellziFunctionzifunctions40);
-var h$mainZCHaskellziFunctionzifunctionszuk1 = h$d();
-var h$mainZCHaskellziFunctionzifunctions7 = h$d();
-var h$mainZCHaskellziFunctionzifunctions15 = h$d();
-var h$mainZCHaskellziFunctionzifunctions8 = h$d();
-var h$mainZCHaskellziFunctionzifunctionszuk3 = h$d();
-var h$mainZCHaskellziFunctionzifunctions39 = h$d();
-var h$mainZCHaskellziFunctionzifunctions22 = h$d();
-var h$mainZCHaskellziFunctionzifunctions4 = h$d();
-var h$mainZCHaskellziFunctionzifunctions18 = h$d();
-var h$mainZCHaskellziFunctionzifunctions5 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk7 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk8 = h$d();
+h$di(h$mainZCHaskellziFunctionzifunctions39);
+var h$mainZCHaskellziFunctionzifunctions43 = h$d();
+var h$mainZCHaskellziFunctionzifunctions41 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk9 = h$d();
+var h$mainZCHaskellziFunctionzifunctions44 = h$d();
+h$di(h$mainZCHaskellziFunctionzifunctions45);
+h$di(h$mainZCHaskellziFunctionzifunctions47);
 var h$mainZCHaskellziFunctionzifunctions6 = h$d();
+var h$mainZCHaskellziFunctionzifunctions13 = h$d();
+var h$mainZCHaskellziFunctionzifunctions7 = h$d();
 var h$mainZCHaskellziFunctionzifunctionszuk2 = h$d();
-var h$mainZCHaskellziFunctionzifunctions12 = h$d();
+var h$mainZCHaskellziFunctionzifunctions11 = h$d();
 var h$mainZCHaskellziFunctionzifunctions9 = h$d();
-var h$mainZCHaskellziFunctionzifunctions10 = h$d();
-var h$mainZCHaskellziFunctionzifunctionszuk4 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk3 = h$d();
+var h$mainZCHaskellziFunctionzifunctions46 = h$d();
+var h$mainZCHaskellziFunctionzifunctions15 = h$d();
+var h$mainZCHaskellziFunctionzifunctions4 = h$d();
+var h$mainZCHaskellziFunctionzifunctions5 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk1 = h$d();
+var h$mainZCHaskellziFunctionzifunctions8 = h$d();
+h$di(h$mainZCHaskellziFunctionzifunctions10);
 var h$mainZCHaskellziFunctionzifunctions26 = h$d();
-h$di(h$mainZCHaskellziFunctionzifunctions36);
+var h$mainZCHaskellziFunctionzifunctions19 = h$d();
+var h$mainZCHaskellziFunctionzifunctions23 = h$d();
+var h$mainZCHaskellziFunctionzifunctions20 = h$d();
+var h$mainZCHaskellziFunctionzifunctions21 = h$d();
+var h$mainZCHaskellziFunctionzifunctionszuk6 = h$d();
+var h$mainZCHaskellziFunctionzifunctions38 = h$d();
+var h$mainZCHaskellziFunctionzifunctions36 = h$d();
+h$di(h$mainZCHaskellziFunctionzifunctions37);
+h$di(h$mainZCHaskellziFunctionzifunctions42);
 var h$mainZCHaskellziFunctionzighciTipszuh1 = h$d();
 var h$mainZCHaskellziFunctionzighciTips2 = h$d();
 var h$mainZCHaskellziFunctionzighciTips1 = h$d();
@@ -149524,6 +149986,58 @@ var h$mainZCHaskellziFunctionzilambda13 = h$d();
 var h$mainZCHaskellziFunctionzilambda8 = h$d();
 var h$mainZCHaskellziFunctionzilambdazuk3 = h$d();
 var h$mainZCHaskellziFunctionzilambdazuk4 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuh1 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII2 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII1 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII = h$d();
+var h$mainZCHaskellziFunctionzilambdaII11 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII14 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII12 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk3 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII15);
+var h$mainZCHaskellziFunctionzilambdaII18 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII17 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII19 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk4 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII3 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk5 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII23);
+h$di(h$mainZCHaskellziFunctionzilambdaII26);
+var h$mainZCHaskellziFunctionzilambdaII25 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII29);
+var h$mainZCHaskellziFunctionzilambdaII28 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk = h$d();
+var h$mainZCHaskellziFunctionzilambdaII32 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII31 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII30 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII38 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII33 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk7 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk8 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII37);
+h$di(h$mainZCHaskellziFunctionzilambdaII39);
+var h$mainZCHaskellziFunctionzilambdaIIzuk1 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII41);
+var h$mainZCHaskellziFunctionzilambdaII7 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII8);
+var h$mainZCHaskellziFunctionzilambdaII10 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII40 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII16 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII4 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII9 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII5 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII6 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk2 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII13);
+var h$mainZCHaskellziFunctionzilambdaII27 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII20 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII24 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII21 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII22 = h$d();
+var h$mainZCHaskellziFunctionzilambdaIIzuk6 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII36 = h$d();
+var h$mainZCHaskellziFunctionzilambdaII34 = h$d();
+h$di(h$mainZCHaskellziFunctionzilambdaII35);
 var h$mainZCHaskellziFunctionzilambda51 = h$d();
 var h$mainZCHaskellziFunctionzilambda26 = h$d();
 var h$mainZCHaskellziFunctionzilambda4 = h$d();
@@ -149549,69 +150063,113 @@ var h$mainZCHaskellziFunctionziletExprzuh1 = h$d();
 var h$mainZCHaskellziFunctionziletExpr2 = h$d();
 var h$mainZCHaskellziFunctionziletExpr1 = h$d();
 var h$mainZCHaskellziFunctionziletExpr = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr12);
-h$di(h$mainZCHaskellziFunctionziletExpr14);
-var h$mainZCHaskellziFunctionziletExpr17 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr13);
+var h$mainZCHaskellziFunctionziletExpr12 = h$d();
 var h$mainZCHaskellziFunctionziletExpr16 = h$d();
+var h$mainZCHaskellziFunctionziletExpr15 = h$d();
+var h$mainZCHaskellziFunctionziletExpr19 = h$d();
+var h$mainZCHaskellziFunctionziletExpr17 = h$d();
+var h$mainZCHaskellziFunctionziletExprzuk4 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr20);
+var h$mainZCHaskellziFunctionziletExpr3 = h$d();
+var h$mainZCHaskellziFunctionziletExpr23 = h$d();
+var h$mainZCHaskellziFunctionziletExpr22 = h$d();
 var h$mainZCHaskellziFunctionziletExpr24 = h$d();
-var h$mainZCHaskellziFunctionziletExpr18 = h$d();
 var h$mainZCHaskellziFunctionziletExprzuk5 = h$d();
 var h$mainZCHaskellziFunctionziletExprzuk6 = h$d();
-var h$mainZCHaskellziFunctionziletExpr3 = h$d();
-var h$mainZCHaskellziFunctionziletExpr22 = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr23);
-h$di(h$mainZCHaskellziFunctionziletExpr25);
-var h$mainZCHaskellziFunctionziletExpr28 = h$d();
-var h$mainZCHaskellziFunctionziletExpr27 = h$d();
-var h$mainZCHaskellziFunctionziletExpr35 = h$d();
-var h$mainZCHaskellziFunctionziletExpr29 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk7 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr28);
 var h$mainZCHaskellziFunctionziletExprzuk = h$d();
-var h$mainZCHaskellziFunctionziletExpr33 = h$d();
-var h$mainZCHaskellziFunctionziletExpr31 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk8 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr31);
+var h$mainZCHaskellziFunctionziletExpr30 = h$d();
 h$di(h$mainZCHaskellziFunctionziletExpr34);
-h$di(h$mainZCHaskellziFunctionziletExpr36);
+var h$mainZCHaskellziFunctionziletExpr33 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr37);
+var h$mainZCHaskellziFunctionziletExpr36 = h$d();
+var h$mainZCHaskellziFunctionziletExpr35 = h$d();
+var h$mainZCHaskellziFunctionziletExpr40 = h$d();
 var h$mainZCHaskellziFunctionziletExpr39 = h$d();
 var h$mainZCHaskellziFunctionziletExpr38 = h$d();
-var h$mainZCHaskellziFunctionziletExpr37 = h$d();
-var h$mainZCHaskellziFunctionziletExpr49 = h$d();
-var h$mainZCHaskellziFunctionziletExpr40 = h$d();
 var h$mainZCHaskellziFunctionziletExprzuk1 = h$d();
+var h$mainZCHaskellziFunctionziletExpr46 = h$d();
+var h$mainZCHaskellziFunctionziletExpr41 = h$d();
+var h$mainZCHaskellziFunctionziletExprzuk8 = h$d();
 var h$mainZCHaskellziFunctionziletExprzuk9 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk10 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk11 = h$d();
-var h$mainZCHaskellziFunctionziletExpr47 = h$d();
-var h$mainZCHaskellziFunctionziletExpr45 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk12 = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr48);
-h$di(h$mainZCHaskellziFunctionziletExpr50);
-h$di(h$mainZCHaskellziFunctionziletExpr52);
+h$di(h$mainZCHaskellziFunctionziletExpr45);
+h$di(h$mainZCHaskellziFunctionziletExpr47);
+h$di(h$mainZCHaskellziFunctionziletExpr49);
 var h$mainZCHaskellziFunctionziletExpr7 = h$d();
-var h$mainZCHaskellziFunctionziletExpr13 = h$d();
+var h$mainZCHaskellziFunctionziletExpr11 = h$d();
 var h$mainZCHaskellziFunctionziletExpr8 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk3 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk4 = h$d();
-var h$mainZCHaskellziFunctionziletExpr51 = h$d();
-var h$mainZCHaskellziFunctionziletExpr26 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr10);
+var h$mainZCHaskellziFunctionziletExprIIzuh1 = h$d();
+var h$mainZCHaskellziFunctionziletExprII2 = h$d();
+var h$mainZCHaskellziFunctionziletExprII1 = h$d();
+var h$mainZCHaskellziFunctionziletExprII = h$d();
+var h$mainZCHaskellziFunctionziletExprII12 = h$d();
+var h$mainZCHaskellziFunctionziletExprII11 = h$d();
+var h$mainZCHaskellziFunctionziletExprII13 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII15);
+h$di(h$mainZCHaskellziFunctionziletExprII18);
+var h$mainZCHaskellziFunctionziletExprII17 = h$d();
+var h$mainZCHaskellziFunctionziletExprII16 = h$d();
+var h$mainZCHaskellziFunctionziletExprII3 = h$d();
+var h$mainZCHaskellziFunctionziletExprII21 = h$d();
+var h$mainZCHaskellziFunctionziletExprII20 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII22);
+var h$mainZCHaskellziFunctionziletExprII25 = h$d();
+var h$mainZCHaskellziFunctionziletExprII24 = h$d();
+var h$mainZCHaskellziFunctionziletExprII26 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII28);
+var h$mainZCHaskellziFunctionziletExprIIzuk = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII31);
+var h$mainZCHaskellziFunctionziletExprII30 = h$d();
+var h$mainZCHaskellziFunctionziletExprII29 = h$d();
+var h$mainZCHaskellziFunctionziletExprII34 = h$d();
+var h$mainZCHaskellziFunctionziletExprII33 = h$d();
+var h$mainZCHaskellziFunctionziletExprII32 = h$d();
+var h$mainZCHaskellziFunctionziletExprII37 = h$d();
+var h$mainZCHaskellziFunctionziletExprII35 = h$d();
+var h$mainZCHaskellziFunctionziletExprIIzuk6 = h$d();
+var h$mainZCHaskellziFunctionziletExprII38 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII39);
+var h$mainZCHaskellziFunctionziletExprIIzuk1 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII41);
+var h$mainZCHaskellziFunctionziletExprIIzuk2 = h$d();
+var h$mainZCHaskellziFunctionziletExprII8 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII9);
+var h$mainZCHaskellziFunctionziletExprII40 = h$d();
+var h$mainZCHaskellziFunctionziletExprII23 = h$d();
+var h$mainZCHaskellziFunctionziletExprII4 = h$d();
+var h$mainZCHaskellziFunctionziletExprII19 = h$d();
+var h$mainZCHaskellziFunctionziletExprII5 = h$d();
+var h$mainZCHaskellziFunctionziletExprII10 = h$d();
+var h$mainZCHaskellziFunctionziletExprII6 = h$d();
+var h$mainZCHaskellziFunctionziletExprII7 = h$d();
+var h$mainZCHaskellziFunctionziletExprIIzuk3 = h$d();
+var h$mainZCHaskellziFunctionziletExprII14 = h$d();
+var h$mainZCHaskellziFunctionziletExprIIzuk4 = h$d();
+var h$mainZCHaskellziFunctionziletExprII27 = h$d();
+var h$mainZCHaskellziFunctionziletExprIIzuk5 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExprII36);
+var h$mainZCHaskellziFunctionziletExpr48 = h$d();
+var h$mainZCHaskellziFunctionziletExpr21 = h$d();
 var h$mainZCHaskellziFunctionziletExpr4 = h$d();
-var h$mainZCHaskellziFunctionziletExpr15 = h$d();
+var h$mainZCHaskellziFunctionziletExpr14 = h$d();
 var h$mainZCHaskellziFunctionziletExpr5 = h$d();
+var h$mainZCHaskellziFunctionziletExpr6 = h$d();
+var h$mainZCHaskellziFunctionziletExprzuk2 = h$d();
+var h$mainZCHaskellziFunctionziletExpr9 = h$d();
+var h$mainZCHaskellziFunctionziletExprzuk3 = h$d();
+h$di(h$mainZCHaskellziFunctionziletExpr18);
+var h$mainZCHaskellziFunctionziletExpr32 = h$d();
+var h$mainZCHaskellziFunctionziletExpr25 = h$d();
+var h$mainZCHaskellziFunctionziletExpr29 = h$d();
+var h$mainZCHaskellziFunctionziletExpr26 = h$d();
+var h$mainZCHaskellziFunctionziletExpr27 = h$d();
+var h$mainZCHaskellziFunctionziletExprzuk7 = h$d();
 var h$mainZCHaskellziFunctionziletExpr44 = h$d();
 var h$mainZCHaskellziFunctionziletExpr42 = h$d();
 h$di(h$mainZCHaskellziFunctionziletExpr43);
-h$di(h$mainZCHaskellziFunctionziletExpr46);
-var h$mainZCHaskellziFunctionziletExpr6 = h$d();
-var h$mainZCHaskellziFunctionziletExprzuk2 = h$d();
-var h$mainZCHaskellziFunctionziletExpr11 = h$d();
-var h$mainZCHaskellziFunctionziletExpr9 = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr10);
-var h$mainZCHaskellziFunctionziletExpr21 = h$d();
-var h$mainZCHaskellziFunctionziletExpr19 = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr20);
-var h$mainZCHaskellziFunctionziletExpr30 = h$d();
-h$di(h$mainZCHaskellziFunctionziletExpr32);
-var h$mainZCHaskellziFunctionziletExpr41 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuh1 = h$d();
 var h$mainZCHaskellziFunctionzioperators2 = h$d();
 var h$mainZCHaskellziFunctionzioperators1 = h$d();
@@ -149623,39 +150181,39 @@ var h$mainZCHaskellziFunctionzioperators16 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk5 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk6 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators20);
+var h$mainZCHaskellziFunctionzioperators19 = h$d();
 var h$mainZCHaskellziFunctionzioperators3 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators23);
 var h$mainZCHaskellziFunctionzioperators22 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators26);
+var h$mainZCHaskellziFunctionzioperators21 = h$d();
+var h$mainZCHaskellziFunctionzioperators26 = h$d();
 var h$mainZCHaskellziFunctionzioperators25 = h$d();
-var h$mainZCHaskellziFunctionzioperators24 = h$d();
-var h$mainZCHaskellziFunctionzioperators29 = h$d();
-var h$mainZCHaskellziFunctionzioperators28 = h$d();
-var h$mainZCHaskellziFunctionzioperators35 = h$d();
-var h$mainZCHaskellziFunctionzioperators30 = h$d();
-var h$mainZCHaskellziFunctionzioperatorszuk = h$d();
+var h$mainZCHaskellziFunctionzioperators32 = h$d();
+var h$mainZCHaskellziFunctionzioperators27 = h$d();
+var h$mainZCHaskellziFunctionzioperatorszuk7 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk8 = h$d();
+var h$mainZCHaskellziFunctionzioperatorszuk = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators31);
+var h$mainZCHaskellziFunctionzioperators35 = h$d();
+var h$mainZCHaskellziFunctionzioperators33 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk9 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators34);
+h$di(h$mainZCHaskellziFunctionzioperators36);
+var h$mainZCHaskellziFunctionzioperators39 = h$d();
 var h$mainZCHaskellziFunctionzioperators38 = h$d();
-var h$mainZCHaskellziFunctionzioperators36 = h$d();
-var h$mainZCHaskellziFunctionzioperatorszuk10 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators39);
+var h$mainZCHaskellziFunctionzioperators65 = h$d();
+var h$mainZCHaskellziFunctionzioperators40 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk1 = h$d();
-var h$mainZCHaskellziFunctionzioperators42 = h$d();
-var h$mainZCHaskellziFunctionzioperators41 = h$d();
-var h$mainZCHaskellziFunctionzioperators62 = h$d();
-var h$mainZCHaskellziFunctionzioperators43 = h$d();
+var h$mainZCHaskellziFunctionzioperatorszuk10 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk11 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk12 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk13 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk14 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk15 = h$d();
-var h$mainZCHaskellziFunctionzioperators51 = h$d();
-var h$mainZCHaskellziFunctionzioperators49 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk16 = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators49);
 var h$mainZCHaskellziFunctionzioperatorszuk2 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators52);
+var h$mainZCHaskellziFunctionzioperators51 = h$d();
+var h$mainZCHaskellziFunctionzioperatorszuk17 = h$d();
 var h$mainZCHaskellziFunctionzioperators54 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators55);
 var h$mainZCHaskellziFunctionzioperators57 = h$d();
@@ -149664,15 +150222,17 @@ var h$mainZCHaskellziFunctionzioperators60 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators61);
 var h$mainZCHaskellziFunctionzioperators63 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators64);
-var h$mainZCHaskellziFunctionzioperators67 = h$d();
 var h$mainZCHaskellziFunctionzioperators66 = h$d();
-var h$mainZCHaskellziFunctionzioperators65 = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators67);
 var h$mainZCHaskellziFunctionzioperators70 = h$d();
+var h$mainZCHaskellziFunctionzioperators69 = h$d();
 var h$mainZCHaskellziFunctionzioperators68 = h$d();
-var h$mainZCHaskellziFunctionzioperatorszuk17 = h$d();
 var h$mainZCHaskellziFunctionzioperators8 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators71);
-h$di(h$mainZCHaskellziFunctionzioperators73);
+var h$mainZCHaskellziFunctionzioperators73 = h$d();
+var h$mainZCHaskellziFunctionzioperators71 = h$d();
+var h$mainZCHaskellziFunctionzioperatorszuk18 = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators74);
+h$di(h$mainZCHaskellziFunctionzioperators76);
 var h$mainZCHaskellziFunctionzioperators11 = h$d();
 var h$mainZCHaskellziFunctionzioperators9 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk4 = h$d();
@@ -149738,35 +150298,37 @@ var h$mainZCHaskellziFunctionzioperatorsII34 = h$d();
 var h$mainZCHaskellziFunctionzioperatorsII38 = h$d();
 var h$mainZCHaskellziFunctionzioperatorsII35 = h$d();
 var h$mainZCHaskellziFunctionzioperatorsII36 = h$d();
-var h$mainZCHaskellziFunctionzioperators72 = h$d();
-var h$mainZCHaskellziFunctionzioperators40 = h$d();
+var h$mainZCHaskellziFunctionzioperators75 = h$d();
+var h$mainZCHaskellziFunctionzioperators37 = h$d();
 var h$mainZCHaskellziFunctionzioperators4 = h$d();
-var h$mainZCHaskellziFunctionzioperators27 = h$d();
+var h$mainZCHaskellziFunctionzioperators24 = h$d();
 var h$mainZCHaskellziFunctionzioperators5 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators37);
+var h$mainZCHaskellziFunctionzioperators62 = h$d();
+var h$mainZCHaskellziFunctionzioperators41 = h$d();
 var h$mainZCHaskellziFunctionzioperators59 = h$d();
-var h$mainZCHaskellziFunctionzioperators44 = h$d();
+var h$mainZCHaskellziFunctionzioperators42 = h$d();
 var h$mainZCHaskellziFunctionzioperators56 = h$d();
-var h$mainZCHaskellziFunctionzioperators45 = h$d();
+var h$mainZCHaskellziFunctionzioperators43 = h$d();
 var h$mainZCHaskellziFunctionzioperators53 = h$d();
-var h$mainZCHaskellziFunctionzioperators46 = h$d();
+var h$mainZCHaskellziFunctionzioperators44 = h$d();
+var h$mainZCHaskellziFunctionzioperators50 = h$d();
+var h$mainZCHaskellziFunctionzioperators45 = h$d();
 var h$mainZCHaskellziFunctionzioperators48 = h$d();
-var h$mainZCHaskellziFunctionzioperators47 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators50);
-h$di(h$mainZCHaskellziFunctionzioperators69);
+var h$mainZCHaskellziFunctionzioperators46 = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators47);
+h$di(h$mainZCHaskellziFunctionzioperators52);
+h$di(h$mainZCHaskellziFunctionzioperators72);
 var h$mainZCHaskellziFunctionzioperators13 = h$d();
 var h$mainZCHaskellziFunctionzioperators6 = h$d();
 var h$mainZCHaskellziFunctionzioperators7 = h$d();
 var h$mainZCHaskellziFunctionzioperatorszuk3 = h$d();
 h$di(h$mainZCHaskellziFunctionzioperators10);
 var h$mainZCHaskellziFunctionzioperators17 = h$d();
-var h$mainZCHaskellziFunctionzioperators21 = h$d();
 var h$mainZCHaskellziFunctionzioperators18 = h$d();
-var h$mainZCHaskellziFunctionzioperators19 = h$d();
-var h$mainZCHaskellziFunctionzioperatorszuk7 = h$d();
-var h$mainZCHaskellziFunctionzioperators33 = h$d();
-var h$mainZCHaskellziFunctionzioperators31 = h$d();
-h$di(h$mainZCHaskellziFunctionzioperators32);
+var h$mainZCHaskellziFunctionzioperators30 = h$d();
+var h$mainZCHaskellziFunctionzioperators28 = h$d();
+h$di(h$mainZCHaskellziFunctionzioperators29);
+h$di(h$mainZCHaskellziFunctionzioperators34);
 var h$mainZCHaskellziFunctionzislideShow1 = h$d();
 var h$mainZCHaskellziFunctionzislideShowzuk = h$d();
 var h$mainZCHaskellziFunctionzislideShowzuk1 = h$d();
@@ -149774,12 +150336,16 @@ var h$mainZCHaskellziFunctionzislideShowzuk2 = h$d();
 var h$mainZCHaskellziFunctionzislideShowzuk3 = h$d();
 var h$mainZCHaskellziFunctionzislideShowzuk4 = h$d();
 var h$mainZCHaskellziFunctionzislideShowzuk5 = h$d();
+var h$mainZCHaskellziFunctionzislideShowzuk6 = h$d();
+var h$mainZCHaskellziFunctionzislideShowzuk7 = h$d();
 var h$mainZCHaskellziFunctionzislideShow2 = h$d();
 var h$mainZCHaskellziFunctionzislideShow3 = h$d();
 var h$mainZCHaskellziFunctionzislideShow4 = h$d();
 var h$mainZCHaskellziFunctionzislideShow5 = h$d();
 var h$mainZCHaskellziFunctionzislideShow6 = h$d();
 var h$mainZCHaskellziFunctionzislideShow7 = h$d();
+var h$mainZCHaskellziFunctionzislideShow8 = h$d();
+var h$mainZCHaskellziFunctionzislideShow9 = h$d();
 var h$mainZCHaskellziEratostheneszislideShow = h$d();
 var h$mainZCHaskellziEratostheneszisieveExerciseIzuh1 = h$d();
 var h$mainZCHaskellziEratostheneszisieveExerciseI2 = h$d();
@@ -150048,6 +150614,11 @@ var h$mainZCHaskellziDotAndDollarzidot37 = h$d();
 var h$mainZCHaskellziDotAndDollarzidotzuk8 = h$d();
 h$di(h$mainZCHaskellziDotAndDollarzidot46);
 var h$mainZCHaskellziDotAndDollarzislideShow1 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin57);
+var h$mainZCHaskellziDifferenceEnginezideBegin56 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin55);
+var h$mainZCHaskellziDifferenceEnginezideBegin54 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBeginzuk11 = h$d();
 var h$mainZCHaskellziDifferenceEnginezislideShow = h$d();
 var h$mainZCHaskellziDifferenceEnginezialgorithmzuh1 = h$d();
 var h$mainZCHaskellziDifferenceEnginezialgorithm2 = h$d();
@@ -150165,48 +150736,49 @@ var h$mainZCHaskellziDifferenceEnginezideBegin1 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin13 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin12 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin14);
+var h$mainZCHaskellziDifferenceEnginezideBegin14 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin16);
 var h$mainZCHaskellziDifferenceEnginezideBegin17 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin16 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin26 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin18 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin18);
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk5 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk6 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin3 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk7 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin23);
+var h$mainZCHaskellziDifferenceEnginezideBegin23 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezideBegin25);
-var h$mainZCHaskellziDifferenceEnginezideBegin29 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin27 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin29);
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin27);
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk8 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin30);
+var h$mainZCHaskellziDifferenceEnginezideBegin30 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin32);
 var h$mainZCHaskellziDifferenceEnginezideBegin33 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin32 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin34 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin36);
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin39);
-var h$mainZCHaskellziDifferenceEnginezideBegin38 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin37 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin34);
+var h$mainZCHaskellziDifferenceEnginezideBeginzuk9 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBegin36 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBegin38 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk1 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin43);
 var h$mainZCHaskellziDifferenceEnginezideBegin42 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin41 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin43);
 var h$mainZCHaskellziDifferenceEnginezideBegin46 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin45 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin44 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin50 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin47 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBeginzuk10 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin49);
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin47);
+var h$mainZCHaskellziDifferenceEnginezideBegin49 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk2 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin51);
+var h$mainZCHaskellziDifferenceEnginezideBegin51 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezideBegin53);
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk3 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin9 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezideBegin10);
 var h$mainZCHaskellziDifferenceEnginezideBegin52 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin40 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezideBegin40);
+var h$mainZCHaskellziDifferenceEnginezideBegin39 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBeginzuk10 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin4 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin31 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin5 = h$d();
@@ -150218,13 +150790,12 @@ var h$mainZCHaskellziDifferenceEnginezideBegin7 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin8 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBeginzuk4 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin24 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBegin19 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin22 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBegin21 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin20 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin21);
-h$di(h$mainZCHaskellziDifferenceEnginezideBegin28);
+var h$mainZCHaskellziDifferenceEnginezideBegin19 = h$d();
+var h$mainZCHaskellziDifferenceEnginezideBegin28 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideBegin35 = h$d();
-var h$mainZCHaskellziDifferenceEnginezideBeginzuk9 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideIntrozuh1 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideIntro2 = h$d();
 var h$mainZCHaskellziDifferenceEnginezideIntro1 = h$d();
@@ -150401,6 +150972,7 @@ h$di(h$mainZCHaskellziDifferenceEnginezilastSteps17);
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps20);
 var h$mainZCHaskellziDifferenceEnginezilastSteps19 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps18 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps60 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps3 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps23 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps22 = h$d();
@@ -150411,50 +150983,46 @@ h$di(h$mainZCHaskellziDifferenceEnginezilastSteps27);
 var h$mainZCHaskellziDifferenceEnginezilastSteps30 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps29 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps50 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezilastSteps50);
 var h$mainZCHaskellziDifferenceEnginezilastSteps31 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk7 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk8 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk9 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps35 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk10 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps40 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezilastSteps40);
 var h$mainZCHaskellziDifferenceEnginezilastSteps38 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk11 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk1 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps43 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezilastSteps43);
 var h$mainZCHaskellziDifferenceEnginezilastSteps41 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk12 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps46 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps44 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk13 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps47);
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps49);
+var h$mainZCHaskellziDifferenceEnginezilastSteps49 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk2 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps53 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps51 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastStepszuk14 = h$d();
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps54);
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps59);
-var h$mainZCHaskellziDifferenceEnginezilastSteps58 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps57 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezilastSteps57);
 var h$mainZCHaskellziDifferenceEnginezilastSteps56 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps59 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps58 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastStepszuk3 = h$d();
+h$di(h$mainZCHaskellziDifferenceEnginezilastSteps61);
 var h$mainZCHaskellziDifferenceEnginezilastSteps62 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps61 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps60 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps63);
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps65);
 var h$mainZCHaskellziDifferenceEnginezilastSteps9 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps10 = h$d();
-var h$mainZCHaskellziDifferenceEnginezilastSteps64 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps55 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps54 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps53 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps4 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps28 = h$d();
 var h$mainZCHaskellziDifferenceEnginezilastSteps5 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps36);
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps39);
-h$di(h$mainZCHaskellziDifferenceEnginezilastSteps42);
+var h$mainZCHaskellziDifferenceEnginezilastSteps39 = h$d();
+var h$mainZCHaskellziDifferenceEnginezilastSteps42 = h$d();
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps45);
 h$di(h$mainZCHaskellziDifferenceEnginezilastSteps52);
 var h$mainZCHaskellziDifferenceEnginezilastSteps21 = h$d();
@@ -150630,6 +151198,11 @@ var h$mainZCHaskellziDifferenceEnginezislideShow6 = h$d();
 var h$mainZCHaskellziDifferenceEnginezislideShow7 = h$d();
 var h$mainZCHaskellziDifferenceEnginezislideShow8 = h$d();
 var h$mainZCHaskellziDifferenceEnginezislideShow9 = h$d();
+h$di(h$mainZCHaskellziADTzitrees54);
+var h$mainZCHaskellziADTzitrees53 = h$d();
+h$di(h$mainZCHaskellziADTzitrees52);
+var h$mainZCHaskellziADTzitrees51 = h$d();
+var h$mainZCHaskellziADTzitreeszuk11 = h$d();
 var h$mainZCHaskellziADTzislideShow = h$d();
 var h$mainZCHaskellziADTzicaseExprzuh1 = h$d();
 var h$mainZCHaskellziADTzicaseExpr2 = h$d();
@@ -150902,23 +151475,20 @@ h$di(h$mainZCHaskellziADTzipatternMatching28);
 var h$mainZCHaskellziADTzipatternMatchingzuk = h$d();
 h$di(h$mainZCHaskellziADTzipatternMatching31);
 var h$mainZCHaskellziADTzipatternMatching30 = h$d();
-h$di(h$mainZCHaskellziADTzipatternMatching34);
+var h$mainZCHaskellziADTzipatternMatching34 = h$d();
 var h$mainZCHaskellziADTzipatternMatching33 = h$d();
 var h$mainZCHaskellziADTzipatternMatching32 = h$d();
 var h$mainZCHaskellziADTzipatternMatching37 = h$d();
-var h$mainZCHaskellziADTzipatternMatching36 = h$d();
 var h$mainZCHaskellziADTzipatternMatching35 = h$d();
-var h$mainZCHaskellziADTzipatternMatching40 = h$d();
-var h$mainZCHaskellziADTzipatternMatching38 = h$d();
 var h$mainZCHaskellziADTzipatternMatchingzuk7 = h$d();
+h$di(h$mainZCHaskellziADTzipatternMatching38);
+h$di(h$mainZCHaskellziADTzipatternMatching40);
 var h$mainZCHaskellziADTzipatternMatchingzuk1 = h$d();
-h$di(h$mainZCHaskellziADTzipatternMatching41);
-h$di(h$mainZCHaskellziADTzipatternMatching43);
 var h$mainZCHaskellziADTzipatternMatching7 = h$d();
 var h$mainZCHaskellziADTzipatternMatching15 = h$d();
 var h$mainZCHaskellziADTzipatternMatching8 = h$d();
 var h$mainZCHaskellziADTzipatternMatchingzuk3 = h$d();
-var h$mainZCHaskellziADTzipatternMatching42 = h$d();
+var h$mainZCHaskellziADTzipatternMatching39 = h$d();
 var h$mainZCHaskellziADTzipatternMatching22 = h$d();
 var h$mainZCHaskellziADTzipatternMatching4 = h$d();
 var h$mainZCHaskellziADTzipatternMatching18 = h$d();
@@ -150933,7 +151503,7 @@ var h$mainZCHaskellziADTzipatternMatching29 = h$d();
 var h$mainZCHaskellziADTzipatternMatching26 = h$d();
 var h$mainZCHaskellziADTzipatternMatching27 = h$d();
 var h$mainZCHaskellziADTzipatternMatchingzuk6 = h$d();
-h$di(h$mainZCHaskellziADTzipatternMatching39);
+h$di(h$mainZCHaskellziADTzipatternMatching36);
 var h$mainZCHaskellziADTzislideShow1 = h$d();
 var h$mainZCHaskellziADTzislideShowzuk = h$d();
 var h$mainZCHaskellziADTzislideShowzuk1 = h$d();
@@ -150947,62 +151517,65 @@ var h$mainZCHaskellziADTzitreeszuh1 = h$d();
 var h$mainZCHaskellziADTzitrees2 = h$d();
 var h$mainZCHaskellziADTzitrees1 = h$d();
 var h$mainZCHaskellziADTzitrees = h$d();
-var h$mainZCHaskellziADTzitrees13 = h$d();
-var h$mainZCHaskellziADTzitrees12 = h$d();
-var h$mainZCHaskellziADTzitrees19 = h$d();
-var h$mainZCHaskellziADTzitrees14 = h$d();
 var h$mainZCHaskellziADTzitreeszuk5 = h$d();
 var h$mainZCHaskellziADTzitreeszuk6 = h$d();
-h$di(h$mainZCHaskellziADTzitrees18);
+h$di(h$mainZCHaskellziADTzitrees14);
+h$di(h$mainZCHaskellziADTzitrees16);
+var h$mainZCHaskellziADTzitrees18 = h$d();
 h$di(h$mainZCHaskellziADTzitrees20);
+h$di(h$mainZCHaskellziADTzitrees42);
 var h$mainZCHaskellziADTzitrees3 = h$d();
-var h$mainZCHaskellziADTzitrees23 = h$d();
-var h$mainZCHaskellziADTzitrees22 = h$d();
-h$di(h$mainZCHaskellziADTzitrees24);
-var h$mainZCHaskellziADTzitrees27 = h$d();
-var h$mainZCHaskellziADTzitrees26 = h$d();
-var h$mainZCHaskellziADTzitrees33 = h$d();
-var h$mainZCHaskellziADTzitrees28 = h$d();
+var h$mainZCHaskellziADTzitrees21 = h$d();
+h$di(h$mainZCHaskellziADTzitrees22);
+var h$mainZCHaskellziADTzitrees25 = h$d();
+var h$mainZCHaskellziADTzitrees24 = h$d();
+var h$mainZCHaskellziADTzitrees31 = h$d();
+h$di(h$mainZCHaskellziADTzitrees26);
 var h$mainZCHaskellziADTzitreeszuk7 = h$d();
 var h$mainZCHaskellziADTzitreeszuk8 = h$d();
+var h$mainZCHaskellziADTzitrees30 = h$d();
 var h$mainZCHaskellziADTzitreeszuk = h$d();
 h$di(h$mainZCHaskellziADTzitrees32);
 h$di(h$mainZCHaskellziADTzitrees34);
-h$di(h$mainZCHaskellziADTzitrees39);
-var h$mainZCHaskellziADTzitrees38 = h$d();
-var h$mainZCHaskellziADTzitrees37 = h$d();
-var h$mainZCHaskellziADTzitrees36 = h$d();
-var h$mainZCHaskellziADTzitreeszuk1 = h$d();
-var h$mainZCHaskellziADTzitrees42 = h$d();
-var h$mainZCHaskellziADTzitrees41 = h$d();
-var h$mainZCHaskellziADTzitrees40 = h$d();
-var h$mainZCHaskellziADTzitrees45 = h$d();
-var h$mainZCHaskellziADTzitrees43 = h$d();
-var h$mainZCHaskellziADTzitreeszuk9 = h$d();
-h$di(h$mainZCHaskellziADTzitrees46);
-h$di(h$mainZCHaskellziADTzitrees48);
-var h$mainZCHaskellziADTzitreeszuk2 = h$d();
-var h$mainZCHaskellziADTzitreeszuk3 = h$d();
-var h$mainZCHaskellziADTzitrees9 = h$d();
-h$di(h$mainZCHaskellziADTzitrees10);
-var h$mainZCHaskellziADTzitrees47 = h$d();
 var h$mainZCHaskellziADTzitrees35 = h$d();
-var h$mainZCHaskellziADTzitrees4 = h$d();
-var h$mainZCHaskellziADTzitrees25 = h$d();
-var h$mainZCHaskellziADTzitrees5 = h$d();
-var h$mainZCHaskellziADTzitrees21 = h$d();
-var h$mainZCHaskellziADTzitrees6 = h$d();
-var h$mainZCHaskellziADTzitrees11 = h$d();
-var h$mainZCHaskellziADTzitrees7 = h$d();
+var h$mainZCHaskellziADTzitrees39 = h$d();
+h$di(h$mainZCHaskellziADTzitrees36);
+var h$mainZCHaskellziADTzitreeszuk9 = h$d();
+var h$mainZCHaskellziADTzitrees38 = h$d();
+var h$mainZCHaskellziADTzitrees40 = h$d();
+var h$mainZCHaskellziADTzitreeszuk1 = h$d();
+var h$mainZCHaskellziADTzitrees41 = h$d();
+h$di(h$mainZCHaskellziADTzitrees45);
+var h$mainZCHaskellziADTzitrees44 = h$d();
+var h$mainZCHaskellziADTzitrees43 = h$d();
+var h$mainZCHaskellziADTzitreeszuk10 = h$d();
+var h$mainZCHaskellziADTzitrees48 = h$d();
+var h$mainZCHaskellziADTzitrees47 = h$d();
+h$di(h$mainZCHaskellziADTzitrees50);
+var h$mainZCHaskellziADTzitreeszuk2 = h$d();
 var h$mainZCHaskellziADTzitrees8 = h$d();
-var h$mainZCHaskellziADTzitreeszuk4 = h$d();
 var h$mainZCHaskellziADTzitrees17 = h$d();
+var h$mainZCHaskellziADTzitrees9 = h$d();
+var h$mainZCHaskellziADTzitreeszuk4 = h$d();
+var h$mainZCHaskellziADTzitrees49 = h$d();
+var h$mainZCHaskellziADTzitrees33 = h$d();
+var h$mainZCHaskellziADTzitrees4 = h$d();
+var h$mainZCHaskellziADTzitrees23 = h$d();
+var h$mainZCHaskellziADTzitrees5 = h$d();
+var h$mainZCHaskellziADTzitrees46 = h$d();
+var h$mainZCHaskellziADTzitrees19 = h$d();
+var h$mainZCHaskellziADTzitrees6 = h$d();
+var h$mainZCHaskellziADTzitrees7 = h$d();
+var h$mainZCHaskellziADTzitreeszuk3 = h$d();
 var h$mainZCHaskellziADTzitrees15 = h$d();
-h$di(h$mainZCHaskellziADTzitrees16);
-var h$mainZCHaskellziADTzitrees31 = h$d();
+var h$mainZCHaskellziADTzitrees10 = h$d();
+var h$mainZCHaskellziADTzitrees13 = h$d();
+var h$mainZCHaskellziADTzitrees11 = h$d();
+h$di(h$mainZCHaskellziADTzitrees12);
 var h$mainZCHaskellziADTzitrees29 = h$d();
-h$di(h$mainZCHaskellziADTzitrees30);
-h$di(h$mainZCHaskellziADTzitrees44);
+var h$mainZCHaskellziADTzitrees28 = h$d();
+var h$mainZCHaskellziADTzitrees27 = h$d();
+var h$mainZCHaskellziADTzitrees37 = h$d();
 var h$aesonzuJfwOc0tatveGJr1ebKU0dGZCDataziAesonziTypesziInternalzizdfShowValuezuzdcshowsPrec = h$d();
 var h$aesonzuJfwOc0tatveGJr1ebKU0dGZCDataziAesonziTypesziInternalzizdfShowValuezuzdszdcshowsPrec = h$d();
 var h$aesonzuJfwOc0tatveGJr1ebKU0dGZCDataziAesonziTypesziInternalzizdfShowValue = h$d();
@@ -152305,17 +152878,17 @@ h$mainZCHaskellziSlideShowzislideShow4_e, h$mainZCHaskellziSlideShowzislideShow5
 h$mainZCHaskellziSlideShowzislideShow6_e, h$mainZCHaskellziSlideShowzislideShow11_e,
 h$mainZCHaskellziSlideShowzislideShow1zuk_e, h$mainZCHaskellziSlideShowzislideShow1zuk1_e,
 h$mainZCHaskellziSlideShowzislideShow1zuk2_e, h$mainZCHaskellziSlideShowzislideShow2zuk_e,
-h$mainZCHaskellziSlideShowzislideShow3zuk_e, h$mainZCHaskellziSlideShowzislideShow3zuk1_e,
-h$mainZCHaskellziSlideShowzislideShow3zuk2_e, h$mainZCHaskellziSlideShowzislideShow4zuk_e,
+h$mainZCHaskellziSlideShowzislideShow4zuk_e, h$mainZCHaskellziSlideShowzislideShow5zuk_e,
+h$mainZCHaskellziSlideShowzislideShow5zuk1_e, h$mainZCHaskellziSlideShowzislideShow5zuk2_e,
 h$mainZCHaskellziSlideShowzislideShow6zuk_e, h$mainZCHaskellziSlideShowzislideShow12_e,
 h$mainZCHaskellziSlideShowzislideShow13_e, h$mainZCHaskellziSlideShowzislideShow10_e,
 h$mainZCHaskellziSlideShowzislideShow14_e, h$mainZCHaskellziSlideShowzislideShow6zuk1_e,
-h$mainZCHaskellziSlideShowzislideShow15_e, h$mainZCHaskellziSlideShowzislideShow16_e,
-h$mainZCHaskellziSlideShowzislideShow17_e, h$mainZCHaskellziSlideShowzislideShow18_e,
 h$mainZCHaskellziSlideShowzislideShow7_e, h$mainZCHaskellziSlideShowzislideShow8_e,
-h$mainZCHaskellziSlideShowzislideShow9_e, h$mainZCHaskellziSlideShowzislideShow19_e,
-h$mainZCHaskellziSlideShowzislideShow20_e, h$mainZCHaskellziSlideShowzislideShow5zuk_e,
-h$mainZCHaskellziSlideShowzislideShow5zuk1_e, h$mainZCHaskellziSlideShowzislideShow5zuk2_e,
+h$mainZCHaskellziSlideShowzislideShow9_e, h$mainZCHaskellziSlideShowzislideShow15_e,
+h$mainZCHaskellziSlideShowzislideShow16_e, h$mainZCHaskellziSlideShowzislideShow17_e,
+h$mainZCHaskellziSlideShowzislideShow18_e, h$mainZCHaskellziSlideShowzislideShow19_e,
+h$mainZCHaskellziSlideShowzislideShow20_e, h$mainZCHaskellziSlideShowzislideShow3zuk_e,
+h$mainZCHaskellziSlideShowzislideShow3zuk1_e, h$mainZCHaskellziSlideShowzislideShow3zuk2_e,
 h$mainZCHaskellziRecursionzilistszugo_e, h$$aHa, h$$aHb, h$$aHc, h$mainZCHaskellziRecursionzilistszugo1_e, h$$aHd,
 h$$aHe, h$$aHf, h$mainZCHaskellziRecursionzilistszugo2_e, h$$aHg, h$$aHh, h$$aHi, h$$aHj, h$$aHk, h$$aHl,
 h$mainZCHaskellziRecursionzislideShow_e, h$mainZCHaskellziRecursionziex2zuh1_e, h$mainZCHaskellziRecursionziex3_e,
@@ -152636,42 +153209,46 @@ h$mainZCHaskellziLazzyzievalStrat52_e, h$mainZCHaskellziLazzyzievalStrat50_e, h$
 h$mainZCHaskellziLazzyzievalStratzuk13_e, h$mainZCHaskellziLazzyzievalStrat56_e,
 h$mainZCHaskellziLazzyzievalStratzuk3_e, h$mainZCHaskellziLazzyzievalStrat9_e, h$mainZCHaskellziLazzyzievalStrat12_e,
 h$mainZCHaskellziLazzyzievalStrat10_e, h$mainZCHaskellziLazzyzievalStratIIzuh1_e,
-h$mainZCHaskellziLazzyzievalStratII2_e, h$mainZCHaskellziLazzyzievalStratII13_e,
-h$mainZCHaskellziLazzyzievalStratII32_e, h$mainZCHaskellziLazzyzievalStratII14_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk4_e, h$mainZCHaskellziLazzyzievalStratIIzuk5_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk6_e, h$mainZCHaskellziLazzyzievalStratII21_e,
-h$mainZCHaskellziLazzyzievalStratII19_e, h$mainZCHaskellziLazzyzievalStratIIzuk7_e,
-h$mainZCHaskellziLazzyzievalStratII3_e, h$mainZCHaskellziLazzyzievalStratII22_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk8_e, h$mainZCHaskellziLazzyzievalStratII27_e,
-h$mainZCHaskellziLazzyzievalStratII25_e, h$mainZCHaskellziLazzyzievalStratIIzuk9_e,
-h$mainZCHaskellziLazzyzievalStratII30_e, h$mainZCHaskellziLazzyzievalStratII28_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk10_e, h$mainZCHaskellziLazzyzievalStratIIzuk_e,
-h$mainZCHaskellziLazzyzievalStratII35_e, h$mainZCHaskellziLazzyzievalStratII33_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk11_e, h$mainZCHaskellziLazzyzievalStratII39_e,
-h$mainZCHaskellziLazzyzievalStratIIzuk1_e, h$mainZCHaskellziLazzyzievalStratII43_e,
-h$mainZCHaskellziLazzyzievalStratII44_e, h$mainZCHaskellziLazzyzievalStratIIzuk2_e,
-h$mainZCHaskellziLazzyzievalStratII53_e, h$mainZCHaskellziLazzyzievalStratIIzuk3_e,
-h$mainZCHaskellziLazzyzievalStratII9_e, h$mainZCHaskellziLazzyzievalStratII55_e, h$mainZCHaskellziLazzyzievalStratII4_e,
-h$mainZCHaskellziLazzyzievalStratII5_e, h$mainZCHaskellziLazzyzievalStratII6_e, h$mainZCHaskellziLazzyzievalStratII24_e,
-h$mainZCHaskellziLazzyzievalStratII15_e, h$mainZCHaskellziLazzyzievalStratII18_e,
-h$mainZCHaskellziLazzyzievalStratII16_e, h$mainZCHaskellziLazzyzievalStrat58_e, h$mainZCHaskellziLazzyzievalStrat4_e,
-h$mainZCHaskellziLazzyzievalStrat5_e, h$mainZCHaskellziLazzyzievalStrat6_e, h$mainZCHaskellziLazzyzievalStrat7_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuh1_e, h$mainZCHaskellziLazzyzilazzyEval2_e, h$mainZCHaskellziLazzyzilazzyEval13_e,
-h$mainZCHaskellziLazzyzilazzyEval11_e, h$mainZCHaskellziLazzyzilazzyEvalzuk4_e, h$mainZCHaskellziLazzyzilazzyEval17_e,
-h$mainZCHaskellziLazzyzilazzyEval41_e, h$mainZCHaskellziLazzyzilazzyEval18_e, h$mainZCHaskellziLazzyzilazzyEvalzuk5_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk6_e, h$mainZCHaskellziLazzyzilazzyEval3_e, h$mainZCHaskellziLazzyzilazzyEvalzuk7_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk8_e, h$mainZCHaskellziLazzyzilazzyEvalzuk9_e, h$mainZCHaskellziLazzyzilazzyEval27_e,
-h$mainZCHaskellziLazzyzilazzyEval25_e, h$mainZCHaskellziLazzyzilazzyEvalzuk10_e, h$mainZCHaskellziLazzyzilazzyEval32_e,
-h$mainZCHaskellziLazzyzilazzyEval30_e, h$mainZCHaskellziLazzyzilazzyEvalzuk_e, h$mainZCHaskellziLazzyzilazzyEvalzuk11_e,
-h$mainZCHaskellziLazzyzilazzyEval35_e, h$mainZCHaskellziLazzyzilazzyEval33_e, h$mainZCHaskellziLazzyzilazzyEvalzuk12_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk1_e, h$mainZCHaskellziLazzyzilazzyEval44_e, h$mainZCHaskellziLazzyzilazzyEval42_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk13_e, h$mainZCHaskellziLazzyzilazzyEval48_e, h$mainZCHaskellziLazzyzilazzyEval52_e,
-h$mainZCHaskellziLazzyzilazzyEval49_e, h$mainZCHaskellziLazzyzilazzyEvalzuk14_e, h$mainZCHaskellziLazzyzilazzyEval55_e,
-h$mainZCHaskellziLazzyzilazzyEval53_e, h$mainZCHaskellziLazzyzilazzyEvalzuk15_e, h$mainZCHaskellziLazzyzilazzyEval58_e,
-h$mainZCHaskellziLazzyzilazzyEval56_e, h$mainZCHaskellziLazzyzilazzyEvalzuk16_e, h$mainZCHaskellziLazzyzilazzyEval7_e,
-h$mainZCHaskellziLazzyzilazzyEval62_e, h$mainZCHaskellziLazzyzilazzyEval65_e, h$mainZCHaskellziLazzyzilazzyEval63_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk17_e, h$mainZCHaskellziLazzyzilazzyEval68_e, h$mainZCHaskellziLazzyzilazzyEval66_e,
-h$mainZCHaskellziLazzyzilazzyEvalzuk18_e, h$mainZCHaskellziLazzyzilazzyEval10_e, h$mainZCHaskellziLazzyzilazzyEval8_e,
+h$mainZCHaskellziLazzyzievalStratII2_e, h$mainZCHaskellziLazzyzievalStratII14_e,
+h$mainZCHaskellziLazzyzievalStratII33_e, h$mainZCHaskellziLazzyzievalStratII15_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk5_e, h$mainZCHaskellziLazzyzievalStratIIzuk6_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk7_e, h$mainZCHaskellziLazzyzievalStratII22_e,
+h$mainZCHaskellziLazzyzievalStratII20_e, h$mainZCHaskellziLazzyzievalStratII3_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk8_e, h$mainZCHaskellziLazzyzievalStratII23_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk9_e, h$mainZCHaskellziLazzyzievalStratII28_e,
+h$mainZCHaskellziLazzyzievalStratII26_e, h$mainZCHaskellziLazzyzievalStratIIzuk10_e,
+h$mainZCHaskellziLazzyzievalStratII31_e, h$mainZCHaskellziLazzyzievalStratII29_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk11_e, h$mainZCHaskellziLazzyzievalStratIIzuk_e,
+h$mainZCHaskellziLazzyzievalStratII36_e, h$mainZCHaskellziLazzyzievalStratII34_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk12_e, h$mainZCHaskellziLazzyzievalStratII40_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk1_e, h$mainZCHaskellziLazzyzievalStratII46_e,
+h$mainZCHaskellziLazzyzievalStratII41_e, h$mainZCHaskellziLazzyzievalStratIIzuk13_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk14_e, h$mainZCHaskellziLazzyzievalStratII50_e,
+h$mainZCHaskellziLazzyzievalStratIIzuk2_e, h$mainZCHaskellziLazzyzievalStratII54_e,
+h$mainZCHaskellziLazzyzievalStratII55_e, h$mainZCHaskellziLazzyzievalStratIIzuk3_e,
+h$mainZCHaskellziLazzyzievalStratII64_e, h$mainZCHaskellziLazzyzievalStratIIzuk4_e,
+h$mainZCHaskellziLazzyzievalStratII10_e, h$mainZCHaskellziLazzyzievalStratII66_e,
+h$mainZCHaskellziLazzyzievalStratII4_e, h$mainZCHaskellziLazzyzievalStratII5_e, h$mainZCHaskellziLazzyzievalStratII44_e,
+h$mainZCHaskellziLazzyzievalStratII42_e, h$mainZCHaskellziLazzyzievalStratII6_e, h$mainZCHaskellziLazzyzievalStratII7_e,
+h$mainZCHaskellziLazzyzievalStratII25_e, h$mainZCHaskellziLazzyzievalStratII16_e,
+h$mainZCHaskellziLazzyzievalStratII19_e, h$mainZCHaskellziLazzyzievalStratII17_e, h$mainZCHaskellziLazzyzievalStrat58_e,
+h$mainZCHaskellziLazzyzievalStrat4_e, h$mainZCHaskellziLazzyzievalStrat5_e, h$mainZCHaskellziLazzyzievalStrat6_e,
+h$mainZCHaskellziLazzyzievalStrat7_e, h$mainZCHaskellziLazzyzilazzyEvalzuh1_e, h$mainZCHaskellziLazzyzilazzyEval2_e,
+h$mainZCHaskellziLazzyzilazzyEval13_e, h$mainZCHaskellziLazzyzilazzyEval11_e, h$mainZCHaskellziLazzyzilazzyEvalzuk4_e,
+h$mainZCHaskellziLazzyzilazzyEval17_e, h$mainZCHaskellziLazzyzilazzyEval39_e, h$mainZCHaskellziLazzyzilazzyEval18_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk5_e, h$mainZCHaskellziLazzyzilazzyEvalzuk6_e, h$mainZCHaskellziLazzyzilazzyEval3_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk7_e, h$mainZCHaskellziLazzyzilazzyEvalzuk8_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk9_e, h$mainZCHaskellziLazzyzilazzyEval27_e, h$mainZCHaskellziLazzyzilazzyEval25_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk10_e, h$mainZCHaskellziLazzyzilazzyEval30_e, h$mainZCHaskellziLazzyzilazzyEvalzuk_e,
+h$mainZCHaskellziLazzyzilazzyEval33_e, h$mainZCHaskellziLazzyzilazzyEval31_e, h$mainZCHaskellziLazzyzilazzyEvalzuk11_e,
+h$mainZCHaskellziLazzyzilazzyEval42_e, h$mainZCHaskellziLazzyzilazzyEval40_e, h$mainZCHaskellziLazzyzilazzyEvalzuk1_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk12_e, h$mainZCHaskellziLazzyzilazzyEval46_e, h$mainZCHaskellziLazzyzilazzyEval50_e,
+h$mainZCHaskellziLazzyzilazzyEval47_e, h$mainZCHaskellziLazzyzilazzyEvalzuk13_e, h$mainZCHaskellziLazzyzilazzyEval53_e,
+h$mainZCHaskellziLazzyzilazzyEval51_e, h$mainZCHaskellziLazzyzilazzyEvalzuk14_e, h$mainZCHaskellziLazzyzilazzyEval56_e,
+h$mainZCHaskellziLazzyzilazzyEval54_e, h$mainZCHaskellziLazzyzilazzyEvalzuk15_e, h$mainZCHaskellziLazzyzilazzyEval60_e,
+h$mainZCHaskellziLazzyzilazzyEval7_e, h$mainZCHaskellziLazzyzilazzyEval63_e, h$mainZCHaskellziLazzyzilazzyEval61_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk16_e, h$mainZCHaskellziLazzyzilazzyEval66_e, h$mainZCHaskellziLazzyzilazzyEval64_e,
+h$mainZCHaskellziLazzyzilazzyEvalzuk17_e, h$mainZCHaskellziLazzyzilazzyEval10_e, h$mainZCHaskellziLazzyzilazzyEval8_e,
 h$mainZCHaskellziLazzyzilazzyEvalzuk3_e, h$mainZCHaskellziLazzyzilazzyEvalIIzuh1_e,
 h$mainZCHaskellziLazzyzilazzyEvalII2_e, h$mainZCHaskellziLazzyzilazzyEvalII3_e, h$mainZCHaskellziLazzyzilazzyEvalII27_e,
 h$mainZCHaskellziLazzyzilazzyEvalII30_e, h$mainZCHaskellziLazzyzilazzyEvalII28_e,
@@ -152682,22 +153259,23 @@ h$mainZCHaskellziLazzyzilazzyEvalII6_e, h$mainZCHaskellziLazzyzilazzyEvalII7_e,
 h$mainZCHaskellziLazzyzilazzyEvalIIzuk2_e, h$mainZCHaskellziLazzyzilazzyEvalIIzuk3_e,
 h$mainZCHaskellziLazzyzilazzyEvalIIzuk4_e, h$mainZCHaskellziLazzyzilazzyEvalII39_e,
 h$mainZCHaskellziLazzyzilazzyEvalII4_e, h$mainZCHaskellziLazzyzilazzyEvalII8_e, h$mainZCHaskellziLazzyzilazzyEvalII9_e,
-h$mainZCHaskellziLazzyzilazzyEvalII10_e, h$mainZCHaskellziLazzyzilazzyEval70_e, h$mainZCHaskellziLazzyzilazzyEval4_e,
-h$mainZCHaskellziLazzyzilazzyEval5_e, h$mainZCHaskellziLazzyzilazzyEval50_e, h$mainZCHaskellziLazzyzilazzyEval39_e,
-h$mainZCHaskellziLazzyzilazzyEval19_e, h$mainZCHaskellziLazzyzilazzyEval37_e, h$mainZCHaskellziLazzyzilazzyEval20_e,
+h$mainZCHaskellziLazzyzilazzyEvalII10_e, h$mainZCHaskellziLazzyzilazzyEval68_e, h$mainZCHaskellziLazzyzilazzyEval4_e,
+h$mainZCHaskellziLazzyzilazzyEval5_e, h$mainZCHaskellziLazzyzilazzyEval48_e, h$mainZCHaskellziLazzyzilazzyEval37_e,
+h$mainZCHaskellziLazzyzilazzyEval19_e, h$mainZCHaskellziLazzyzilazzyEval35_e, h$mainZCHaskellziLazzyzilazzyEval20_e,
 h$mainZCHaskellziLazzyzilazzyEval29_e, h$mainZCHaskellziLazzyzilazzyEval21_e, h$mainZCHaskellziLazzyzilazzyEval24_e,
-h$mainZCHaskellziLazzyzilazzyEval22_e, h$mainZCHaskellziLazzyzilazzyIntro2_e, h$mainZCHaskellziLazzyzilazzyIntro18_e,
-h$mainZCHaskellziLazzyzilazzyIntro3_e, h$mainZCHaskellziLazzyzilazzyIntro22_e, h$mainZCHaskellziLazzyzilazzyIntro23_e,
-h$mainZCHaskellziLazzyzilazzyIntrozuk_e, h$mainZCHaskellziLazzyzilazzyIntro31_e, h$mainZCHaskellziLazzyzilazzyIntro35_e,
-h$mainZCHaskellziLazzyzilazzyIntro47_e, h$mainZCHaskellziLazzyzilazzyIntro36_e,
-h$mainZCHaskellziLazzyzilazzyIntrozuk6_e, h$mainZCHaskellziLazzyzilazzyIntrozuk7_e,
-h$mainZCHaskellziLazzyzilazzyIntrozuk8_e, h$mainZCHaskellziLazzyzilazzyIntrozuk1_e,
-h$mainZCHaskellziLazzyzilazzyIntro45_e, h$mainZCHaskellziLazzyzilazzyIntro43_e,
-h$mainZCHaskellziLazzyzilazzyIntrozuk9_e, h$mainZCHaskellziLazzyzilazzyIntrozuk2_e,
-h$mainZCHaskellziLazzyzilazzyIntrozuk3_e, h$mainZCHaskellziLazzyzilazzyIntro9_e, h$mainZCHaskellziLazzyzilazzyIntro4_e,
-h$mainZCHaskellziLazzyzilazzyIntro5_e, h$mainZCHaskellziLazzyzilazzyIntro6_e, h$mainZCHaskellziLazzyzilazzyIntro7_e,
-h$mainZCHaskellziLazzyzilazzyIntro42_e, h$mainZCHaskellziLazzyzilazzyIntro37_e, h$mainZCHaskellziLazzyzilazzyIntro40_e,
-h$mainZCHaskellziLazzyzilazzyIntro38_e, h$mainZCHaskellziLazzyzislideShow1_e, h$mainZCHaskellziLazzyzislideShowzuk_e,
+h$mainZCHaskellziLazzyzilazzyEval22_e, h$mainZCHaskellziLazzyzilazzyIntro2_e, h$mainZCHaskellziLazzyzilazzyIntrozuk5_e,
+h$mainZCHaskellziLazzyzilazzyIntro3_e, h$mainZCHaskellziLazzyzilazzyIntro22_e, h$mainZCHaskellziLazzyzilazzyIntro26_e,
+h$mainZCHaskellziLazzyzilazzyIntro27_e, h$mainZCHaskellziLazzyzilazzyIntrozuk_e, h$mainZCHaskellziLazzyzilazzyIntro35_e,
+h$mainZCHaskellziLazzyzilazzyIntro39_e, h$mainZCHaskellziLazzyzilazzyIntro51_e, h$mainZCHaskellziLazzyzilazzyIntro40_e,
+h$mainZCHaskellziLazzyzilazzyIntrozuk1_e, h$mainZCHaskellziLazzyzilazzyIntrozuk7_e,
+h$mainZCHaskellziLazzyzilazzyIntrozuk8_e, h$mainZCHaskellziLazzyzilazzyIntrozuk9_e,
+h$mainZCHaskellziLazzyzilazzyIntro49_e, h$mainZCHaskellziLazzyzilazzyIntro47_e,
+h$mainZCHaskellziLazzyzilazzyIntrozuk10_e, h$mainZCHaskellziLazzyzilazzyIntrozuk2_e,
+h$mainZCHaskellziLazzyzilazzyIntrozuk3_e, h$mainZCHaskellziLazzyzilazzyIntro9_e, h$mainZCHaskellziLazzyzilazzyIntro13_e,
+h$mainZCHaskellziLazzyzilazzyIntro10_e, h$mainZCHaskellziLazzyzilazzyIntro4_e, h$mainZCHaskellziLazzyzilazzyIntro5_e,
+h$mainZCHaskellziLazzyzilazzyIntro6_e, h$mainZCHaskellziLazzyzilazzyIntro7_e, h$mainZCHaskellziLazzyzilazzyIntro11_e,
+h$mainZCHaskellziLazzyzilazzyIntro46_e, h$mainZCHaskellziLazzyzilazzyIntro41_e, h$mainZCHaskellziLazzyzilazzyIntro44_e,
+h$mainZCHaskellziLazzyzilazzyIntro42_e, h$mainZCHaskellziLazzyzislideShow1_e, h$mainZCHaskellziLazzyzislideShowzuk_e,
 h$mainZCHaskellziLazzyzislideShowzuk1_e, h$mainZCHaskellziLazzyzislideShowzuk2_e, h$mainZCHaskellziLazzyzislideShow2_e,
 h$mainZCHaskellziLazzyzislideShow3_e, h$mainZCHaskellziLazzyzislideShow4_e, h$mainZCHaskellziIntrozislideShow_e,
 h$mainZCHaskellziIntrozifirstStepszuh1_e, h$mainZCHaskellziIntrozifirstSteps2_e, h$mainZCHaskellziIntrozifirstSteps13_e,
@@ -153110,83 +153688,107 @@ h$mainZCHaskellziFunctionziexpressions71_e, h$mainZCHaskellziFunctionziexpressio
 h$mainZCHaskellziFunctionziexpressions7_e, h$mainZCHaskellziFunctionziexpressions52_e,
 h$mainZCHaskellziFunctionziexpressions37_e, h$mainZCHaskellziFunctionziexpressions49_e,
 h$mainZCHaskellziFunctionziexpressions38_e, h$mainZCHaskellziFunctionzifunctionszuh1_e,
-h$mainZCHaskellziFunctionzifunctions2_e, h$mainZCHaskellziFunctionzifunctions20_e,
-h$mainZCHaskellziFunctionzifunctions3_e, h$mainZCHaskellziFunctionzifunctions24_e,
-h$mainZCHaskellziFunctionzifunctions25_e, h$mainZCHaskellziFunctionzifunctionszuk5_e,
+h$mainZCHaskellziFunctionzifunctions2_e, h$mainZCHaskellziFunctionzifunctions17_e,
+h$mainZCHaskellziFunctionzifunctions18_e, h$mainZCHaskellziFunctionzifunctionszuk4_e,
+h$mainZCHaskellziFunctionzifunctionszuk5_e, h$mainZCHaskellziFunctionzifunctions3_e,
 h$mainZCHaskellziFunctionzifunctionszuk_e, h$mainZCHaskellziFunctionzifunctions34_e,
-h$mainZCHaskellziFunctionzifunctions37_e, h$mainZCHaskellziFunctionzifunctions35_e,
-h$mainZCHaskellziFunctionzifunctionszuk6_e, h$mainZCHaskellziFunctionzifunctionszuk1_e,
-h$mainZCHaskellziFunctionzifunctions7_e, h$mainZCHaskellziFunctionzifunctions8_e,
-h$mainZCHaskellziFunctionzifunctionszuk3_e, h$mainZCHaskellziFunctionzifunctions39_e,
-h$mainZCHaskellziFunctionzifunctions4_e, h$mainZCHaskellziFunctionzifunctions5_e,
-h$mainZCHaskellziFunctionzifunctions9_e, h$mainZCHaskellziFunctionzighciTipszuh1_e,
-h$mainZCHaskellziFunctionzighciTips2_e, h$mainZCHaskellziFunctionzighciTips13_e,
-h$mainZCHaskellziFunctionzighciTips26_e, h$mainZCHaskellziFunctionzighciTips14_e,
-h$mainZCHaskellziFunctionzighciTipszuk4_e, h$mainZCHaskellziFunctionzighciTips18_e,
-h$mainZCHaskellziFunctionzighciTips16_e, h$mainZCHaskellziFunctionzighciTipszuk5_e,
-h$mainZCHaskellziFunctionzighciTips21_e, h$mainZCHaskellziFunctionzighciTips19_e,
-h$mainZCHaskellziFunctionzighciTipszuk6_e, h$mainZCHaskellziFunctionzighciTips3_e,
-h$mainZCHaskellziFunctionzighciTips24_e, h$mainZCHaskellziFunctionzighciTips22_e,
-h$mainZCHaskellziFunctionzighciTipszuk7_e, h$mainZCHaskellziFunctionzighciTipszuk_e,
-h$mainZCHaskellziFunctionzighciTips35_e, h$mainZCHaskellziFunctionzighciTips44_e,
-h$mainZCHaskellziFunctionzighciTips36_e, h$mainZCHaskellziFunctionzighciTipszuk8_e,
-h$mainZCHaskellziFunctionzighciTips40_e, h$mainZCHaskellziFunctionzighciTips38_e,
-h$mainZCHaskellziFunctionzighciTipszuk9_e, h$mainZCHaskellziFunctionzighciTipszuk1_e,
-h$mainZCHaskellziFunctionzighciTips41_e, h$mainZCHaskellziFunctionzighciTips42_e,
-h$mainZCHaskellziFunctionzighciTipszuk10_e, h$mainZCHaskellziFunctionzighciTips48_e,
-h$mainZCHaskellziFunctionzighciTips49_e, h$mainZCHaskellziFunctionzighciTipszuk2_e,
-h$mainZCHaskellziFunctionzighciTips51_e, h$mainZCHaskellziFunctionzighciTips4_e, h$mainZCHaskellziFunctionzighciTips5_e,
-h$mainZCHaskellziFunctionzighciTips6_e, h$mainZCHaskellziFunctionzighciTips15_e,
-h$mainZCHaskellziFunctionzighciTips37_e, h$mainZCHaskellziFunctionzilambdazuh1_e, h$mainZCHaskellziFunctionzilambda2_e,
-h$mainZCHaskellziFunctionzilambda17_e, h$mainZCHaskellziFunctionzilambda20_e, h$mainZCHaskellziFunctionzilambda18_e,
-h$mainZCHaskellziFunctionzilambdazuk5_e, h$mainZCHaskellziFunctionzilambda3_e, h$mainZCHaskellziFunctionzilambda23_e,
-h$mainZCHaskellziFunctionzilambda21_e, h$mainZCHaskellziFunctionzilambdazuk6_e, h$mainZCHaskellziFunctionzilambda24_e,
-h$mainZCHaskellziFunctionzilambda28_e, h$mainZCHaskellziFunctionzilambda29_e, h$mainZCHaskellziFunctionzilambdazuk_e,
-h$mainZCHaskellziFunctionzilambda37_e, h$mainZCHaskellziFunctionzilambda49_e, h$mainZCHaskellziFunctionzilambda38_e,
-h$mainZCHaskellziFunctionzilambdazuk8_e, h$mainZCHaskellziFunctionzilambdazuk9_e,
-h$mainZCHaskellziFunctionzilambdazuk1_e, h$mainZCHaskellziFunctionzilambdazuk10_e,
-h$mainZCHaskellziFunctionzilambdazuk11_e, h$mainZCHaskellziFunctionzilambda7_e, h$mainZCHaskellziFunctionzilambda13_e,
-h$mainZCHaskellziFunctionzilambda8_e, h$mainZCHaskellziFunctionzilambdazuk3_e, h$mainZCHaskellziFunctionzilambdazuk4_e,
-h$mainZCHaskellziFunctionzilambda51_e, h$mainZCHaskellziFunctionzilambda4_e, h$mainZCHaskellziFunctionzilambda5_e,
-h$mainZCHaskellziFunctionzilambda43_e, h$mainZCHaskellziFunctionzilambda41_e, h$mainZCHaskellziFunctionzilambda11_e,
-h$mainZCHaskellziFunctionzilambda9_e, h$mainZCHaskellziFunctionzilambda47_e, h$mainZCHaskellziFunctionzilambda39_e,
-h$mainZCHaskellziFunctionzilambda45_e, h$mainZCHaskellziFunctionzilambda40_e, h$mainZCHaskellziFunctionziletExprzuh1_e,
-h$mainZCHaskellziFunctionziletExpr2_e, h$mainZCHaskellziFunctionziletExpr17_e, h$mainZCHaskellziFunctionziletExpr24_e,
-h$mainZCHaskellziFunctionziletExpr18_e, h$mainZCHaskellziFunctionziletExprzuk5_e,
-h$mainZCHaskellziFunctionziletExprzuk6_e, h$mainZCHaskellziFunctionziletExpr3_e, h$mainZCHaskellziFunctionziletExpr22_e,
-h$mainZCHaskellziFunctionziletExpr28_e, h$mainZCHaskellziFunctionziletExpr35_e, h$mainZCHaskellziFunctionziletExpr29_e,
-h$mainZCHaskellziFunctionziletExprzuk7_e, h$mainZCHaskellziFunctionziletExprzuk_e,
-h$mainZCHaskellziFunctionziletExpr33_e, h$mainZCHaskellziFunctionziletExpr31_e,
-h$mainZCHaskellziFunctionziletExprzuk8_e, h$mainZCHaskellziFunctionziletExpr39_e,
-h$mainZCHaskellziFunctionziletExpr49_e, h$mainZCHaskellziFunctionziletExpr40_e,
-h$mainZCHaskellziFunctionziletExprzuk1_e, h$mainZCHaskellziFunctionziletExprzuk9_e,
-h$mainZCHaskellziFunctionziletExprzuk10_e, h$mainZCHaskellziFunctionziletExprzuk11_e,
-h$mainZCHaskellziFunctionziletExpr47_e, h$mainZCHaskellziFunctionziletExpr45_e,
-h$mainZCHaskellziFunctionziletExprzuk12_e, h$mainZCHaskellziFunctionziletExpr7_e,
-h$mainZCHaskellziFunctionziletExpr13_e, h$mainZCHaskellziFunctionziletExpr8_e, h$mainZCHaskellziFunctionziletExprzuk3_e,
-h$mainZCHaskellziFunctionziletExprzuk4_e, h$mainZCHaskellziFunctionziletExpr51_e, h$mainZCHaskellziFunctionziletExpr4_e,
-h$mainZCHaskellziFunctionziletExpr5_e, h$mainZCHaskellziFunctionziletExpr44_e, h$mainZCHaskellziFunctionziletExpr42_e,
-h$mainZCHaskellziFunctionziletExpr11_e, h$mainZCHaskellziFunctionziletExpr9_e, h$mainZCHaskellziFunctionziletExpr21_e,
-h$mainZCHaskellziFunctionziletExpr19_e, h$mainZCHaskellziFunctionziletExpr30_e, h$mainZCHaskellziFunctionziletExpr41_e,
+h$mainZCHaskellziFunctionzifunctions40_e, h$mainZCHaskellziFunctionzifunctions35_e,
+h$mainZCHaskellziFunctionzifunctionszuk7_e, h$mainZCHaskellziFunctionzifunctionszuk8_e,
+h$mainZCHaskellziFunctionzifunctions43_e, h$mainZCHaskellziFunctionzifunctions41_e,
+h$mainZCHaskellziFunctionzifunctionszuk9_e, h$mainZCHaskellziFunctionzifunctions44_e,
+h$mainZCHaskellziFunctionzifunctions6_e, h$mainZCHaskellziFunctionzifunctions13_e,
+h$mainZCHaskellziFunctionzifunctions7_e, h$mainZCHaskellziFunctionzifunctionszuk2_e,
+h$mainZCHaskellziFunctionzifunctions11_e, h$mainZCHaskellziFunctionzifunctions9_e,
+h$mainZCHaskellziFunctionzifunctionszuk3_e, h$mainZCHaskellziFunctionzifunctions46_e,
+h$mainZCHaskellziFunctionzifunctions4_e, h$mainZCHaskellziFunctionzifunctions8_e,
+h$mainZCHaskellziFunctionzifunctions19_e, h$mainZCHaskellziFunctionzifunctions20_e,
+h$mainZCHaskellziFunctionzifunctions38_e, h$mainZCHaskellziFunctionzifunctions36_e,
+h$mainZCHaskellziFunctionzighciTipszuh1_e, h$mainZCHaskellziFunctionzighciTips2_e,
+h$mainZCHaskellziFunctionzighciTips13_e, h$mainZCHaskellziFunctionzighciTips26_e,
+h$mainZCHaskellziFunctionzighciTips14_e, h$mainZCHaskellziFunctionzighciTipszuk4_e,
+h$mainZCHaskellziFunctionzighciTips18_e, h$mainZCHaskellziFunctionzighciTips16_e,
+h$mainZCHaskellziFunctionzighciTipszuk5_e, h$mainZCHaskellziFunctionzighciTips21_e,
+h$mainZCHaskellziFunctionzighciTips19_e, h$mainZCHaskellziFunctionzighciTipszuk6_e,
+h$mainZCHaskellziFunctionzighciTips3_e, h$mainZCHaskellziFunctionzighciTips24_e,
+h$mainZCHaskellziFunctionzighciTips22_e, h$mainZCHaskellziFunctionzighciTipszuk7_e,
+h$mainZCHaskellziFunctionzighciTipszuk_e, h$mainZCHaskellziFunctionzighciTips35_e,
+h$mainZCHaskellziFunctionzighciTips44_e, h$mainZCHaskellziFunctionzighciTips36_e,
+h$mainZCHaskellziFunctionzighciTipszuk8_e, h$mainZCHaskellziFunctionzighciTips40_e,
+h$mainZCHaskellziFunctionzighciTips38_e, h$mainZCHaskellziFunctionzighciTipszuk9_e,
+h$mainZCHaskellziFunctionzighciTipszuk1_e, h$mainZCHaskellziFunctionzighciTips41_e,
+h$mainZCHaskellziFunctionzighciTips42_e, h$mainZCHaskellziFunctionzighciTipszuk10_e,
+h$mainZCHaskellziFunctionzighciTips48_e, h$mainZCHaskellziFunctionzighciTips49_e,
+h$mainZCHaskellziFunctionzighciTipszuk2_e, h$mainZCHaskellziFunctionzighciTips51_e,
+h$mainZCHaskellziFunctionzighciTips4_e, h$mainZCHaskellziFunctionzighciTips5_e, h$mainZCHaskellziFunctionzighciTips6_e,
+h$mainZCHaskellziFunctionzighciTips15_e, h$mainZCHaskellziFunctionzighciTips37_e,
+h$mainZCHaskellziFunctionzilambdazuh1_e, h$mainZCHaskellziFunctionzilambda2_e, h$mainZCHaskellziFunctionzilambda17_e,
+h$mainZCHaskellziFunctionzilambda20_e, h$mainZCHaskellziFunctionzilambda18_e, h$mainZCHaskellziFunctionzilambdazuk5_e,
+h$mainZCHaskellziFunctionzilambda3_e, h$mainZCHaskellziFunctionzilambda23_e, h$mainZCHaskellziFunctionzilambda21_e,
+h$mainZCHaskellziFunctionzilambdazuk6_e, h$mainZCHaskellziFunctionzilambda24_e, h$mainZCHaskellziFunctionzilambda28_e,
+h$mainZCHaskellziFunctionzilambda29_e, h$mainZCHaskellziFunctionzilambdazuk_e, h$mainZCHaskellziFunctionzilambda37_e,
+h$mainZCHaskellziFunctionzilambda49_e, h$mainZCHaskellziFunctionzilambda38_e, h$mainZCHaskellziFunctionzilambdazuk8_e,
+h$mainZCHaskellziFunctionzilambdazuk9_e, h$mainZCHaskellziFunctionzilambdazuk1_e,
+h$mainZCHaskellziFunctionzilambdazuk10_e, h$mainZCHaskellziFunctionzilambdazuk11_e,
+h$mainZCHaskellziFunctionzilambda7_e, h$mainZCHaskellziFunctionzilambda13_e, h$mainZCHaskellziFunctionzilambda8_e,
+h$mainZCHaskellziFunctionzilambdazuk3_e, h$mainZCHaskellziFunctionzilambdazuk4_e,
+h$mainZCHaskellziFunctionzilambdaIIzuh1_e, h$mainZCHaskellziFunctionzilambdaII2_e,
+h$mainZCHaskellziFunctionzilambdaII11_e, h$mainZCHaskellziFunctionzilambdaII14_e,
+h$mainZCHaskellziFunctionzilambdaII12_e, h$mainZCHaskellziFunctionzilambdaIIzuk3_e,
+h$mainZCHaskellziFunctionzilambdaII18_e, h$mainZCHaskellziFunctionzilambdaII19_e,
+h$mainZCHaskellziFunctionzilambdaIIzuk4_e, h$mainZCHaskellziFunctionzilambdaII3_e,
+h$mainZCHaskellziFunctionzilambdaIIzuk5_e, h$mainZCHaskellziFunctionzilambdaIIzuk_e,
+h$mainZCHaskellziFunctionzilambdaII32_e, h$mainZCHaskellziFunctionzilambdaII38_e,
+h$mainZCHaskellziFunctionzilambdaII33_e, h$mainZCHaskellziFunctionzilambdaIIzuk7_e,
+h$mainZCHaskellziFunctionzilambdaIIzuk8_e, h$mainZCHaskellziFunctionzilambdaIIzuk1_e,
+h$mainZCHaskellziFunctionzilambdaII7_e, h$mainZCHaskellziFunctionzilambdaII40_e, h$mainZCHaskellziFunctionzilambdaII4_e,
+h$mainZCHaskellziFunctionzilambdaII5_e, h$mainZCHaskellziFunctionzilambdaII20_e,
+h$mainZCHaskellziFunctionzilambdaII21_e, h$mainZCHaskellziFunctionzilambdaII36_e,
+h$mainZCHaskellziFunctionzilambdaII34_e, h$mainZCHaskellziFunctionzilambda51_e, h$mainZCHaskellziFunctionzilambda4_e,
+h$mainZCHaskellziFunctionzilambda5_e, h$mainZCHaskellziFunctionzilambda43_e, h$mainZCHaskellziFunctionzilambda41_e,
+h$mainZCHaskellziFunctionzilambda11_e, h$mainZCHaskellziFunctionzilambda9_e, h$mainZCHaskellziFunctionzilambda47_e,
+h$mainZCHaskellziFunctionzilambda39_e, h$mainZCHaskellziFunctionzilambda45_e, h$mainZCHaskellziFunctionzilambda40_e,
+h$mainZCHaskellziFunctionziletExprzuh1_e, h$mainZCHaskellziFunctionziletExpr2_e, h$mainZCHaskellziFunctionziletExpr16_e,
+h$mainZCHaskellziFunctionziletExpr19_e, h$mainZCHaskellziFunctionziletExpr17_e,
+h$mainZCHaskellziFunctionziletExprzuk4_e, h$mainZCHaskellziFunctionziletExpr3_e, h$mainZCHaskellziFunctionziletExpr23_e,
+h$mainZCHaskellziFunctionziletExpr24_e, h$mainZCHaskellziFunctionziletExprzuk5_e,
+h$mainZCHaskellziFunctionziletExprzuk6_e, h$mainZCHaskellziFunctionziletExprzuk_e,
+h$mainZCHaskellziFunctionziletExpr40_e, h$mainZCHaskellziFunctionziletExprzuk1_e,
+h$mainZCHaskellziFunctionziletExpr46_e, h$mainZCHaskellziFunctionziletExpr41_e,
+h$mainZCHaskellziFunctionziletExprzuk8_e, h$mainZCHaskellziFunctionziletExprzuk9_e,
+h$mainZCHaskellziFunctionziletExpr7_e, h$mainZCHaskellziFunctionziletExpr8_e,
+h$mainZCHaskellziFunctionziletExprIIzuh1_e, h$mainZCHaskellziFunctionziletExprII2_e,
+h$mainZCHaskellziFunctionziletExprII12_e, h$mainZCHaskellziFunctionziletExprII13_e,
+h$mainZCHaskellziFunctionziletExprII3_e, h$mainZCHaskellziFunctionziletExprII21_e,
+h$mainZCHaskellziFunctionziletExprII25_e, h$mainZCHaskellziFunctionziletExprII26_e,
+h$mainZCHaskellziFunctionziletExprIIzuk_e, h$mainZCHaskellziFunctionziletExprII34_e,
+h$mainZCHaskellziFunctionziletExprII37_e, h$mainZCHaskellziFunctionziletExprII35_e,
+h$mainZCHaskellziFunctionziletExprIIzuk6_e, h$mainZCHaskellziFunctionziletExprII38_e,
+h$mainZCHaskellziFunctionziletExprIIzuk1_e, h$mainZCHaskellziFunctionziletExprIIzuk2_e,
+h$mainZCHaskellziFunctionziletExprII8_e, h$mainZCHaskellziFunctionziletExprII40_e,
+h$mainZCHaskellziFunctionziletExprII4_e, h$mainZCHaskellziFunctionziletExprII5_e,
+h$mainZCHaskellziFunctionziletExprII6_e, h$mainZCHaskellziFunctionziletExpr48_e, h$mainZCHaskellziFunctionziletExpr4_e,
+h$mainZCHaskellziFunctionziletExpr5_e, h$mainZCHaskellziFunctionziletExpr25_e, h$mainZCHaskellziFunctionziletExpr26_e,
+h$mainZCHaskellziFunctionziletExpr44_e, h$mainZCHaskellziFunctionziletExpr42_e,
 h$mainZCHaskellziFunctionzioperatorszuh1_e, h$mainZCHaskellziFunctionzioperators2_e,
 h$mainZCHaskellziFunctionzioperators15_e, h$mainZCHaskellziFunctionzioperators16_e,
 h$mainZCHaskellziFunctionzioperatorszuk5_e, h$mainZCHaskellziFunctionzioperatorszuk6_e,
-h$mainZCHaskellziFunctionzioperators3_e, h$mainZCHaskellziFunctionzioperators29_e,
-h$mainZCHaskellziFunctionzioperators35_e, h$mainZCHaskellziFunctionzioperators30_e,
-h$mainZCHaskellziFunctionzioperatorszuk_e, h$mainZCHaskellziFunctionzioperatorszuk8_e,
-h$mainZCHaskellziFunctionzioperatorszuk9_e, h$mainZCHaskellziFunctionzioperators38_e,
-h$mainZCHaskellziFunctionzioperators36_e, h$mainZCHaskellziFunctionzioperatorszuk10_e,
-h$mainZCHaskellziFunctionzioperatorszuk1_e, h$mainZCHaskellziFunctionzioperators42_e,
-h$mainZCHaskellziFunctionzioperators62_e, h$mainZCHaskellziFunctionzioperators43_e,
-h$mainZCHaskellziFunctionzioperatorszuk11_e, h$mainZCHaskellziFunctionzioperatorszuk12_e,
-h$mainZCHaskellziFunctionzioperatorszuk13_e, h$mainZCHaskellziFunctionzioperatorszuk14_e,
-h$mainZCHaskellziFunctionzioperatorszuk15_e, h$mainZCHaskellziFunctionzioperators51_e,
-h$mainZCHaskellziFunctionzioperators49_e, h$mainZCHaskellziFunctionzioperatorszuk16_e,
-h$mainZCHaskellziFunctionzioperatorszuk2_e, h$mainZCHaskellziFunctionzioperators54_e,
-h$mainZCHaskellziFunctionzioperators57_e, h$mainZCHaskellziFunctionzioperators60_e,
-h$mainZCHaskellziFunctionzioperators63_e, h$mainZCHaskellziFunctionzioperators67_e,
-h$mainZCHaskellziFunctionzioperators70_e, h$mainZCHaskellziFunctionzioperators68_e,
-h$mainZCHaskellziFunctionzioperatorszuk17_e, h$mainZCHaskellziFunctionzioperators8_e,
+h$mainZCHaskellziFunctionzioperators3_e, h$mainZCHaskellziFunctionzioperators26_e,
+h$mainZCHaskellziFunctionzioperators32_e, h$mainZCHaskellziFunctionzioperators27_e,
+h$mainZCHaskellziFunctionzioperatorszuk7_e, h$mainZCHaskellziFunctionzioperatorszuk8_e,
+h$mainZCHaskellziFunctionzioperatorszuk_e, h$mainZCHaskellziFunctionzioperators35_e,
+h$mainZCHaskellziFunctionzioperators33_e, h$mainZCHaskellziFunctionzioperatorszuk9_e,
+h$mainZCHaskellziFunctionzioperators39_e, h$mainZCHaskellziFunctionzioperators65_e,
+h$mainZCHaskellziFunctionzioperators40_e, h$mainZCHaskellziFunctionzioperatorszuk1_e,
+h$mainZCHaskellziFunctionzioperatorszuk10_e, h$mainZCHaskellziFunctionzioperatorszuk11_e,
+h$mainZCHaskellziFunctionzioperatorszuk12_e, h$mainZCHaskellziFunctionzioperatorszuk13_e,
+h$mainZCHaskellziFunctionzioperatorszuk14_e, h$mainZCHaskellziFunctionzioperatorszuk15_e,
+h$mainZCHaskellziFunctionzioperatorszuk16_e, h$mainZCHaskellziFunctionzioperatorszuk2_e,
+h$mainZCHaskellziFunctionzioperators51_e, h$mainZCHaskellziFunctionzioperatorszuk17_e,
+h$mainZCHaskellziFunctionzioperators54_e, h$mainZCHaskellziFunctionzioperators57_e,
+h$mainZCHaskellziFunctionzioperators60_e, h$mainZCHaskellziFunctionzioperators63_e,
+h$mainZCHaskellziFunctionzioperators66_e, h$mainZCHaskellziFunctionzioperators70_e,
+h$mainZCHaskellziFunctionzioperators8_e, h$mainZCHaskellziFunctionzioperators73_e,
+h$mainZCHaskellziFunctionzioperators71_e, h$mainZCHaskellziFunctionzioperatorszuk18_e,
 h$mainZCHaskellziFunctionzioperators11_e, h$mainZCHaskellziFunctionzioperators9_e,
 h$mainZCHaskellziFunctionzioperatorszuk4_e, h$mainZCHaskellziFunctionzioperatorsIIzuh1_e,
 h$mainZCHaskellziFunctionzioperatorsII2_e, h$mainZCHaskellziFunctionzioperatorsII14_e,
@@ -153206,75 +153808,78 @@ h$mainZCHaskellziFunctionzioperatorsII47_e, h$mainZCHaskellziFunctionzioperators
 h$mainZCHaskellziFunctionzioperatorsII20_e, h$mainZCHaskellziFunctionzioperatorsII21_e,
 h$mainZCHaskellziFunctionzioperatorsII43_e, h$mainZCHaskellziFunctionzioperatorsII34_e,
 h$mainZCHaskellziFunctionzioperatorsII38_e, h$mainZCHaskellziFunctionzioperatorsII35_e,
-h$mainZCHaskellziFunctionzioperatorsII36_e, h$mainZCHaskellziFunctionzioperators72_e,
+h$mainZCHaskellziFunctionzioperatorsII36_e, h$mainZCHaskellziFunctionzioperators75_e,
 h$mainZCHaskellziFunctionzioperators4_e, h$mainZCHaskellziFunctionzioperators5_e,
-h$mainZCHaskellziFunctionzioperators59_e, h$mainZCHaskellziFunctionzioperators44_e,
-h$mainZCHaskellziFunctionzioperators56_e, h$mainZCHaskellziFunctionzioperators45_e,
-h$mainZCHaskellziFunctionzioperators53_e, h$mainZCHaskellziFunctionzioperators46_e,
-h$mainZCHaskellziFunctionzioperators48_e, h$mainZCHaskellziFunctionzioperators47_e,
+h$mainZCHaskellziFunctionzioperators62_e, h$mainZCHaskellziFunctionzioperators41_e,
+h$mainZCHaskellziFunctionzioperators59_e, h$mainZCHaskellziFunctionzioperators42_e,
+h$mainZCHaskellziFunctionzioperators56_e, h$mainZCHaskellziFunctionzioperators43_e,
+h$mainZCHaskellziFunctionzioperators53_e, h$mainZCHaskellziFunctionzioperators44_e,
+h$mainZCHaskellziFunctionzioperators50_e, h$mainZCHaskellziFunctionzioperators45_e,
+h$mainZCHaskellziFunctionzioperators48_e, h$mainZCHaskellziFunctionzioperators46_e,
 h$mainZCHaskellziFunctionzioperators6_e, h$mainZCHaskellziFunctionzioperators17_e,
-h$mainZCHaskellziFunctionzioperators18_e, h$mainZCHaskellziFunctionzioperators33_e,
-h$mainZCHaskellziFunctionzioperators31_e, h$mainZCHaskellziFunctionzislideShow1_e,
-h$mainZCHaskellziFunctionzislideShowzuk_e, h$mainZCHaskellziFunctionzislideShowzuk1_e,
-h$mainZCHaskellziFunctionzislideShowzuk2_e, h$mainZCHaskellziFunctionzislideShowzuk3_e,
-h$mainZCHaskellziFunctionzislideShowzuk4_e, h$mainZCHaskellziFunctionzislideShowzuk5_e,
-h$mainZCHaskellziFunctionzislideShow2_e, h$mainZCHaskellziFunctionzislideShow3_e,
-h$mainZCHaskellziFunctionzislideShow4_e, h$mainZCHaskellziFunctionzislideShow5_e,
-h$mainZCHaskellziFunctionzislideShow6_e, h$mainZCHaskellziFunctionzislideShow7_e,
-h$mainZCHaskellziEratostheneszislideShow_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuh1_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI2_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk5_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI15_e, h$mainZCHaskellziEratostheneszisieveExerciseI13_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIzuk6_e, h$mainZCHaskellziEratostheneszisieveExerciseI20_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI18_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk7_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI3_e, h$mainZCHaskellziEratostheneszisieveExerciseI24_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI25_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI34_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk1_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI43_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk2_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI8_e, h$mainZCHaskellziEratostheneszisieveExerciseI17_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI9_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk4_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII2_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk5_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII15_e, h$mainZCHaskellziEratostheneszisieveExerciseII13_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIIzuk6_e, h$mainZCHaskellziEratostheneszisieveExerciseII3_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII21_e, h$mainZCHaskellziEratostheneszisieveExerciseII27_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII22_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk7_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIIzuk8_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII31_e, h$mainZCHaskellziEratostheneszisieveExerciseII32_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII40_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk1_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII44_e, h$mainZCHaskellziEratostheneszisieveExerciseII60_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII45_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk10_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIIzuk11_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk12_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIIzuk13_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk14_e,
-h$mainZCHaskellziEratostheneszisieveExerciseIIzuk2_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk15_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII8_e, h$mainZCHaskellziEratostheneszisieveExerciseII17_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII9_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk4_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII4_e, h$mainZCHaskellziEratostheneszisieveExerciseII5_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII52_e, h$mainZCHaskellziEratostheneszisieveExerciseII46_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII58_e, h$mainZCHaskellziEratostheneszisieveExerciseII47_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII56_e, h$mainZCHaskellziEratostheneszisieveExerciseII48_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII54_e, h$mainZCHaskellziEratostheneszisieveExerciseII49_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII50_e, h$mainZCHaskellziEratostheneszisieveExerciseII6_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII12_e, h$mainZCHaskellziEratostheneszisieveExerciseII10_e,
-h$mainZCHaskellziEratostheneszisieveExerciseII25_e, h$mainZCHaskellziEratostheneszisieveExerciseII23_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI45_e, h$mainZCHaskellziEratostheneszisieveExerciseI4_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI5_e, h$mainZCHaskellziEratostheneszisieveExerciseI6_e,
-h$mainZCHaskellziEratostheneszisieveExerciseI12_e, h$mainZCHaskellziEratostheneszisieveExerciseI10_e,
-h$mainZCHaskellziEratostheneszislideShow1_e, h$mainZCHaskellziDotAndDollarzislideShow_e,
-h$mainZCHaskellziDotAndDollarzidollarzuh1_e, h$mainZCHaskellziDotAndDollarzidollar2_e,
-h$mainZCHaskellziDotAndDollarzidollar3_e, h$mainZCHaskellziDotAndDollarzidollar22_e,
-h$mainZCHaskellziDotAndDollarzidollar23_e, h$mainZCHaskellziDotAndDollarzidollarzuk_e,
-h$mainZCHaskellziDotAndDollarzidollar31_e, h$mainZCHaskellziDotAndDollarzidollar35_e,
-h$mainZCHaskellziDotAndDollarzidollar36_e, h$mainZCHaskellziDotAndDollarzidollarzuk1_e,
-h$mainZCHaskellziDotAndDollarzidollar44_e, h$mainZCHaskellziDotAndDollarzidollar47_e,
-h$mainZCHaskellziDotAndDollarzidollar45_e, h$mainZCHaskellziDotAndDollarzidollarzuk8_e,
-h$mainZCHaskellziDotAndDollarzidollar50_e, h$mainZCHaskellziDotAndDollarzidollar48_e,
-h$mainZCHaskellziDotAndDollarzidollarzuk9_e, h$mainZCHaskellziDotAndDollarzidollarzuk2_e,
-h$mainZCHaskellziDotAndDollarzidollar8_e, h$mainZCHaskellziDotAndDollarzidollar9_e,
-h$mainZCHaskellziDotAndDollarzidollarzuk4_e, h$mainZCHaskellziDotAndDollarzidollar52_e,
-h$mainZCHaskellziDotAndDollarzidollar4_e, h$mainZCHaskellziDotAndDollarzidollar5_e,
-h$mainZCHaskellziDotAndDollarzidollar6_e, h$mainZCHaskellziDotAndDollarzidollar10_e,
-h$mainZCHaskellziDotAndDollarzidotzuh1_e, h$mainZCHaskellziDotAndDollarzidot2_e,
-h$mainZCHaskellziDotAndDollarzidotzuk5_e, h$mainZCHaskellziDotAndDollarzidot3_e, h$mainZCHaskellziDotAndDollarzidot28_e,
-h$mainZCHaskellziDotAndDollarzidot31_e, h$mainZCHaskellziDotAndDollarzidot29_e,
+h$mainZCHaskellziFunctionzioperators30_e, h$mainZCHaskellziFunctionzioperators28_e,
+h$mainZCHaskellziFunctionzislideShow1_e, h$mainZCHaskellziFunctionzislideShowzuk_e,
+h$mainZCHaskellziFunctionzislideShowzuk1_e, h$mainZCHaskellziFunctionzislideShowzuk2_e,
+h$mainZCHaskellziFunctionzislideShowzuk3_e, h$mainZCHaskellziFunctionzislideShowzuk4_e,
+h$mainZCHaskellziFunctionzislideShowzuk5_e, h$mainZCHaskellziFunctionzislideShowzuk6_e,
+h$mainZCHaskellziFunctionzislideShowzuk7_e, h$mainZCHaskellziFunctionzislideShow2_e,
+h$mainZCHaskellziFunctionzislideShow3_e, h$mainZCHaskellziFunctionzislideShow4_e,
+h$mainZCHaskellziFunctionzislideShow5_e, h$mainZCHaskellziFunctionzislideShow6_e,
+h$mainZCHaskellziFunctionzislideShow7_e, h$mainZCHaskellziFunctionzislideShow8_e,
+h$mainZCHaskellziFunctionzislideShow9_e, h$mainZCHaskellziEratostheneszislideShow_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuh1_e, h$mainZCHaskellziEratostheneszisieveExerciseI2_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk5_e, h$mainZCHaskellziEratostheneszisieveExerciseI15_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI13_e, h$mainZCHaskellziEratostheneszisieveExerciseIzuk6_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI20_e, h$mainZCHaskellziEratostheneszisieveExerciseI18_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk7_e, h$mainZCHaskellziEratostheneszisieveExerciseI3_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI24_e, h$mainZCHaskellziEratostheneszisieveExerciseI25_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk_e, h$mainZCHaskellziEratostheneszisieveExerciseI34_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk1_e, h$mainZCHaskellziEratostheneszisieveExerciseI43_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk2_e, h$mainZCHaskellziEratostheneszisieveExerciseI8_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI17_e, h$mainZCHaskellziEratostheneszisieveExerciseI9_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIzuk4_e, h$mainZCHaskellziEratostheneszisieveExerciseII2_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk5_e, h$mainZCHaskellziEratostheneszisieveExerciseII15_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII13_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk6_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII3_e, h$mainZCHaskellziEratostheneszisieveExerciseII21_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII27_e, h$mainZCHaskellziEratostheneszisieveExerciseII22_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk7_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk8_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk_e, h$mainZCHaskellziEratostheneszisieveExerciseII31_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII32_e, h$mainZCHaskellziEratostheneszisieveExerciseII40_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk1_e, h$mainZCHaskellziEratostheneszisieveExerciseII44_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII60_e, h$mainZCHaskellziEratostheneszisieveExerciseII45_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk10_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk11_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk12_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk13_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk14_e, h$mainZCHaskellziEratostheneszisieveExerciseIIzuk2_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk15_e, h$mainZCHaskellziEratostheneszisieveExerciseII8_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII17_e, h$mainZCHaskellziEratostheneszisieveExerciseII9_e,
+h$mainZCHaskellziEratostheneszisieveExerciseIIzuk4_e, h$mainZCHaskellziEratostheneszisieveExerciseII4_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII5_e, h$mainZCHaskellziEratostheneszisieveExerciseII52_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII46_e, h$mainZCHaskellziEratostheneszisieveExerciseII58_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII47_e, h$mainZCHaskellziEratostheneszisieveExerciseII56_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII48_e, h$mainZCHaskellziEratostheneszisieveExerciseII54_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII49_e, h$mainZCHaskellziEratostheneszisieveExerciseII50_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII6_e, h$mainZCHaskellziEratostheneszisieveExerciseII12_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII10_e, h$mainZCHaskellziEratostheneszisieveExerciseII25_e,
+h$mainZCHaskellziEratostheneszisieveExerciseII23_e, h$mainZCHaskellziEratostheneszisieveExerciseI45_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI4_e, h$mainZCHaskellziEratostheneszisieveExerciseI5_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI6_e, h$mainZCHaskellziEratostheneszisieveExerciseI12_e,
+h$mainZCHaskellziEratostheneszisieveExerciseI10_e, h$mainZCHaskellziEratostheneszislideShow1_e,
+h$mainZCHaskellziDotAndDollarzislideShow_e, h$mainZCHaskellziDotAndDollarzidollarzuh1_e,
+h$mainZCHaskellziDotAndDollarzidollar2_e, h$mainZCHaskellziDotAndDollarzidollar3_e,
+h$mainZCHaskellziDotAndDollarzidollar22_e, h$mainZCHaskellziDotAndDollarzidollar23_e,
+h$mainZCHaskellziDotAndDollarzidollarzuk_e, h$mainZCHaskellziDotAndDollarzidollar31_e,
+h$mainZCHaskellziDotAndDollarzidollar35_e, h$mainZCHaskellziDotAndDollarzidollar36_e,
+h$mainZCHaskellziDotAndDollarzidollarzuk1_e, h$mainZCHaskellziDotAndDollarzidollar44_e,
+h$mainZCHaskellziDotAndDollarzidollar47_e, h$mainZCHaskellziDotAndDollarzidollar45_e,
+h$mainZCHaskellziDotAndDollarzidollarzuk8_e, h$mainZCHaskellziDotAndDollarzidollar50_e,
+h$mainZCHaskellziDotAndDollarzidollar48_e, h$mainZCHaskellziDotAndDollarzidollarzuk9_e,
+h$mainZCHaskellziDotAndDollarzidollarzuk2_e, h$mainZCHaskellziDotAndDollarzidollar8_e,
+h$mainZCHaskellziDotAndDollarzidollar9_e, h$mainZCHaskellziDotAndDollarzidollarzuk4_e,
+h$mainZCHaskellziDotAndDollarzidollar52_e, h$mainZCHaskellziDotAndDollarzidollar4_e,
+h$mainZCHaskellziDotAndDollarzidollar5_e, h$mainZCHaskellziDotAndDollarzidollar6_e,
+h$mainZCHaskellziDotAndDollarzidollar10_e, h$mainZCHaskellziDotAndDollarzidotzuh1_e,
+h$mainZCHaskellziDotAndDollarzidot2_e, h$mainZCHaskellziDotAndDollarzidotzuk5_e, h$mainZCHaskellziDotAndDollarzidot3_e,
+h$mainZCHaskellziDotAndDollarzidot28_e, h$mainZCHaskellziDotAndDollarzidot31_e, h$mainZCHaskellziDotAndDollarzidot29_e,
 h$mainZCHaskellziDotAndDollarzidotzuk7_e, h$mainZCHaskellziDotAndDollarzidotzuk_e,
 h$mainZCHaskellziDotAndDollarzidot35_e, h$mainZCHaskellziDotAndDollarzidot36_e,
 h$mainZCHaskellziDotAndDollarzidotzuk1_e, h$mainZCHaskellziDotAndDollarzidot44_e,
@@ -153284,49 +153889,51 @@ h$mainZCHaskellziDotAndDollarzidotzuk10_e, h$mainZCHaskellziDotAndDollarzidot7_e
 h$mainZCHaskellziDotAndDollarzidotzuk3_e, h$mainZCHaskellziDotAndDollarzidotzuk4_e,
 h$mainZCHaskellziDotAndDollarzidot50_e, h$mainZCHaskellziDotAndDollarzidot4_e, h$mainZCHaskellziDotAndDollarzidot5_e,
 h$mainZCHaskellziDotAndDollarzidot9_e, h$mainZCHaskellziDotAndDollarzidot10_e, h$mainZCHaskellziDotAndDollarzidot11_e,
-h$mainZCHaskellziDotAndDollarzislideShow1_e, h$mainZCHaskellziDifferenceEnginezislideShow_e,
-h$mainZCHaskellziDifferenceEnginezialgorithmzuh1_e, h$mainZCHaskellziDifferenceEnginezialgorithm2_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm3_e, h$mainZCHaskellziDifferenceEnginezialgorithm25_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm29_e, h$mainZCHaskellziDifferenceEnginezialgorithm30_e,
-h$mainZCHaskellziDifferenceEnginezialgorithmzuk_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk6_e,
-h$mainZCHaskellziDifferenceEnginezialgorithmzuk7_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk1_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm46_e, h$mainZCHaskellziDifferenceEnginezialgorithm7_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm8_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk3_e,
-h$mainZCHaskellziDifferenceEnginezialgorithmzuk4_e, h$mainZCHaskellziDifferenceEnginezialgorithm48_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm4_e, h$mainZCHaskellziDifferenceEnginezialgorithm5_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm9_e, h$mainZCHaskellziDifferenceEnginezialgorithm10_e,
-h$mainZCHaskellziDifferenceEnginezialgorithm31_e, h$mainZCHaskellziDifferenceEnginezialgorithm32_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuh1_e, h$mainZCHaskellziDifferenceEngineziallZZero2_e,
-h$mainZCHaskellziDifferenceEngineziallZZero14_e, h$mainZCHaskellziDifferenceEngineziallZZero12_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuk5_e, h$mainZCHaskellziDifferenceEngineziallZZero18_e,
-h$mainZCHaskellziDifferenceEngineziallZZero21_e, h$mainZCHaskellziDifferenceEngineziallZZero19_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuk6_e, h$mainZCHaskellziDifferenceEngineziallZZero3_e,
-h$mainZCHaskellziDifferenceEngineziallZZero24_e, h$mainZCHaskellziDifferenceEngineziallZZero22_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuk7_e, h$mainZCHaskellziDifferenceEngineziallZZero28_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuk_e, h$mainZCHaskellziDifferenceEngineziallZZero37_e,
-h$mainZCHaskellziDifferenceEngineziallZZerozuk1_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk2_e,
-h$mainZCHaskellziDifferenceEngineziallZZero8_e, h$mainZCHaskellziDifferenceEngineziallZZero11_e,
-h$mainZCHaskellziDifferenceEngineziallZZero9_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk4_e,
-h$mainZCHaskellziDifferenceEngineziallZZero39_e, h$mainZCHaskellziDifferenceEngineziallZZero4_e,
-h$mainZCHaskellziDifferenceEngineziallZZero5_e, h$mainZCHaskellziDifferenceEngineziallZZero6_e,
-h$mainZCHaskellziDifferenceEnginezideBeginzuh1_e, h$mainZCHaskellziDifferenceEnginezideBegin2_e,
-h$mainZCHaskellziDifferenceEnginezideBegin13_e, h$mainZCHaskellziDifferenceEnginezideBegin17_e,
-h$mainZCHaskellziDifferenceEnginezideBegin26_e, h$mainZCHaskellziDifferenceEnginezideBegin18_e,
-h$mainZCHaskellziDifferenceEnginezideBeginzuk5_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk6_e,
-h$mainZCHaskellziDifferenceEnginezideBegin3_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk7_e,
-h$mainZCHaskellziDifferenceEnginezideBegin29_e, h$mainZCHaskellziDifferenceEnginezideBegin27_e,
-h$mainZCHaskellziDifferenceEnginezideBeginzuk8_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk_e,
-h$mainZCHaskellziDifferenceEnginezideBegin33_e, h$mainZCHaskellziDifferenceEnginezideBegin34_e,
-h$mainZCHaskellziDifferenceEnginezideBeginzuk1_e, h$mainZCHaskellziDifferenceEnginezideBegin42_e,
+h$mainZCHaskellziDotAndDollarzislideShow1_e, h$mainZCHaskellziDifferenceEnginezideBegin56_e,
+h$mainZCHaskellziDifferenceEnginezideBegin54_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk11_e,
+h$mainZCHaskellziDifferenceEnginezislideShow_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuh1_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm2_e, h$mainZCHaskellziDifferenceEnginezialgorithm3_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm25_e, h$mainZCHaskellziDifferenceEnginezialgorithm29_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm30_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk_e,
+h$mainZCHaskellziDifferenceEnginezialgorithmzuk6_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk7_e,
+h$mainZCHaskellziDifferenceEnginezialgorithmzuk1_e, h$mainZCHaskellziDifferenceEnginezialgorithm46_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm7_e, h$mainZCHaskellziDifferenceEnginezialgorithm8_e,
+h$mainZCHaskellziDifferenceEnginezialgorithmzuk3_e, h$mainZCHaskellziDifferenceEnginezialgorithmzuk4_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm48_e, h$mainZCHaskellziDifferenceEnginezialgorithm4_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm5_e, h$mainZCHaskellziDifferenceEnginezialgorithm9_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm10_e, h$mainZCHaskellziDifferenceEnginezialgorithm31_e,
+h$mainZCHaskellziDifferenceEnginezialgorithm32_e, h$mainZCHaskellziDifferenceEngineziallZZerozuh1_e,
+h$mainZCHaskellziDifferenceEngineziallZZero2_e, h$mainZCHaskellziDifferenceEngineziallZZero14_e,
+h$mainZCHaskellziDifferenceEngineziallZZero12_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk5_e,
+h$mainZCHaskellziDifferenceEngineziallZZero18_e, h$mainZCHaskellziDifferenceEngineziallZZero21_e,
+h$mainZCHaskellziDifferenceEngineziallZZero19_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk6_e,
+h$mainZCHaskellziDifferenceEngineziallZZero3_e, h$mainZCHaskellziDifferenceEngineziallZZero24_e,
+h$mainZCHaskellziDifferenceEngineziallZZero22_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk7_e,
+h$mainZCHaskellziDifferenceEngineziallZZero28_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk_e,
+h$mainZCHaskellziDifferenceEngineziallZZero37_e, h$mainZCHaskellziDifferenceEngineziallZZerozuk1_e,
+h$mainZCHaskellziDifferenceEngineziallZZerozuk2_e, h$mainZCHaskellziDifferenceEngineziallZZero8_e,
+h$mainZCHaskellziDifferenceEngineziallZZero11_e, h$mainZCHaskellziDifferenceEngineziallZZero9_e,
+h$mainZCHaskellziDifferenceEngineziallZZerozuk4_e, h$mainZCHaskellziDifferenceEngineziallZZero39_e,
+h$mainZCHaskellziDifferenceEngineziallZZero4_e, h$mainZCHaskellziDifferenceEngineziallZZero5_e,
+h$mainZCHaskellziDifferenceEngineziallZZero6_e, h$mainZCHaskellziDifferenceEnginezideBeginzuh1_e,
+h$mainZCHaskellziDifferenceEnginezideBegin2_e, h$mainZCHaskellziDifferenceEnginezideBegin13_e,
+h$mainZCHaskellziDifferenceEnginezideBegin14_e, h$mainZCHaskellziDifferenceEnginezideBegin17_e,
+h$mainZCHaskellziDifferenceEnginezideBegin26_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk5_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk6_e, h$mainZCHaskellziDifferenceEnginezideBegin3_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk7_e, h$mainZCHaskellziDifferenceEnginezideBegin23_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk8_e, h$mainZCHaskellziDifferenceEnginezideBegin30_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk_e, h$mainZCHaskellziDifferenceEnginezideBegin33_e,
+h$mainZCHaskellziDifferenceEnginezideBegin37_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk9_e,
+h$mainZCHaskellziDifferenceEnginezideBegin38_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk1_e,
 h$mainZCHaskellziDifferenceEnginezideBegin46_e, h$mainZCHaskellziDifferenceEnginezideBegin50_e,
-h$mainZCHaskellziDifferenceEnginezideBegin47_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk10_e,
-h$mainZCHaskellziDifferenceEnginezideBeginzuk2_e, h$mainZCHaskellziDifferenceEnginezideBeginzuk3_e,
-h$mainZCHaskellziDifferenceEnginezideBegin9_e, h$mainZCHaskellziDifferenceEnginezideBegin52_e,
-h$mainZCHaskellziDifferenceEnginezideBegin4_e, h$mainZCHaskellziDifferenceEnginezideBegin5_e,
-h$mainZCHaskellziDifferenceEnginezideBegin48_e, h$mainZCHaskellziDifferenceEnginezideBegin6_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk2_e, h$mainZCHaskellziDifferenceEnginezideBegin51_e,
+h$mainZCHaskellziDifferenceEnginezideBeginzuk3_e, h$mainZCHaskellziDifferenceEnginezideBegin9_e,
+h$mainZCHaskellziDifferenceEnginezideBegin52_e, h$mainZCHaskellziDifferenceEnginezideBegin4_e,
+h$mainZCHaskellziDifferenceEnginezideBegin31_e, h$mainZCHaskellziDifferenceEnginezideBegin5_e,
+h$mainZCHaskellziDifferenceEnginezideBegin15_e, h$mainZCHaskellziDifferenceEnginezideBegin6_e,
 h$mainZCHaskellziDifferenceEnginezideBegin7_e, h$mainZCHaskellziDifferenceEnginezideBegin24_e,
-h$mainZCHaskellziDifferenceEnginezideBegin19_e, h$mainZCHaskellziDifferenceEnginezideBegin22_e,
-h$mainZCHaskellziDifferenceEnginezideBegin20_e, h$mainZCHaskellziDifferenceEnginezideIntrozuh1_e,
+h$mainZCHaskellziDifferenceEnginezideBegin22_e, h$mainZCHaskellziDifferenceEnginezideBegin21_e,
+h$mainZCHaskellziDifferenceEnginezideBegin28_e, h$mainZCHaskellziDifferenceEnginezideIntrozuh1_e,
 h$mainZCHaskellziDifferenceEnginezideIntro2_e, h$mainZCHaskellziDifferenceEnginezideIntro13_e,
 h$mainZCHaskellziDifferenceEnginezideIntro11_e, h$mainZCHaskellziDifferenceEnginezideIntrozuk4_e,
 h$mainZCHaskellziDifferenceEnginezideIntro17_e, h$mainZCHaskellziDifferenceEnginezideIntro18_e,
@@ -153380,24 +153987,23 @@ h$mainZCHaskellziDifferenceEnginezidiffs12_e, h$mainZCHaskellziDifferenceEnginez
 h$mainZCHaskellziDifferenceEnginezidiffs36_e, h$mainZCHaskellziDifferenceEnginezidiffs30_e,
 h$mainZCHaskellziDifferenceEnginezilastStepszuh1_e, h$mainZCHaskellziDifferenceEnginezilastSteps2_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps14_e, h$mainZCHaskellziDifferenceEnginezilastSteps15_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps3_e, h$mainZCHaskellziDifferenceEnginezilastSteps23_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps26_e, h$mainZCHaskellziDifferenceEnginezilastSteps24_e,
-h$mainZCHaskellziDifferenceEnginezilastStepszuk6_e, h$mainZCHaskellziDifferenceEnginezilastSteps30_e,
-h$mainZCHaskellziDifferenceEnginezilastStepszuk_e, h$mainZCHaskellziDifferenceEnginezilastSteps50_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps60_e, h$mainZCHaskellziDifferenceEnginezilastSteps3_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps23_e, h$mainZCHaskellziDifferenceEnginezilastSteps26_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps24_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk6_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps30_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps31_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk7_e,
 h$mainZCHaskellziDifferenceEnginezilastStepszuk8_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk9_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps35_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk10_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps40_e, h$mainZCHaskellziDifferenceEnginezilastSteps38_e,
-h$mainZCHaskellziDifferenceEnginezilastStepszuk11_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk1_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps43_e, h$mainZCHaskellziDifferenceEnginezilastSteps41_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps38_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk11_e,
+h$mainZCHaskellziDifferenceEnginezilastStepszuk1_e, h$mainZCHaskellziDifferenceEnginezilastSteps41_e,
 h$mainZCHaskellziDifferenceEnginezilastStepszuk12_e, h$mainZCHaskellziDifferenceEnginezilastSteps46_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps44_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk13_e,
-h$mainZCHaskellziDifferenceEnginezilastStepszuk2_e, h$mainZCHaskellziDifferenceEnginezilastSteps53_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps51_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk14_e,
-h$mainZCHaskellziDifferenceEnginezilastStepszuk3_e, h$mainZCHaskellziDifferenceEnginezilastSteps62_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps9_e, h$mainZCHaskellziDifferenceEnginezilastSteps10_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps64_e, h$mainZCHaskellziDifferenceEnginezilastSteps4_e,
-h$mainZCHaskellziDifferenceEnginezilastSteps5_e, h$mainZCHaskellziDifferenceEnginezilastSteps6_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps49_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk2_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps51_e, h$mainZCHaskellziDifferenceEnginezilastStepszuk3_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps62_e, h$mainZCHaskellziDifferenceEnginezilastSteps9_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps10_e, h$mainZCHaskellziDifferenceEnginezilastSteps4_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps5_e, h$mainZCHaskellziDifferenceEnginezilastSteps39_e,
+h$mainZCHaskellziDifferenceEnginezilastSteps42_e, h$mainZCHaskellziDifferenceEnginezilastSteps6_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps7_e, h$mainZCHaskellziDifferenceEnginezilastSteps48_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps32_e, h$mainZCHaskellziDifferenceEnginezilastSteps37_e,
 h$mainZCHaskellziDifferenceEnginezilastSteps33_e, h$mainZCHaskellziDifferenceEnginezilastSteps34_e,
@@ -153445,6 +154051,7 @@ h$mainZCHaskellziDifferenceEnginezislideShow2_e, h$mainZCHaskellziDifferenceEngi
 h$mainZCHaskellziDifferenceEnginezislideShow4_e, h$mainZCHaskellziDifferenceEnginezislideShow5_e,
 h$mainZCHaskellziDifferenceEnginezislideShow6_e, h$mainZCHaskellziDifferenceEnginezislideShow7_e,
 h$mainZCHaskellziDifferenceEnginezislideShow8_e, h$mainZCHaskellziDifferenceEnginezislideShow9_e,
+h$mainZCHaskellziADTzitrees53_e, h$mainZCHaskellziADTzitrees51_e, h$mainZCHaskellziADTzitreeszuk11_e,
 h$mainZCHaskellziADTzislideShow_e, h$mainZCHaskellziADTzicaseExprzuh1_e, h$mainZCHaskellziADTzicaseExpr2_e,
 h$mainZCHaskellziADTzicaseExprzuk5_e, h$mainZCHaskellziADTzicaseExpr20_e, h$mainZCHaskellziADTzicaseExpr3_e,
 h$mainZCHaskellziADTzicaseExpr24_e, h$mainZCHaskellziADTzicaseExpr25_e, h$mainZCHaskellziADTzicaseExprzuk6_e,
@@ -153493,26 +154100,27 @@ h$mainZCHaskellziADTzimaybeType32_e, h$mainZCHaskellziADTzipatternMatchingzuh1_e
 h$mainZCHaskellziADTzipatternMatching2_e, h$mainZCHaskellziADTzipatternMatching20_e,
 h$mainZCHaskellziADTzipatternMatching3_e, h$mainZCHaskellziADTzipatternMatching24_e,
 h$mainZCHaskellziADTzipatternMatching25_e, h$mainZCHaskellziADTzipatternMatchingzuk5_e,
-h$mainZCHaskellziADTzipatternMatchingzuk_e, h$mainZCHaskellziADTzipatternMatching37_e,
-h$mainZCHaskellziADTzipatternMatching40_e, h$mainZCHaskellziADTzipatternMatching38_e,
+h$mainZCHaskellziADTzipatternMatchingzuk_e, h$mainZCHaskellziADTzipatternMatching34_e,
+h$mainZCHaskellziADTzipatternMatching37_e, h$mainZCHaskellziADTzipatternMatching35_e,
 h$mainZCHaskellziADTzipatternMatchingzuk7_e, h$mainZCHaskellziADTzipatternMatchingzuk1_e,
 h$mainZCHaskellziADTzipatternMatching7_e, h$mainZCHaskellziADTzipatternMatching8_e,
-h$mainZCHaskellziADTzipatternMatchingzuk3_e, h$mainZCHaskellziADTzipatternMatching42_e,
+h$mainZCHaskellziADTzipatternMatchingzuk3_e, h$mainZCHaskellziADTzipatternMatching39_e,
 h$mainZCHaskellziADTzipatternMatching4_e, h$mainZCHaskellziADTzipatternMatching5_e,
 h$mainZCHaskellziADTzipatternMatching9_e, h$mainZCHaskellziADTzipatternMatching26_e, h$mainZCHaskellziADTzislideShow1_e,
 h$mainZCHaskellziADTzislideShowzuk_e, h$mainZCHaskellziADTzislideShowzuk1_e, h$mainZCHaskellziADTzislideShowzuk2_e,
 h$mainZCHaskellziADTzislideShowzuk3_e, h$mainZCHaskellziADTzislideShow2_e, h$mainZCHaskellziADTzislideShow3_e,
 h$mainZCHaskellziADTzislideShow4_e, h$mainZCHaskellziADTzislideShow5_e, h$mainZCHaskellziADTzitreeszuh1_e,
-h$mainZCHaskellziADTzitrees2_e, h$mainZCHaskellziADTzitrees13_e, h$mainZCHaskellziADTzitrees19_e,
-h$mainZCHaskellziADTzitrees14_e, h$mainZCHaskellziADTzitreeszuk5_e, h$mainZCHaskellziADTzitreeszuk6_e,
-h$mainZCHaskellziADTzitrees3_e, h$mainZCHaskellziADTzitrees23_e, h$mainZCHaskellziADTzitrees27_e,
-h$mainZCHaskellziADTzitrees33_e, h$mainZCHaskellziADTzitrees28_e, h$mainZCHaskellziADTzitreeszuk7_e,
-h$mainZCHaskellziADTzitreeszuk8_e, h$mainZCHaskellziADTzitreeszuk_e, h$mainZCHaskellziADTzitreeszuk1_e,
-h$mainZCHaskellziADTzitrees42_e, h$mainZCHaskellziADTzitrees45_e, h$mainZCHaskellziADTzitrees43_e,
-h$mainZCHaskellziADTzitreeszuk9_e, h$mainZCHaskellziADTzitreeszuk2_e, h$mainZCHaskellziADTzitreeszuk3_e,
-h$mainZCHaskellziADTzitrees9_e, h$mainZCHaskellziADTzitrees47_e, h$mainZCHaskellziADTzitrees4_e,
-h$mainZCHaskellziADTzitrees5_e, h$mainZCHaskellziADTzitrees6_e, h$mainZCHaskellziADTzitrees7_e,
-h$mainZCHaskellziADTzitrees17_e, h$mainZCHaskellziADTzitrees15_e, h$mainZCHaskellziADTzitrees31_e,
+h$mainZCHaskellziADTzitrees2_e, h$mainZCHaskellziADTzitreeszuk5_e, h$mainZCHaskellziADTzitreeszuk6_e,
+h$mainZCHaskellziADTzitrees18_e, h$mainZCHaskellziADTzitrees3_e, h$mainZCHaskellziADTzitrees21_e,
+h$mainZCHaskellziADTzitrees25_e, h$mainZCHaskellziADTzitrees31_e, h$mainZCHaskellziADTzitreeszuk7_e,
+h$mainZCHaskellziADTzitreeszuk8_e, h$mainZCHaskellziADTzitrees30_e, h$mainZCHaskellziADTzitreeszuk_e,
+h$mainZCHaskellziADTzitrees35_e, h$mainZCHaskellziADTzitrees39_e, h$mainZCHaskellziADTzitreeszuk9_e,
+h$mainZCHaskellziADTzitrees40_e, h$mainZCHaskellziADTzitreeszuk1_e, h$mainZCHaskellziADTzitrees48_e,
+h$mainZCHaskellziADTzitreeszuk2_e, h$mainZCHaskellziADTzitrees8_e, h$mainZCHaskellziADTzitrees17_e,
+h$mainZCHaskellziADTzitrees9_e, h$mainZCHaskellziADTzitreeszuk4_e, h$mainZCHaskellziADTzitrees49_e,
+h$mainZCHaskellziADTzitrees33_e, h$mainZCHaskellziADTzitrees4_e, h$mainZCHaskellziADTzitrees5_e,
+h$mainZCHaskellziADTzitrees19_e, h$mainZCHaskellziADTzitrees6_e, h$mainZCHaskellziADTzitrees15_e,
+h$mainZCHaskellziADTzitrees10_e, h$mainZCHaskellziADTzitrees13_e, h$mainZCHaskellziADTzitrees11_e,
 h$mainZCHaskellziADTzitrees29_e,
 h$aesonzuJfwOc0tatveGJr1ebKU0dGZCDataziAesonziTypesziInternalzizdfShowValuezuzdcshowsPrec_e, h$$aHC, h$$aHD, h$$aHE,
 h$$aHF, h$$aHG, h$$aHH, h$$aHI, h$$aHJ, h$$aHK, h$$aHL, h$$aHM, h$$aHN, h$$aHO, h$$aHP, h$$aHQ, h$$aHR, h$$aHS, h$$aHT,
@@ -153719,8 +154327,8 @@ h$unordzuK2ncifK6iRTCSW3rFQhVndZCDataziHashMapziArrayziArray_e,
 h$unordzuK2ncifK6iRTCSW3rFQhVndZCDataziHashMapziArrayziArray_con_e,
 h$unordzuK2ncifK6iRTCSW3rFQhVndZCDataziHashMapziArrayzizdWArray_e,
 h$unordzuK2ncifK6iRTCSW3rFQhVndZCDataziHashMapziArrayziundefinedElem_e], h$staticDelayed, [],
-"#$! ##! #!! ##! #!! !!%! #!# #!! !!%! #!# !#'! ##$ !!%! #!# !$)! #!% !#'! #!$ #!! !!%! !#'! $$# $$$ !#'! $$# $$$ !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$$ !#'! $$# $$$ !#'! $$# $$# !#'! $$# $$# !)3! #!* !!%! $$! !#'! #!$ !#'! !#'! !#'! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !#)! !!&&  $ !!'! !!&%  $ !$+! !!&'  $ !!'! !!&%  $  $  $  $ !#%! $$! $$! !#%! $$! $$$ $$! $!( $$! $$! $!( $$# $$! $$# !!#! !#%! !#%! !#%! !#%!  !!|&# !!|&  !!_!!%!!^!!%!!`!!%! $$! $$# !#'!!h!$)!!h!#'!!b!!#!!p!!%!!f$$!!f$$#!f!!%!!h!$)! $$#  $ !#'! $$#  $ !#'! !!#!!s!!%!!t$$!!t$$#!t!#'! !!%! $$! #!! !#'! #!$ !!%! #!# !#'! $$# $$$ !!%! $$!  ! !$'!$| 0| \/| (!#&##| 0| ($$##| 0| ($$%#| 0| ($$% $$%  !  !  !  ! !$'!&| \/| -| ,| +| *!#&#%| -| ,| +| *$$#%| -| ,| +| *$$&%| -| ,| +| *$$&#| +| *$$&#| +| *$$%#| +| *$$$#| +| *$$$!| +$$$ !$'!(|*_|*c|*b| '| &| %| $$$((|*_|*c|*b| '| &| %| $$$'(|*_|*c|*b| '| &| %| $$!''|*c|*b| '| &| %| $$$+&|*c|*b| '| %| $$!+&|*c|*b| '| %| $$$+%|*c|*b| '| $$!+%|*c|*b| '| $$$-%|*c|*b| '| $$!-%|*c|*b| '| $$$*%|*c|*b| '| $$$(#|*c| $$$& !!$% !!$% $$$  ! !#%!!| 0$$!!| 0 #!| 0$$#  !#|&%| :!#%!$|*b| 4| 2$$%!| 4$$% !!$% $$$ $$! !!%! $$! !#%!#|*b| 7$$%  $ !!$% $$$ $$! !#'!!|)C$$!!|)C $ !#'!!|)C$$!!|)C $ !'\/!#| =| <$$(#| =| <$$)#| =| <$$*#| =| <$$*!| =$$( $$) $(' $$) $$* $$)  $ $$! $$!  #  #  #  # !!%!#| g| @ #!| g #!| @!#'!!| B!$)! $$$ $$$ $&! !!%! $$! $&! !#'! $$# $&! !#'! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! !!%! $$! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$$ !#'! $$# $$$ !!%!#|+>|#q$$!#|+>|#q$$!#|+>|#q$$!!|#q$&! !#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!!%! $$!  !#|)e| C!!%!!| ^$$!!| ^ !#|)d| C!!%!!| `$$!!| `!!%! $$! !!%!!| @!!%!!| c$$!!| c!#'!!| g!!&$!| g #!| g % !#'!!| e$$#!| e$$#!| e!!%!#|)f| C!!%!!| g!!%!!| h$$!!| h$$! !#'!!| i #!| i!$)!!| j!$)!!| k$$$!| k$$$!| k$$$!| k!#'! $$# $$# !#'! $$# $$# !#)! !#)! !!%! $$! !!%! #!# !!%! #!# !!'! #!$ !!%! !!%! $$! !#%!$|!,|!(|!'!!$##|!,|!(!#%!!|!&!$'!'|&Z|%>|)u|!4|!3|!-$$$&|&Z|%>|)u|!4|!-$$$%|&Z|%>|)u|!-$$$$|%>|)u|!-$$$$|%>|)u|!-$!!!|!-$!$#|%>|)u$$##|%>|)u$$%#|%>|)u$$# $!)#|%>|)u$$$#|%>|)u$$&#|%>|)u$$%#|%>|)u$$%#|%>|)u$$%#|%>|)u$$$#|%>|)u$$%!|)u$$$ $$# $$$ $$# $$%!|)u$$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# !#%!!|!-$$!!|!-$!!!|!-!!#!!|!. !#|'$|!\/ !#|'%|!0!#%! $$! !#%!!|!'!!$# !!#!$|%>|%$|%?!!#!$|%$|%?|%=!#%!!|!&!#%!!|!2!%)! $$$ $$% $$% !$'! $$# $$$ !#'! !#'!#|+:|!:$$##|+:|!:$&$!|!: $!|!:!#'!%|+>|+:|!;|!:$$$%|+>|+:|!;|!:$$$$|+:|!;|!:$&##|+:|!:$&$!|!:$$&!|!: $!|!: $!|!:!#'! !$)! !#'!#|+:|!>$$##|+:|!>$&$!|!>$$%!|!>$&!  %!|!>$$$!|!>$&!  $!|!>!#'!$|!?|#>|!A$$#$|!?|#>|!A$$$$|!?|#>|!A $!|!? $!|!?!!%!!|)C$$!!|)C # $&! !!%!!|!M$!#!|!M!!%! $$! $&! !$)!  $ !$)!!|#P$$#!|#P!!%!!|#P$$!!|#P!#'!!|#P$$#!|#P %!|#P$$$!|#P $!|#P!!&$!|#P$$$!|#P %!|#P$$$!|#P $ !#'!-|$^|#V|!K|!J|!I|!H|!G|!F|!E|!D|!C|!B $ $&!  # $$! $$#  # $$! $$#  ##|$^|#V !#|+_|!@!#'!%|+:|!>|#@|!;$$$%|+:|!>|#@|!;$$# $&##|+:|!>$&$!|!>$$%!|!> %!|!>$$$!|!>$&!  $!|!>$$$!|!> $!|!>!#'!#|+Y|#A$$$#|+Y|#A $#|+Y|#A$$#!|#A$&! !$)!!|#B$$$!|#B $!|#B$&! !#'!  # $&!  $ $&!  $ $&! !$)!  $ $&! !#'! $$# $&! !#'! !$)! #!% !$)! $$$ $$$ $&! !!%!!|!N$$!!|!N$$! !$)! $$$  &  % !!&% $$%  &  $ !!%! $$! !!%! $$! !!%! #!# !!%! $$! !$)!#|+>|#]$$$!|#]$$$#|+>|#]$$$!|#]!#'!$|+>|#^|#]$$#!|#^$$$!|#]!%+!$|$B|#a|#c$$&$|$B|#a|#c$$'$|$B|#a|#c$$($|$B|#a|#c$$'#|$B|#a$$&#|$B|#a$$%#|$B|#a$$#  #  #  # !$)!!|#_$$$!|#_$&! !%+!!|#b$$&!|#b$$'!|#b$$(!|#b$$) $$( $$) $&( $$*  $  % $$*  $  '  % $(( $$+  $  % $$+  $  '  %  %  #  #  #  #  #  !#|)C|#d !#|)C|#d !#|)C|#d!#'!#|$,|$)$$##|$,|$)$$##|$,|$)!#'!!|$,$$#!|$,$$# !#'!#|$,|$)!#'!!|#h$$#!|#h$$#!|#h$$! !#'!!|$,$$#!|$,$$# $$! !#'!#|$,|$*$$##|$,|$*$$##|$,|$*!#'!#|$,|$*$$##|$,|$*$$##|$,|$*!!%! $$! !!%! $$! $$! !#'!%|+;|+?|$,|$+$$$%|+;|+?|$,|$+$$$#|+;|$,$$%#|+;|$,$$$!|+;$$# !!%! $$! !(1! #!) !!%! $$! !!%! $$! !%+! #!& !!%! $$! !*5! #!+ !!%! $$! !$)! #!% !!%! $$! !!%! $$! !#'! #!$ !#'! $$# $$# !#'! $$$ $$$ $$$  %  #  #  #  !!|)> !!|)= !!|)?!!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!'! #!$ !#'! $$# $$$ !!%! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !(1! #!) !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! #!# !#'!#|$]|$J$$##|$]|$J!#'! $$# !#'! $$# $$&  # $$!  # $$!  $ $&! !#'! $$# $$&  # $$!  # $$!  $ $&! !#'! $$# $$$  # $$!  # $$!  $ $&! !#'! $$# $$% !#'!#|$P|$T$$##|$P|$T$$$!|$P $!|$P!#'! $$# !#'! $$#  $  !#|$`|$U !#|$_|$W !#|$_|$Y !#|$`|$S !#|)C|$V!#'!#|$a|$J!!%!$|)C|$_|$Z$$!!|)C #!|$Z !#|)C|$X!#'! $$# $$$ !!%! #!# !!'! #!$ !#'! #!$ !#'! #!$ !#'! $$# !1C! #!2 !1C! $$1 $$1 $$1 $$1 $$1 #!! !!%! #$# ##! #!! #%! #!! !&+!#|&%|$s$$&#|&%|$s $ !#&'#|&%|$s$!'#|&%|$s$$&#|&%|$s$$(#|&%|$s %!|&% % $!+!|$s$!&!|$s !#|&%|$y !#|&%|% !&+!!|$s!!$&!|$s$$%!|$s$$# $$# $!# !&+!%|%+|%'|%&|%!!#&#$|%+|%'|%&$$#$|%+|%'|%&$$+$|%+|%'|%&$$+!|%+$$+!|%+$$# $$+!|%+$$-!|%+$$*!|%+$$,!|%+$$0!|%+$$0!|%+$$1!|%+$$)!|%+$$)!|%+ $ $$#  # $$! $!)!|%+$$)!|%+$$0!|%+$$0!|%+$$-  $ $$( $$% $$#  # $$! $$# !%)!!|%#$$$!|%#!-9!!|%,$$-!|%,$$-!|%,$$\/!|%,$$.!|%,$$.!|%,$$.!|%,$$\/!|%,$$.!|%,$$.!|%,$$.!|%,$&-!|%,$$0!|%,$$1 $$1  # $$! $&0 $!% $$$  %  1 $$0 $$0  # $$!  # $$!  # $$! !!#!!|$z!!#!!|$w!#%! $$! $$% $$% $$% $$#  !#|&%|%* !#|)C|$u!&+! $$!  # $$! !$(% $$% $$& $$( $$& $$& $$# $$# !!%!#|&&|$v!$)! $$$  $ $$# $$! !!#!(|'D|%w|%v|%%|%<|%5|%1$$!'|%w|%v|%%|%<|%5|%1$$!'|%w|%v|%%|%<|%5|%1!!#!(|'D|%w|%v|%%|%<|%3|%5$$!'|%w|%v|%%|%<|%3|%5$$!'|%w|%v|%%|%<|%3|%5!$'!!|%6$$#!|%6!$'!!|%.$$$!|%.$$$!|%.$$*!|%.$$*!|%.$$*!|%.$$(!|%.$!'!|%.$$&!|%.$!!  #!|%.$$%!|%.$$%!|%.$$%!|%.$$$!|%.$$$!|%.$$$!|%.$!!  #!|%.$!!  #!|%.$$$!|%.$$$!|%.$$$!|%.$!!  #!|%.$!!  #!|%.!!#!!|%; !!|%2 !!|%0!#%!#|%$|%?!#%!!|%@!%)!$|*c|%B|%C$$%!|%B # $$%!|%B # !!$%#|*c|%C$$$#|*c|%C$$%#|*c|%C$$!#|*c|%C$$%!|%B$$%!|%B$$%!|%B $ $$# !!%! $$! !%)!$|)Z|*b|%E$$!!|)Z #!|)Z$$!!|)Z!!$% $$$ $$$ $$! !%)!!|%F$$$!|%F$$$!|%F!!%! $$! !#%!#|*b|%I$$! !!$# $$! !#%!!|%J$$!!|%J!#%! $$! !#%!!| 5$$! $$!  # $$!  # $$! !%)!$|*b|%R|%N$$! !!$% $&$ $$% $&! $&! $&! !%)!!|%O$$$!|%O ! !!%!!|%Q!#%!$|*b|%S|%R$$!  # $$! !!$# $&! !#%!!|%T$$!!|%T!#%!!| 9 # $$! !$'!#|*c|%W$&##|*c|%W$$!#|*c|%W$$! !$'!!|%X$$#!|%X!$'!!| ) # $$! !#%!#| 1| \/ # $$! !$'!!| . # $$!  # $$! !#%!!| 5$$! $$!  # $$! !$'!#|*c|%_$$##|*c|%_$$#  $ $$# !#%!!|%`$$!!|%`!%)!#|*c|%b$$$#|*c|%b$$$ !$'!!|%c$$#!|%c$$$!|%c!$'! !)3!#|*c|%f$$)#|*c|%f$$)  * $$)  # $$! $$)  * $$)  # $$! !!$'#|*c|%f$$!#|*c|%f!$'!!|%g$$#!|%g$$#!|%g!'-!!|*c!!$'!|*c$$&!|*c$$'!|*c$$'!|*c$$#!|*c$$! $$! !)3!#|%k|%j$$) $$) !$'!!|%l$$#!|%l$$#!|%l!$'!  # $$! !$'!!|%B$$#!|%B$$)!|%B$$' !%)!#|*c|%p$$$#|*c|%p$$%#|*c|%p$$!#|*c|%p$$! $$! $$!  # $$! !!$%#|*c|%p$$$#|*c|%p$$%#|*c|%p$$!#|*c|%p$$! $$! !)3!!|%s$$)  * $$) !$'!!|%t$$#!|%t$$#!|%t!#'! #!$ !#'! $$# $$# !!%!!|&!!!%!!|&$!!%!!|&&!!%! $$! !#'!!|&E$$#!|&E!#'!!|&=!!#!!|&`!!%!!|&@$$!!|&@$$#!|&@!#'!4|&9|&8|&7|&6|&5|&4|&3|&2|&1|&0|&\/|&.|&-|&,|&+|&*|&)|&(|&'$$#4|&9|&8|&7|&6|&5|&4|&3|&2|&1|&0|&\/|&.|&-|&,|&+|&*|&)|&(|&'!'\/!'|$f|$e|&[|&D|&C|&B$$$$|$f|$e|&[ #!|&[$$#$|$f|$e|&[$$#$|$f|$e|&[ $#|$f|&[ ##|$f|&[ #!|&[ $#|$f|&[ ##|$f|&[ #!|&[ &%|&[|&D|&C|&B$$#!|&[ #!|&[ %$|&D|&C|&B $#|&D|&C$$##|&D|&C $!|&D #!|&D!$)!!|&E$$#!|&E!!%!!|&E$$!!|&E!$)!!|&N$$#!|&N!#'!!|&N$$#!|&N!#'!!|&I!!#!!|&d!!%!!|&L$$!!|&L$$#!|&L!!%!!|&N$$!!|&N!$)!!|&V$$#!|&V!#'!!|&V$$#!|&V!#'!!|&Q!!#!!|&f!!%!!|&T$$!!|&T$$#!|&T!!%!!|&V$$!!|&V!!#!!|&b!!%!!|&Y$$!!|&Y$$#!|&Y$$!!|&Y$$#!|&Y#!! #!! !'\/! #!( #4! #3! #2! #1! #0! #\/! #.! #-! #,! #*! #)! #(! #'! #%! #$! ##! #!! !#)!!|&;$$#!|&;$&#!|&;$$$!|&;$$%!|&;$&#!|&; $!|&; $!|&; #!|&; !!|&&!!%! !$'!!|'>$$#!|'>$$&!|'>!$'!!|'B!!#!!|'\/!!#!!|'2!.?! $&\/ $!2 $!2 $!3 $!3 $!3 $!4 $!4 $!4 $!2 $!4 $!4 $!3 $!3 $!5 $!5 !$'! $$# $$) !!#! !#%! !.?! $&\/ $!2 $!2 !$'! $$# $$) !$)! #!% !&-! #!' #$! ##! #!! !!%! $$!  !#|&%|'=!!#!!|': !#|&%|'A!!#!!|'3!!$# !#&#  !!|'C !!|'F !!|'D$$! !\/?! #!0 ##! #%! #$! ##! #!! !!%! $$! !!%! $$! !!%! $$! !'\/! #!( !!%! $$! !!%! $$! !!%! $$! !'1! #!) !&-! $$& $$( $$( $$( ##! #!! !#%!#|'%|'$ ##|'%|'$ #!|'%!%)! $$$ $$$ $$#  $ !#&$ $$# !!$% $$$ $$$ $$# !!$#  $ !#&$ $$# $$$ $$$ $$#  $ !#&$ $$# !!%! $$! !#%!!|'X!$)! #!% #!! !!%! ### !!%! #!# #!! !#'! #!$ !$)! #!%  !#|)C|'d!#'! ##$ !#'! $$# !!%! #!# !!%! $$! #!! !(1!  & $$% $&% $$' $$& $$& $$( $$& $$& $!& $$$ $$( $$# $$# $$( $$% $$% !%)! $$$ !#&$ $$% $$( $$# !#&& $$% $$% $$# !!&# $$# !$)!!|'e$$%!|'e$$%!|'e!#&%!|'e$$&!|'e$$'!|'e!#&% $$% $$$ $$$ $$& $$! $$# $$& $$$ $$% $$#  $ $$# $$# $$$ $$% $$#  $ !#&% !!%! #!#  ! $!# !%*$ !#)!!|'o$$&  %  % $(#  %  % !#'! $$# $$$ $!$ $$$ $!$ $$$ $$! $!$ $$$ $$! $!$ $$% $$! $!% $$$ !$)!#|+:|$,$$%#|+:|$,$&$ $$% $$$ $$# $$$ $$# !#'!!|'w$$#!|'w$&! !#'!!|'w$&# $$$ $$& $$& $$& $!& $$$ $$$  #  # !#'!!|'t$$#!|'t!#'!!|'w$$#!|'w$&# $$$ $$# $$#  # !#'!'|+:|$,|#a|#v|#e|#^$&#'|+:|$,|#a|#v|#e|#^ %#|#a|#v $  $#|#a|#v # $$%#|+:|$,$$&#|+:|$,$&$  $  $ $$!  #  # !#'!!|'w$$#!|'w$&! !#'!!|'w$$#!|'w$&# $$$ $$# $$#  # !!%! !!%! !!%! !!%! $$! $&! !#'! $$# $$! !!%! $&! $$# !!%! $$! $$! !!%! $$! $&! $$! !#'! $&# !#'! $$# $$# $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! !#'! $$# $$! !!%!!|'p$&!!|'p$$! $$$!|'p$$$!|'p$&#!|'p$&! $$# $$# $$# $$# !!%!!|(5$$!!|(5$&! !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !%+!!|'r$$&!|'r$&&!|'r$$' $$' $$* $$# $$# $!) $$$ $$#  % $$) $$# $$# $!( $$% $$#  $ $$$ $$'!|'r$$&!|'r %  % $&'!|'r$$&!|'r$$&!|'r$$%!|'r !  !  ! !!%!!|(j$$!!|(j!1C! #!2 !!%! $$! !4I! #!5 !!%! $$! !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'!&|+Y|(G|(F|(E|(C$$$&|+Y|(G|(F|(E|(C$$#$|(G|(F|(E$$!#|(F|(E$$$#|+Y|(C$$$#|+Y|(C$$#!|(C$$! $$! !#+! #!& !#'! $$# $$$ !$'! $$& $$' $$$ !!%! !!$# $$# $$% $$# !!%!!|(p!!%!!|(r!#'!  $ !#'! !$)! !#'! !!#!!|)$!!%!!|(x$$!!|(x$$#!|(x!!%! !#'!!|)0!!#!!|)'!!%!!|)($$!!|)($$#!|)(!#'!'|)\/|).|)-|),|)+|)*$$#'|)\/|).|)-|),|)+|)*!$)!!|)0!!%!!|)0#'! #%! #!! !&-! #!' !!%! $$! !!%! $$! !#'! #!$ !!%! $$!  !!|(q !!|(q !!|(q!!%!!|(o !#|)C|)A!!%!!|)@ #!|)@!$)! !&-! !#'! !!&$  % !%+! !!&&  & !%+!#|)C|$P$$!!|)C &!|$P %!|$P %!|$P$$$!|$P$&$!|$P $!|$P $!|$P$$#!|$P %!|$P $  $ !!%!#|)C|)M$$!!|)C #!|)M!!%!#|)C|)O$$!!|)C #!|)O !#|)C|)I!!%!!|)Q$$!!|)Q !#|)C|)H!!%!!|)S$$!!|)S!!%! !!%! $$! !#'! $$# $$# !#'! $$# $$# !$)! $$$ $$$ $$$  !#|)C|)J!#'! #!$ !)3! #!* !&-!  ' !!&'  % !$)!  % !!&%  % !&-!  ' !!&'  % !$)!  % !!&%  % !#'! !!%!!|)N!!%!!|)L!%+!!|)K!%+! $$% $$% $$% !#(#  $  #  # $$% !#(#  $  #  # !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!#!!|)m!#%!%|'E|)q|)p|)o$$!%|'E|)q|)p|)o$$$$|'E|)q|)p$$$$|'E|)q|)p!#&#!|'E$$$ !#&# $$# $$$  $!|)p$$$!|)p$$!!|)p$!( $$# $$# !#%! $$!  !#|%A|%>!#%!!|)u$$# !!%! #!#  !!|)l!#%!!|)r!#'! $$#  $ !$)! !!&% $$%  $ !#'! $$#  $  $ !$'! $$# !!%!!|'[!$'! $$#  $ !$'! $$# !#%! !$'! $$# $$#  $ !$'! $$# !$'! $$# $$# !&-! #!' !&-! #!' !#'! #!$ !!%! ### #!! !#'! !!%! !!%! $$! !!%! $$! !!%! $$! !%+!!|*6$$%!|*6!&-!!|*7!&-!&|)C|$P|*<|*;|*:$$!!|)C '$|$P|*<|*; &$|$P|*<|*; &#|$P|*< %#|$P|*< %!|$P $  $ !%+! #!& !%+! $$% $$% $$%  !#|)C|*4!%+!!|*5!%+! $$% $&& !%)! $$$ $$%  $ $&! !!%! !!%! !$'!  $ $$# $$$ !%)! $$$  $ $$# $$$ !$'!  $ !%)! $$$  $ $$# $$$ !#%! $$# $$#  $  # $$! !%-! $$%  # $$! !$'! $$# !!%! !$'! $$# $$$ !%)! $$$ $$% $$% !#%! $$! !$'! $$# $$$ !)3! #!* !!%! $$! !!%! $$! !%)! $&$ $$# $$& !%)! $&$ $$% $$&  !#|&%|*a!%)!#|*c|*b$$%#|*c|*b$$&#|*c|*b!#%!#|&%|*d $#|&%|*d $!|*d!%+!#|'E|'m!!$&#|'E|'m$$%#|'E|'m$$)!|'m$$' !!%! $$! $$#  # !&1! #!) !%+! $$% !&1! #!) !%+! $$% !$)! $$$ $$' !!%! $$!  # $$!  # $$!  # $&! !$)! !!&% $$%  # $$!  $ $$#  # $&! !!%! $$! !!%! ### !!%! #!# !!%!!|*q!!%!!|*s!$)! $$# !#'! $$# !#'! !!#!!|+\/!!%!!|*z$$!!|*z$$#!|*z!!%! $$! !$)!!|+($$#!|+(!#'!!|+($$#!|+(!#'!!|+#!!#!!|+-!!%!!|+&$$!!|+&$$#!|+&!!%!!|+($$!!|+(#!! !!%! #!#  !!|*r!!'!$|'#|*q|*t $#|'#|*t!!'!$|'#|*q|*u $#|'#|*u!#'! $$# !#'! $$# !#'! $$# $$% $$# !#'!#|+:|+J$$##|+:|+J$$$ $$# $$# $$# $$# $$# $$# $$#!|+:!#'!#|+;|+J$$##|+;|+J$$$ $$#!|+;!#'! $$# $$% $$# !#'! $$# $$% $$$ !#'!#|+>|+Y$$##|+>|+Y$$%!|+>$$#!|+Y!#'!$|+W|+?|+J$$$$|+W|+?|+J$!$$|+W|+?|+J$$$$|+W|+?|+J$!$#|+W|+?$$##|+W|+?$$%!|+?$$$!|+W$$&!|+W$$! !!%! $$! $$# $$# $$#  ! !#'! ##$ !!%! #!# !!%! !#'!  ! !!%! !$)! !#'! !!%! $$# !!'! !#'! $$# !!%! $$! !#'! $$# $$$ $$# !#'! $$# $$$ $$# !#'! $$# $$$ $$# !#'! $$# $$$ $$# !!%! $$! !!%!!|+A$$!!|+A!#'! $$# $$$ $$# !!%!!|+A$$!!|+A!!%! $$! !!%! $$! !!%! $$! !!%! !#'!!|+Y$$#!|+Y$$!!|+Y!#'! !#'! !&+!$|y'|y |+b$&$$|y'|y |+b$$%$|y'|y |+b$$'$|y'|y |+b$$'$|y'|y |+b$$'$|y'|y |+b$$($|y'|y |+b$$)$|y'|y |+b$$'!|+b$$'$|y'|y |+b$$'$|y'|y |+b$$#!|y $$! !&+!$|+c|y'|y $&$$|+c|y'|y $$%$|+c|y'|y $$'$|+c|y'|y $$'$|+c|y'|y $$'$|+c|y'|y $$($|+c|y'|y $$)$|+c|y'|y $$'!|+c$$'$|+c|y'|y $$'$|+c|y'|y $$#!|y $$! !&+!$|+d|y'|y $&$$|+d|y'|y $$%$|+d|y'|y $$'$|+d|y'|y $$'$|+d|y'|y $$'$|+d|y'|y $$($|+d|y'|y $$)$|+d|y'|y $$'!|+d$$'$|+d|y'|y $$'$|+d|y'|y $$#!|y $$! !&+!$|+e|y'|y $&$$|+e|y'|y $$%$|+e|y'|y $$'$|+e|y'|y $$'$|+e|y'|y $$'$|+e|y'|y $$($|+e|y'|y $$)$|+e|y'|y $$'!|+e$$'$|+e|y'|y $$'$|+e|y'|y $$#!|y $$! !&+!$|+f|y'|y $&$$|+f|y'|y $$%$|+f|y'|y $$'$|+f|y'|y $$'$|+f|y'|y $$'$|+f|y'|y $$($|+f|y'|y $$)$|+f|y'|y $$'!|+f$$'$|+f|y'|y $$'$|+f|y'|y $$#!|y $$! !&+!$|+g|y'|y $&$$|+g|y'|y $$%$|+g|y'|y $$'$|+g|y'|y $$'$|+g|y'|y $$'$|+g|y'|y $$($|+g|y'|y $$)$|+g|y'|y $$'!|+g$$'$|+g|y'|y $$'$|+g|y'|y $$#!|y $$! !&+!$|+h|y'|y $&$$|+h|y'|y $$%$|+h|y'|y $$'$|+h|y'|y $$'$|+h|y'|y $$'$|+h|y'|y $$($|+h|y'|y $$)$|+h|y'|y $$'!|+h$$'$|+h|y'|y $$'$|+h|y'|y $$#!|y $$! !&+!$|+i|y'|y $&$$|+i|y'|y $$%$|+i|y'|y $$'$|+i|y'|y $$'$|+i|y'|y $$'$|+i|y'|y $$($|+i|y'|y $$)$|+i|y'|y $$'!|+i$$'$|+i|y'|y $$'$|+i|y'|y $$#!|y $$! !&+!$|+j|y'|y $&$$|+j|y'|y $$%$|+j|y'|y $$'$|+j|y'|y $$'$|+j|y'|y $$'$|+j|y'|y $$($|+j|y'|y $$)$|+j|y'|y $$'!|+j$$'$|+j|y'|y $$'$|+j|y'|y $$#!|y $$! !&+!$|+k|y'|y $&$$|+k|y'|y $$%$|+k|y'|y $$'$|+k|y'|y $$'$|+k|y'|y $$'$|+k|y'|y $$($|+k|y'|y $$)$|+k|y'|y $$'!|+k$$'$|+k|y'|y $$'$|+k|y'|y $$#!|y $$! !&+!$|+l|y'|y $&$$|+l|y'|y $$%$|+l|y'|y $$'$|+l|y'|y $$'$|+l|y'|y $$'$|+l|y'|y $$($|+l|y'|y $$)$|+l|y'|y $$'!|+l$$'$|+l|y'|y $$'$|+l|y'|y $$#!|y $$! !&+!$|+m|y'|y $&$$|+m|y'|y $$%$|+m|y'|y $$'$|+m|y'|y $$'$|+m|y'|y $$'$|+m|y'|y $$($|+m|y'|y $$)$|+m|y'|y $$'!|+m$$'$|+m|y'|y $$'$|+m|y'|y $$#!|y $$! !&+!$|+n|y'|y $&$$|+n|y'|y $$%$|+n|y'|y $$'$|+n|y'|y $$'$|+n|y'|y $$'$|+n|y'|y $$($|+n|y'|y $$)$|+n|y'|y $$'!|+n$$'$|+n|y'|y $$'$|+n|y'|y $$#!|y $$! !&+!$|+o|y'|y $&$$|+o|y'|y $$%$|+o|y'|y $$'$|+o|y'|y $$'$|+o|y'|y $$'$|+o|y'|y $$($|+o|y'|y $$)$|+o|y'|y $$'!|+o$$'$|+o|y'|y $$'$|+o|y'|y $$#!|y $$! !&+!$|+p|y'|y $&$$|+p|y'|y $$%$|+p|y'|y $$'$|+p|y'|y $$'$|+p|y'|y $$'$|+p|y'|y $$($|+p|y'|y $$)$|+p|y'|y $$'!|+p$$'$|+p|y'|y $$'$|+p|y'|y $$#!|y $$! !&+!$|+q|y'|y $&$$|+q|y'|y $$%$|+q|y'|y $$'$|+q|y'|y $$'$|+q|y'|y $$'$|+q|y'|y $$($|+q|y'|y $$)$|+q|y'|y $$'!|+q$$'$|+q|y'|y $$'$|+q|y'|y $$#!|y $$! !&+!$|+r|y'|y $&$$|+r|y'|y $$%$|+r|y'|y $$'$|+r|y'|y $$'$|+r|y'|y $$'$|+r|y'|y $$($|+r|y'|y $$)$|+r|y'|y $$'!|+r$$'$|+r|y'|y $$'$|+r|y'|y $$#!|y $$! !&+!$|+s|y'|y $&$$|+s|y'|y $$%$|+s|y'|y $$'$|+s|y'|y $$'$|+s|y'|y $$'$|+s|y'|y $$($|+s|y'|y $$)$|+s|y'|y $$'!|+s$$'$|+s|y'|y $$'$|+s|y'|y $$#!|y $$! !&+!$|+t|y'|y $&$$|+t|y'|y $$%$|+t|y'|y $$'$|+t|y'|y $$'$|+t|y'|y $$'$|+t|y'|y $$($|+t|y'|y $$)$|+t|y'|y $$'!|+t$$'$|+t|y'|y $$'$|+t|y'|y $$#!|y $$! !&+!$|+u|y'|y $&$$|+u|y'|y $$%$|+u|y'|y $$'$|+u|y'|y $$'$|+u|y'|y $$'$|+u|y'|y $$($|+u|y'|y $$)$|+u|y'|y $$'!|+u$$'$|+u|y'|y $$'$|+u|y'|y $$#!|y $$! !&+!$|+v|y'|y $&$$|+v|y'|y $$%$|+v|y'|y $$'$|+v|y'|y $$'$|+v|y'|y $$'$|+v|y'|y $$($|+v|y'|y $$)$|+v|y'|y $$'!|+v$$'$|+v|y'|y $$'$|+v|y'|y $$#!|y $$! !&+!$|+w|y'|y $&$$|+w|y'|y $$%$|+w|y'|y $$'$|+w|y'|y $$'$|+w|y'|y $$'$|+w|y'|y $$($|+w|y'|y $$)$|+w|y'|y $$'!|+w$$'$|+w|y'|y $$'$|+w|y'|y $$#!|y $$! !&+!$|+x|y'|y $&$$|+x|y'|y $$%$|+x|y'|y $$'$|+x|y'|y $$'$|+x|y'|y $$'$|+x|y'|y $$($|+x|y'|y $$)$|+x|y'|y $$'!|+x$$'$|+x|y'|y $$'$|+x|y'|y $$#!|y $$! !&+!$|+y|y'|y $&$$|+y|y'|y $$%$|+y|y'|y $$'$|+y|y'|y $$'$|+y|y'|y $$'$|+y|y'|y $$($|+y|y'|y $$)$|+y|y'|y $$'!|+y$$'$|+y|y'|y $$'$|+y|y'|y $$#!|y $$! !&+!$|+z|y'|y $&$$|+z|y'|y $$%$|+z|y'|y $$'$|+z|y'|y $$'$|+z|y'|y $$'$|+z|y'|y $$($|+z|y'|y $$)$|+z|y'|y $$'!|+z$$'$|+z|y'|y $$'$|+z|y'|y $$#!|y $$! !&+!$|+{|y'|y $&$$|+{|y'|y $$%$|+{|y'|y $$'$|+{|y'|y $$'$|+{|y'|y $$'$|+{|y'|y $$($|+{|y'|y $$)$|+{|y'|y $$'!|+{$$'$|+{|y'|y $$'$|+{|y'|y $$#!|y $$! !&+!$|, |y'|y $&$$|, |y'|y $$%$|, |y'|y $$'$|, |y'|y $$'$|, |y'|y $$'$|, |y'|y $$($|, |y'|y $$)$|, |y'|y $$'!|, $$'$|, |y'|y $$'$|, |y'|y $$#!|y $$! !&+!$|,!|y'|y $&$$|,!|y'|y $$%$|,!|y'|y $$'$|,!|y'|y $$'$|,!|y'|y $$'$|,!|y'|y $$($|,!|y'|y $$)$|,!|y'|y $$'!|,!$$'$|,!|y'|y $$'$|,!|y'|y $$#!|y $$! !&+!$|,#|y'|y $&$$|,#|y'|y $$%$|,#|y'|y $$'$|,#|y'|y $$'$|,#|y'|y $$'$|,#|y'|y $$($|,#|y'|y $$)$|,#|y'|y $$'!|,#$$'$|,#|y'|y $$'$|,#|y'|y $$#!|y $$! !&+!$|,$|y'|y $&$$|,$|y'|y $$%$|,$|y'|y $$'$|,$|y'|y $$'$|,$|y'|y $$'$|,$|y'|y $$($|,$|y'|y $$)$|,$|y'|y $$'!|,$$$'$|,$|y'|y $$'$|,$|y'|y $$#!|y $$! !&+!$|,%|y'|y $&$$|,%|y'|y $$%$|,%|y'|y $$'$|,%|y'|y $$'$|,%|y'|y $$'$|,%|y'|y $$($|,%|y'|y $$)$|,%|y'|y $$'!|,%$$'$|,%|y'|y $$'$|,%|y'|y $$#!|y $$! !&+!$|,&|y'|y $&$$|,&|y'|y $$%$|,&|y'|y $$'$|,&|y'|y $$'$|,&|y'|y $$'$|,&|y'|y $$($|,&|y'|y $$)$|,&|y'|y $$'!|,&$$'$|,&|y'|y $$'$|,&|y'|y $$#!|y $$! !&+!$|,'|y'|y $&$$|,'|y'|y $$%$|,'|y'|y $$'$|,'|y'|y $$'$|,'|y'|y $$'$|,'|y'|y $$($|,'|y'|y $$)$|,'|y'|y $$'!|,'$$'$|,'|y'|y $$'$|,'|y'|y $$#!|y $$! !&+!$|,(|y'|y $&$$|,(|y'|y $$%$|,(|y'|y $$'$|,(|y'|y $$'$|,(|y'|y $$'$|,(|y'|y $$($|,(|y'|y $$)$|,(|y'|y $$'!|,($$'$|,(|y'|y $$'$|,(|y'|y $$#!|y $$! !&+!$|,)|y'|y $&$$|,)|y'|y $$%$|,)|y'|y $$'$|,)|y'|y $$'$|,)|y'|y $$'$|,)|y'|y $$($|,)|y'|y $$)$|,)|y'|y $$'!|,)$$'$|,)|y'|y $$'$|,)|y'|y $$#!|y $$! !&+!$|,*|y'|y $&$$|,*|y'|y $$%$|,*|y'|y $$'$|,*|y'|y $$'$|,*|y'|y $$'$|,*|y'|y $$($|,*|y'|y $$)$|,*|y'|y $$'!|,*$$'$|,*|y'|y $$'$|,*|y'|y $$#!|y $$! !&+!$|,+|y'|y $&$$|,+|y'|y $$%$|,+|y'|y $$'$|,+|y'|y $$'$|,+|y'|y $$'$|,+|y'|y $$($|,+|y'|y $$)$|,+|y'|y $$'!|,+$$'$|,+|y'|y $$'$|,+|y'|y $$#!|y $$! !&+!$|,,|y'|y $&$$|,,|y'|y $$%$|,,|y'|y $$'$|,,|y'|y $$'$|,,|y'|y $$'$|,,|y'|y $$($|,,|y'|y $$)$|,,|y'|y $$'!|,,$$'$|,,|y'|y $$'$|,,|y'|y $$#!|y $$! !&+!$|,-|y'|y $&$$|,-|y'|y $$%$|,-|y'|y $$'$|,-|y'|y $$'$|,-|y'|y $$'$|,-|y'|y $$($|,-|y'|y $$)$|,-|y'|y $$'!|,-$$'$|,-|y'|y $$'$|,-|y'|y $$#!|y $$! !&+!$|,.|y'|y $&$$|,.|y'|y $$%$|,.|y'|y $$'$|,.|y'|y $$'$|,.|y'|y $$'$|,.|y'|y $$($|,.|y'|y $$)$|,.|y'|y $$'!|,.$$'$|,.|y'|y $$'$|,.|y'|y $$#!|y $$! !&+!$|,\/|y'|y $&$$|,\/|y'|y $$%$|,\/|y'|y $$'$|,\/|y'|y $$'$|,\/|y'|y $$'$|,\/|y'|y $$($|,\/|y'|y $$)$|,\/|y'|y $$'!|,\/$$'$|,\/|y'|y $$'$|,\/|y'|y $$#!|y $$! !&+!$|,0|y'|y $&$$|,0|y'|y $$%$|,0|y'|y $$'$|,0|y'|y $$'$|,0|y'|y $$'$|,0|y'|y $$($|,0|y'|y $$)$|,0|y'|y $$'!|,0$$'$|,0|y'|y $$'$|,0|y'|y $$#!|y $$! !&+!$|,1|y'|y $&$$|,1|y'|y $$%$|,1|y'|y $$'$|,1|y'|y $$'$|,1|y'|y $$'$|,1|y'|y $$($|,1|y'|y $$)$|,1|y'|y $$'!|,1$$'$|,1|y'|y $$'$|,1|y'|y $$#!|y $$! !&+!$|,2|y'|y $&$$|,2|y'|y $$%$|,2|y'|y $$'$|,2|y'|y $$'$|,2|y'|y $$'$|,2|y'|y $$($|,2|y'|y $$)$|,2|y'|y $$'!|,2$$'$|,2|y'|y $$'$|,2|y'|y $$#!|y $$! !&+!$|,3|y'|y $&$$|,3|y'|y $$%$|,3|y'|y $$'$|,3|y'|y $$'$|,3|y'|y $$'$|,3|y'|y $$($|,3|y'|y $$)$|,3|y'|y $$'!|,3$$'$|,3|y'|y $$'$|,3|y'|y $$#!|y $$! !&+!$|,4|y'|y $&$$|,4|y'|y $$%$|,4|y'|y $$'$|,4|y'|y $$'$|,4|y'|y $$'$|,4|y'|y $$($|,4|y'|y $$)$|,4|y'|y $$'!|,4$$'$|,4|y'|y $$'$|,4|y'|y $$#!|y $$! !&+!$|,5|y'|y $&$$|,5|y'|y $$%$|,5|y'|y $$'$|,5|y'|y $$'$|,5|y'|y $$'$|,5|y'|y $$($|,5|y'|y $$)$|,5|y'|y $$'!|,5$$'$|,5|y'|y $$'$|,5|y'|y $$#!|y $$! !&+!$|,6|y'|y $&$$|,6|y'|y $$%$|,6|y'|y $$'$|,6|y'|y $$'$|,6|y'|y $$'$|,6|y'|y $$($|,6|y'|y $$)$|,6|y'|y $$'!|,6$$'$|,6|y'|y $$'$|,6|y'|y $$#!|y $$! !&+!$|,7|y'|y $&$$|,7|y'|y $$%$|,7|y'|y $$'$|,7|y'|y $$'$|,7|y'|y $$'$|,7|y'|y $$($|,7|y'|y $$)$|,7|y'|y $$'!|,7$$'$|,7|y'|y $$'$|,7|y'|y $$#!|y $$! !&+!$|,8|y'|y $&$$|,8|y'|y $$%$|,8|y'|y $$'$|,8|y'|y $$'$|,8|y'|y $$'$|,8|y'|y $$($|,8|y'|y $$)$|,8|y'|y $$'!|,8$$'$|,8|y'|y $$'$|,8|y'|y $$#!|y $$! !&+!$|,9|y'|y $&$$|,9|y'|y $$%$|,9|y'|y $$'$|,9|y'|y $$'$|,9|y'|y $$'$|,9|y'|y $$($|,9|y'|y $$)$|,9|y'|y $$'!|,9$$'$|,9|y'|y $$'$|,9|y'|y $$#!|y $$! !&+!$|,:|y'|y $&$$|,:|y'|y $$%$|,:|y'|y $$'$|,:|y'|y $$'$|,:|y'|y $$'$|,:|y'|y $$($|,:|y'|y $$)$|,:|y'|y $$'!|,:$$'$|,:|y'|y $$'$|,:|y'|y $$#!|y $$! !&+!$|,;|y'|y $&$$|,;|y'|y $$%$|,;|y'|y $$'$|,;|y'|y $$'$|,;|y'|y $$'$|,;|y'|y $$($|,;|y'|y $$)$|,;|y'|y $$'!|,;$$'$|,;|y'|y $$'$|,;|y'|y $$#!|y $$! !&+!$|,<|y'|y $&$$|,<|y'|y $$%$|,<|y'|y $$'$|,<|y'|y $$'$|,<|y'|y $$'$|,<|y'|y $$($|,<|y'|y $$)$|,<|y'|y $$'!|,<$$'$|,<|y'|y $$'$|,<|y'|y $$#!|y $$! !&+!$|,=|y'|y $&$$|,=|y'|y $$%$|,=|y'|y $$'$|,=|y'|y $$'$|,=|y'|y $$'$|,=|y'|y $$($|,=|y'|y $$)$|,=|y'|y $$'!|,=$$'$|,=|y'|y $$'$|,=|y'|y $$#!|y $$! !&+!$|,>|y'|y $&$$|,>|y'|y $$%$|,>|y'|y $$'$|,>|y'|y $$'$|,>|y'|y $$'$|,>|y'|y $$($|,>|y'|y $$)$|,>|y'|y $$'!|,>$$'$|,>|y'|y $$'$|,>|y'|y $$#!|y $$! !&+!$|,?|y'|y $&$$|,?|y'|y $$%$|,?|y'|y $$'$|,?|y'|y $$'$|,?|y'|y $$'$|,?|y'|y $$($|,?|y'|y $$)$|,?|y'|y $$'!|,?$$'$|,?|y'|y $$'$|,?|y'|y $$#!|y $$! !&+!$|,@|y'|y $&$$|,@|y'|y $$%$|,@|y'|y $$'$|,@|y'|y $$'$|,@|y'|y $$'$|,@|y'|y $$($|,@|y'|y $$)$|,@|y'|y $$'!|,@$$'$|,@|y'|y $$'$|,@|y'|y $$#!|y $$! !&+!$|,A|y'|y $&$$|,A|y'|y $$%$|,A|y'|y $$'$|,A|y'|y $$'$|,A|y'|y $$'$|,A|y'|y $$($|,A|y'|y $$)$|,A|y'|y $$'!|,A$$'$|,A|y'|y $$'$|,A|y'|y $$#!|y $$! !&+!$|,B|y'|y $&$$|,B|y'|y $$%$|,B|y'|y $$'$|,B|y'|y $$'$|,B|y'|y $$'$|,B|y'|y $$($|,B|y'|y $$)$|,B|y'|y $$'!|,B$$'$|,B|y'|y $$'$|,B|y'|y $$#!|y $$! !&+!$|,C|y'|y $&$$|,C|y'|y $$%$|,C|y'|y $$'$|,C|y'|y $$'$|,C|y'|y $$'$|,C|y'|y $$($|,C|y'|y $$)$|,C|y'|y $$'!|,C$$'$|,C|y'|y $$'$|,C|y'|y $$#!|y $$! !&+!$|y'|y |,D$&$$|y'|y |,D$$%$|y'|y |,D$$'$|y'|y |,D$$'$|y'|y |,D$$'$|y'|y |,D$$($|y'|y |,D$$)$|y'|y |,D$$'!|,D$$'$|y'|y |,D$$'$|y'|y |,D$$#!|y $$! !&+!$|,E|y'|y $&$$|,E|y'|y $$%$|,E|y'|y $$'$|,E|y'|y $$'$|,E|y'|y $$'$|,E|y'|y $$($|,E|y'|y $$)$|,E|y'|y $$'!|,E$$'$|,E|y'|y $$'$|,E|y'|y $$#!|y $$! !&+!$|,F|y'|y $&$$|,F|y'|y $$%$|,F|y'|y $$'$|,F|y'|y $$'$|,F|y'|y $$'$|,F|y'|y $$($|,F|y'|y $$)$|,F|y'|y $$'!|,F$$'$|,F|y'|y $$'$|,F|y'|y $$#!|y $$! !&+!$|,G|y'|y $&$$|,G|y'|y $$%$|,G|y'|y $$'$|,G|y'|y $$'$|,G|y'|y $$'$|,G|y'|y $$($|,G|y'|y $$)$|,G|y'|y $$'!|,G$$'$|,G|y'|y $$'$|,G|y'|y $$#!|y $$! !&+!$|,H|y'|y $&$$|,H|y'|y $$%$|,H|y'|y $$'$|,H|y'|y $$'$|,H|y'|y $$'$|,H|y'|y $$($|,H|y'|y $$)$|,H|y'|y $$'!|,H$$'$|,H|y'|y $$'$|,H|y'|y $$#!|y $$! !&+!$|,I|y'|y $&$$|,I|y'|y $$%$|,I|y'|y $$'$|,I|y'|y $$'$|,I|y'|y $$'$|,I|y'|y $$($|,I|y'|y $$)$|,I|y'|y $$'!|,I$$'$|,I|y'|y $$'$|,I|y'|y $$#!|y $$! !&+!$|,J|y'|y $&$$|,J|y'|y $$%$|,J|y'|y $$'$|,J|y'|y $$'$|,J|y'|y $$'$|,J|y'|y $$($|,J|y'|y $$)$|,J|y'|y $$'!|,J$$'$|,J|y'|y $$'$|,J|y'|y $$#!|y $$! !&+!$|,K|y'|y $&$$|,K|y'|y $$%$|,K|y'|y $$'$|,K|y'|y $$'$|,K|y'|y $$'$|,K|y'|y $$($|,K|y'|y $$)$|,K|y'|y $$'!|,K$$'$|,K|y'|y $$'$|,K|y'|y $$#!|y $$! !&+!$|,L|y'|y $&$$|,L|y'|y $$%$|,L|y'|y $$'$|,L|y'|y $$'$|,L|y'|y $$'$|,L|y'|y $$($|,L|y'|y $$)$|,L|y'|y $$'!|,L$$'$|,L|y'|y $$'$|,L|y'|y $$#!|y $$! !&+!$|,M|y'|y $&$$|,M|y'|y $$%$|,M|y'|y $$'$|,M|y'|y $$'$|,M|y'|y $$'$|,M|y'|y $$($|,M|y'|y $$)$|,M|y'|y $$'!|,M$$'$|,M|y'|y $$'$|,M|y'|y $$#!|y $$! !&+!$|,N|y'|y $&$$|,N|y'|y $$%$|,N|y'|y $$'$|,N|y'|y $$'$|,N|y'|y $$'$|,N|y'|y $$($|,N|y'|y $$)$|,N|y'|y $$'!|,N$$'$|,N|y'|y $$'$|,N|y'|y $$#!|y $$! !&+!$|,O|y'|y $&$$|,O|y'|y $$%$|,O|y'|y $$'$|,O|y'|y $$'$|,O|y'|y $$'$|,O|y'|y $$($|,O|y'|y $$)$|,O|y'|y $$'!|,O$$'$|,O|y'|y $$'$|,O|y'|y $$#!|y $$! !&+!$|,P|y'|y $&$$|,P|y'|y $$%$|,P|y'|y $$'$|,P|y'|y $$'$|,P|y'|y $$'$|,P|y'|y $$($|,P|y'|y $$)$|,P|y'|y $$'!|,P$$'$|,P|y'|y $$'$|,P|y'|y $$#!|y $$! !&+!$|,Q|y'|y $&$$|,Q|y'|y $$%$|,Q|y'|y $$'$|,Q|y'|y $$'$|,Q|y'|y $$'$|,Q|y'|y $$($|,Q|y'|y $$)$|,Q|y'|y $$'!|,Q$$'$|,Q|y'|y $$'$|,Q|y'|y $$#!|y $$! !&+!$|,R|y'|y $&$$|,R|y'|y $$%$|,R|y'|y $$'$|,R|y'|y $$'$|,R|y'|y $$'$|,R|y'|y $$($|,R|y'|y $$)$|,R|y'|y $$'!|,R$$'$|,R|y'|y $$'$|,R|y'|y $$#!|y $$! !&+!$|,S|y'|y $&$$|,S|y'|y $$%$|,S|y'|y $$'$|,S|y'|y $$'$|,S|y'|y $$'$|,S|y'|y $$($|,S|y'|y $$)$|,S|y'|y $$'!|,S$$'$|,S|y'|y $$'$|,S|y'|y $$#!|y $$! !&+!$|,T|y'|y $&$$|,T|y'|y $$%$|,T|y'|y $$'$|,T|y'|y $$'$|,T|y'|y $$'$|,T|y'|y $$($|,T|y'|y $$)$|,T|y'|y $$'!|,T$$'$|,T|y'|y $$'$|,T|y'|y $$#!|y $$! !&+!$|,U|y'|y $&$$|,U|y'|y $$%$|,U|y'|y $$'$|,U|y'|y $$'$|,U|y'|y $$'$|,U|y'|y $$($|,U|y'|y $$)$|,U|y'|y $$'!|,U$$'$|,U|y'|y $$'$|,U|y'|y $$#!|y $$! !&+!$|,V|y'|y $&$$|,V|y'|y $$%$|,V|y'|y $$'$|,V|y'|y $$'$|,V|y'|y $$'$|,V|y'|y $$($|,V|y'|y $$)$|,V|y'|y $$'!|,V$$'$|,V|y'|y $$'$|,V|y'|y $$#!|y $$! !&+!$|,W|y'|y $&$$|,W|y'|y $$%$|,W|y'|y $$'$|,W|y'|y $$'$|,W|y'|y $$'$|,W|y'|y $$($|,W|y'|y $$)$|,W|y'|y $$'!|,W$$'$|,W|y'|y $$'$|,W|y'|y $$#!|y $$! !&+!$|,X|y'|y $&$$|,X|y'|y $$%$|,X|y'|y $$'$|,X|y'|y $$'$|,X|y'|y $$'$|,X|y'|y $$($|,X|y'|y $$)$|,X|y'|y $$'!|,X$$'$|,X|y'|y $$'$|,X|y'|y $$#!|y $$! !&+!$|,Y|y'|y $&$$|,Y|y'|y $$%$|,Y|y'|y $$'$|,Y|y'|y $$'$|,Y|y'|y $$'$|,Y|y'|y $$($|,Y|y'|y $$)$|,Y|y'|y $$'!|,Y$$'$|,Y|y'|y $$'$|,Y|y'|y $$#!|y $$! !&+!$|,Z|y'|y $&$$|,Z|y'|y $$%$|,Z|y'|y $$'$|,Z|y'|y $$'$|,Z|y'|y $$'$|,Z|y'|y $$($|,Z|y'|y $$)$|,Z|y'|y $$'!|,Z$$'$|,Z|y'|y $$'$|,Z|y'|y $$#!|y $$! !&+!$|,[|y'|y $&$$|,[|y'|y $$%$|,[|y'|y $$'$|,[|y'|y $$'$|,[|y'|y $$'$|,[|y'|y $$($|,[|y'|y $$)$|,[|y'|y $$'!|,[$$'$|,[|y'|y $$'$|,[|y'|y $$#!|y $$! !&+!$|,]|y'|y $&$$|,]|y'|y $$%$|,]|y'|y $$'$|,]|y'|y $$'$|,]|y'|y $$'$|,]|y'|y $$($|,]|y'|y $$)$|,]|y'|y $$'!|,]$$'$|,]|y'|y $$'$|,]|y'|y $$#!|y $$! !&+!$|,^|y'|y $&$$|,^|y'|y $$%$|,^|y'|y $$'$|,^|y'|y $$'$|,^|y'|y $$'$|,^|y'|y $$($|,^|y'|y $$)$|,^|y'|y $$'!|,^$$'$|,^|y'|y $$'$|,^|y'|y $$#!|y $$! !&+!$|,_|y'|y $&$$|,_|y'|y $$%$|,_|y'|y $$'$|,_|y'|y $$'$|,_|y'|y $$'$|,_|y'|y $$($|,_|y'|y $$)$|,_|y'|y $$'!|,_$$'$|,_|y'|y $$'$|,_|y'|y $$#!|y $$! !&+!$|,`|y'|y $&$$|,`|y'|y $$%$|,`|y'|y $$'$|,`|y'|y $$'$|,`|y'|y $$'$|,`|y'|y $$($|,`|y'|y $$)$|,`|y'|y $$'!|,`$$'$|,`|y'|y $$'$|,`|y'|y $$#!|y $$! !&+!$|,a|y'|y $&$$|,a|y'|y $$%$|,a|y'|y $$'$|,a|y'|y $$'$|,a|y'|y $$'$|,a|y'|y $$($|,a|y'|y $$)$|,a|y'|y $$'!|,a$$'$|,a|y'|y $$'$|,a|y'|y $$#!|y $$! !&+!$|,b|y'|y $&$$|,b|y'|y $$%$|,b|y'|y $$'$|,b|y'|y $$'$|,b|y'|y $$'$|,b|y'|y $$($|,b|y'|y $$)$|,b|y'|y $$'!|,b$$'$|,b|y'|y $$'$|,b|y'|y $$#!|y $$! !&+!$|,c|y'|y $&$$|,c|y'|y $$%$|,c|y'|y $$'$|,c|y'|y $$'$|,c|y'|y $$'$|,c|y'|y $$($|,c|y'|y $$)$|,c|y'|y $$'!|,c$$'$|,c|y'|y $$'$|,c|y'|y $$#!|y $$! !&+!$|,d|y'|y $&$$|,d|y'|y $$%$|,d|y'|y $$'$|,d|y'|y $$'$|,d|y'|y $$'$|,d|y'|y $$($|,d|y'|y $$)$|,d|y'|y $$'!|,d$$'$|,d|y'|y $$'$|,d|y'|y $$#!|y $$! !&+!$|,e|y'|y $&$$|,e|y'|y $$%$|,e|y'|y $$'$|,e|y'|y $$'$|,e|y'|y $$'$|,e|y'|y $$($|,e|y'|y $$)$|,e|y'|y $$'!|,e$$'$|,e|y'|y $$'$|,e|y'|y $$#!|y $$! !&+!$|,f|y'|y $&$$|,f|y'|y $$%$|,f|y'|y $$'$|,f|y'|y $$'$|,f|y'|y $$'$|,f|y'|y $$($|,f|y'|y $$)$|,f|y'|y $$'!|,f$$'$|,f|y'|y $$'$|,f|y'|y $$#!|y $$! !&+!$|,g|y'|y $&$$|,g|y'|y $$%$|,g|y'|y $$'$|,g|y'|y $$'$|,g|y'|y $$'$|,g|y'|y $$($|,g|y'|y $$)$|,g|y'|y $$'!|,g$$'$|,g|y'|y $$'$|,g|y'|y $$#!|y $$! !&+!$|,h|y'|y $&$$|,h|y'|y $$%$|,h|y'|y $$'$|,h|y'|y $$'$|,h|y'|y $$'$|,h|y'|y $$($|,h|y'|y $$)$|,h|y'|y $$'!|,h$$'$|,h|y'|y $$'$|,h|y'|y $$#!|y $$! !&+!$|,i|y'|y $&$$|,i|y'|y $$%$|,i|y'|y $$'$|,i|y'|y $$'$|,i|y'|y $$'$|,i|y'|y $$($|,i|y'|y $$)$|,i|y'|y $$'!|,i$$'$|,i|y'|y $$'$|,i|y'|y $$#!|y $$! !&+!$|,j|y'|y $&$$|,j|y'|y $$%$|,j|y'|y $$'$|,j|y'|y $$'$|,j|y'|y $$'$|,j|y'|y $$($|,j|y'|y $$)$|,j|y'|y $$'!|,j$$'$|,j|y'|y $$'$|,j|y'|y $$#!|y $$! !&+!$|,k|y'|y $&$$|,k|y'|y $$%$|,k|y'|y $$'$|,k|y'|y $$'$|,k|y'|y $$'$|,k|y'|y $$($|,k|y'|y $$)$|,k|y'|y $$'!|,k$$'$|,k|y'|y $$'$|,k|y'|y $$#!|y $$! !&+!$|,l|y'|y $&$$|,l|y'|y $$%$|,l|y'|y $$'$|,l|y'|y $$'$|,l|y'|y $$'$|,l|y'|y $$($|,l|y'|y $$)$|,l|y'|y $$'!|,l$$'$|,l|y'|y $$'$|,l|y'|y $$#!|y $$! !&+!$|,m|y'|y $&$$|,m|y'|y $$%$|,m|y'|y $$'$|,m|y'|y $$'$|,m|y'|y $$'$|,m|y'|y $$($|,m|y'|y $$)$|,m|y'|y $$'!|,m$$'$|,m|y'|y $$'$|,m|y'|y $$#!|y $$! !&+!$|,n|y'|y $&$$|,n|y'|y $$%$|,n|y'|y $$'$|,n|y'|y $$'$|,n|y'|y $$'$|,n|y'|y $$($|,n|y'|y $$)$|,n|y'|y $$'!|,n$$'$|,n|y'|y $$'$|,n|y'|y $$#!|y $$! !&+!$|,o|y'|y $&$$|,o|y'|y $$%$|,o|y'|y $$'$|,o|y'|y $$'$|,o|y'|y $$'$|,o|y'|y $$($|,o|y'|y $$)$|,o|y'|y $$'!|,o$$'$|,o|y'|y $$'$|,o|y'|y $$#!|y $$! !&+!$|,p|y'|y $&$$|,p|y'|y $$%$|,p|y'|y $$'$|,p|y'|y $$'$|,p|y'|y $$'$|,p|y'|y $$($|,p|y'|y $$)$|,p|y'|y $$'!|,p$$'$|,p|y'|y $$'$|,p|y'|y $$#!|y $$! !&+!$|,q|y'|y $&$$|,q|y'|y $$%$|,q|y'|y $$'$|,q|y'|y $$'$|,q|y'|y $$'$|,q|y'|y $$($|,q|y'|y $$)$|,q|y'|y $$'!|,q$$'$|,q|y'|y $$'$|,q|y'|y $$#!|y $$! !&+!$|,r|y'|y $&$$|,r|y'|y $$%$|,r|y'|y $$'$|,r|y'|y $$'$|,r|y'|y $$'$|,r|y'|y $$($|,r|y'|y $$)$|,r|y'|y $$'!|,r$$'$|,r|y'|y $$'$|,r|y'|y $$#!|y $$! !&+!$|,s|y'|y $&$$|,s|y'|y $$%$|,s|y'|y $$'$|,s|y'|y $$'$|,s|y'|y $$'$|,s|y'|y $$($|,s|y'|y $$)$|,s|y'|y $$'!|,s$$'$|,s|y'|y $$'$|,s|y'|y $$#!|y $$! !&+!$|,t|y'|y $&$$|,t|y'|y $$%$|,t|y'|y $$'$|,t|y'|y $$'$|,t|y'|y $$'$|,t|y'|y $$($|,t|y'|y $$)$|,t|y'|y $$'!|,t$$'$|,t|y'|y $$'$|,t|y'|y $$#!|y $$! !&+!$|,u|y'|y $&$$|,u|y'|y $$%$|,u|y'|y $$'$|,u|y'|y $$'$|,u|y'|y $$'$|,u|y'|y $$($|,u|y'|y $$)$|,u|y'|y $$'!|,u$$'$|,u|y'|y $$'$|,u|y'|y $$#!|y $$! !&+!$|,v|y'|y $&$$|,v|y'|y $$%$|,v|y'|y $$'$|,v|y'|y $$'$|,v|y'|y $$'$|,v|y'|y $$($|,v|y'|y $$)$|,v|y'|y $$'!|,v$$'$|,v|y'|y $$'$|,v|y'|y $$#!|y $$! !&+!$|,w|y'|y $&$$|,w|y'|y $$%$|,w|y'|y $$'$|,w|y'|y $$'$|,w|y'|y $$'$|,w|y'|y $$($|,w|y'|y $$)$|,w|y'|y $$'!|,w$$'$|,w|y'|y $$'$|,w|y'|y $$#!|y $$! !&+!$|,x|y'|y $&$$|,x|y'|y $$%$|,x|y'|y $$'$|,x|y'|y $$'$|,x|y'|y $$'$|,x|y'|y $$($|,x|y'|y $$)$|,x|y'|y $$'!|,x$$'$|,x|y'|y $$'$|,x|y'|y $$#!|y $$! !&+!$|,y|y'|y $&$$|,y|y'|y $$%$|,y|y'|y $$'$|,y|y'|y $$'$|,y|y'|y $$'$|,y|y'|y $$($|,y|y'|y $$)$|,y|y'|y $$'!|,y$$'$|,y|y'|y $$'$|,y|y'|y $$#!|y $$! !&+!$|,z|y'|y $&$$|,z|y'|y $$%$|,z|y'|y $$'$|,z|y'|y $$'$|,z|y'|y $$'$|,z|y'|y $$($|,z|y'|y $$)$|,z|y'|y $$'!|,z$$'$|,z|y'|y $$'$|,z|y'|y $$#!|y $$! !&+!$|,{|y'|y $&$$|,{|y'|y $$%$|,{|y'|y $$'$|,{|y'|y $$'$|,{|y'|y $$'$|,{|y'|y $$($|,{|y'|y $$)$|,{|y'|y $$'!|,{$$'$|,{|y'|y $$'$|,{|y'|y $$#!|y $$! !&+!$|- |y'|y $&$$|- |y'|y $$%$|- |y'|y $$'$|- |y'|y $$'$|- |y'|y $$'$|- |y'|y $$($|- |y'|y $$)$|- |y'|y $$'!|- $$'$|- |y'|y $$'$|- |y'|y $$#!|y $$! !&+!$|-!|y'|y $&$$|-!|y'|y $$%$|-!|y'|y $$'$|-!|y'|y $$'$|-!|y'|y $$'$|-!|y'|y $$($|-!|y'|y $$)$|-!|y'|y $$'!|-!$$'$|-!|y'|y $$'$|-!|y'|y $$#!|y $$! !&+!$|-#|y'|y $&$$|-#|y'|y $$%$|-#|y'|y $$'$|-#|y'|y $$'$|-#|y'|y $$'$|-#|y'|y $$($|-#|y'|y $$)$|-#|y'|y $$'!|-#$$'$|-#|y'|y $$'$|-#|y'|y $$#!|y $$! !&+!$|-$|y'|y $&$$|-$|y'|y $$%$|-$|y'|y $$'$|-$|y'|y $$'$|-$|y'|y $$'$|-$|y'|y $$($|-$|y'|y $$)$|-$|y'|y $$'!|-$$$'$|-$|y'|y $$'$|-$|y'|y $$#!|y $$! !&+!$|-%|y'|y $&$$|-%|y'|y $$%$|-%|y'|y $$'$|-%|y'|y $$'$|-%|y'|y $$'$|-%|y'|y $$($|-%|y'|y $$)$|-%|y'|y $$'!|-%$$'$|-%|y'|y $$'$|-%|y'|y $$#!|y $$! !&+!$|-&|y'|y $&$$|-&|y'|y $$%$|-&|y'|y $$'$|-&|y'|y $$'$|-&|y'|y $$'$|-&|y'|y $$($|-&|y'|y $$)$|-&|y'|y $$'!|-&$$'$|-&|y'|y $$'$|-&|y'|y $$#!|y $$! !&+!$|-'|y'|y $&$$|-'|y'|y $$%$|-'|y'|y $$'$|-'|y'|y $$'$|-'|y'|y $$'$|-'|y'|y $$($|-'|y'|y $$)$|-'|y'|y $$'!|-'$$'$|-'|y'|y $$'$|-'|y'|y $$#!|y $$! !&+!$|-(|y'|y $&$$|-(|y'|y $$%$|-(|y'|y $$'$|-(|y'|y $$'$|-(|y'|y $$'$|-(|y'|y $$($|-(|y'|y $$)$|-(|y'|y $$'!|-($$'$|-(|y'|y $$'$|-(|y'|y $$#!|y $$! !&+!$|-)|y'|y $&$$|-)|y'|y $$%$|-)|y'|y $$'$|-)|y'|y $$'$|-)|y'|y $$'$|-)|y'|y $$($|-)|y'|y $$)$|-)|y'|y $$'!|-)$$'$|-)|y'|y $$'$|-)|y'|y $$#!|y $$! !&+!$|-*|y'|y $&$$|-*|y'|y $$%$|-*|y'|y $$'$|-*|y'|y $$'$|-*|y'|y $$'$|-*|y'|y $$($|-*|y'|y $$)$|-*|y'|y $$'!|-*$$'$|-*|y'|y $$'$|-*|y'|y $$#!|y $$! !&+!$|-+|y'|y $&$$|-+|y'|y $$%$|-+|y'|y $$'$|-+|y'|y $$'$|-+|y'|y $$'$|-+|y'|y $$($|-+|y'|y $$)$|-+|y'|y $$'!|-+$$'$|-+|y'|y $$'$|-+|y'|y $$#!|y $$! !&+!$|-,|y'|y $&$$|-,|y'|y $$%$|-,|y'|y $$'$|-,|y'|y $$'$|-,|y'|y $$'$|-,|y'|y $$($|-,|y'|y $$)$|-,|y'|y $$'!|-,$$'$|-,|y'|y $$'$|-,|y'|y $$#!|y $$! !&+!$|--|y'|y $&$$|--|y'|y $$%$|--|y'|y $$'$|--|y'|y $$'$|--|y'|y $$'$|--|y'|y $$($|--|y'|y $$)$|--|y'|y $$'!|--$$'$|--|y'|y $$'$|--|y'|y $$#!|y $$! !&+!$|-.|y'|y $&$$|-.|y'|y $$%$|-.|y'|y $$'$|-.|y'|y $$'$|-.|y'|y $$'$|-.|y'|y $$($|-.|y'|y $$)$|-.|y'|y $$'!|-.$$'$|-.|y'|y $$'$|-.|y'|y $$#!|y $$! !&+!$|-\/|y'|y $&$$|-\/|y'|y $$%$|-\/|y'|y $$'$|-\/|y'|y $$'$|-\/|y'|y $$'$|-\/|y'|y $$($|-\/|y'|y $$)$|-\/|y'|y $$'!|-\/$$'$|-\/|y'|y $$'$|-\/|y'|y $$#!|y $$! !&+!$|-0|y'|y $&$$|-0|y'|y $$%$|-0|y'|y $$'$|-0|y'|y $$'$|-0|y'|y $$'$|-0|y'|y $$($|-0|y'|y $$)$|-0|y'|y $$'!|-0$$'$|-0|y'|y $$'$|-0|y'|y $$#!|y $$! !&+!$|-1|y'|y $&$$|-1|y'|y $$%$|-1|y'|y $$'$|-1|y'|y $$'$|-1|y'|y $$'$|-1|y'|y $$($|-1|y'|y $$)$|-1|y'|y $$'!|-1$$'$|-1|y'|y $$'$|-1|y'|y $$#!|y $$! !&+!$|-2|y'|y $&$$|-2|y'|y $$%$|-2|y'|y $$'$|-2|y'|y $$'$|-2|y'|y $$'$|-2|y'|y $$($|-2|y'|y $$)$|-2|y'|y $$'!|-2$$'$|-2|y'|y $$'$|-2|y'|y $$#!|y $$! !&+!$|-3|y'|y $&$$|-3|y'|y $$%$|-3|y'|y $$'$|-3|y'|y $$'$|-3|y'|y $$'$|-3|y'|y $$($|-3|y'|y $$)$|-3|y'|y $$'!|-3$$'$|-3|y'|y $$'$|-3|y'|y $$#!|y $$! !&+!$|-4|y'|y $&$$|-4|y'|y $$%$|-4|y'|y $$'$|-4|y'|y $$'$|-4|y'|y $$'$|-4|y'|y $$($|-4|y'|y $$)$|-4|y'|y $$'!|-4$$'$|-4|y'|y $$'$|-4|y'|y $$#!|y $$! !&+!$|-5|y'|y $&$$|-5|y'|y $$%$|-5|y'|y $$'$|-5|y'|y $$'$|-5|y'|y $$'$|-5|y'|y $$($|-5|y'|y $$)$|-5|y'|y $$'!|-5$$'$|-5|y'|y $$'$|-5|y'|y $$#!|y $$! !&+!$|-6|y'|y $&$$|-6|y'|y $$%$|-6|y'|y $$'$|-6|y'|y $$'$|-6|y'|y $$'$|-6|y'|y $$($|-6|y'|y $$)$|-6|y'|y $$'!|-6$$'$|-6|y'|y $$'$|-6|y'|y $$#!|y $$! !&+!$|-7|y'|y $&$$|-7|y'|y $$%$|-7|y'|y $$'$|-7|y'|y $$'$|-7|y'|y $$'$|-7|y'|y $$($|-7|y'|y $$)$|-7|y'|y $$'!|-7$$'$|-7|y'|y $$'$|-7|y'|y $$#!|y $$! !&+!$|-8|y'|y $&$$|-8|y'|y $$%$|-8|y'|y $$'$|-8|y'|y $$'$|-8|y'|y $$'$|-8|y'|y $$($|-8|y'|y $$)$|-8|y'|y $$'!|-8$$'$|-8|y'|y $$'$|-8|y'|y $$#!|y $$! !&+!$|-9|y'|y $&$$|-9|y'|y $$%$|-9|y'|y $$'$|-9|y'|y $$'$|-9|y'|y $$'$|-9|y'|y $$($|-9|y'|y $$)$|-9|y'|y $$'!|-9$$'$|-9|y'|y $$'$|-9|y'|y $$#!|y $$! !&+!$|-:|y'|y $&$$|-:|y'|y $$%$|-:|y'|y $$'$|-:|y'|y $$'$|-:|y'|y $$'$|-:|y'|y $$($|-:|y'|y $$)$|-:|y'|y $$'!|-:$$'$|-:|y'|y $$'$|-:|y'|y $$#!|y $$! !&+!$|-;|y'|y $&$$|-;|y'|y $$%$|-;|y'|y $$'$|-;|y'|y $$'$|-;|y'|y $$'$|-;|y'|y $$($|-;|y'|y $$)$|-;|y'|y $$'!|-;$$'$|-;|y'|y $$'$|-;|y'|y $$#!|y $$! !&+!$|-<|y'|y $&$$|-<|y'|y $$%$|-<|y'|y $$'$|-<|y'|y $$'$|-<|y'|y $$'$|-<|y'|y $$($|-<|y'|y $$)$|-<|y'|y $$'!|-<$$'$|-<|y'|y $$'$|-<|y'|y $$#!|y $$! !&+!$|-=|y'|y $&$$|-=|y'|y $$%$|-=|y'|y $$'$|-=|y'|y $$'$|-=|y'|y $$'$|-=|y'|y $$($|-=|y'|y $$)$|-=|y'|y $$'!|-=$$'$|-=|y'|y $$'$|-=|y'|y $$#!|y $$! !&+!$|->|y'|y $&$$|->|y'|y $$%$|->|y'|y $$'$|->|y'|y $$'$|->|y'|y $$'$|->|y'|y $$($|->|y'|y $$)$|->|y'|y $$'!|->$$'$|->|y'|y $$'$|->|y'|y $$#!|y $$! !&+!$|-?|y'|y $&$$|-?|y'|y $$%$|-?|y'|y $$'$|-?|y'|y $$'$|-?|y'|y $$'$|-?|y'|y $$($|-?|y'|y $$)$|-?|y'|y $$'!|-?$$'$|-?|y'|y $$'$|-?|y'|y $$#!|y $$! !&+!$|-@|y'|y $&$$|-@|y'|y $$%$|-@|y'|y $$'$|-@|y'|y $$'$|-@|y'|y $$'$|-@|y'|y $$($|-@|y'|y $$)$|-@|y'|y $$'!|-@$$'$|-@|y'|y $$'$|-@|y'|y $$#!|y $$! !&+!$|-A|y'|y $&$$|-A|y'|y $$%$|-A|y'|y $$'$|-A|y'|y $$'$|-A|y'|y $$'$|-A|y'|y $$($|-A|y'|y $$)$|-A|y'|y $$'!|-A$$'$|-A|y'|y $$'$|-A|y'|y $$#!|y $$! !&+!$|-B|y'|y $&$$|-B|y'|y $$%$|-B|y'|y $$'$|-B|y'|y $$'$|-B|y'|y $$'$|-B|y'|y $$($|-B|y'|y $$)$|-B|y'|y $$'!|-B$$'$|-B|y'|y $$'$|-B|y'|y $$#!|y $$! !&+!$|-C|y'|y $&$$|-C|y'|y $$%$|-C|y'|y $$'$|-C|y'|y $$'$|-C|y'|y $$'$|-C|y'|y $$($|-C|y'|y $$)$|-C|y'|y $$'!|-C$$'$|-C|y'|y $$'$|-C|y'|y $$#!|y $$! !$)!!|.@ #!|.@!!&$ $$$  $ !!#!#|\/)|,D !!|-E !#| z|(d$(!  !%|(d|(c|vX|-G !#|+b|-H$$!!|+b$$! !!$#!|+b#$! ##! #!! #!! !!%! #!! #.! #-! #,! #+! #*! #)! #(! #'! #&! #%! #$! ##! #!! #$! ##! #!! #%! #$! ##! #!! #$! ##! #!! !$)!!|,n #!|,n!!$#!|,n $ !%+! !!%!%|.x|.w|.v|.u #$|.x|.w|.v$$!$|.x|.w|.v$$! $$! $$! !!%!!|\/8$&! !!%!!|05$&! !!%!!|0s$&! !!%!!|0u$&! !!%!%|0{|0z|0y|0x #$|0{|0z|0y$$!$|0{|0z|0y$$! $$! $$! !!%!!|1&$&! !#'!!|1d$&! !#'!!|1g$&! !#'!!|2%$&! !!%!!|2($&! !!%!!|2+$&! !#'!!|2.$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|.&!!%!!|2>$&! !!%!#|2O|2N #!|2O$$!!|2O$$! !!%!%|2a|2`|2_|2^ #$|2a|2`|2_$$!$|2a|2`|2_$$! $$! $$! !!%!!|2o$&! !!%! !$)!!|.3!!%!$|.2|.1|.0$$!$|.2|.1|.0!#'!!|.3!#'!$|.2|.1|.0$$#$|.2|.1|.0!$)!!|.7!!%!!|.7!#'!!|.7!#'!%|.e|.d|.c|.b$$#%|.e|.d|.c|.b!$)!!|.>!!%!$|.=|.<|.;$$!$|.=|.<|.;!#'!!|.>!#'!$|.=|.<|.;$$#$|.=|.<|.;!$)!!|.@$$# !!%!.|.N|.M|.L|.K|.J|.I|.H|.G|.F|.E|.D|.C|.B$$!.|.N|.M|.L|.K|.J|.I|.H|.G|.F|.E|.D|.C|.B!#'!!|.O!#'!!|.@$$# !$)!!|.S$$#!|.S!!%!!|.S$$!!|.S!#'!!|.T!#'!!|.S$$#!|.S!$)!!|.X$$#!|.X!!%!!|.X$$!!|.X!#'!!|.Y!#'!!|.X$$#!|.X!$)!!|.a!!%!$|.`|._|.^$$!$|.`|._|.^!#'!!|.a!#'!$|.`|._|.^$$#$|.`|._|.^ !!|\/9 !!|06 !!|0t !!|0v !!|1' !!|1e !!|1h !!|2& !!|2) !!|2, !!|2\/ !!|2? !!|2p !!|.z !!|\/! !!|\/  !!|.y!!#!#|-\/|.2!!#!#|.{|-,!!#!#|-.|.1!!#!#|--|.0 !!|\/( !#|+c|\/&$$!!|+c$$! !!$#!|+c !%|\/'|(d|(c|vX !#| z|(d$(! !!#!#|\/)|,C !!|\/0 !#|+{|\/-$$!!|+{$$! !!$#!|+{ !$|(d|(c|vX!!#!#|\/1|,c !!|\/7 !#|, |\/5$$!!|, $$! !!$#!|,  !%|\/6|(d|(c|vX !#| z|(d$(! !!#!#|,b|\/1!!%!&|,p|(d|(c|vX|.f #%|,p|(d|(c|vX$$!!|,p$$! !!$#!|,p!!#!#|,o|\/1 !!|\/? !#|,!|\/=$$!!|,!$$! !!$#!|,! !%|\/>|(d|(c|vX !#| z|(d$(! !!#!#|,a|\/1 !!|\/E !#|,#|\/C$$!!|,#$$! !!$#!|,# !%|\/D|(d|(c|vX !#| z|(d$(! !!#!#|,`|\/1 !!|\/K !#|,$|\/I$$!!|,$$$! !!$#!|,$ !%|\/J|(d|(c|vX !#| z|(d$(! !!#!#|,_|\/1 !!|\/Q !#|,%|\/O$$!!|,%$$! !!$#!|,% !%|\/P|(d|(c|vX !#| z|(d$(! !!#!#|,^|\/1 !!|\/W !#|,&|\/U$$!!|,&$$! !!$#!|,& !%|\/V|(d|(c|vX !#| z|(d$(! !!#!#|,]|\/1 !!|\/^ !#|,'|\/[$$!!|,'$$! !!$#!|,' !%|\/]|(d|(c|vX !#| z|(d$(! !!#!#|,[|\/1 !!|\/d !#|,(|\/b$$!!|,($$! !!$#!|,( !%|\/c|(d|(c|vX !#| z|(d$(! !!#!#|,Z|\/1 !!|\/j !#|,)|\/h$$!!|,)$$! !!$#!|,) !%|\/i|(d|(c|vX !#| z|(d$(! !!#!#|,Y|\/1 !!|\/p !#|,*|\/n$$!!|,*$$! !!$#!|,* !%|\/o|(d|(c|vX !#| z|(d$(! !!#!#|,X|\/1 !!|\/v !#|,+|\/t$$!!|,+$$! !!$#!|,+ !%|\/u|(d|(c|vX !#| z|(d$(! !!#!#|,W|\/1 !!|\/z !#|+d|\/-$$!!|+d$$! !!$#!|+d!!#!#|,B|\/) !!|0# !#|+e|\/5$$!!|+e$$! !!$#!|+e!!#!#|,A|\/) !!|0) !#|+f|0'$$!!|+f$$! !!$#!|+f !%|0(|(d|(c|vX !#| z|(d$(! !!#!#|,@|\/) !!|0. !!|0-$$! !!#!#|,l|._!!#!#|0\/|,G !!|04 !!|03$$! !!#!#|,i|.1!!#!#|,J|.{!!%!&|,r|.h|(d|(c|vX #%|,r|(d|(c|vX$$!!|,r$$! !!$#!|,r!!#!#|,q|\/) !!|0: !#|+g|\/=$$!!|+g$$! !!$#!|+g!!#!#|,?|\/) !!|0? !!|0>$$! !!#!#|-C|.d!!#!#|0@|,S !!|0F !#|+h|0D$$!!|+h$$! !!$#!|+h !%|0E|(d|(c|vX !#| z|(d$(! !!#!#|,>|\/) !!|0J !#|+i|\/C$$!!|+i$$! !!$#!|+i!!#!#|,=|\/) !!|0P !#|+j|0N$$!!|+j$$! !!$#!|+j !%|0O|(d|(c|vX !#| z|(d$(! !!#!#|,<|\/) !!|0V !#|+k|0T$$!!|+k$$! !!$#!|+k !%|0U|(d|(c|vX !#| z|(d$(! !!#!#|,;|\/) !!|0] !#|+l|0Z$$!!|+l$$! !!$#!|+l !%|0[|(d|(c|vX !#| z|(d$(! !!#!#|,:|\/) !!|0a !#|+m|\/I$$!!|+m$$! !!$#!|+m!!#!#|,9|\/) !!|0g !#|+n|0e$$!!|+n$$! !!$#!|+n !%|0f|(d|(c|vX !#| z|(d$(! !!#!#|,8|\/) !!|0m !#|+o|0k$$!!|+o$$! !!$#!|+o !%|0l|(d|(c|vX !#| z|(d$(! !!#!#|,7|\/) !!|0r !!|0q$$! !!#!#|-B|.e!!#!#|,R|0@!!%!$|-?|.i|.7 ##|-?|.7$$!!|-?$$! !!$#!|-?!!#!#|->|0@!!%!$|,t|.k|.j ##|,t|.k$$!#|,t|.k$&!#|,t|.k$$!!|,t$$! !!$#!|,t!!#!#|0w|,s !!|1! !!|1% !!|1$ !!|1 !!#!#|-:|.=!!#!#|1#|-7!!#!#|-9|.<!!#!#|-8|.;!!%!$|-+|.l|.@ ##|-+|.@$$!!|-+$$! !!$#!|-+!!#!#|1(|-* !!|1- !!|1,$$! !!#!#|-=|.<!!#!#|,V|1# !!|12 !!|11$$! !!#!#|-<|.;!!#!#|,U|1# !!|17 !!|16$$! !!#!#|-;|.=!!#!#|,T|1# !!|1< !!|1;$$! !!#!#|,f|.C!!#!#|,O|1( !!|1A !!|1@$$! !!#!#|,d|.E!!#!#|,N|1( !!|1F !!|1E$$! !!#!#|,e|.D!!#!#|,M|1( !!|1K !!|1J$$! !!#!#|,g|.B!!#!#|,L|1( !!|1O !#|+p|\/O$$!!|+p$$! !!$#!|+p!!#!#|,6|\/) !!|1T !!|1S$$! !!#!#|,j|.0!!#!#|,I|.{ !!|1X !#|+q|\/U$$!!|+q$$! !!$#!|+q!!#!#|,5|\/) !!|1] !#|+r|\/[$$!!|+r$$! !!$#!|+r!!#!#|,4|\/) !!|1c !#|+s|1a$$!!|+s$$! !!$#!|+s !%|1b|(d|(c|vX !#| z|(d$(! !!#!#|,3|\/)!#'!#|,v|.m $!|,v$$!!|,v$$! !!$#!|,v!!#!#|1f|,u!#'!#|,x|.n $!|,x$$!!|,x$$! !!$#!|,x!!#!#|1i|,w !!|1o !#|+t|1m$$!!|+t$$! !!$#!|+t !%|1n|(d|(c|vX !#| z|(d$(! !!#!#|,2|\/) !!|1t !!|1s$$! !!#!#|,k|.`!!#!#|,F|0\/ !!|1y !!|1x$$! !!#!#|-A|.c!!#!#|,Q|0@ !!|2$ !#|+u|2!$$!!|+u$$! !!$#!|+u !%|2#|(d|(c|vX !#| z|(d$(! !!#!#|,1|\/)!#'!#|,z|.o $!|,z$$!!|,z$$! !!$#!|,z!!#!#|2'|,y!!%!$|- |#D|.p ##|- |#D$&!!|- $$! !!$$!|- !!#!#|2*|,{!!%!$|-#|.q|#D ##|-#|#D$&!!|-#$$! !!$$!|-#!!#!#|2-|-!!#'!#|-%|.r $!|-%$$!!|-%$$! !!$#!|-%!!#!#|20|-$ !!|24 !#|+v|\/b$$!!|+v$$! !!$#!|+v!!#!#|,0|\/)!!%!$|-'|.s|#D ##|-'|#D$&!!|-'$$! !!$$!|-'!!#!#|2@|-& !!|2D !#|+w|\/h$$!!|+w$$! !!$#!|+w!!#!#|,\/|\/) !!|2I !!|2H$$! !!#!#|,h|.2!!#!#|,H|.{ !!|2M !#|+x|\/n$$!!|+x$$! !!$#!|+x!!#!#|,.|\/) !!|2Q !!|2P!!#!#|-5|.X!!#!#|2R|-4 !!|2W !!|2V$$! !!#!#|,m|.^!!#!#|,E|0\/ !!|2] !!|2[$$! !!#!#|-6|.X!!#!#|,K|2R !!|2c !!|2e !!|2d !!|2b!!#!#|-3|.`!!#!#|-0|0\/!!#!#|-2|._!!#!#|-1|.^ !!|2j !!|2i$$! !!#!#|-@|.b!!#!#|,P|0@ !!|2n !#|+y|\/t$$!!|+y$$! !!$#!|+y!!#!#|,-|\/)!!%!$|-)|.t|#D ##|-)|#D$&!!|-)$$! !!$$!|-)!!#!#|2q|-( !!|2w !#|+z|2u$$!!|+z$$! !!$#!|+z !%|2v|(d|(c|vX !#| z|(d$(! !!#!#|,,|\/)!!%! $$! $$! $$! !!%! $$! $$!  # !$)!#|v?|3&$$$#|v?|3&$$$#|v?|3& %!|v?$$$!|v?$$'!|v? %!|3&!$)!#|v?|3'$$$#|v?|3'$$$#|v?|3' %!|v?$$$!|v?$$'!|v? %!|3'#(! #'! #&! #%! #$! ##! #!! !!%! !!%!  # !!%! !#'! !!%! $$! !#'! !!%! !!%! !#'! !!%! !!%! !#'! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'! $$#  $ !#'! $$# !%+! #!& !#'! $$#  $ !#'! $$# !%+! #!& !#'! $$#  $ !#'! $$# !%+! #!& !$)!!|3`!!%!(|3_|3^|3]|3[|3Z|3Y|3-$$!(|3_|3^|3]|3[|3Z|3Y|3-!#'!!|3`!#'!(|3_|3^|3]|3[|3Z|3Y|3-$$#(|3_|3^|3]|3[|3Z|3Y|3-!#'!0|v)|#Q|w*|w'|y(|3p|3o|3n|3m|3l|3k|3j|xv|3i|3d!#($.|v)|#Q|w'|y(|3p|3o|3n|3m|3l|3k|3j|xv|3d$$%.|v)|#Q|w'|y(|3p|3o|3n|3m|3l|3k|3j|xv|3d$$(.|v)|#Q|w'|y(|3p|3o|3n|3m|3l|3k|3j|xv|3d!!&#  $ !!&&)|3p|3o|3n|3m|3l|3k|3j|3d '(|3p|3o|3n|3m|3l|3k|3d ''|3p|3o|3n|3m|3l|3d &&|3p|3o|3n|3m|3l &&|3p|3o|3n|3m|3l &%|3p|3o|3n|3l %%|3p|3o|3n|3l %%|3p|3o|3n|3l %$|3p|3o|3l $$|3p|3o|3l $#|3p|3o $!|3p #!|3p $  $#|#Q|w' #$|v)|y(|xv ##|#Q|w* $!|3i!$)!!|3a!#'!!|3a $!|3a!$)!&|!?|3s|3r|3q|3`$$$&|!?|3s|3r|3q|3`$$$#|!?|3s $#|!?|3s $!|!? $!|!?$$$#|3r|3` $#|3r|3` $!|3` $!|3`!!%!!|3d!#'!!|3h!#'!!|3d!#'!$|3y|3x|3w!#($!|3w!!&$!|3x!#($!|3y!#'!0|v)|#Q|w*|w'|y(|4A|3p|3l|xv|3i|3,|3+|3*|3)|3(!#(%-|v)|#Q|w'|y(|3p|3l|xv|3,|3+|3*|3)|3($$&-|v)|#Q|w'|y(|3p|3l|xv|3,|3+|3*|3)|3($$)-|v)|#Q|w'|y(|3p|3l|xv|3,|3+|3*|3)|3(!!&#  $ !!&&(|3p|3l|3,|3+|3*|3)|3( ''|3p|3l|3,|3+|3*|3) '&|3p|3l|3,|3+|3* &&|3p|3l|3,|3+|3* &&|3p|3l|3,|3+|3* &%|3p|3l|3,|3+ %%|3p|3l|3,|3+ %%|3p|3l|3,|3+ %$|3p|3l|3, $$|3p|3l|3, $#|3p|3, $!|3p #!|3p $  $#|#Q|w' $#|#Q|w' #$|v)|y(|xv ##|#Q|w* $!|4A ##|#Q|w* $!|3i!$)!!|3t!#'!!|3t $!|3t!%+!!|4#$$%!|4#$$%!|4#!$)!!|4#$$$!|4#!%+!!|4#!!&$!|4#$$$!|4#!$)!%|!?|4&|4%|4$$$$%|!?|4&|4%|4$$$$#|!?|4% $#|!?|4% $!|!? $!|!?!!%!!|3z!#'!!|4!!#'!!|3z!(1!,|v)|y(|4\/|4.|4-|4,|4+|3z|3p|3l|xv!!&#  $ !!&&)|4\/|4.|4-|4,|4+|3z|3p|3l '(|4\/|4.|4-|4,|3z|3p|3l ''|4\/|4.|4-|3z|3p|3l &&|4\/|4.|4-|3p|3l &&|4\/|4.|4-|3p|3l &%|4\/|4.|3p|3l %%|4\/|4.|3p|3l %%|4\/|4.|3p|3l %$|4\/|3p|3l $$|4\/|3p|3l $#|4\/|3p $!|3p #!|3p $  $  #$|v)|y(|xv!#'!!|3'$$#!|3'!#'!!|4)$$#!|4)!$)!!|v@$$$!|v@ %!|v@$$$!|v@ %!|v@!#'!!|3&$$#!|3&#!! !!%! ### !#'! !!&# #$! !!%! ### !!%! #$# #!! !#'!$|3c|3b|3a $!|3a!!&$!|3b $!|3c!#'!$|3v|3u|3t $!|3t!!&$!|3u $!|3v!#'!!|4'!#'!!|4(!#'!!|4*!&+!$|y'|y |4H$&$$|y'|y |4H$$%$|y'|y |4H$$'$|y'|y |4H$$'$|y'|y |4H$$'$|y'|y |4H$$($|y'|y |4H$$)$|y'|y |4H$$'!|4H$$'$|y'|y |4H$$'$|y'|y |4H$$#!|y $$! !&+!$|y'|y |4I$&$$|y'|y |4I$$%$|y'|y |4I$$'$|y'|y |4I$$'$|y'|y |4I$$'$|y'|y |4I$$($|y'|y |4I$$)$|y'|y |4I$$'!|4I$$'$|y'|y |4I$$'$|y'|y |4I$$#!|y $$! !&+! $$% $$& $$' $$& !!%!$|y8|4M|4L$$!$|y8|4M|4L$$# $$#  # $$! $$!  # $$# $$# $$#  # !&+!#|4K|4L$$%#|4K|4L$$&!|4L$$&!|4L!&+!#|4K|4M$$%#|4K|4M$$&!|4M$$&!|4M!&+!$|y'|y |4N$&$$|y'|y |4N$$%$|y'|y |4N$$'$|y'|y |4N$$'$|y'|y |4N$$'$|y'|y |4N$$($|y'|y |4N$$)$|y'|y |4N$$'!|4N$$'$|y'|y |4N$$'$|y'|y |4N$$#!|y $$! !&+!$|y'|y |4O$&$$|y'|y |4O$$%$|y'|y |4O$$'$|y'|y |4O$$'$|y'|y |4O$$'$|y'|y |4O$$($|y'|y |4O$$)$|y'|y |4O$$'!|4O$$'$|y'|y |4O$$'$|y'|y |4O$$#!|y $$! !&+!$|y'|y |4P$&$$|y'|y |4P$$%$|y'|y |4P$$'$|y'|y |4P$$'$|y'|y |4P$$'$|y'|y |4P$$($|y'|y |4P$$)$|y'|y |4P$$'!|4P$$'$|y'|y |4P$$'$|y'|y |4P$$#!|y $$! !&+!$|y'|y |4Q$&$$|y'|y |4Q$$%$|y'|y |4Q$$'$|y'|y |4Q$$'$|y'|y |4Q$$'$|y'|y |4Q$$($|y'|y |4Q$$)$|y'|y |4Q$$'!|4Q$$'$|y'|y |4Q$$'$|y'|y |4Q$$#!|y $$! !&+!$|y'|y |4R$&$$|y'|y |4R$$%$|y'|y |4R$$'$|y'|y |4R$$'$|y'|y |4R$$'$|y'|y |4R$$($|y'|y |4R$$)$|y'|y |4R$$'!|4R$$'$|y'|y |4R$$'$|y'|y |4R$$#!|y $$! !&+!$|y'|y |4S$&$$|y'|y |4S$$%$|y'|y |4S$$'$|y'|y |4S$$'$|y'|y |4S$$'$|y'|y |4S$$($|y'|y |4S$$)$|y'|y |4S$$'!|4S$$'$|y'|y |4S$$'$|y'|y |4S$$#!|y $$! !&+!$|y'|y |4T$&$$|y'|y |4T$$%$|y'|y |4T$$'$|y'|y |4T$$'$|y'|y |4T$$'$|y'|y |4T$$($|y'|y |4T$$)$|y'|y |4T$$'!|4T$$'$|y'|y |4T$$'$|y'|y |4T$$#!|y $$! !&+!$|y'|y |4U$&$$|y'|y |4U$$%$|y'|y |4U$$'$|y'|y |4U$$'$|y'|y |4U$$'$|y'|y |4U$$($|y'|y |4U$$)$|y'|y |4U$$'!|4U$$'$|y'|y |4U$$'$|y'|y |4U$$#!|y $$! !&+!$|y'|y |4V$&$$|y'|y |4V$$%$|y'|y |4V$$'$|y'|y |4V$$'$|y'|y |4V$$'$|y'|y |4V$$($|y'|y |4V$$)$|y'|y |4V$$'!|4V$$'$|y'|y |4V$$'$|y'|y |4V$$#!|y $$! !&+!$|y'|y |4W$&$$|y'|y |4W$$%$|y'|y |4W$$'$|y'|y |4W$$'$|y'|y |4W$$'$|y'|y |4W$$($|y'|y |4W$$)$|y'|y |4W$$'!|4W$$'$|y'|y |4W$$'$|y'|y |4W$$#!|y $$! !&+!$|y'|y |4X$&$$|y'|y |4X$$%$|y'|y |4X$$'$|y'|y |4X$$'$|y'|y |4X$$'$|y'|y |4X$$($|y'|y |4X$$)$|y'|y |4X$$'!|4X$$'$|y'|y |4X$$'$|y'|y |4X$$#!|y $$! !&+!$|y'|y |4Y$&$$|y'|y |4Y$$%$|y'|y |4Y$$'$|y'|y |4Y$$'$|y'|y |4Y$$'$|y'|y |4Y$$($|y'|y |4Y$$)$|y'|y |4Y$$'!|4Y$$'$|y'|y |4Y$$'$|y'|y |4Y$$#!|y $$! !&+!$|y'|y |4Z$&$$|y'|y |4Z$$%$|y'|y |4Z$$'$|y'|y |4Z$$'$|y'|y |4Z$$'$|y'|y |4Z$$($|y'|y |4Z$$)$|y'|y |4Z$$'!|4Z$$'$|y'|y |4Z$$'$|y'|y |4Z$$#!|y $$! !&+!$|y'|y |4[$&$$|y'|y |4[$$%$|y'|y |4[$$'$|y'|y |4[$$'$|y'|y |4[$$'$|y'|y |4[$$($|y'|y |4[$$)$|y'|y |4[$$'!|4[$$'$|y'|y |4[$$'$|y'|y |4[$$#!|y $$! !&+!$|y'|y |4]$&$$|y'|y |4]$$%$|y'|y |4]$$'$|y'|y |4]$$'$|y'|y |4]$$'$|y'|y |4]$$($|y'|y |4]$$)$|y'|y |4]$$'!|4]$$'$|y'|y |4]$$'$|y'|y |4]$$#!|y $$! !&+!$|y'|y |4^$&$$|y'|y |4^$$%$|y'|y |4^$$'$|y'|y |4^$$'$|y'|y |4^$$'$|y'|y |4^$$($|y'|y |4^$$)$|y'|y |4^$$'!|4^$$'$|y'|y |4^$$'$|y'|y |4^$$#!|y $$! !&+!$|y'|y |4_$&$$|y'|y |4_$$%$|y'|y |4_$$'$|y'|y |4_$$'$|y'|y |4_$$'$|y'|y |4_$$($|y'|y |4_$$)$|y'|y |4_$$'!|4_$$'$|y'|y |4_$$'$|y'|y |4_$$#!|y $$! !&+!$|y'|y |4`$&$$|y'|y |4`$$%$|y'|y |4`$$'$|y'|y |4`$$'$|y'|y |4`$$'$|y'|y |4`$$($|y'|y |4`$$)$|y'|y |4`$$'!|4`$$'$|y'|y |4`$$'$|y'|y |4`$$#!|y $$! !&+!$|y'|y |4a$&$$|y'|y |4a$$%$|y'|y |4a$$'$|y'|y |4a$$'$|y'|y |4a$$'$|y'|y |4a$$($|y'|y |4a$$)$|y'|y |4a$$'!|4a$$'$|y'|y |4a$$'$|y'|y |4a$$#!|y $$! !&+!$|y'|y |4b$&$$|y'|y |4b$$%$|y'|y |4b$$'$|y'|y |4b$$'$|y'|y |4b$$'$|y'|y |4b$$($|y'|y |4b$$)$|y'|y |4b$$'!|4b$$'$|y'|y |4b$$'$|y'|y |4b$$#!|y $$! !&+!$|y'|y |4c$&$$|y'|y |4c$$%$|y'|y |4c$$'$|y'|y |4c$$'$|y'|y |4c$$'$|y'|y |4c$$($|y'|y |4c$$)$|y'|y |4c$$'!|4c$$'$|y'|y |4c$$'$|y'|y |4c$$#!|y $$! !&+!$|y'|y |4d$&$$|y'|y |4d$$%$|y'|y |4d$$'$|y'|y |4d$$'$|y'|y |4d$$'$|y'|y |4d$$($|y'|y |4d$$)$|y'|y |4d$$'!|4d$$'$|y'|y |4d$$'$|y'|y |4d$$#!|y $$! !&+!$|y'|y |4e$&$$|y'|y |4e$$%$|y'|y |4e$$'$|y'|y |4e$$'$|y'|y |4e$$'$|y'|y |4e$$($|y'|y |4e$$)$|y'|y |4e$$'!|4e$$'$|y'|y |4e$$'$|y'|y |4e$$#!|y $$! !&+!$|y'|y |4f$&$$|y'|y |4f$$%$|y'|y |4f$$'$|y'|y |4f$$'$|y'|y |4f$$'$|y'|y |4f$$($|y'|y |4f$$)$|y'|y |4f$$'!|4f$$'$|y'|y |4f$$'$|y'|y |4f$$#!|y $$! !&+!$|y'|y |4g$&$$|y'|y |4g$$%$|y'|y |4g$$'$|y'|y |4g$$'$|y'|y |4g$$'$|y'|y |4g$$($|y'|y |4g$$)$|y'|y |4g$$'!|4g$$'$|y'|y |4g$$'$|y'|y |4g$$#!|y $$! !&+!$|y'|y |4h$&$$|y'|y |4h$$%$|y'|y |4h$$'$|y'|y |4h$$'$|y'|y |4h$$'$|y'|y |4h$$($|y'|y |4h$$)$|y'|y |4h$$'!|4h$$'$|y'|y |4h$$'$|y'|y |4h$$#!|y $$! !&+!$|y'|y |4i$&$$|y'|y |4i$$%$|y'|y |4i$$'$|y'|y |4i$$'$|y'|y |4i$$'$|y'|y |4i$$($|y'|y |4i$$)$|y'|y |4i$$'!|4i$$'$|y'|y |4i$$'$|y'|y |4i$$#!|y $$! !&+!$|y'|y |4j$&$$|y'|y |4j$$%$|y'|y |4j$$'$|y'|y |4j$$'$|y'|y |4j$$'$|y'|y |4j$$($|y'|y |4j$$)$|y'|y |4j$$'!|4j$$'$|y'|y |4j$$'$|y'|y |4j$$#!|y $$! !&+!$|y'|y |4k$&$$|y'|y |4k$$%$|y'|y |4k$$'$|y'|y |4k$$'$|y'|y |4k$$'$|y'|y |4k$$($|y'|y |4k$$)$|y'|y |4k$$'!|4k$$'$|y'|y |4k$$'$|y'|y |4k$$#!|y $$! !&+!$|y'|y |4l$&$$|y'|y |4l$$%$|y'|y |4l$$'$|y'|y |4l$$'$|y'|y |4l$$'$|y'|y |4l$$($|y'|y |4l$$)$|y'|y |4l$$'!|4l$$'$|y'|y |4l$$'$|y'|y |4l$$#!|y $$! !&+!$|y'|y |4m$&$$|y'|y |4m$$%$|y'|y |4m$$'$|y'|y |4m$$'$|y'|y |4m$$'$|y'|y |4m$$($|y'|y |4m$$)$|y'|y |4m$$'!|4m$$'$|y'|y |4m$$'$|y'|y |4m$$#!|y $$! !&+!$|y'|y |4n$&$$|y'|y |4n$$%$|y'|y |4n$$'$|y'|y |4n$$'$|y'|y |4n$$'$|y'|y |4n$$($|y'|y |4n$$)$|y'|y |4n$$'!|4n$$'$|y'|y |4n$$'$|y'|y |4n$$#!|y $$! !&+!$|y'|y |4o$&$$|y'|y |4o$$%$|y'|y |4o$$'$|y'|y |4o$$'$|y'|y |4o$$'$|y'|y |4o$$($|y'|y |4o$$)$|y'|y |4o$$'!|4o$$'$|y'|y |4o$$'$|y'|y |4o$$#!|y $$! !&+!$|y'|y |4p$&$$|y'|y |4p$$%$|y'|y |4p$$'$|y'|y |4p$$'$|y'|y |4p$$'$|y'|y |4p$$($|y'|y |4p$$)$|y'|y |4p$$'!|4p$$'$|y'|y |4p$$'$|y'|y |4p$$#!|y $$! !&+!$|y'|y |4q$&$$|y'|y |4q$$%$|y'|y |4q$$'$|y'|y |4q$$'$|y'|y |4q$$'$|y'|y |4q$$($|y'|y |4q$$)$|y'|y |4q$$'!|4q$$'$|y'|y |4q$$'$|y'|y |4q$$#!|y $$! !&+!$|y'|y |4r$&$$|y'|y |4r$$%$|y'|y |4r$$'$|y'|y |4r$$'$|y'|y |4r$$'$|y'|y |4r$$($|y'|y |4r$$)$|y'|y |4r$$'!|4r$$'$|y'|y |4r$$'$|y'|y |4r$$#!|y $$! !&+!$|y'|y |4s$&$$|y'|y |4s$$%$|y'|y |4s$$'$|y'|y |4s$$'$|y'|y |4s$$'$|y'|y |4s$$($|y'|y |4s$$)$|y'|y |4s$$'!|4s$$'$|y'|y |4s$$'$|y'|y |4s$$#!|y $$! !!%! $$! $$! $$$ $$# !!&$ $$$  $ !!%!#|9S|4u$$!#|9S|4u$$!#|9S|4u$$$#|9S|4u$$# !!&% $$% !!&& $$&  $  $  $  #!|4u$$# !!&$ $$$ !!&% $$%  $  $  $  #!|4u!$'! $$#  $ $$#  # $$! $$!  # $$! $$!  $ $$# $$$ $$' !!%!'|4w|87|85|w_|6j|6M$$!'|4w|87|85|w_|6j|6M$$!'|4w|87|85|w_|6j|6M # $$!  #$|85|w_|6M # $$!  #!|4w$&! !!%!#|4x|5t$$!#|4x|5t$$#!|4x #!|4x!&+!$|y'|y |4y$&$$|y'|y |4y$$%$|y'|y |4y$$'$|y'|y |4y$$'$|y'|y |4y$$'$|y'|y |4y$$($|y'|y |4y$$)$|y'|y |4y$$'!|4y$$'$|y'|y |4y$$'$|y'|y |4y$$#!|y $$! !&+!$|y'|y |4z$&$$|y'|y |4z$$%$|y'|y |4z$$'$|y'|y |4z$$'$|y'|y |4z$$'$|y'|y |4z$$($|y'|y |4z$$)$|y'|y |4z$$'!|4z$$'$|y'|y |4z$$'$|y'|y |4z$$#!|y $$! !&+!$|y'|y |4{$&$$|y'|y |4{$$%$|y'|y |4{$$'$|y'|y |4{$$'$|y'|y |4{$$'$|y'|y |4{$$($|y'|y |4{$$)$|y'|y |4{$$'!|4{$$'$|y'|y |4{$$'$|y'|y |4{$$#!|y $$! !&+!$|y'|y |5 $&$$|y'|y |5 $$%$|y'|y |5 $$'$|y'|y |5 $$'$|y'|y |5 $$'$|y'|y |5 $$($|y'|y |5 $$)$|y'|y |5 $$'!|5 $$'$|y'|y |5 $$'$|y'|y |5 $$#!|y $$! !&+!$|y'|y |5!$&$$|y'|y |5!$$%$|y'|y |5!$$'$|y'|y |5!$$'$|y'|y |5!$&&$|y'|y |5!$$($|y'|y |5!$$)$|y'|y |5!$$'!|5!$$'$|y'|y |5!$$'$|y'|y |5!$$#!|y $$! !!%!(|5#|8*|4u|6)|6-|5!|5X$$!(|5#|8*|4u|6)|6-|5!|5X$$#(|5#|8*|4u|6)|6-|5!|5X$$#(|5#|8*|4u|6)|6-|5!|5X$$$(|5#|8*|4u|6)|6-|5!|5X$$# !!&$&|8*|6)|6-|5!|5X$$$&|8*|6)|6-|5!|5X!!&$&|8*|6)|6-|5!|5X$$$&|8*|6)|6-|5!|5X # $$!  #&|8*|6)|6-|5!|5X$$!&|8*|6)|6-|5!|5X ##|6)|5! #!|5!!!$#!|5! # $$!  $  $  #!|5#!&+!$|y'|y |5$$&$$|y'|y |5$$$%$|y'|y |5$$$'$|y'|y |5$$$'$|y'|y |5$$$'$|y'|y |5$$$($|y'|y |5$$$)$|y'|y |5$$$'!|5$$$'$|y'|y |5$$$'$|y'|y |5$$$#!|y $$! !&+!$|y'|y |5%$&$$|y'|y |5%$$%$|y'|y |5%$$'$|y'|y |5%$$'$|y'|y |5%$$'$|y'|y |5%$$($|y'|y |5%$$)$|y'|y |5%$$'!|5%$$'$|y'|y |5%$$'$|y'|y |5%$$#!|y $$! !&+!$|y'|y |5&$&$$|y'|y |5&$$%$|y'|y |5&$$'$|y'|y |5&$$'$|y'|y |5&$$'$|y'|y |5&$$($|y'|y |5&$$)$|y'|y |5&$$'!|5&$$'$|y'|y |5&$$'$|y'|y |5&$$#!|y $$! !&+!$|y'|y |5'$&$$|y'|y |5'$$%$|y'|y |5'$$'$|y'|y |5'$$'$|y'|y |5'$$'$|y'|y |5'$$($|y'|y |5'$$)$|y'|y |5'$$'!|5'$$'$|y'|y |5'$$'$|y'|y |5'$$#!|y $$! !&+!$|y'|y |5($&$$|y'|y |5($$%$|y'|y |5($$'$|y'|y |5($$'$|y'|y |5($$'$|y'|y |5($$($|y'|y |5($$)$|y'|y |5($$'!|5($$'$|y'|y |5($$'$|y'|y |5($$#!|y $$! !&+!$|y'|y |5)$&$$|y'|y |5)$$%$|y'|y |5)$$'$|y'|y |5)$$'$|y'|y |5)$$'$|y'|y |5)$$($|y'|y |5)$$)$|y'|y |5)$$'!|5)$$'$|y'|y |5)$$'$|y'|y |5)$$#!|y $$! !&+!$|y'|y |5*$&$$|y'|y |5*$$%$|y'|y |5*$$'$|y'|y |5*$$'$|y'|y |5*$$'$|y'|y |5*$$($|y'|y |5*$$)$|y'|y |5*$$'!|5*$$'$|y'|y |5*$$'$|y'|y |5*$$#!|y $$! !&+!$|y'|y |5+$&$$|y'|y |5+$$%$|y'|y |5+$$'$|y'|y |5+$$'$|y'|y |5+$$'$|y'|y |5+$$($|y'|y |5+$$)$|y'|y |5+$$'!|5+$$'$|y'|y |5+$$'$|y'|y |5+$$#!|y $$! !&+!$|y'|y |5,$&$$|y'|y |5,$$%$|y'|y |5,$$'$|y'|y |5,$$'$|y'|y |5,$&&$|y'|y |5,$$($|y'|y |5,$$)$|y'|y |5,$$'!|5,$$'$|y'|y |5,$$'$|y'|y |5,$$#!|y $$! !!%!.|87|85|w_|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$!.|87|85|w_|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$!.|87|85|w_|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$%.|87|85|w_|5-|6j|6 |5z|5x|5n|5X|5L|6$|5, # $$!  # $$!  #!|5-$&!  # $$!  #$|85|w_|5z ##|6 |5, #!|5,!!$#!|5, # $$!  #!|5-$&!  # $$!  #$|85|w_|5x # $$!  #!|5-$&! !#'!(|9_|5.|8*|99|6F|6?|5J$$#(|9_|5.|8*|99|6F|6?|5J$$$(|9_|5.|8*|99|6F|6?|5J # $$!  $'|9_|8*|99|6F|6?|5J$$#'|9_|8*|99|6F|6?|5J #!|5J$&!!|5J $!|9_$&!  # $$!  $!|5.$&! !&+!$|y'|y |5\/$&$$|y'|y |5\/$$%$|y'|y |5\/$$'$|y'|y |5\/$$'$|y'|y |5\/$&&$|y'|y |5\/$$($|y'|y |5\/$$)$|y'|y |5\/$$'!|5\/$$'$|y'|y |5\/$$'$|y'|y |5\/$$#!|y $$! !&+!$|y'|y |50$&$$|y'|y |50$$%$|y'|y |50$$'$|y'|y |50$$'$|y'|y |50$&&$|y'|y |50$$($|y'|y |50$$)$|y'|y |50$$'!|50$$'$|y'|y |50$$'$|y'|y |50$$#!|y $$! !&+!$|y'|y |51$&$$|y'|y |51$$%$|y'|y |51$$'$|y'|y |51$$'$|y'|y |51$&&$|y'|y |51$$($|y'|y |51$$)$|y'|y |51$$'!|51$$'$|y'|y |51$$'$|y'|y |51$$#!|y $$! !&+!$|y'|y |52$&$$|y'|y |52$$%$|y'|y |52$$'$|y'|y |52$$'$|y'|y |52$&&$|y'|y |52$$($|y'|y |52$$)$|y'|y |52$$'!|52$$'$|y'|y |52$$'$|y'|y |52$$#!|y $$! !&+!$|y'|y |53$&$$|y'|y |53$$%$|y'|y |53$$'$|y'|y |53$$'$|y'|y |53$&&$|y'|y |53$$($|y'|y |53$$)$|y'|y |53$$'!|53$$'$|y'|y |53$$'$|y'|y |53$$#!|y $$! !&+!$|y'|y |54$&$$|y'|y |54$$%$|y'|y |54$$'$|y'|y |54$$'$|y'|y |54$&&$|y'|y |54$$($|y'|y |54$$)$|y'|y |54$$'!|54$$'$|y'|y |54$$'$|y'|y |54$$#!|y $$! !&+!$|y'|y |55$&$$|y'|y |55$$%$|y'|y |55$$'$|y'|y |55$$'$|y'|y |55$&&$|y'|y |55$$($|y'|y |55$$)$|y'|y |55$$'!|55$$'$|y'|y |55$$'$|y'|y |55$$#!|y $$! !&+!$|y'|y |56$&$$|y'|y |56$$%$|y'|y |56$$'$|y'|y |56$$'$|y'|y |56$&&$|y'|y |56$$($|y'|y |56$$)$|y'|y |56$$'!|56$$'$|y'|y |56$$'$|y'|y |56$$#!|y $$! !!%!9|4w|85|w_|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$!9|4w|85|w_|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$!9|4w|85|w_|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$%9|4w|85|w_|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58 # $$!  #$|85|w_|6b ##|6d|5\/ #!|5\/!!$#!|5\/ # $$!  #!|57$&!  # $$!  #)|6W|5G|5E|5C|5A|5?|5=|5; #(|5G|5E|5C|5A|5?|5=|5;$$!(|5G|5E|5C|5A|5?|5=|5; #$|85|w_|6Y #!|4w$&!  # $$!  #!|57$&!  # $$!  #$|85|w_|6U #!|5-$&!  # $$!  #!|57$&!  !!|5<!!#!#|3-|56 !!|5>!!#!#|3Y|55 !!|5@!!#!#|3Z|54 !!|5B!!#!#|3[|53 !!|5D!!#!#|3]|52 !!|5F!!#!#|3^|51 !!|5H!!#!#|3_|50 !#|5O|5M !!|5N!!#!#|5q|5+ !!|5P!!#!#|8K|5* !#|5V|5S !!|5T!!#!#|5)|5U !!|5W!!#!#|8K|5(!!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%!  !#|5r|5o !!|5p!!#!#|4z|5q !!|5s!!#!#|8K|4y !!|7{!!#! !!#!  !!|5y!!#!#|8g|4s !!|5{!!#!#|8g|4r !!|6!!!#!#|6+|4q !#|6'|6% !!|6&!!#!#|60|4p !!|6(!!#!#|63|4o !!|6*!!#!#|6+|4n !#|61|6. !!|6\/!!#!#|4m|60 !!|62!!#!#|4l|63 !!|65!!#!#|8K|4k !!|67!!#!#|68|4j !!|6:!!#!#|6;|4i !#|6C|6@ !!|6A!!#!#|4f|6B !!|6D!!#!#|8K|4e !#|6J|6G !!|6H!!#!#|4d|6I !!|6K!!#!#|8K|4c !!|6N!!#!#|8g|4b !#|6S|6P !!|6Q!!#!#|4a|6R !!|6T!!#!#|8K|4` !!|6V!!#!#|8g|4_ !!|6X!!#!#|8K|4^ !!|6Z!!#!#|8g|4] !#|6`|6] !!|6^!!#!#|4[|6_ !!|6a!!#!#|8K|4Z !!|6c!!#!#|8g|4Y !!|6e!!#!#|6f|4X!!#!#|!&|9W !'|8;|8:|89|wS|8-|7  !!|9R!!%!#|$^|8+$$!#|$^|8+$$$#|$^|8+$$#!|8+$&! !!%!$|8E|8-|7 !$)!!|6r$$$!|6r$$$!|6r$$%!|6r!$)!!|9S!!&' $$' $$& $$(  $ !!&& !!&%  $  $  $ !!&$ !!&$  $  $  #!|9S #  # !#'! !!&& $$& $$% $$'  $ !!&$  #  # !!%!!|9T!!#! !!#! !!%!!|8,$$!!|8,$&! !!%!#|5#|9-$$!#|5#|9- #!|5#$$! !!#!!|9V!!%!!|8<$$!!|8<$&! !!%!!|9X !#|9^|8-!!%!!|4w$&! !!%!!|57$&! !#'!!|8+$&! !$)!!|9_$&! !!%!!|5-$&! !!%!$|5.|8\/|9-$$!$|5.|8\/|9- ##|5.|8\/$&! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%!!|7;!!%! !!%! !!%!!|72!!%! !!%! !!%!!|76!!%! !!%! !!%!!|7:!!%! !!%! !!%!!|7K!!%! !!%! !!%!!|7B!!%! !!%! !!%!!|7F!!%! !!%! !!%!!|7J!!%! !!%! !!%!!|7O!!%!!|7P!!%! !!%!!|7T!!%!!|7P!!%! !#'! $$#  $ !#'! $$# !%+! #!& !!%! $$! !!%! $$! $$! $$! $$! $$! !!%! #!# ##! #$! !!%! #%# !!%! $$! !!%! $$! $$! $$! $$! $$! $$! $$! #!! ##! #$! #%! !!%! $$! $$! !!%! $$! !!%! $$! $$! $$! $$! $$! $$! $$! !!#!!|7y!$'! !!#!!|7z !$|8#|8)|7{$$!#|8#|8)$$#!|8) !!|8& !!|4x!#'!.|8`|86|85|w_|84|83|82|81|5-|8p|80|57|8*$$#.|8`|86|85|w_|84|83|82|81|5-|8p|80|57|8*$$#.|8`|86|85|w_|84|83|82|81|5-|8p|80|57|8*$$&.|8`|86|85|w_|84|83|82|81|5-|8p|80|57|8* # $$!  #!|5-$&!  #%|84|83|82|81 #$|84|83|82$$!$|84|83|82 #$|86|85|w_ # $$!  #!|57$&! !#'!.|9(|9'|8E|w]|8-|8*|7 |6h|6=|69|66|64|5R $)|9(|8E|w]|8-|7 |69|66|64$$#)|9(|8E|w]|8-|7 |69|66|64$&! !!&%)|9(|8E|w]|8-|7 |69|66|64 # $$!  $$|69|66|64 $#|69|66$$##|69|66!!&#  # $&!  # $$!  % $&! !!&# !!&#  # $$!  # $$!  !#|8w|8v !  !!|8n !!|+5 !!|8l !!|8h!!%!!|4K$$!  !!|8f !#|9a|9`!!#!!|9Q!#'!,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$#,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$!,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$$,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8* #!|5#$$!  ##|5.|8\/$&! $&!  $#|$^|8+$$##|$^|8+$$!!|8+$&!  $!|8,$&! !#'!+|8\/|w]|8.|8X|8-|9M|9-|8+|8*|7  $*|8\/|w]|8.|8X|8-|9M|8+|8*|7 $&! !#($)|w]|8.|8X|8-|9M|8+|8*|7 $$%)|w]|8.|8X|8-|9M|8+|8*|7 $$&)|w]|8.|8X|8-|9M|8+|8*|7  # $$! !!&#  #  # $$! $&!  $!|8+$&!  # $$!  % $&! !!%!!|8F !#|8C|8B !!|8J !!|8G!!#!#|8I|4I!!#!#|8K|4H!!%!!|8O !!|8T !!|8R!!#!#|8S|5%!!#!#|8U|5$ !!|8^ !!|8[!!#!#|8]|5 !!#!#|4{|8K !#|8b|8a !!|8e !!|8c!!#!#|8d|4Q!!#!#|4P|8K!!#!#|8g|4R!!#!#|8k|4S!!#!#|8m|4T!!#!#|4U|8K !#|8r|8q !!|8u !!|8s!!#!#|8t|4W!!#!#|4V|8K !!|8{ !!|8y !#|8Z|8Y!!#!#|8z|4O!!#!#|4N|8K !!|9% !!|9#!!#!#|9$|5'!!#!#|5&|8K!!%!!|8X!!%!!|96!!%!!|9A !#|8Q|8P !#|9!|9 !!%!!|9U!!#!%|x#|8:|89|6m!!#!%|x#|8:|89|6m!!%!!|9Y$&! !!%!'|$^|9H|8,|8+|9K|8* ##|$^|8+$$!#|$^|8+$$$#|$^|8+$$#!|8+$&!  #!|8,$$!!|8,$&!  !!|@q !!|9[$$! !#'!(|88|87|5-|w]|8X|8-|7 $$#(|88|87|5-|w]|8X|8-|7 $$#(|88|87|5-|w]|8X|8-|7 $$$(|88|87|5-|w]|8X|8-|7  # $$! !!&#  # $$!  #!|5-$&!  !!|9d !!|9b!!#!#|9c|4h!!#!#|4g|8K!!%! !!%! !!#!!|6k!!%!$|3&|9u|:!$$!$|3&|9u|:!$$##|3&|9u$$$!|3&!!%!$|3&|9v|9z$$!$|3&|9v|9z$$##|3&|9v$$$!|3&!!%!$|3&|9w|9x$$!$|3&|9w|9x$$##|3&|9w$$$!|3& !!|9y !!|9{ !!|:#!#'! !!%!#|3&|:B$$!#|3&|:B!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%! !$)!!|:C$$! !!%!#|3&|:H$$!#|3&|:H!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !%|1{|1z|3&|:I!!%!#|3&|:L$$!#|3&|:L!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!#|3&|:N$$!#|3&|:N!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!!|:(!!%!#|3&|:P$$!#|3&|:P!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !#|:R|9u!#'!!|:1!!%! !#'!!|3&!!&#  $!|3&$$#!|3&$$$!|3&!!%!$|\/G|\/F|3' !#|9v|:H!!%! !!%!#|3&|:e$$!#|3&|:e!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!!|:7!!%!#|3&|:h$$!#|3&|:h!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !#|:m|9w!!%! !!%!  # !!%!$|01|00|3'!!%!!|:=!!%!$|\/S|\/R|3'!!%!$|3&|:o|:n$$!#|3&|:o$$!#|3&|:o!!&$!|3&$$$!|3&$$$!|3&$$$!|3& #!|:n #!|:n #!|:n!!%!#|3&|:u$$!#|3&|:u!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !%|0R|0Q|3&|:v!$)!$|3&|3'|:F $!|3&$$#!|3&$$$!|3& ##|3'|:F!!&#  ##|3'|:F!!&$!|3'$$$!|3'$$$!|3'$$$!|3' #  !!|:J !#|-%|#D$&!!|-%$$! !!$$!|-% !!|2>$&!  !!|2($&!  !!|2+$&!  !#|#D|,z$&!!|,z$$! !!$$!|,z !!|2>$&!  !!|:w !#|>r|?% !%|0R|0Q|3&|;7 !#|;)|;\/ !#|;'|;,!!%!!|;?!!%!!|;2 !!|;0 !#|;9|;8 !#|;5|;4!!%!!|;= !!|;1!!%!!|;; !#|;A|;S!!%!!|;B !#|;M|;L !!|;x !%|01|00|3'|;s!!%!!|<:!!%!!|<F!!%!!|<O!!%!!|;O!!%!!|;[ !#|;W|;h!!%!!|;X !#|;P|;e !!|<P !%|01|00|3'|<I!!%!!|<&!!%!!|<'!!%!!|<*!!%!!|<0 !!|;l !%|0R|0Q|3&|;F !#|;z|;y !#|:(|;t !!|;w!!%!!|<- !%|0R|0Q|3&|;] !#|<$|<M!!%!!|<% !#|;_|;^ !#|;`|<D !#|;a|<9 !#|<+|<6!!%!!|<, !#|;b|<3 !#|;H|;G !#|<;|<A !#|;I|;k!!%!!|<> !!|<E !#|;J|;V !#|:(|<J !!|<N !%|0R|0Q|3&|<z !#|<[|<r !!|=) !!|<Y!!%!!|<X !#|:(|=*!!%!!|<e !#|<_|<j!!%!!|<` !#|=,|=+ !#|=.|=- !#|= |<{ !#|:(|<n !#|=!|;k !!|<s !#|=$|=# !#|<x|<w !!|<Z!!%!!|<y !#|=(|=' !!|<t !%|01|00|3'|<m!!%!!|<o!!%!!|<u!!%!!|=& !#|<W|<V!!%!!|<U!!%!!|<a!!%!!|=0 !%|2B|2A|3&|>d !#|==|=J !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|=7 !#|=;|=: !%|.m|3&|=6|=5!!%!!|=< !#|:*|>n!!%!!|=G !!|=@ !#|=D|=C !!|=F!!%!!|=E !!|>o !#|>f|>e !#|=L|=K !!|=N!!%!!|=M !!|>p !#|>h|>g !#|>j|>i !#|=S|=:!!%!!|=T !#|:*|>m !%|2B|2A|3&|>F !#|=d|>? !#|=[|=Z !!|=h!!%!!|=] !#|>a|>` !#|>b|=f !!|>c !!|=c!!%!!|=b !#|:(|>K!!%!!|=n !#|:(|=g!!%!!|=_ !#|=l|=k !#|=o|=b!!%!!|=m !#|=e|=( !#|>H|>G!!%!!|=p !!|>L !#|:(|=s !#|=w|=v !#|=z|=a!!%!!|=y !#|>J|>I !!|>M !!|={ !#|>$|># !!|>-!!%!!|>% !#|>O|>N !#|>P|=( !#|>V|>U !#|:(|>,!!%!!|>+ !!|>Q !#|>X|>W !#|>2|>1 !#|>5|>4!!%!!|>3 !!|>R !!|>7!!%!!|>6 !#|:(|>S !#|>Z|>Y !#|:(|>< !#|>A|>@ !#|:+|>C!!%!!|>B !!|>T !#|>]|>[ !!|>E !%|01|00|3'|>;!!%!!|=x!!%!!|>' !#|>*|>)!!%!!|>& !#|:(|>(!!%!!|>.!!%!!|>8!!%!!|>D!!%!!|>_ !#|=f|=e!!%!!|=^ !#|=a|=` !!|=O!!%!!|=P!!%!!|=Q!!%!!|>l!!%!!|>s !#|>x|;  !#|>y|<T !#|>z|=4 !#|>{|=X !#|? |;p!!%!!|>t!!%!!|>u!!%!!|>v!!%!!|>w!!%!!|<# !%|0R|0Q|3&|?] !#|?\/|?V !#|?(|?' !!|?*!!%!!|?) !!|?r !#|:(|?.!!%!!|?9 !#|?3|?2 !#|?<|?;!!%!!|?4 !#|?t|?s !!|?u !!|?:!!%!!|?8 !#|:(|?b !#|?_|?^ !#|??|?>!!%!!|?= !#|:(|?c !%|.m|3&|?A|=5!!%!!|?@ !!|?d !!|=7 !#|?a|?` !#|:(|?F !#|?I|?>!!%!!|?J !!|?e !#|?i|?h !#|?N|?>!!%!!|?O !!|?f !!|?R !#|?k|?j !#|?W|<K!!%!!|?X !#|:(|?g !#|?m|?l !#|?o|?n !!|?Y!!%!!|?B!!%!!|?K!!%!!|?S !%|01|00|3'|?E!!%!!|?Z!!%!!|?[ !%|01|00|3'|?-!!%!!|?q !#|?7|?6!!%!!|?5!!%!$|3'|?v|@-$$!$|3'|?v|@-$$##|3'|?v$$$!|3'!!%!$|3'|?w|@%$$!$|3'|?w|@%$$##|3'|?w$$$!|3'!!%!$|3'|?x|@ $$!$|3'|?x|@ $$##|3'|?x$$$!|3'!!%!$|3'|?y|@-$$!$|3'|?y|@-$$##|3'|?y$$$!|3' !!|@! !!|@& !!|@) !%|2B|2A|3&|@L !!|@; !!|@8 !!|@C$$!  !%|.n|3'|@@|@<!!%!!|@E !!|@A$$!  !!|@B!!#!#|,x|.S !!|@D!!#!#|,v|.S !'|2o|01|00|3'|@O|@N$&!&|01|00|3'|@O|@N$$$%|01|00|3'|@O$$!%|01|00|3'|@O$$!!|@O !#|@Q|@P !#|@S|@R !#|@T|?x !!|@F !%|.m|3'|@:|@9!!%!!|@G !%|01|00|3'|@7!!%!!|@H !#|@4|?y!!%!!|@I !#|@`|@_ !#|@X|?w!!%!!|@a !'|2o|01|00|3'|@h|@N$&!&|01|00|3'|@h|@N$$!%|01|00|3'|@h$$!!|@h !#|@i|@P !#|@k|@j !%|01|00|3'|@l !!|@g!!%!!|@b!!%!!|@c !#|?v|@4!!%!!|@d !!|@q !#|@^|A. !#|@^|A# !#|@^|A$ !#|@^|A, !#|@^|A) !#|@^|A\/!!%!!|@w !#|S |A% !#|ak|@t !#|j |A- !#|A=|A- !#|kJ|A& !#|O'|A( !#|hL|A- !#|:x|A- !#|Ze|A0!!%!!|@x!!%!!|@y!!%!!|@v!!%!!|@z !#|HP|A-!!%!!|@{!!%!!|A1!!%!!|A2!!%!!|A3!!%!!|A !!%!!|@1!!%!!|@u!!%!!|A!!!%!!|A' !#|qu|A* !#|U9|A+ !#|_1|A-!!%!$|3&|A4|A;$$!$|3&|A4|A;$$##|3&|A4$$$!|3&!!%!$|3&|A5|A9$$!$|3&|A5|A9$$##|3&|A5$$$!|3&!!%!$|3&|A6|A7$$!$|3&|A6|A7$$##|3&|A6$$$!|3& !!|A8 !!|A: !!|A< !#|H;|G@ !%|0 |\/{|3&|BN !#|BV|BU !#|AD|AC !!|BH!!%!!|AE !#|BS|BR !!|BT !%|0H|0G|3&|Al !#|AR|A[ !#|:*|AO !!|AS!!%!!|A] !#|A_|A^ !#|An|Am !#|Ab|Aa!!%!!|A` !!|Av !!|Ad!!%!!|Ac !#|:+|Aw !#|Ap|Ao !#|Ar|Aq !#|Aj|Ai !!|AK!!%!!|Ak !!|Au !!|Ae!!%!!|Af!!%!!|Ag !%|01|00|3'|AN!!%!!|At !%|0H|0G|3&|B9 !#|B'|B\/ !#|B$|B,!!%!!|B% !#|B?|B>!!%!!|B2 !!|B0 !#|B;|B: !%|\/S|\/R|3'|B< !#|B7|B6 !!|B !!%!!|B8 !!|B= !!|B1!!%!!|B3!!%!!|BA !#|BL|BK !!|B]!!%!!|BM !#|B[|BS !!|B^!!%!!|B`!!%!!|AF!!%!!|B_ !#|BP|BO !%|\/S|\/R|3'|Bc !#|Be|Bd !!|A@!!%!!|Bf !!|BQ !%|08|07|3&|D7 !#|Bp|Bw !#|:*|Bo!!%!!|Bz !!|Bx !#|D9|D8 !#|D:|Ao !#|D<|D; !#|C$|C# !!|Bk!!%!!|C% !!|D? !#|C2|C9 !#|C+|C* !!|C1!!%!!|C, !#|D5|BS !!|C0!!%!!|C\/ !#|:(|D6!!%!!|C; !!|C: !#|D0|D\/ !#|D2|D1 !!|C> !#|CL|Ci !!|D( !#|CG|CF!!%!!|:. !#|:5|CI!!%!!|CH !!|D) !#|:(|CN!!%!!|CM!!%!!|CS !!|D* !!|CR !#|Cv|Cu !!|CV !#|CY|Ce!!%!!|CZ !#|D,|D+ !#|D.|D- !#|Cx|Cw !#|D#|D! !#|Ck|Cj !#|Cp|Bu!!%!!|Cl !#|D |C{ !!|Cn!!%!!|CJ !#|Cs|Cr !#|CK|CJ!!%!!|Ct !#|D'|D&!!%!!|C^!!%!!|Cf !!|Co!!%!!|Cm !%|\/S|\/R|3'|CQ!!%!!|D% !#|CE|CD!!%!!|CC!!%!!|C[!!%!!|Cz!!%!!|C<!!%!!|D4 !#|C.|C- !!|By!!%!!|B{!!%!!|C  !%|01|00|3'|Bn!!%!!|D> !%|1k|1j|3&|G, !#|DL|Dk !!|DF !#|DK|A4!!%!!|DU !#|A5|DK !#|A6|DK !#|DW|DV !#|G.|G- !#|DZ|DY!!%!!|DX !!|G: !#|:(|D]!!%!!|D[ !!|G; !#|Db|Da !#|G0|G\/ !#|:*|Dd!!%!!|Dc !#|:*|G< !#|:*|Dg !#|G2|G1 !!|Dl !#|G4|G3 !#|G6|G5 !#|G8|G7 !%|01|00|3'|G9 !%|1k|1j|3&|ED !#|E#|E= !#|E |D{ !#|E%|E$!!%!!|E! !!|EO!!%!!|E. !!|E'!!%!!|E& !#|:(|EP !#|E,|E+ !!|E\/!!%!!|E- !!|EQ !#|EF|EE !#|E2|E:!!%!!|E3 !#|ES|ER !#|EH|EG !!|E> !#|EJ|EI !#|EC|EB!!%!!|EN !!|E@!!%!!|E5 !%|\/S|\/R|3'|E*!!%!!|E?!!%!!|EL!!%!!|EU !%|0X|0W|3&|Fr !#|Ed|Et !#|E]|BS !#|E^|CE !!|E_ !#|Eb|Eq!!%!!|Ec !#|F{|Fz!!%!!|El !#|G!|G  !#|G$|G# !#|Ft|Fs !#|Ev|Eu !!|F*!!%!!|Ex !#|Fv|Fu !#|G(|G' !#|G*|G) !#|G+|BS !!|F#!!%!!|F! !#|:+|Fw !!|F(!!%!!|F& !#|:+|Fx !%|\/S|\/R|3'|Fy !!|F. !%|0X|0W|3&|F_ !#|F;|FT !#|F8|F7 !!|F:!!%!!|F9 !!|Fi!!%!!|FE !#|F?|F> !#|FG|FF!!%!!|F@ !#|Fk|Fj !#|Fm|Fl !!|Fn !#|Fa|F` !!|FI!!%!!|FH !#|:+|Fo !#|FL|FQ!!%!!|Fq !#|Fc|Fb !#|FV|FU !!|FY!!%!!|FW !!|Fd !#|Ff|Fe !#|F]|BS !#|F^|CE !!|F3 !!|FZ!!%!!|FM!!%!!|FX !%|\/S|\/R|3'|F6!!%!!|Fh !!|FD!!%!!|FA !!|FC!!%!!|FB !!|F+!!%!!|Ew!!%!!|F'!!%!!|Ee!!%!!|Ef!!%!!|G& !!|F)!!%!!|Ey !#|F%|F$!!%!!|Ez !#|F |E{ !!|Dm!!%!!|D`!!%!!|Dh!!%!!|Dn !%|01|00|3'|DR!!%!!|Do !%|01|00|3'|DO!!%!!|Dp !%|01|00|3'|DI!!%!!|Dq !%|2K|2J|3&|Gc !#|GJ|E= !!|GD!!%!!|GC !!|Gp !#|GH|GG !#|:*|GK!!%!!|GI !#|:*|Gq!!%!!|GT !#|:*|GN !#|GR|GQ !!|GU!!%!!|GS !!|Gr !#|Ge|Gd !#|:*|GX !#|:*|G[ !#|Gg|Gf !#|Gi|Gh !#|Gk|Gj !#|Gm|Gl !#|GB|GA !!|G^!!%!!|G]!!%!!|G_!!%!!|G`!!%!!|Ga!!%!!|Go !%|2K|2J|3&|H2 !#|H!|H) !#|Gz|H'!!%!!|G{ !#|H8|H7!!%!!|H+ !#|H4|H3 !%|\/S|\/R|3'|H5 !#|H0|H\/ !!|Gw!!%!!|H1 !!|H6 !!|H*!!%!!|H,!!%!!|H:!!%!!|H< !#|HF|Gv !#|HO|C( !#|HG|AJ !#|HH|A{ !#|HI|BC !#|HJ|DC !#|HK|Du !#|HL|EY !#|HM|F2 !#|HN|Bj!!%!!|H>!!%!!|H?!!%!!|H@!!%!!|HA!!%!!|HB!!%!!|HC!!%!!|HD!!%!!|HE!!%!!|H=!!%!!|CB !#|Nw|LY !%|0R|0Q|3&|I% !#|H[|Hf !#|I2|I1!!%!!|I' !#|Hh|Hg !#|Hr|Hq!!%!!|Hi !#|I6|I5 !!|I7 !!|Hp!!%!!|Hm !#|:(|I8 !#|Hy|Hx !#|Hu|Ht!!%!!|Hs !!|I* !!|Hz!!%!!|Hv !#|:(|Hw!!%!!|I  !#|I)|I( !!|I, !#|I.|I- !#|I0|I\/ !!|H{!!%!!|I!!!%!!|I#!!%!!|I$!!%!!|HU!!%!!|I4 !#|Hl|Hk!!%!!|Hj !%|0i|0h|3&|J. !#|IF|J% !#|JQ|JP !#|JG|Hv !!|JR !#|:(|IC!!%!!|IB !!|JS !#|:(|IH!!%!!|IG!!%!!|IM !!|JT !#|:(|IL!!%!!|IK !!|J3 !#|J0|J\/ !#|IQ|IP !#|Ib|Ia!!%!!|IR !#|J5|J4 !#|J7|J6 !#|J9|J8 !!|J: !!|IZ!!%!!|IX !#|:(|J; !#|J2|J1 !!|I`!!%!!|I_ !#|:+|J< !!|Ie!!%!!|Id !#|JC|JB !#|:(|J= !!|Ih !#|Il|Ik !!|I{!!%!!|Im !#|J?|J> !#|JA|J@ !#|JE|JD !#|JG|JF !#|:5|Iv!!%!!|It !!|JH !#|J!|J  !#|:5|Ix !#|:5|Iz !#|IJ|II!!%!!|J, !#|J'|J& !!|J+!!%!!|J( !#|JJ|JI !!|JK !#|JO|JN !!|J-!!%!!|IY!!%!!|Ic !#|I^|I]!!%!!|IS !!|I[!!%!!|IT !#|IW|IV!!%!!|IU !#|Iy|Is!!%!!|In !#|Iw|Is!!%!!|Io!!%!!|JM !#|Is|Ir!!%!!|Ip !#|:5|Iq!!%!!|I? !#|:+|J*!!%!!|J) !#|IE|ID!!%!!|I= !#|IA|I@!!%!!|I> !%|-I|-F|3&|K5 !#|Jc|K! !#|KH|JG !!|J^!!%!!|J] !#|:5|KI !#|Jb|Hl!!%!!|Ja !!|KJ !!|Jd!!%!!|Ji !#|Jf|Jb!!%!!|Jg !#|:5|KK !#|K7|K6 !#|Jq|Jp !!|Jz!!%!!|Jr !#|KM|KL !#|K:|JG !!|Jx!!%!!|Jv !#|:5|K; !#|K9|K8 !#|K$|K# !#|K*|Is!!%!!|K% !#|K=|K< !#|K?|K> !!|K@ !#|K,|K+ !!|K\/!!%!!|K. !#|K2|K1 !#|:+|KA !!|Jh!!%!!|K3 !#|KE|KD !#|KG|KF !!|K0!!%!!|Jw!!%!!|KC !#|Ju|Jt !!|K)!!%!!|K& !!|K(!!%!!|K' !#|Je|Is!!%!!|K4 !#|J`|J_!!%!!|JY !#|J[|JZ !#|:-|Jy!!%!!|Js !%|1k|1j|3&|L9 !#|K[|L. !!|LN !!|KV!!%!!|KU !#|:(|LO !#|KZ|K`!!%!!|LQ!!%!!|Ke !#|Kd|Kc !#|Ku|Kt!!%!!|Kf !#|L;|L: !#|LS|LR !#|LU|LT !#|L?|L> !#|LA|L@ !!|LB !#|L=|L< !#|Kp|Ko !!|Kr!!%!!|Kq !#|:(|LC !#|Ky|Kx!!%!!|Kv !!|LD !#|LI|LH !!|K{!!%!!|Kz !#|:-|LE !#|L$|L# !!|L'!!%!!|L% !!|LF !#|LK|LJ !#|L0|L\/ !!|L4!!%!!|L1 !#|LG|JG !!|L3 !#|L8|L7 !#|KT|KS!!%!!|KR !!|L5!!%!!|Km!!%!!|Kw !!|Kl!!%!!|Ki !#|:+|Kk!!%!!|Kj !#|L2|Ky!!%!!|L&!!%!!|LM !!|Ks!!%!!|Kg !#|Kn|JG!!%!!|Kh !%|0R|0Q|3&|M8 !#|Lc|M( !#|Lb|Ik!!%!!|Ld!!%!!|Ln !#|:(|MK !#|Lh|Lg !#|Lq|Lp!!%!!|Li !#|MM|ML !#|MO|MN !!|MP !#|ID|IA!!%!!|I@ !#|M:|M9 !#|Ls|Hu!!%!!|Lr !!|MQ !!|Lt !#|M<|M; !#|Lx|M%!!%!!|Ly !#|M>|M= !#|MG|MF !#|M*|M) !#|M0|M\/!!%!!|M+ !#|MB|MA !#|MC|Hv !!|MD !!|M2!!%!!|M1 !#|:(|ME !#|M6|M5 !!|L_!!%!!|M7 !#|MJ|JG !!|M3!!%!!|Lu!!%!!|M!!!%!!|M@ !!|M.!!%!!|M,!!%!!|M-!!%!!|MI !!|Lo!!%!!|Lj !#|Lm|Ll!!%!!|Lk !%|1M|1L|3&|N$ !#|M_|Mm !#|MY|MX !#|M^|Jf!!%!!|MZ !#|N.|JG !!|M] !!|N#!!%!!|Mi !#|Mc|Mb !!|Mj!!%!!|Md !#|N0|N\/ !#|N2|N1 !!|N3 !#|N&|N% !#|Mo|Mn !!|My!!%!!|Mp !#|N5|N4 !#|N7|N6 !#|N*|N) !#|N+|JG !#|N(|N' !#|N |M^!!%!!|N! !#|J]|JG !!|Mz!!%!!|Mu!!%!!|N- !!|Mv!!%!!|Ms !#|:(|Mt !#|M[|Hl !!|Mh!!%!!|Me !#|:(|Mg!!%!!|Mf !!|Mx!!%!!|Mq !#|:(|Mw!!%!!|Mr !%|0R|0Q|3&|Nc !#|NA|NY !!|Nm!!%!!|N? !!|Nn!!%!!|NJ !#|ND|NV!!%!!|NE !#|Np|No !#|Nr|Nq !#|Nt|Ns !#|Nv|Nu !#|Ne|Nd !%|\/S|\/R|3'|Nf !!|NZ !#|N`|N_ !!|N@!!%!!|Na !#|Nj|Ni !#|Nl|Nk !!|N[!!%!!|NS !#|N>|I@!!%!!|Nb !#|:(|N=!!%!!|N<!!%!!|NF!!%!!|NG!!%!!|NH!!%!!|Nh!!%!!|Nx !#|O!|N; !#|O#|HT !#|O$|MU !#|O%|I< !#|O&|JX!!%!!|Ny!!%!!|Nz!!%!!|N{!!%!!|O !!%!!|KQ !#|Ru|R; !%|1Z|1Y|3&|PL !#|O4|OX !!|P[ !#|O1|O0!!%!!|O\/ !#|:+|P] !#|:+|O3!!%!!|O2 !!|P^!!%!!|O@ !#|O8|O7 !#|O;|O:!!%!!|O9 !!|P_ !#|O>|O=!!%!!|O< !#|:+|P` !#|:+|OA!!%!!|O? !!|PQ !#|PN|PM !#|OE|OD !!|OG!!%!!|OF !!|PR !#|PP|PO !#|OL|OK !#|:+|ON!!%!!|OM !#|:*|PS !#|OR|OQ !#|:+|OU!!%!!|OT !#|PV|PU !#|:*|PT !!|OY !#|PX|PW !#|O_|O^ !#|O.|O-!!%!!|O, !%|1Z|1Y|3&|P8 !#|On|P1 !#|Og|Of !#|Oz|Oy!!%!!|Oh !#|PE|PD !#|PG|PF !!|PH !#|:.|Oo!!%!!|Om !#|:+|PI!!%!!|Ow!!%!!|Op !!|PJ !#|Ou|Ot!!%!!|Os !!|PK !!|Ox!!%!!|Ov !#|:(|P= !#|P:|P9 !!|P !!%!!|O{ !#|:(|P> !!|P$ !#|P<|P; !#|P)|P-!!%!!|P@ !#|PB|PA !!|P2 !%|\/S|\/R|3'|PC !!|P7 !!|P3!!%!!|P%!!%!!|P.!!%!!|P4 !#|Or|Oq!!%!!|Oi !#|Ol|Ok!!%!!|Oj !!|OZ!!%!!|OH!!%!!|OS!!%!!|O[!!%!!|PZ !%|1Z|1Y|3&|Qz !#|Po|Q; !!|Ph!!%!!|Pg !#|:(|R\/ !#|Pl|Pk !#|Q(|Q'!!%!!|Pm !#|R1|R0 !#|R3|R2!!%!!|Py !#|R5|R4 !#|R7|R6 !!|R8 !#|:+|Pv!!%!!|Pu !!|R$ !#|Q |P{!!%!!|Pz !#|R |Q{ !!|R% !!|Q#!!%!!|Q! !#|:+|R& !#|R#|R! !#|:+|Q*!!%!!|Q) !!|R' !#|Q.|Q- !#|Q2|Q1!!%!!|Q\/ !#|R(|Px !#|Q5|Q4!!%!!|Q3 !!|R) !!|Q7!!%!!|Q6 !#|:+|R* !#|QD|QC !#|Q=|Q< !#|Q@|Q?!!%!!|Q> !!|R+ !!|QB!!%!!|QA !#|:+|QE !#|Pf|Pe!!%!!|QF !!|R. !%|-I|-F|3&|Qk !#|QP|Q_!!%!!|QZ !#|QX|QW !!|Q[!!%!!|QY !!|Qx !#|Qm|Ql !#|Qa|Q` !!|Qc!!%!!|Qb !!|Qy !#|Qg|Qf!!%!!|Qh !#|Qq|Qp !#|Qs|Qr !#|Qu|Qt !!|Qd!!%!!|Qo!!%!!|Qi!!%!!|Qj!!%!!|Qw !!|QE!!%!!|Q&!!%!!|R- !#|:+|Q0 !!|Q%!!%!!|Pn !!|Q$!!%!!|Pp !#|Px|Pw!!%!!|Pq !#|Pt|Ps!!%!!|Pr !#|RC|RQ !!|RB!!%!!|RK !#|RF|RJ!!%!!|Rn !#|Rd|Rc !!|RN !#|RS|RR !!|R^!!%!!|RT !#|Rp|Ro !#|Rr|Rq !!|Rs !#|Rf|Re !#|:+|R]!!%!!|R[ !!|Rt !#|Rh|Rg !#|Rj|Ri !!|Rb!!%!!|RW!!%!!|R_!!%!!|R`!!%!!|Rl !#|RZ|RY!!%!!|RU !!|RX!!%!!|RV!!%!!|Rv !#|Ry|O+ !#|Rz|Oc !#|R{|Pd!!%!!|Rw!!%!!|Rx!!%!!|QJ !#|U6|Sh !%|2B|2A|3&|SR !#|S.|SG !#|S)|S-!!%!!|S]!!%!!|S8 !#|S2|S1 !#|S5|S4!!%!!|S3 !!|S^ !#|:.|S7!!%!!|S6 !#|:(|S_!!%!!|S9 !#|ST|SS !!|S` !#|S<|SD!!%!!|S= !#|Sb|Sa !#|SV|SU !#|SI|SH !!|SL!!%!!|SJ !!|SW !#|SY|SX !%|01|00|3'|SZ !!|SQ !!|SM!!%!!|S?!!%!!|SK!!%!!|SN!!%!!|Sd !%|2B|2A|3&|T3 !#|Sp|T* !#|Sr|Sq!!%!!|Sy !!|Sx!!%!!|Ss !#|T<|T! !#|T5|T4 !#|T!|T  !%|2F|2E|3&|T'!!%!!|T2 !!|T, !#|T7|T6 !#|T0|T\/ !!|Sm!!%!!|T1 !#|T:|T! !!|T; !!|T-!!%!!|T+!!%!!|T9 !%|0X|0W|3&|U& !#|TH|T{ !%|01|00|3'|U5!!%!!|TS !!|TR !#|U(|U' !#|U*|U) !#|U,|U+ !#|U.|U- !!|U! !#|U0|U\/ !#|U2|U1 !#|U4|U3 !!|U# !%|01|00|3'|Tx!!%!!|T[ !%|01|00|3'|Tp!!%!!|Td !%|01|00|3'|Tk!!%!!|Tq !%|01|00|3'|Tc!!%!!|U  !%|01|00|3'|TZ!!%!!|U$!!%!!|U% !%|01|00|3'|TO!!%!!|TA!!%!!|U7 !#|U8|S%!!%!!|T@ !#|Y>|U= !%|0%|0$|3&|Ul !#|UF|U` !!|U?!!%!!|UM !!|UI !!|UL !#|Un|Um !#|UQ|UP !#|UV|UU!!%!!|UR !#|Ux|Uw !!|Uy !#|UZ|UY!!%!!|UW !!|Uz !#|Up|Uo !!|U]!!%!!|U[ !#|:(|U{ !#|Ua|UV !#|Uc|Ub !!|Uf!!%!!|Ud !#|:(|V  !#|Ur|Uq !#|Ut|Us !#|Uk|Uj !!|U@!!%!!|U> !!|Ug!!%!!|UX!!%!!|Ue!!%!!|Uh!!%!!|Uv !!|UT!!%!!|US !%|2B|2A|3&|VG !#|V,|V; !#|V)|V( !!|V+!!%!!|V* !!|VO!!%!!|V5 !!|V0 !#|V3|V8!!%!!|VQ !#|VI|VH !#|V=|V< !!|V?!!%!!|V> !!|VR !#|VK|VJ !#|VM|VL !%|\/S|\/R|3'|VN !!|VF !!|V@!!%!!|VA !%|\/S|\/R|3'|V\/!!%!!|VB!!%!!|VC !%|0%|0$|3&|W4 !#|V`|W* !#|VZ|V_!!%!!|WB!!%!!|Vj !#|Vd|Vc !!|V{!!%!!|Ve !#|WD|WC !#|WF|WE !#|WH|WG !#|WJ|WI !!|W9 !#|W6|W5 !!|Vo!!%!!|Vm !#|:(|Vn !#|:5|Vq !#|:5|Vv!!%!!|Vu !#|W8|W7 !!|W: !#|:5|Vz!!%!!|Vy !!|W; !#|W>|W= !#|W,|W+ !!|W.!!%!!|W- !!|W< !#|W2|W1 !!|VW!!%!!|W3 !#|:.|UV !!|W\/!!%!!|Vt!!%!!|W !!%!!|W@ !#|Vx|Vw!!%!!|Vf !#|Vs|Vr!!%!!|Vg !#|Vp|UV!!%!!|Vh !#|Vl|Vk!!%!!|Vi !%|0%|0$|3&|X; !#|WW|Wv !#|WU|WT !#|WY|WX!!%!!|WV !!|XV!!%!!|Wa !!|WZ!!%!!|:. !!|W^ !#|Wc|Wb !#|X=|X< !#|Wp|Wo!!%!!|Wd !#|XX|XW !#|XZ|XY !#|X]|X[ !!|X^ !#|:(|Wk!!%!!|Wj !!|X@ !#|X?|X> !!|Wr!!%!!|Wq !#|:(|XA !#|XP|XO !#|Wx|Ww !#|X4|X3!!%!!|Wy !#|XC|XB !#|XE|XD !#|XG|XF !#|XI|XH !#|XK|XJ !#|XL|UV !#|:(|X& !#|:(|X( !!|X.!!%!!|X- !#|X6|X5 !#|:(|XM !!|X2!!%!!|X1 !#|:(|XN !#|X8|UZ!!%!!|X7!!%!!|XU !!|XQ !!|X9 !!|X:!!%!!|Wl!!%!!|Ws !#|X0|X\/!!%!!|Wz !#|X+|X*!!%!!|W{ !!|X)!!%!!|X  !#|X'|Vx!!%!!|X! !#|X%|Vs!!%!!|X# !#|:(|X$!!%!!|XS !!|Wn!!%!!|We !!|Wm!!%!!|Wf !#|Wi|Wh!!%!!|Wg !%|0%|0$|3&|Y* !#|Xl|Y! !#|Y7|Y6 !#|Y9|Y8 !#|Y;|Y: !#|Y<|UV !!|Xm!!%!!|Xk !#|:?|Y=!!%!!|Xu !!|Xq!!%!!|Xp !#|:(|Y. !#|Xt|Xs !!|Xw!!%!!|Xv !#|Y+|VH !#|:(|Y\/ !#|Y-|Y, !!|Y# !#|Y'|Y& !!|Xx!!%!!|Y( !#|Y3|Y2 !#|Y5|Y4 !!|Y$!!%!!|Xz!!%!!|Y1 !#|:-|Vq!!%!!|Y) !#|Xr|UV!!%!!|Xc !#|Xo|Xn!!%!!|Xd !#|Xj|Xi!!%!!|Xe !!|Xh!!%!!|Xf !#|:5|Xg!!%!!|Y? !#|YD|WN !#|YE|VV !#|YF|Yl !#|YG|Xb !#|YH|YL!!%!!|Y@!!%!!|YA!!%!!|YB!!%!!|YC!!%!!|V% !%|0%|0$|3&|Y` !#|YS|YV!!%!!|Yb !!|YW !#|Y[|YZ!!%!!|Y] !#|Yd|Yc !#|Yf|Ye !!|YX!!%!!|Y^!!%!!|Yh !%|0%|0$|3&|ZD !#|Yu|Z2 !!|Z] !#|Ys|Yr !!|Z+!!%!!|Yt !#|Z^|Vm!!%!!|Z# !#|Z`|Z_ !#|Zb|Za !#|Zd|Zc !#|ZJ|ZI !#|ZL|ZK !!|ZM !#|ZF|ZE !!|Z)!!%!!|Z( !#|:(|ZN !#|ZH|ZG !#|Z4|Z3 !#|Z=|Wo!!%!!|Z5 !#|ZP|ZO !#|ZR|ZQ !#|ZT|ZS !!|ZU !#|ZA|Z@!!%!!|Z> !#|:(|ZV !!|Yo!!%!!|ZB !#|ZY|Vr !#|Z[|ZZ !!|Z?!!%!!|Z*!!%!!|ZX !!|Z!!!%!!|Yz !#|:(|Z !!%!!|Y{ !!|Z;!!%!!|Z6 !!|Z:!!%!!|Z7 !#|:(|Z9!!%!!|Z8!!%!!|ZC !!|Yn!!%!!|Ym!!%!!|Yv !#|Z'|Z&!!%!!|Yw !!|Z%!!%!!|Yx !!|Z$!!%!!|Yy !#|_,|]] !%|1_|1^|3&|[G !#|Zp|[9 !!|[]!!%!!|[  !#|Zt|Zs !!|Zv!!%!!|Zu !#|:(|[^ !#|Zz|Zy !#|['|[&!!%!!|Z{ !#|[`|[_ !#|[I|[H !#|[a|[U !!|[b !!|[*!!%!!|[( !#|:(|[L !#|[K|[J !#|[.|[6!!%!!|[\/ !#|[N|[M !#|[W|[V !#|[;|[: !!|[A!!%!!|[< !#|[Q|[( !#|[S|[R !#|[U|[T !#|[E|[D !!|Zo!!%!!|[F !#|[[|[Z !!|[B!!%!!|[)!!%!!|[1!!%!!|[P!!%!!|[= !!|[@!!%!!|[> !#|:(|[?!!%!!|[#!!%!!|[Y!!%!!|Zj !!|[%!!%!!|[! !#|:(|[$ !%|2B|2A|3&|]B !#|[o|]6 !#|]S|]R !#|]T|[U !#|:5|[n!!%!!|[l !!|[m!!%!!|[y !!|[t !#|[x|[w !!|[{!!%!!|[z !#|]D|]C !!|]U !!|]# !#|](|]' !#|]F|]E !#|]0|]\/!!%!!|]) !#|]W|]V !!|]X !!|].!!%!!|]- !#|:(|]G !!|]3!!%!!|]2 !#|]M|]L !#|:-|]H !#|]8|]7 !!|]=!!%!!|]9 !#|]J|]I !!|]K !#|]O|]N !#|]A|]@ !!|[p!!%!!|[g !!|]>!!%!!|]&!!%!!|]1 !!|]<!!%!!|]:!!%!!|]; !%|\/S|\/R|3'|[s!!%!!|]Q !#|[k|[j!!%!!|[h !#|:5|[i !#|],|]+!!%!!|]* !%|1_|1^|3&|^5 !#|]e|^  !#|^M|^L !#|^N|[# !!|]f!!%!!|]d !#|:(|^Q!!%!!|]n !#|]j|]i !!|]m!!%!!|]k !#|^R|[j !!|^: !#|^7|^6 !#|]q|]u!!%!!|^< !#|^9|^8 !!|]y !#|^!|[:!!%!!|^# !#|^=|[a !#|^?|^> !#|^@|[T !#|^B|^A !#|^G|[V !#|^D|^C !!|^E !!|^.!!%!!|^- !#|:(|^F !#|^I|^H !#|^4|^3 !#|]c|]b!!%!!|]^ !!|^1!!%!!|]v!!%!!|^'!!%!!|^$ !!|^0!!%!!|^%!!%!!|^& !#|^,|^+!!%!!|^( !!|^*!!%!!|^)!!%!!|^\/!!%!!|^K !#|],|[l!!%!!|]_!!%!!|^P!!%!!|]l !%|1_|1^|3&|^x !#|^_|^p !#|^]|^b!!%!!|_)!!%!!|^h !!|^e !#|^i|^m !#|^z|^y!!%!!|_+ !!|^q !#|_ |^{ !#|_#|_! !#|^w|^v!!%!!|_' !!|^s!!%!!|^r!!%!!|^t!!%!!|_%!!%!!|_- !#|_\/|Zi !#|_0|^V!!%!!|_.!!%!!|[f !#|af|_5 !%|1V|1U|3&|`9 !#|_=|_` !#|_<|_; !#|:(|_H!!%!!|_>!!%!!|_E !#|`J|`I !#|`L|`K !#|`N|`M !#|`P|`O !!|`> !#|`;|`: !#|`=|`< !#|_R|_Q !#|_U|_T!!%!!|_S !!|`? !!|_W!!%!!|_V !#|:(|`@ !#|`B|`A !!|_a !#|`D|`C !#|_f|_e!!%!!|`H !%|1V|1U|3&|`- !#|_s|`  !#|_o|_n!!%!!|_m !#|:5|`5 !#|:5|_q!!%!!|_p !!|`6!!%!!|`$ !#|_w|_v !!|_y!!%!!|_x !!|`7 !#|`#|`! !!|`&!!%!!|`% !#|`\/|`. !!|`8 !#|`*|`) !!|_r!!%!!|`+ !#|`3|`2 !!|`4 !!|`'!!%!!|`1 !#|_l|_k!!%!!|`, !!|_c!!%!!|_N!!%!!|_X!!%!!|_b!!%!!|`F !!|_G!!%!!|_? !#|:(|_F!!%!!|_@ !!|_D!!%!!|_A !#|:(|_C!!%!!|_B !%|1V|1U|3&|a] !#|`[|`_!!%!!|a_ !!|`` !#|`d|`c!!%!!|`e !#|aa|a` !#|ac|ab !%|1V|1U|3&|aE !#|`u|a9 !!|`o !#|`s|`r !#|a#|a!!!%!!|`t !#|aW|aV!!%!!|a$ !#|aX|`3!!%!!|`x !#|:(|aY !!|a !!%!!|`{ !#|:5|aZ !!|a&!!%!!|a% !#|aG|aF !#|:(|a[ !!|a* !#|aI|aH !#|a\/|a. !#|a3|a2!!%!!|a0 !#|aJ|`3 !#|a%|_o !#|a4|a!!!%!!|`y!!%!!|a5 !#|:(|aK !#|aQ|aP !#|a;|a: !!|a@!!%!!|a< !#|aM|aL !!|aN!!%!!|a? !!|aO !#|aS|aR !!|aB!!%!!|a+ !%|\/S|\/R|3'|a)!!%!!|a6 !#|a1|`z !#|a>|`{!!%!!|a=!!%!!|aA!!%!!|aU !#|`z|`y!!%!!|`v !#|`w|_p !!|`a!!%!!|`f!!%!!|ae!!%!!|ag !#|ai|_j !#|aj|`T!!%!!|ah!!%!!|`k !#|h?|ao !%|0H|0G|3&|cO !#|ax|bI !#|as|aw!!%!!|ci!!%!!|b( !#|b |a{ !#|b$|b#!!%!!|b! !!|cj !#|b&|b%!!%!!|:. !#|:(|b)!!%!!|b' !!|ck !#|cQ|cP !#|b-|b, !#|b>|b6!!%!!|b. !#|cm|cl !#|co|cn !#|cU|cT !#|cV|c? !#|cS|cR !!|cW !#|:(|b8!!%!!|b7 !!|cX !#|:(|b; !#|cc|cb !#|:(|b= !#|:(|b? !#|bD|bC !#|ce|cd !!|bF!!%!!|bE !!|cY !#|bK|bJ !!|bS!!%!!|bL !#|c[|cZ !#|c^|c] !#|c`|c_ !!|ca !!|bV !%|0H|0G|3&|c3 !#|bd|c( !#|cH|cG !#|cJ|cI !#|cL|cK !!|cM !!|bf!!%!!|be!!%!!|bj !#|:+|cN !#|c5|c4 !#|bn|bm !!|bq!!%!!|bo !#|c8|b% !!|c9 !#|bv|bu !#|c7|c6 !#|c$|b6!!%!!|bw !#|c;|c: !#|c=|c< !#|c?|c> !#|:(|c  !#|:(|c# !#|:(|c% !#|c*|c) !!|c-!!%!!|c+ !!|c@ !#|c0|c\/ !#|:(|bi!!%!!|c1 !#|cD|cC !#|cF|cE !!|c.!!%!!|bt!!%!!|cB!!%!!|bp !#|c!|b6!!%!!|bx !#|b{|b6!!%!!|by !#|:(|bz!!%!!|b3 !!|bh!!%!!|c2 !#|:(|bg!!%!!|b[ !#|bc|bb!!%!!|b] !!|ba!!%!!|b^ !!|b`!!%!!|b_ !!|bU!!%!!|b2!!%!!|b: !#|b6|b5!!%!!|b1 !#|:(|b4 !#|:+|bR!!%!!|bM !!|bQ!!%!!|bN !#|:+|bP!!%!!|bO!!%!!|bB!!%!!|cg !#|b<|b6!!%!!|b\/ !#|b9|b6!!%!!|b0 !%|0H|0G|3&|d9 !#|c{|d. !!|d !!%!!|d( !#|d$|d+!!%!!|d% !#|dD|dA !#|d;|d: !#|d0|d\/ !!|d2!!%!!|d1 !!|dE !#|d=|d< !#|d7|d6!!%!!|d8 !#|dA|d@ !!|d3!!%!!|d4!!%!!|d?!!%!!|dC !%|0R|0Q|3&|dx !#|dU|dp !#|dM|dL !!|dZ!!%!!|dN !#|e'|c? !#|dS|dR!!%!!|dQ !#|:(|e( !#|dW|dV!!%!!|dT !!|e)!!%!!|d[ !!|dY!!%!!|dX !#|:(|e* !#|dz|dy !#|dd|dc !!|dm!!%!!|de !#|e+|c? !#|dj|dS!!%!!|dh !#|:(|e, !#|e |d{ !#|dk|dV!!%!!|dl !#|:(|e! !#|dq|b$ !!|dr !#|e$|e# !!|dt!!%!!|di!!%!!|ds!!%!!|e& !#|dP|dO !#|dg|df !%|0H|0G|3&|eZ !#|e8|eH !#|e6|e5 !#|e:|e9!!%!!|e7 !!|eh!!%!!|eA !#|e<|b$!!%!!|e; !!|ei !!|e= !#|e@|eE!!%!!|ek !#|e]|e[ !#|eJ|eI !!|eS!!%!!|eK !#|em|el !#|eo|en !#|e_|e^ !#|ea|e` !!|eb !#|eW|eV !!|e2!!%!!|eX !#|ef|ee !!|eg !!|eT!!%!!|eM!!%!!|ed !!|eP!!%!!|eO !!|e1!!%!!|eY !#|:(|eR!!%!!|eL !!|eQ!!%!!|eN !%|0_|0^|3&|fD !#|f |f2 !#|ey|ex !!|f$!!%!!|ez !#|fS|fR !!|fT!!%!!|f* !!|f# !#|f(|f' !!|f\/!!%!!|f) !#|fU|c? !#|fF|fE !!|f.!!%!!|f- !#|:(|fV !#|f4|f3 !!|f=!!%!!|f6 !#|fH|fG !#|fW|fO !#|fJ|fI !!|fK !!|f<!!%!!|f; !#|:(|fL !#|fA|f@ !!|eu!!%!!|fB !#|fP|fO !!|fQ !!|f>!!%!!|f5!!%!!|fN !#|f:|f9!!%!!|f8 !#|:(|et!!%!!|fC !#|f!|b$!!%!!|e{ !#|f,|f+!!%!!|f7 !%|0H|0G|3&|h! !#|fd|g4 !#|f`|fi!!%!!|fa !#|h7|h; !#|h9|h8!!%!!|fn !#|fm|fl !#|fs|fr!!%!!|fo !#|h$|h# !#|h=|h< !!|h> !!|fu!!%!!|ft !#|:+|h' !#|h&|h% !#|fz|fy !#|g0|g&!!%!!|f{ !#|h)|h( !#|h+|h* !#|h-|h, !#|h\/|h. !#|cE|c? !#|:(|g)!!%!!|g' !!|h0 !#|h3|h2 !#|:(|g+ !#|:(|g- !#|:(|g\/ !#|:(|g1 !#|g6|g5 !!|g9!!%!!|g7 !!|h1 !#|g<|g; !!|f]!!%!!|g= !!|h6 !%|0H|0G|3&|gj !#|gJ|gU !!|gE!!%!!|gD !#|:5|gr !#|gH|gQ!!%!!|gI !#|gs|gw!!%!!|gR !#|gu|gt !#|gl|gk !#|gW|gV !!|gb!!%!!|gX !#|gy|gx !#|g{|gz !#|h |gD !!|go !#|:5|g`!!%!!|g_ !!|gp !#|ge|c? !#|gf|b$ !#|gh|gg !#|gC|gB!!%!!|gi !!|gq !!|gc!!%!!|gn!!%!!|gK!!%!!|gw !!|ga!!%!!|gY !#|g^|g]!!%!!|gZ!!%!!|g[ !!|g:!!%!!|fv!!%!!|g( !#|g.|g&!!%!!|g  !#|g,|g&!!%!!|g! !#|g*|g&!!%!!|g# !#|g&|g%!!%!!|g$!!%!!|h5!!%!!|fb!!%!!|h; !!|fq!!%!!|fp!!%!!|h@ !#|hF|bZ !#|hG|cs !#|hH|es !#|hI|dI !#|hJ|e0 !#|hK|f[!!%!!|hA!!%!!|hB!!%!!|hC!!%!!|hD!!%!!|hE!!%!!|gA !#|i{|hP !%|1M|1L|3&|ik !#|hY|ho !!|iv !!|hU!!%!!|hT !#|:5|iw !!|hZ!!%!!|hX !#|:5|ix!!%!!|hd !#|h_|hc!!%!!|iz !#|im|il !!|hg !#|io|in !!|hp !#|iq|ip !#|hu|ht !#|hW|hV!!%!!|hv !#|iu|it !#|i%|i< !!|id !!|i#!!%!!|i! !#|:(|ie!!%!!|i. !#|i)|i( !!|i-!!%!!|i* !#|ig|if !!|ih !#|iP|iO !#|i1|i5!!%!!|ij !!|i9 !#|iR|iQ !#|i>|i= !!|iJ!!%!!|i? !#|iT|iS !#|iV|iU !#|iX|iW !#|iZ|iY !#|i[|iS !#|i_|i^ !!|i] !#|iM|iL !!|i$!!%!!|iN !#|ic|ib!!%!!|i8!!%!!|iD !#|:-|iF!!%!!|i@ !!|iI!!%!!|iA !!|iH!!%!!|iB !!|iG!!%!!|iC!!%!!|iE!!%!!|ia !#|i |h{!!%!!|hz !#|:5|i,!!%!!|i+ !!|hq!!%!!|hl!!%!!|hr!!%!!|is !#|hS|hR!!%!!|hQ!!%!!|hy !#|kI|jg !%|0R|0Q|3&|jP !#|j+|jB!!%!!|j4 !#|j\/|j3!!%!!|j_ !#|jR|jQ !!|j7 !#|j:|j?!!%!!|ja !#|jT|jS !#|jD|jC !#|jG|jF!!%!!|jE !!|jb !!|jJ!!%!!|jH !#|:5|jc !#|jV|jU !#|jN|jM!!%!!|jO !#|jZ|jY !!|jK!!%!!|j<!!%!!|jI!!%!!|jX!!%!!|j] !%|0R|0Q|3&|k5 !#|jn|k) !#|kB|kA!!%!!|jx !#|jv|ju !!|jy!!%!!|jw !!|kE !#|k7|k6 !#|k |k&!!%!!|kG !#|k9|k8 !#|k+|k* !#|k-|jF!!%!!|k, !!|kH!!%!!|k. !!|k: !#|k2|k1!!%!!|k3 !#|k>|k= !#|k@|k? !!|k\/!!%!!|k#!!%!!|k<!!%!!|k4!!%!!|jh!!%!!|kD!!%!!|j% !#|qd|n\/ !%|2B|2A|3&|ku !#|kT|km!!%!!|k_ !!|kY !#|k^|kj!!%!!|k` !#|kw|kv !#|l(|l' !#|l*|l) !#|ky|kx !!|kn !#|kr|kq!!%!!|ks !#|l!|l  !#|l$|l# !!|ko!!%!!|kg!!%!!|k{!!%!!|kt!!%!!|l&!!%!!|ka!!%!!|l, !%|2B|2A|3&|lR !#|l:|lI !!|l4!!%!!|l3 !#|:5|l] !#|l8|l7 !#|l<|l;!!%!!|l9 !!|l^!!%!!|lB !!|l>!!%!!|l= !#|:5|l_ !!|lA !#|lT|lS !!|lJ !#|lV|lU !#|lX|lW !#|lP|lO !#|l2|l1!!%!!|lQ !!|l[ !!|lK!!%!!|lL!!%!!|lM!!%!!|lZ !%|2B|2A|3&|m3 !#|lm|m( !!|lf !#|lj|li !#|lr|lq!!%!!|lk !#|m@|m? !#|mB|mA!!%!!|lu !#|:(|mC !!|lt!!%!!|ls !#|:(|mD !#|m5|m4 !#|lx|m !!%!!|mF !#|m7|m6 !!|m% !#|m*|m) !!|m.!!%!!|m+ !#|m8|l8 !#|m:|m9 !#|m<|m; !!|m2 !!|m\/!!%!!|m!!!%!!|m- !#|:+|m,!!%!!|m0!!%!!|m> !!|lp!!%!!|ll !!|lo!!%!!|ln !%|2B|2A|3&|mu !#|mU|mi !!|mN!!%!!|mM !#|:-|n# !#|mQ|l8 !#|mS|mR !!|mV!!%!!|mT !#|:(|n$!!%!!|m^ !#|mY|me!!%!!|mZ !#|n&|n% !#|n(|n' !#|mw|mv !#|my|mx !#|mk|mj !!|mo!!%!!|ml !#|n,|n+ !!|mz !#|ms|mr !#|mL|mK!!%!!|mt !!|n! !!|mp!!%!!|mf!!%!!|n !!%!!|m[!!%!!|n* !!|mn!!%!!|mm !#|n7|n6 !!|n1!!#!#|,x|.S !!|n3!!#!#|,v|.S !!|n8!!%!!|n9 !!|nB !&|2o|01|00|3'|nD$&!%|01|00|3'|nD$$!$|01|00|3' !!|n2$$!  !%|.n|3'|nA|n= !!|n0$$! !!%!!|n: !%|.m|3'|n<|n; !%|2B|2A|3&|o  !#|nR|nv !#|nP|nO!!%!!|nK !#|o2|o1 !#|o3|l8 !!|nS!!%!!|nQ !#|:-|o4!!%!!|n] !!|nV !#|nZ|nY !!|nh!!%!!|n[ !#|o6|o5 !#|o#|o! !#|o&|l8 !!|nb!!%!!|na !#|:5|o' !!|nf!!%!!|ne !#|:5|o( !#|o%|o$ !!|nk !!|nn !#|o*|o) !!|nw !#|o,|o+ !#|o.|o- !#|nJ|nI !!|ny!!%!!|ng!!%!!|no !#|n`|n_!!%!!|nx!!%!!|nz!!%!!|o0 !!|nN!!%!!|nL !#|:(|nM !#|nd|nc!!%!!|n^ !%|0X|0W|3&|or !#|oC|om !#|o>|oB!!%!!|p(!!%!!|oL !#|oG|oF !!|oI!!%!!|oH !!|p) !#|oN|oM !#|ot|os !#|oc|ob!!%!!|oO !#|p+|p* !#|p-|p, !#|p.|l8!!%!!|oS !#|:5|ow !#|oY|oX!!%!!|oV !#|:5|ox !#|ov|ou !#|o]|o[!!%!!|oZ !!|oy !!|o_!!%!!|o^ !#|:5|oz !#|p!|p  !!|oe!!%!!|od !#|:-|o{ !#|p$|p# !!|on !%|01|00|3&|oq !!|o; !!|oo!!%!!|oW!!%!!|oa!!%!!|oj!!%!!|p& !!|o`!!%!!|oP !#|oU|oT!!%!!|oQ !#|oR|n_ !%|2B|2A|3&|pR !#|p;|pI !#|p]|l8 !#|p:|p9 !!|pA!!%!!|p<!!%!!|pB !#|p_|p^ !#|p`|l9 !!|pa !!|p@ !#|pT|pS !!|pJ !#|pV|pU !#|pO|pN !!|p6!!%!!|pP !#|pZ|pY !#|p[|n_ !!|pK!!%!!|pL!!%!!|pX !#|:5|p5!!%!!|pQ!!%!!|p3 !#|:5|p4 !#|p?|nP!!%!!|p=!!%!!|p> !%|2B|2A|3&|q4 !#|po|q- !#|pi|ph !%|.m|3&|pn|pm!!%!!|pj !%|.m|3&|q@|q? !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|pp!!%!!|px !#|pu|pt !%|.m|3&|py|pm!!%!!|pv !%|.m|3&|qA|q? !#|q6|q5 !#|:*|pz !!|q! !#|q%|q*!!%!!|qC !#|q8|q7 !!|q. !#|q:|q9 !#|q<|q; !!|q3 !!|q0!!%!!|q&!!%!!|q\/!!%!!|q1!!%!!|q> !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|pk !#|:*|pw !%|0_|0^|3&|qZ !#|qN|qQ!!%!!|q] !!|qR !#|qV|qU!!%!!|qW !#|q_|q^ !#|qa|q` !!|qS!!%!!|qX!!%!!|qc!!%!!|qe !#|qm|mJ !#|qn|pe !#|qo|qG !#|qp|lc !#|qq|kN !#|qr|nH !#|qs|l0 !#|qt|p2!!%!!|qf!!%!!|qg!!%!!|qh!!%!!|qi!!%!!|qj!!%!!|qk!!%!!|ql!!%!!|o: !#|u<|s, !%|1M|1L|3&|rF !#|r%|r9 !!|rR !!|r&!!%!!|r. !#|r*|r5!!%!!|r+ !#|rT|rS !#|rV|rU !#|rH|rG !#|rJ|rI !#|r;|r: !!|r?!!%!!|r< !#|rZ|rY !!|rK !#|rC|rB !#|:(|r!!!%!!|rD !#|rO|rN !#|rQ|rP !!|r@!!%!!|r6!!%!!|rM !!|r !!%!!|rE !#|:(|q{!!%!!|qz!!%!!|r,!!%!!|rX !#|:(|r>!!%!!|r= !#|r_|r^ !!|rq!!%!!|r` !#|ri|rh !!|s !!%!!|s#!!%!!|s$ !!|rp!!%!!|rk !%|1M|1L|3&|rd !#|rw|rz!!%!!|s! !!|r{ !#|re|rv !#|rg|rf !%|\/S|\/R|3'|s' !!|s( !%|1M|1L|3&|sP !#|s5|sH !!|s[ !!|s1!!%!!|:. !!|s6!!%!!|s4 !#|:(|s]!!%!!|s= !!|s9 !#|s<|sD!!%!!|s> !#|sR|sQ !#|s_|s^ !#|sT|sS !!|sI !#|sM|sL !#|s3|s2!!%!!|sN !#|sX|sW !#|sZ|sY !!|sJ!!%!!|sE!!%!!|sV !#|s0|s\/!!%!!|sO !!|s.!!%!!|s-!!%!!|sa !%|1M|1L|3&|tH !#|sn|t@ !!|t[ !!|sj!!%!!|si !#|:(|t] !#|sp|so!!%!!|sx !#|ss|sr!!%!!|sq !!|t^ !!|su!!%!!|st !#|:(|t_ !#|sz|sy !#|tJ|tI !#|t$|s3!!%!!|s{ !#|ta|t` !!|tM !!|t# !!|t% !#|tL|tK !#|t*|t) !#|t7|sh!!%!!|t+ !#|tO|tN !#|tQ|tP !!|tR !#|t3|t2!!%!!|t0 !!|tS !#|tV|tU !!|t5!!%!!|t4 !#|:(|tT !!|t8 !#|tX|tW !#|tA|rQ !#|tB|ss !!|tC !#|tG|tF !#|sh|sg!!%!!|sf !!|tD!!%!!|t&!!%!!|t1 !!|t6!!%!!|t, !#|t\/|t.!!%!!|t-!!%!!|t9 !%|\/S|\/R|3'|sm!!%!!|tZ !#|t!|sh!!%!!|t  !%|1M|1L|3&|u, !#|tm|u  !!|tn!!%!!|tt !#|tq|ty!!%!!|tr !#|u8|u7 !#|u.|u- !#|u#|u! !!|u&!!%!!|u$ !!|u; !#|u0|u\/ !#|u*|u)!!%!!|u+ !#|u4|u3 !!|u'!!%!!|u%!!%!!|u2!!%!!|u6!!%!!|u:!!%!!|u= !#|uA|te !#|uB|ro !#|uC|qy !#|uD|se!!%!!|u>!!%!!|u?!!%!!|u@!!%!!|uH !%|1M|1L|3&|up !#|uQ|uf !#|uL|uK !!|uP!!%!!|uM !#|v |u{ !!|v!!!%!!|u[ !#|:+|uT !#|uX|uW !!|u^!!%!!|uY !#|v$|v# !!|v% !#|ur|uq !#|ut|us !#|uh|ug !!|uj!!%!!|ui !!|v& !#|uv|uu !#|ux|uw !!|uo !!|uk!!%!!|uc!!%!!|ul!!%!!|um!!%!!|uz !!|uO!!%!!|uN !!|u]!!%!!|uZ!#'!\/|xi|#=|#<|xv|xo|y(|v)|v,|v2|v1|v0|v\/|v.|v-$$#\/|xi|#=|#<|xv|xo|y(|v)|v,|v2|v1|v0|v\/|v.|v-$$#$|#=|#<|v1!!&#  $ !!&#$|#=|#<|v1 $#|#=|#<$$##|#=|#<$$##|xi|v0$$$#|xi|v0!!&#!|v0 $!|v0 $ !!&#!|v0 $  $!|xi$$##|xo|v\/!!&##|xo|v\/ $#|xo|v\/ $!|xo$&! !!&##|xo|v\/ $!|xo$&! $$##|v,|v.$$%#|v,|v.!!&##|v,|v. $#|v,|v. $!|v,!!&##|v,|v. $!|v, % !!&&  $ $$#%|xv|y(|v)|v-!!&#!|v- $!|v- $ !!&#!|v- $  #$|xv|y(|v)!#'!\/|xi|#=|#<|xv|xo|y(|v)|v,|v2|v1|v0|v\/|v.|v-$$#\/|xi|#=|#<|xv|xo|y(|v)|v,|v2|v1|v0|v\/|v.|v-!!&#  $ !!&#$|#=|#<|v1 $#|#=|#<$$##|#=|#<$$##|xi|v0!!&#!|v0 $!|v0 $ !!&#!|v0 $  $!|xi!!&##|xo|v\/ $#|xo|v\/ $!|xo$&! !!&##|xo|v\/ $!|xo$&! $$##|v,|v.!!&##|v,|v. $#|v,|v. $!|v,!!&##|v,|v. $!|v, % !!&&  $ !!&#!|v- $!|v- $ !!&#!|v- $  #$|xv|y(|v)!!%!!|v(!#'!!|v,!!%!!|v'!!%!!|v3!!%! #$# !!%! $$! !!%! #!# !!%! $$! !-9! $$# !'\/! $$( $$) !'\/! $$' $$( !(1!%|y8|v<|v=|v>$$(%|y8|v<|v=|v>$$# $$& $$+ $$! $$' !)3!#|y8|v<$$& !'\/!!|y8$0#!|y8$$*!|y8$$+!|y8 % !&-!!|v<$$&!|v<!$)!!|v?$$$!|v?!%+! !(1! $$) $$) $$) $$) $$( $$% $$% $$$ !!&'  %  %  $  #  #  # !#'!%|#U| ?| z|vG $$|#U| ?| z!(1! $$( $$( $$( $$) $$' $$' $$& $$& $$& $$$ !!&&  %  $  %  $  #  # !$)!$| z|vH|vF!!&##|vH|vF $!|vH$$#!|vH$$%!|vH$$%!|vH$$%!|vH %!|vH $!|vH %!| z$$$!| z$(! !$)! $$( $$' $$&  #  %  %  $  #  #  #  #  #  #  # !$)! $$% $$& $$( $$' $$&  #  '  $  #  &  $  #  #  #  #  # !$)! #!% !$)! $$$ $$$ $$$ !$)! #!% !$)! $$$ $$$ $$$ !%+! $$' $$' $$) $$&  %  $  #  %  $  #  #  # !$)! $$$  % !!&$ !$)!#|w&|w%$$$#|w&|w% $  $ !%+!#|w&|w%$$%#|w&|w%!!&#!|w& $!|w& $ !!&#!|w& $  $ !!&#!|w% $!|w% $ !!&#!|w% $  $ !%+!!|w'$$%!|w'!%+!!|w'!!&$!|w'!#'!$|w)|w(|w#!#($!|w(!!&$!|w#!#($!|w)!!%! ### !!%! #!#  ! !!%! !!%! $$! !!%! !!%! !$'!  $ !#'! #!$ !$'! !!%! $$! !#%! $$! $$#  # !#%! $$! $$# !#%!'|(e|wF|wE|wD|xh|w8$$!'|(e|wF|wE|wD|xh|w8 ##|wF|wE$$!#|wF|wE$$!#|(e|xh $#|(e|xh$$! $$! $$! $$!  % $$!!|w8$$! $$# !#&&!|w8$$$ $$# $$# !&,$ $$' !!$' !&,$ $$' !!$' !$(&!|w8$$'!|w8$$%!|w8$$' $$% !&,$!|w8$$'!|w8$$(!|w8$$)!|w8$$+ $$) !#%!#|w9|w8$$!#|w9|w8$$#!|w9$$# !#%!!|w8!!#! !#%!!|w:!#%!!|w9$$! $$# !#%! !#%! $$! $$# !#%! !!%! $$!  !  !  ! !$)! !!%! $$! !$)!  !  !!|wJ!!'!!|wK!!$$!|wK$($ !!%! $$# !#%! $$! $$# $$# !#%! $$! !#%! $$# !$'! !%)!!|wh!$(%!|wh$$&!|wh$$&!|wh$$&!|wh$$&!|wh$$# $$# $$$ $$% $$$ $$$  $ !!$# !!$#  # !&-!!|wR$$$!|wR!!$%!|wR$$$ $$% $$$ $$$ !$(#  % !%)! !!$$ $$# $$# $$$ $$# $!! !!$# !!$$ !#&$ $!# $$# $$# $$$ $$# $!! !!$$ !#&$ $!# !#&% $$# $$# $$# $$# !!%! $$! !%+! #!& !#'! #!$ !#'! #!$ !#'! !!$# $$! $!$ !!%! $$! !#'!  # $$! !!&%  $  $  $ !$)!!|wA # $$! !!&%  $  $  $  $  !!|wb ! !#%!#|wL|wg$$!#|wL|wg$$##|wL|wg$$%!|wg$$' $$'  #  # $$#  #  !!|wL!&+!&|wD|wf|wd|wb|wa!#&##|wf|wd$$##|wf|wd$$!!|wd$$!!|wd!#&%$|wD|wb|wa$$%$|wD|wb|wa$$$ $$#  $ $$#  # $$!  $ $$#  # $$!  # $$! $$&#|wD|wa$$&#|wD|wa$$'!|wa$$&!|wa$$&!|wa$$&!|wa$$&!|wa #!|wa$$!!|wa$$%!|wa$$%!|wa #!|wa$$!!|wa #!|wD$$!!|wD$$!!|wD$$$ $$$ $$&#|wD|wb$$%#|wD|wb$$&!|wb$$&!|wb$$&!|wb $!|wb $!|wb$$#!|wb #!|wb$$!!|wb$$'!|wb$$&!|wb $!|wb $!|wb$$#!|wb #!|wb$$!!|wb #!|wD$$!!|wD$$!!|wD$$$ $$$ !#&% $$% $$$ $$#  # $$!  $ $$#  # $$! !$(&!|wb$$'!|wb$$% $$$  #  # !!&$  $ $$&!|wb$$%!|wb #!|wb #!|wb!#&$ $$# $$% $$$ $$% $$$ $$% $$%  # $$% $$& $$%  #  # $$! !#&% $$% $$$ $$#  # $$!  $ $$#  # $$! $$& $$$ $$% $$$ $$$  $ $$$ $$% $$$ $$$ !#'! #'$ !$)! #!% #'! !#'! #&$ !!%! #%# !'\/! ##( !$)! #!% !!#!!|w-!!#! !&+!#|wh|x $$# $$# $$# $$$ !!%!%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$$#%|+>|+;|$,|x$$(&%|+>|+;|$,|x$$$(%|+>|+;|$,|x$ $!|+>$$(%|+>|+;|$,|x$ #!|+>$$$$|+;|$,|x$$$%$|+;|$,|x$$$#!|x$$$# !!%! $$! $$# !!%!  # !$)! $$$ $$% $$$ $$# $$!  # $&# $$$ $$$  #  # $$! !$)! $$$ !!%!#|+:|x\/$$##|+:|x\/ # $$! $$!  #!|x\/$$!!|x\/ #!|+:$&! !$)!#|x[|x0$$#!|x[ #!|x[$$!!|x[ #!|x[$$!!|x[$$$!|x0!#'!#|+:|x1$&$!|x1$$%!|x1$$# !!%!#|x^|x2 #!|x2 !!|x4!!#!#|*@|x5$!# !$($ $$%  !!|x8$&! !!%!%|+>|x3|xQ|x8 #!|+> #!|x8$&!  #$|+>|x3|xQ$$##|+>|xQ$$%#|+>|xQ$$&#|+>|xQ !#|+W|x; !!|x; !#|+>|x< !#|$B|x=!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU !#|+>|x? !#|$B|x@!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU !#|+W|xC !!|xC !#|+>|xD !#|$B|xE!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU !#|+>|xG !#|$B|xH!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU !#|+W|xK !!|xK !#|+>|xL !#|$B|xM!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU !#|+>|xO !#|$B|xP!#'!$|x3|*A|xU #$|x3|*A|xU$$##|*A|xU$$%#|*A|xU$$&#|*A|xU$$'#|*A|xU!$)!#|*A|xU!#'!$|#U|xb|x_$$#$|#U|xb|x_$$!!|x_$$!!|x_ !#|)C|xW !!|+6 !!|+6 !#|)C|xc!#'!#|x1|x\/$$$#|x1|x\/ # $$!  $ $$# $$# $$#  #!|x\/$$!!|x\/$$! $&!  $!|x1$&! !$)!>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$%>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9 # $$*>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$*>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$+>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$!*  % $$$  $  #  # $!*>|+>|+W|)B|#e|#^|$B|#q|x$|xP|xO|xN|xM|xL|xJ|xI|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$)7|+>|+W|)B|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$)7|+>|+W|)B|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$)7|+>|+W|)B|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$)6|+>|+W|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$)6|+>|+W|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$'6|+>|+W|#e|#^|$B|#q|x$|xH|xG|xF|xE|xD|xB|xA|x@|x?|x>|x=|x<|x:|x9$$(\/|+>|+W|#e|#^|$B|#q|x$|x@|x?|x>|x=|x<|x:|x9$$(.|+>|+W|#e|#^|$B|#q|x@|x?|x>|x=|x<|x:|x9 $ $$#  #  %.|+>|+W|#e|#^|$B|#q|x@|x?|x>|x=|x<|x:|x9 $.|+>|+W|#e|#^|$B|#q|x@|x?|x>|x=|x<|x:|x9$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|x9$&! $$#%|+>|+W|#q|x<$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|x?$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  %.|+>|+W|#e|#^|$B|#q|xH|xG|xF|xE|xD|xB|xA $.|+>|+W|#e|#^|$B|#q|xH|xG|xF|xE|xD|xB|xA$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|xA$&! $$#%|+>|+W|#q|xD$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|xG$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  %.|+>|+W|#e|#^|$B|#q|xP|xO|xN|xM|xL|xJ|xI $.|+>|+W|#e|#^|$B|#q|xP|xO|xN|xM|xL|xJ|xI$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|xI$&! $$#%|+>|+W|#q|xL$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|xO$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  # $$!  #!|)B$$! $$!  #!|)B #  #  # !%+!.|+Y|#U|$[|xg|xb|x[|x0|xY|xX|xV|xT|x2|xS$$&.|+Y|#U|$[|xg|xb|x[|x0|xY|xX|xV|xT|x2|xS &#|+Y|xg$$%!|xg$&$ $&$ !$*$,|#U|$[|xb|x[|x0|xY|xX|xV|xT|x2|xS$$&,|#U|$[|xb|x[|x0|xY|xX|xV|xT|x2|xS$$$ $$$&|#U|xb|x[|x0|xS$$$%|#U|xb|x[|xS$&#$|#U|xb|x[$$$$|#U|xb|x[$&##|#U|x[ #!|#U$$! $$#!|x[$&!!|x[$$#!|x[ # $$!  # $$!  % $$$  # $$!  # $$! $$!  %!|xS$$#!|xS$&!!|xS # $$! !!&$  $ $&!!|xS # $$! $$##|#U|x0 $!|#U!!&$  $  #!|#U #!|#U$$$)|#U|$[|xb|xY|xX|xV|xT|x2$$%'|#U|$[|xb|xY|xT|x2$$&'|#U|$[|xb|xY|xT|x2$$%'|#U|$[|xb|xY|xT|x2 ##|xT|x2$$!#|xT|x2$!%%|#U|$[|xb|xY # $$!  % $$$  $ $$# $$# $&!  $$|#U|$[|xY$$#$|#U|$[|xY$$!$|#U|$[|xY$$!$|#U|$[|xY$$!#|#U|xY$$!!|xY$$!#|#U|xY$$!!|xY # $$!  $!|xb$&!!|xb$$#!|xb # $$!  # $$! $$##|xX|xV$$$!|xX$$%!|xX$!% $$$  $  #  # $$! $&!  #  # $$! $&! !#'! #!$ !#'! $$# $$# !#'!!|!? $!|!?$$#!|!?$$#!|!?!!&%  $  $  $ !$)!!|xo$&! !!%!!|!? #!|!?$$!!|!?$$!!|!?!!&%  $  $  $ !!%!!|xr$&! !#'!!|!? $!|!?$$#!|!?$$#!|!?!!&%  $  $  $ !#'!!|xt#$! ##! #!! !$)! #!% !$)! $$$ $$$ $$$  !!|y&$$! !!#! !!%! #!# !!%! #!#  !  !#|)C|y!!%+!!|$P!!&#  $ !!&&!|$P &!|$P!#($!|$P$$%!|$P '!|$P $  $  # !#(# $$$ !%,# $$'  ' !%,$  ' !%,$  ' !#'! #&$ !#'! $$# $$# !!%! #%# !!%! $$! !$)! #$% !#'! $$# $$# !#'! ##$ !#'! $$# $$# #!! !#'! #!$ !#'! $$# !!%! #!# !!%! !!%! #!# !!%!  !!|)C",
-", ,!,#%,%!&$!)!+!-!\/!1,3!4!5!8!;!>!A!D!G!J!M!P!S.[CD+)WE<=>?@AB!V!X!Z!]!^!_!`!c!f!i!l!o!r.[SR+)WTMONQP:;!u!w!y!{!| #!| &!| )!| \/!| 2!| =!| >!| ?!| @!| A#| B#| C#| D!| E1|2s| $| (h| %| '!| F1|2sq| )jrt!| G!| J!| K!| L !| M!| N !| Q!| R!| U!| X  +(|6'% }%8G}'e\/% }#$C} nH% } 9P}'(g% |pv}$p+xyp+(|6#% }%8G}'e\/% }#$C} nH% } 9P}'(g% |pv}$p+z00 +(|6'% }%-H} <\/% }!2'} gT% }'-9|?w% }!lz|scxy|  +(|6#% }%-H} <\/% }!2'} gT% }'-9|?w% }!lz|sc| !00!| Y!| Z!| ^!| _\/|%pu| 'w\/|%pnto,| a!| b!| d!| f!| i    #| k!| l#| r#| s#| t#| u!| v!|!%#|!5!|!6  #|!:!|!;!|!A -|7?%,!|!C2|-:|*9|&{| =| >|*9|*9-|7?$!|!I!|!L-|7?#!|!O!|!b!|!e+)|3Z| j| l| t| m| o| L| q| w !|!f!|!j!|!m!|!p!|!q!|!t!|!w!|!z!|# &!|#!!|#$!|#'!|#*!|#-!|#0!|#3!|#6!|#9!|#>!|#A!|#D!|#G!|#J-|7?$#|#L!|#M#|#O!|#P!|#R!|#T!|#U!|#W!|#[!|#_!|#`!|#a!|#d!|#f!|#g&!|#k&.2| z| x!|#n!|#q!|#r!|#s.[| y|! +)W|!%| Z| [| ]| ^| _| `| a\/|%p| O| P| R+(|'u| S| T| U| V| W| Y|!$\/|'9|!(|!&| b+*|'5|!)| M| c| d| c| d| e| f| g.|3X| z| x!|#u!|#w!|#y!|#{!|$ !|$#!|$%!|$&&&&!|$O!|$R#|$S#|$T !|$U!|$W!|$Y!|$Z!|$[!|$]!|$^!|$b!|$e!|$f!|$j!|$r!|$s!|$t!|%!*# % |ow}#I2% } 6%            &!|%'!|%+                                 *! |!{*!!|!q|!z*!!|!r|!y*!!|!s|!x*!!|!t|!w*!!|!u|!v*!!|!v|!u*!!|!w|!t*!!|!x|!s*!!|!y|!r*!!|!z|!q*!!|!{|!p*!!|# |!o*!!|#!|!n*!!|##|!m*!!|#$|!l*!!|#%|!k*!!|#&|!j*!!|#'|!i*!!|#(|!h*!!|#)|!g*!!|#*|!f*!!|#+|!e*!!|#,|!d*!!|#-|!c*!!|#.|!b*!!|#\/|!a*!!|#0|!`*!!|#1|!_*!!|#2|!^*!!|#3|!]*!!|#4|![!|%-!|%0!|%2!|%4!|%6&  !|%@-|7?% } pQ}&BU#|%J!|%K!|%W-|7?#!|%]&!|%a&&!|%h!|%k!|%n&&&& \/|%p|#C|#D|#E!|%o!|%q\/|%p|#_|#A|#V!|%u*!!|#5|!Z!|%x!|&%!|&'!|&)!|&+!|&-!|&1!|&4!|&?!|&B#|&`#|&a #|&b!|&c!|&f!|&i!|&j!|&n!|&r&!|&u!|&x!|&z-|7?$!|'!!|'(-|7?%\/-|7?#\/|'9|$LU|#z+*|'5|$%|)g|#q|#r|#t|#u|#v|#x|#y!|'*!|',!|'.!|'0!|'2!|'4!|'6!|'8!|':!|'<!|'>!|'@!|'C#|'K.2|$4|#w#|'L#|'M!|'N!|'P!|'R!|'T!|'V!|'X!|'Z!|']!|'_!|'b!|'c!|'f!|'i!|'l!|'n&&&!|'p!|'r+(|'u|$B|$C|$D|$E|$F|$J|$K+(|'u|+H|+G|+I|+e|+c|+b|$A!|'t!|'v!|'x!|'z!|( !|(#!|(%!|('!|()!|(+!|(4!|(=!|(F!|(I!|(M!|(O #|(R #|(S #|(T  #|(U#|(V!|(W !|(X#|([!|(]!|(`!|(b  !|(d!|(f!|(h!|(j!|(l,|(r!|(s,|(u,|(v,|(w,|(x.|(e|$w|$w!|(y-|(t|*9  #|)) 2|-:|*9|')0|%(|*9|*9#|)* 2|-:|*9|')0|%+|*9|*9!|)+!|)1!|)Q!|)S!|)r!|)s!|)t 2|-:|*9|')0|%4|*9|*9#|)z#|){!|* !|*-!|*.!|*3 !|*6 !|*9-|4h|%?!|*;   +(|6'% }'P9}&6w% }$>>|pk% }'d8}!h=% }#s:} hz|%B|%C|%D+(|6#% }'P9}&6w% }$>>|pk% }'d8}!h=% }#s:} hz|%E00!|*W#|*X#|*Y !|*Z!|*[!|*] !|*k !|*m!|*u!|*x !|*z!|+#!|+%!|+' !|+.!|+6#|+8!|+9 !|+:!|+@!|+B !|+E!|+I!|+K!|+N!|+Q!|+V !|+[!|+a !|+c!|+f!|+i !|+j!|+x&!|+{ !|,(!|,+!|,.!|,1 &&!|,5!|,D!|,H+\/|.4|%R|%V|%W|%X|%[|%a|%b|%e|%f|%g|%h|%i|%l|%o2|.A|%p|%s|%x|%y|%z|&%!|,K!|,M.|,L%\/#.|,L$#!|,P1|2s|&`|&r|&,|&a|&c!|,Q1|2s|&W|&s|&.|&X|&Z!|,R1|2s|&K|&t|&0|&L|&R                   !|,S &!|,U!|,W !|,X!|,Y!|,]  !|,_!|,r!|,t!|,v!|,x!|,z !|,{!|-  !|-$!|-&!|-(!|-* !|-+!|-, !|-\/ !|-1!|-2   +(|6'% }#\/f|da% }'Y8}#(W% }$b+} -,% }&w4}%oH|&h|&i|&J+(|6#% }#\/f|da% }'Y8}#(W% }$b+} -,% }&w4}%oH|&j00+(|6'% |UJ}%U[% }$H`}$>o% }( V}#o2% }$%_|bE|&h|&i|&d+(|6#% |UJ}%U[% }$H`}$>o% }( V}#o2% }$%_|bE|&l00+(|6'% }'nc}!lM% }#tR|;J% } ZV}%^\/% }$1F}&r_|&h|&i|&V+(|6#% }'nc}!lM% }#tR|;J% } ZV}%^\/% }$1F}&r_|&n00+(|6'% |SD}!C.% }'?V}#mX% }$D(| )% }$Hh|x6|&h|&i|&_+(|6#% |SD}!C.% }'?V}#mX% }$D(| )% }$Hh|x6|&p00\/|%p|&[|&c|&^\/|%p|&S|&Z|&U\/|%p|&Q|&R|&I,|-7,|-8!|-9,|-;,|-<,|-=,|->,|-?,|-@,|-A,|-B,|-C,|-D,|-E,|-F,|-G,|-H,|-I,|-J,|-K!|-L#|-U!|-V!|-W!|-Z!|-[!|-] !|-^!|-o!|-r!|-s1|.#|'7|'2|'8|'8|'9!|-t!|-x1|.#|'<|'1|'8|'8|'9\/|. |'5|'3|'4!|-{!|.!,|.$,|.%,|.&!|.'#|.)  2|-:|*9|'#|'G|'F|*9|*9!|.*  2|-:|*9|'#|'J|'K|*9|*9#|.+!|.,#|.\/#|.0#|.1!|.3,|.5,|.6,|.7,|.8,|.9!|.:!|.<!|.>!|.@!|.B!|.D!|.F!|.H!|.J,|.O,|.P!|.Q!|.T!|.j!|.l!|.m,|.o!|.p!|.r,|.t!|.u!|.w #|.y!|.z!|\/ !|\/#!|\/%,|\/'!|\/(!|\/:!|\/F!|\/`#|\/b!|\/e!|\/l!|0 !|0)!|0,!|07!|09!|0@!|0N!|0Q-|7?%\/!|0X&!|0Y&&.2|(.|(\/!|0Z!|0[!|0_!|0b!|0e!|0h!|0l!|0n!|0r!|0t!|0v!|0x!|0z!|0{-|7?$!|1#!|1.'!|11!|14!|16!|18!|1:''!|1<!|1>!|1@-|7?#!|1B'#|1_#|1`#|1a!|1b!|1d!|1f!|1h!|1j!|1l!|1o!|1q!|1s!|1u!|1w!|1y!|1{!|2!!|2$!|2&!|2(!|2*!|2,!|2.!|21!|24!|27+(|'u|(j|(i|(h|(f|(G|(J|(K\/|'9|(kF|(A0|'1|(k|(g|(L|(S+(|'+|(l|(m|((|(#|(%|(&|()+4|1i|(m|(B|(e|(d|(c|(X|(C|(b|(a|(`|(_|(^|(]|([|(Z|(Y|(D|(E|(F+1|1e|(n|(o|(+|(-|(1|(2|(3|(5|(6|(8|(9|(:|(;|(<|(=|(>!|2:!|2<!|2>!|2@!|2B!|2K!|2M!|2P!|2T!|2Y1|2s|)(|)>|(z|))|)*!|2Z1|2s|)3|)?|) |)4|)=!|2[!|2^!|2_!|2` !|2a!|2b!|2e!|2f  +(|6'% }&2n}#1A% }#A<}#)C% }$R-}#;$% }&W`}&y<|),|)-|)'+(|6#% }&2n}#1A% }#A<}#)C% }$R-}#;$% }&W`}&y<|).00 +(|6'% } ?w}%cb% }'r5}!mI% }#JS}#]5% }%nF}! k|),|)-|)0+(|6#% } ?w}%cb% }'r5}!mI% }#JS}#]5% }%nF}! k|)100!|2g!|2h      !|2k!|2m!|2n\/|%p|)%|)*|)&\/|%p|)<|)=|)+,|2o,|2p,|2q!|2r!|2t!|2v!|2x!|2z#|3 #|3!#|3#!|3$ #|3%!|3&!|3(!|3)!|3*!|3-   !|30!|3= !|3@ *! |#S#|3C!|3D#|3F!|3G!|3I!|3J!|3L!|3O!|3R#|3V+)|3Z|)^|)`|)a|)a|)b|)c|)d|)e!|3W!|3Y!|3[!|3`!|3d!|3h!|3l!|3m!|3n!|3o!|3p!|4!!|4$!|4&!|4(!|4*!|4+!|4:#|4<  !|4=&!|4?#|4A!|4B!|4C!|4F!|4J!|4N!|4P!|4Q!|4T!|4V!|4W!|4[!|4^.|4f|*,|*-1|4d|*2|*.|*\/|*0|*11|4b|*3|**|*0|*.|*+!|4a!|4c!|4e!|4g,|4i!|4j!|4k!|4l!|4n!|4p !|4r!|4t!|4u*! |#S*!!|*8|#S   &!|5#!|5%#|5)!|5*!|5+!|5.&!|53!|54!|55!|59!|5>!|5@!|5E!|5K!|5O&!|5Q!|5R!|5U!|5Y!|5[&+)|5`|*Z|*Z|!C|!B|*[|*]|*^|*_+)|5`|*P|*Q|*R|*S|*T|*U|*V|*X!|5_!|5a!|5c!|5e!|5i& #|5m 2|-:|*9|'*|*i|*k|*9|*9!|5n!|5q!|5t!|5y!|6!!|6$!|6&!|6(!|6*!|6-!|65!|6>!|6@!|6B!|6D1|2s|+*|+;|*{|++|+,!|6E1|2s|+1|+<|+!|+2|+4  !|6F!|6H!|6J !|6K!|6L!|6O!|6Q!|6S!|6U !|6V!|6W !|6Z  +(|6'% }#{p} ;>% }%Z-}$wb% } ^U}&\/y% }$r5}#3k|+5|+6|+0+(|6#% }#{p} ;>% }%Z-}$wb% } ^U}&\/y% }$r5}#3k|+700+(|6'% }'#w} ))% |#,}#`*% }&*M}$m^% |(k}$&w|+5|+6|+)+(|6#% }'#w} ))% |#,}#`*% }&*M}$m^% |(k}$&w|+900\/|%p|+&|+,|+(\/|%p|+-|+4|+\/,|6]!|6^#|6`!|6a!|6c!|6e!|6g!|6i!|6m!|6w!|6{!|7$!|7(!|7,!|76#|7;-|7?% }$$(}((0-|7?%,-|7?#-|7?$!|7<!|7>!|7@!|7A#|7B!|7C!|7D!|7E!|7F!|7H!|7I!|7K!|7M!|7Q!|7U!|7Y!|7^!|7`!|7b!|7f!|7h!|7j!|7l!|7n!|7o!|7r!|7s!|7t!|8&!|83!|8@!|8M!|8Z!|8h!|8u!|9'!|94!|9A!|9N!|9[!|9i!|9v!|:(!|:5!|:B!|:O!|:]!|:j!|:w!|;)!|;6!|;C!|;P!|;^!|;k!|;x!|<*!|<7!|<D!|<Q!|<_!|<l!|<y!|=+!|=8!|=E!|=R!|=`!|=m!|=z!|>,!|>9!|>F!|>S!|>a!|>n!|>{!|?-!|?:!|?G!|?T!|?b!|?o!|@ !|@.!|@;!|@H!|@U!|@c!|@p!|A!!|A\/!|A<!|AI!|AV!|Ad!|Aq!|B#!|B0!|B=!|BJ!|BW!|Be!|Br!|C$!|C1!|C>!|CK!|CX!|Cf!|Cs!|D%!|D2!|D?!|DL!|DY!|Dg!|Dt!|E&!|E3!|E@!|EM!|EZ!|Eh!|Eu!|F'!|F4!|FA!|FN!|F[!|Fi!|Fv!|G(!|G5!|GB!|GO!|G]!|Gj!|Gw!|H)!|H6!|HC!|HP!|H^!|Hk!|Hx!|I*!|I7!|ID!|IQ!|I_!|Il!|Iy!|J+!|J8!|JE!|JR!|J`!|Jm!|Jz!|K,!|K9!|KF!|KS!|Ka!|Kn!|K{!|L-!|L:!|LG!|LT!|Lb!|Lo!|M !|M.!|M;!|MH!|MU!|Mc!|Mh#|Mi#|Mj#|Ml#|Mm,|Mq,|Mr,|Ms,|Mt!|Mu,|Mv,|Mw,|Mx,|My,|Mz,|M{,|N ,|N!,|N#,|N$,|N%,|N&,|N',|N(,|N),|N*,|N+,|N,,|N-,|N.,|N\/,|N0,|N1,|N2.2|-Q|-T!|N3!|N7!|N8!|N>!|N@,} :p!|NB!|ND!|NF!|NL!|NN!|NP!|NR!|NT!|NV!|NX#|NZ#|N]#|N_#|Na#|Nc#|Ne#|Ng#|Ni#|Nk#|Nm!|Nn!|Np!|Nt!|Nz!|O !|O!!|O#!|O%   !|O&!|O(!|O)!|O*!|O+!|O-!|O.!|O0   !|O1!|O3!|O5!|O7             !|O8!|O:!|O<!|O> !|O?!|OA!|OC!|OE !|OF!|OH!|OI!|OK   !|OL    #|ON&#|OO#|OP#|OQ #|OR#|OS#|OT#|OU#|OV#|OW#|OX#|OY#|OZ#|O[#|O]#|O^#|O_!|O`!|Oa !|Ob!|Oc#|Od#|Oe.2|\/.|\/\/#|Oi#|Oj!|Ol #|Om#|On.2|\/5|\/6#|Or'\/} 1_|\/9|\/9|\/9!|Os #|Ot#|Ou.2|\/=|\/>#|Oy#|Oz!|P !|P!!|P'#|P(#|P).2|\/E|\/F#|P-#|P.!|P0#|P1#|P2.2|\/K|\/L#|P6#|P7!|P9#|P:#|P;.2|\/Q|\/R#|P?#|P@!|PB#|PC#|PD.2|\/W|\/X#|PH#|PI!|PK#|PL#|PM.2|\/^|\/_#|PQ#|PR!|PT#|PU#|PV.2|\/d|\/e#|PZ#|P[!|P^#|P_#|P`.2|\/j|\/k#|Pd#|Pe!|Pg#|Ph#|Pi.2|\/p|\/q#|Pm#|Pn!|Pp#|Pq#|Pr.2|\/v|\/w#|Pv#|Pw!|Py#|Pz#|P{.2|0 |0!#|Q$#|Q%!|Q'#|Q(#|Q).2|0'|0(!|Q-#|Q.#|Q\/.2|0+|0,!|Q3#|Q4#|Q5.2|0\/|00#|Q9#|Q:!|Q<#|Q=#|Q>.2|05|06!|Q@!|QA #|QB#|QC.2|0;|0<!|QE!|QF!|QG!|QL#|QM#|QN.2|0B|0C!|QR#|QS#|QT.2|0F|0G!|QV!|QW #|QX#|QY.2|0L|0M#|Q^#|Q_!|Qa#|Qb#|Qc.2|0R|0S!|Qg#|Qh#|Qi.2|0V|0W#|Qm#|Qn!|Qp#|Qq#|Qr.2|0]|0^#|Qv#|Qw!|Qy#|Qz#|Q{.2|0c|0d#|R$#|R%!|R'#|R(#|R).2|0i|0j!|R-#|R.#|R\/.2|0m|0n#|R3#|R4!|R6#|R7#|R8.2|0s|0t#|R<#|R=!|R?#|R@#|RA.2|0y|0z!|RC!|RD!|RE!|RJ!|RK!|RR #|RS#|RT#|RU#|RV!|RW!|RX !|RY!|RZ!|R[!|Ra #|Rb#|Rc.2|14|15!|Re!|Rf#|Rg#|Rh.2|19|1:!|Rj!|Rk#|Rl#|Rm.2|1>|1?!|Ro!|Rp#|Rq#|Rr.2|1C|1D!|Rt!|Ru#|Rv#|Rw.2|1H|1I!|Ry!|Rz#|R{#|S .2|1M|1N!|S#!|S$#|S%#|S&.2|1R|1S!|S(!|S)#|S*#|S+.2|1W|1X!|S\/#|S0#|S1.2|1[|1]!|S3!|S4#|S5#|S6.2|1a|1b!|S:#|S;#|S<.2|1e|1f!|S@#|SA#|SB.2|1i|1j#|SF#|SG!|SI!|SJ!|SO !|SP!|SU #|SV#|SW.2|1u|1v#|S[#|S]!|S_#|S`#|Sa.2|1{|2 !|Sc!|Sd#|Se#|Sf.2|2%|2&!|Sh!|Si#|Sj#|Sk.2|2*|2+#|So#|Sp!|Sr!|Ss!|Sx !|Sy!|T# !|T$!|T) !|T*!|T\/ #|T0#|T1.2|2<|2=!|T5&&&&&&&&&!|T6!|T; #|T<#|T=.2|2L|2M!|TA#|TB#|TC.2|2P|2Q!|TE!|TF#|TG#|TH.2|2U|2V!|TL#|TM#|TN!|TO!|TP #|TQ#|TR.2|2_|2`!|TT!|TU#|TV#|TW.2|2d|2e!|TY!|TZ#|T[#|T]#|T^#|T_!|T`!|Ta!|Tb!|Tc#|Td#|Te.2|2q|2r!|Tg!|Th#|Ti#|Tj.2|2v|2w!|Tn!|To!|Tt #|Tu#|Tv.2|3!|3##|Tz#|T{!|U!\/|%p|.8|.9|.:\/|%p|.?|.@|.A\/|%p|.C|.D|.E\/|%p|-O|.K|.L\/|%p|.[|.]|.^\/|%p|.a|.b|.c\/|%p|.f|.g|.h!|U#!|U'!|U+!|U2      ,|U9,|U:,|U;,|U<,|U=,|U>,|U?!|U@!|UA!|UC!|UD!|UE!|UG!|UH!|UI!|UJ!|UK!|UL!|UM!|UN!|UP!|UR!|UT!|UV!|UX!|UZ!|U]!|U_!|Ua!|Uc!|Ue!|Ug!|Uj!|Ul!|Un!|Uq!|Us!|Uu!|Ux!|Uz!|V !|V!!|V$      !|V%!|V'!|V?!|V@!|VB!|VL!|VM&!|VN!|VO          !|VS!|Vo!|Vp!|Vr!|Vu!|Vw!|Vz!|W%!|W&!|W'!|W(   !|W;!|W=!|W?!|WD     ,|WF-} 278!|WG!|WI-} 278.|4f|3_|3`,|WK0|U{|4A|y<0|4<-} 25|4B!|WL-} 278!|WN,|WP-} 278.|4f|3X|3Y.|4f|3[|3]\/|%p|3b|3c|3d!|WQ\/|%p|3o|3p|3q!|WU\/|%p|4*|4+|4,!|WY!|WZ!|W[!|W]!|Wj!|Ww!|X !|X-!|X1!|X5!|XB!|XO!|X]!|Xj!|Xw!|Y)!|Y6!|YC!|YP!|Y^!|Yk!|Yx!|Z*!|Z7!|ZD!|ZQ!|Z_!|Zl!|Zy!|[+!|[8!|[E!|[R!|[`!|[m!|[z!|],!|]9!|]F!|]S!|]a!|]n!|]{!|^-!|^:!|^G!|^T!|^]!|^s!|_&!|_0!|_4!|_A!|_N!|_[!|_i!|_v!|`1!|`>!|`K!|`X!|`f!|`s!|a%!|a2!|a?!|aL!|ah!|aw!|b)!|b6!|bC!|bP!|b^!|bk!|bx!|c*-|6C|x#-|6C|x!-|6C|x)#|cM!|cN#|cO!|cP#|cQ!|cR#|cS!|cT#|cU!|cV#|cW!|cX#|cY!|cZ-|6C|x% #|c[*! |5V#|c]!|c^#|c_!|c`#|ca*! |5]#|cb!|cc #|cd!|ce-|6C|x+.28|wv!|cf!|cg!|ch!|ci!|cj!|ck!|cl!|cm!|cn!|co!|cp!|cq!|cr!|cs!|ct!|cu!|cv!|cw#|cx*! |5x#|cy!|cz #|c{!|d #|d!!|d#!|d$*! 0#|d%!|d&#|d'!|d(#|d)!|d*#|d+*! |6.#|d,!|d-#|d.!|d\/#|d0!|d1 #|d2*! |67#|d3!|d4 #|d5!|d6 #|d7!|d8#|d9!|d: #|d;!|d<  -} 5a|6G#|d=*! |6I#|d>!|d? #|d@!|dA#|dB*! |6P#|dC!|dD #|dE!|dF-|6C|x&#|dG!|dH#|dI#|dJ!|dK #|dL!|dM#|dN!|dO#|dP!|dQ#|dR!|dS#|dT#|dU!|dV #|dW!|dX#|dY!|dZ#|d[!|d]  -} 5a|6r-|6C|x*\/} 5e|6t0|wv!|d^*! 0#|d_#|d`!|da!|df!|dg!|dk!|e!!|e+!|e,!|e-!|e.!|e1!|e5!|e6!|e9#|e:!|e;!|e=!|e?!|eA!|eC!|eE!|eI!|eK!|eM!|eO!|eQ!|eR!|eS!|eT!|eU!|eV !|eW!|eX!|eY !|eZ!|e[!|e]  !|e^!|e_!|e`!|ea!|eb!|ec !|ed!|ee!|ef !|eg!|eh!|ei  !|ej!|ek!|el  !|em!|en!|eo !|ep!|es!|eu!|ew!|ey-|.s|'l-|.q|'l-|.s|7g-|.q|7f!|f$,|f&,|f'!|f(!|f*!|f,-|.q|'l-|.s|'l-|.q|'l-|.s|'l-|.s|7s-|.s|7r-|.q|7q-|.q|7p,|f4,|f5,|f6,|f7!|f8!|f;!|f=!|fE!|fF   !|fG#|fH#|fK0|2L% } `Y}'bz% }'L1|!E% }#1[|O`% }#)c}&xc#|fL*!!|8!|8,+(|6'% }',v}%fw% }!o!}#o%% }'8f}'ZU% }!P6} zd|8&|8'|8(+(|6#% }',v}%fw% }!o!}#o%% }'8f}'ZU% }!P6} zd|8\/00*! |80  +(|6'% } `Y}'bz% }'L1|!E% }#1[|O`% }#)c}&xc|82|7[|83-|6C|x(!|fM!|f^.} 3t|8)|5&#|fu#|fv-|6C|x'#|fw#|fx#|fy#|fz!|f{#|g!-|6C|x #|g#!|g$ !|g%!|g4!|gG.} 5Y|wh|8H-|f)|7y0} 3r|88|8 |7,|8J#|gH#|gI#|gJ0} 3r|88|8 |7,|7k*! |8O*!!|8E|8K!|gK& !|gL !|gM.} 5Y|wg|8W0} 3r|88|8 |7,|7l*!!|8E|8Y#|gN#|gO!|gP !|gQ -|f)|7x0} 3r|88|8 |7,|8b*!!|8E|8c#|gR#|gS!|gT !|gU#|gV*! |8j#|gW#|gX!|gY !|gZ!|g[ !|g] -} 5a|8t !|g^ !|g_#|g`*! |8z#|ga#|gb!|gc !|gd#|ge#|gf#|gg!|gh !|gi#|gj#|gk!|gl !|gm*! |8L-|6C|w{-|6C|x$!|gn.} 5Y|wh|94*! |95*!!|9+|9(\/} 5e|85|97|8u -} 5a|99!|go.} 5Y|wh|9;*! |9<\/} 5e|93|9=|9:-|f)|7{0} 3r|88|8 |7,|9?*!!|8E|9@ -} 5a|9B\/} 5e|6W0|9C!|gp.} 5Y|wh|9E*! |9F\/} 5e|93|9G|9C.} 5_|9H|9>-|f)|7z0} 3r|88|8 |7,|9J*!!|8E|9K*! |8I -} 5a|9N\/} 5e|93|9M|9O.} 5_|9P|9I\/} 5e|920|9Q\/} 5e|85|91|9R#|gq*! |8X*!!|9J|9T#|gr*! |9W  +(|6'% }&vE} mw% }$'x}#XG% }&!!}#z[% |$S}%P_|8&|9Y|9Z+(|6#% }&vE} mw% }$'x}#XG% }&!!}#z[% |$S}%P_|9[00.28|98 !|gs.28|9S!|gt!|gu!|gv!|gx&#|h&#|h'0|ev|9f|9g|9h|7x!|h)#|h4#|h5!|h6 !|h7\/|.n|77|5q|5p\/|.n|7:|5s|5r\/|.n|7>|5u|5t\/|.n|7B|5w|5v\/|.n|7G|5h|5g\/|.n|7J|5j|5i\/|.n|7N|5l|5k\/|.n|7R|5n|5m\/|.x|7W|7X|5o\/|.x|7]|7^|5f.|4f|7a|7b.|.v|7d|7e.|.v|7n|7o!|h8!|h9!|h:!|h;!|h?!|hC#|hG #|hH -|WM|3=#|hI !|hJ!|hK!|hQ!|hR!|hT#|hZ!|h[!|hb!|hh!|hi#|ho!|hp!|hq!|hr!|hw#|hx!|hy!|hz!|i%!|i&#|i,!|i-!|i.!|i0!|i1!|i2!|i3!|i=#|iC*! |2'*!!|:A|01!|iD*! |.-*!!|:D|1E*!!|:E|0=*! |1Y*!!|:G|2'#|iP *! |01*!!|:K|16*! |1E*!!|:M|16*!!|:N|2'*!!|:O|1w*! |16*!!|:Q|0X#|iQ-|7?%7-|7?%| 6#|iU#|iW#|iY.2|\/!|:_#|i[.2|.z|:f*! |:g*!!|:]|:e*!!|:^|:d*!!|:_|:c*!!|:`|:b*!!|:a|16*!!|:b|2'*!!|:c|3$*!!|:d|\/M-|7?$*!!|:a|2'*!!|:g|\/f0|Um|4G|y<|4C|4E-} 25|:t*! |0-*!!|:k|\/l*!!|:l|2' *!!|:A|2N#|i`*!!|:`|:{*!!|:q|1E-|7?%2*!!|:r|1Y*!!|:t|\/r#|ib #|ic#|id#|ie0|Ut|y<|;)|;*|4H-} 25|;+ 0|U{|4;|y<|;-|4<-|WM|3=#|if0|Um|;\/|y<|;0|4E!|ig !|ih 0|U{|4;|y<|;5|4<-} 25|;6#|ii0|Um|4G|y<|;8|4E-} 25|;9  #|ij#|ik-} 25|;.!|il #|im-} 25|;1!|in0|Um|;\/|y<|;>|4E-} 25|;E0|U{|4;|y<|;A|4<-} 25|;G0|U{|4;|y<|;3|4<-} 25|;I#|io!|ip#|iq  0|U{|4;|y<|;O|4<#|ir#|is!|it!|iu!|iv0|Um|;\/|y<|;K|4E-} 25|;P!|iw0|U{|4;|y<|;N|4<-} 25|;Y!|ix 0|U{|4;|y<|;]|4<-} 25|;^#|iy0|Um|;\/|y<|;`|4E-} 25|;a!|iz#|i{ 0|U{|4;|y<|;e|4<-} 25|;f#|j #|j!!|j#!|j$!|j%!|j& 0|U{|4;|y<|;n|4<-} 25|;o 0|U{|4;|y<|;q|4<-} 25|;r#|j'0|Um|4G|y<|;t|4E-} 25|;u #|j(#|j)0|Ut|y<|;x|;y|4H-} 25|;z#|j*0|Um|4G|y<|< |4E-} 25|<! #|j+0|Um|4G|y<|<%|4E  -} 25|<&!|j,#|j-#|j.0|Ut|y<|<+|<,|4H-} 25|<-!|j\/#|j0#|j1#|j2#|j30|Um|;\/|y<|<3|4E-} 25|<4!|j4#|j5#|j6 0|U{|4;|y<|<9|4<-} 25|<: 0|U{|4;|y<|<<|4<-} 25|<= 0|U{|4;|y<|<?|4<-} 25|<@#|j70|Um|;\/|y<|<B|4E-} 25|<C#|j8!|j9 0|U{|4;|y<|<G|4<-} 25|<H 0|U{|4;|y<|<J|4<-} 25|<K#|j:0|Um|4G|y<|<M|4E-} 25|<N #|j;#|j<0|Um|4G|y<|<R|4E-} 25|<S #|j=0|Um|4G|y<|<V|4E-} 25|<W -} 25|;V #|j>#|j?0|Ut|y<|<]|<^|4H-} 25|<_#|j@#|jA!|jB#|jC  !|jD#|jE0|Um|;\/|y<|<h|4E!|jF#|jG#|jH  0|U{|4;|y<|<n|4<#|jI 0|U{|4;|y<|<q|4< 0|U{|4;|y<|<s|4<-} 25|<t#|jJ0|Um|4G|y<|<v|4E-} 25|<w #|jK#|jL0|Um|4G|y<|<{|4E-} 25|=   #|jM#|jN#|jO!|jP#|jQ#|jR#|jS!|jT!|jU-} 25|<i!|jV0|Um|4G|y<|=&|4E-} 25|=0#|jW!|jX  -} 25|<r!|jY-} 25|<o!|jZ0|U{|4;|y<|<m|4<-} 25|=:#|j[#|j]0|Ut|y<|=<|==|4H-} 25|=>#|j^#|jb #|jc0|Um|4G|y<|=C|4E#|jd!|je#|jf!|jg#|jh0|Um|4G|y<|=I|4E #|ji0|Um|4G|y<|=L|4E#|jj!|jk#|jl #|jm#|jn0|Um|4G|y<|=S|4E-} 25|=T#|jo!|jp#|jq  #|jr#|js#|jt!|ju#|jv#|jw#|jx0|Ut|y<|=a|=b|4H-} 25|=c#|jy#|jz!|j{#|k #|k!#|k##|k$!|k%#|k& !|k'#|k(!|k)  #|k*0|Um|4G|y<|=t|4E#|k+!|k,#|k-#|k.!|k\/#|k0#|k10|Um|4G|y<|> |4E #|k20|Um|4G|y<|>$|4E#|k3!|k4#|k5#|k6#|k7 #|k80|Um|4G|y<|>,|4E#|k9!|k:#|k;#|k<#|k= #|k>!|k?#|k@  #|kA#|kB0|Um|4G|y<|>:|4E#|kC!|kD#|kE#|kF!|kG#|kH #|kI#|kJ0|Um|4G|y<|>D|4E-} 25|>E #|kK0|Um|4G|y<|>H|4E-} 25|>I#|kL!|kM#|kN #|kO #|kP#|kQ!|kR-} 25|>;!|kS   #|kT!|kU#|kV    -} 25|>-!|kW-} 25|>%!|kX-} 25|>!!|kY-} 25|=u!|kZ0|Um|4G|y<|=e|4E-} 25|>i#|k[!|k]#|k^ #|k_-} 25|=M!|k`-} 25|=J!|ka-} 25|=D!|kb0|Um|4G|y<|=^|4E-} 25|>v    -|7?%A!|kc#|kd#|ke#|kf#|kg#|kh!|ki!|kj!|kk!|kl!|km#|kn#|ko0|Ut|y<|?-|?.|4H-} 25|?\/#|kp#|kq!|kr#|ks #|kt0|Um|4G|y<|?6|4E-} 25|?7 !|ku#|kv0|Um|4G|y<|?;|4E#|kw!|kx#|ky#|kz#|k{!|l #|l!#|l# #|l$!|l%#|l&#|l'!|l(#|l)#|l*#|l+#|l,0|Um|4G|y<|?N|4E-} 25|?O #|l-0|Um|4G|y<|?R|4E!|l.#|l\/#|l0#|l10|Um|4G|y<|?W|4E!|l2#|l3#|l40|Um|4G|y<|?[|4E #|l5#|l60|Um|4G|y<|?`|4E-} 25|?a!|l7#|l8 #|l9#|l:#|l;-} 25|?]!|l<-} 25|?X!|l=      -} 25|?S!|l>#|l?!|l@-} 25|?<!|lA#|lB!|lC0|Um|4G|y<|?1|4E-} 25|?{ #|lD!|lE !|lF!|lJ!|lN!|lR#|lV0|Um|4G|y<|@*|4E-} 25|@+ #|lW0|Um|4G|y<|@.|4E-} 25|@\/ #|lX-|WH|@2 0|U{|@3|y<|@4|4<-} 25|@50|Um|4G|y<|@6|4E-} 25|@7#|lY#|lZ0|Ut|y<|@9|@:|4H-} 25|@;*! |1Y*!!|@2|2'*!!|@3|0=#|l[0|Um|4G|y<|@@|4E-} 25|@A #|l]#|l_!|l`#|la -|WO|@H0|Um|@I|y<|4<|4E-} 25|@J#|lc!|ld#|le!|lf#|lg #|ll#|lm#|ln*! |.-*!!|@J|1E#|lo-|7?%|!A#|lp!|lq#|lr!|ls#|lt!|lu*!!|@K|0=#|lv*!!|@2|1E*!!|@V|0=*!!|@W|.. 0|U{|4;|y<|@e|4<-} 25|@f0|Ut|y<|@g|@a|4H-} 25|@h#|lw!|lx#|ly#|m!#|m##|m$#|m%0|Um|4G|y<|@p|4E !|m&!|m'#|m(!|m)-} 25|@q#|m*#|m+#|m,#|m-#|m.#|m\/#|m0!|m1#|m2#|m3#|m4#|m5#|m6#|m7#|m8#|m9#|m:!|m;!|m<!|m=!|m>#|m?!|m@!|mA!|mB!|mC!|mD!|mE!|mF!|mG!|mH#|mI#|mJ#|mK!|mL!|mP!|mT#|mX #|mY #|mZ #|m[#|m]#|m^ #|m_0|Um|4G|y<|AL|4E#|m`!|ma#|mb#|mc#|md#|me0|Ut|y<|AR|AS|4H-} 25|AT #|mf0|Um|4G|y<|AW|4E-} 25|AX #|mg0|Um|4G|y<|A[|4E!|mh -|WM|3= 0|U{|4;|y<|Aa|4<-} 25|Ab0|Um|A`|y<|Ac|4E#|mi0|Um|4G|y<|Ae|4E-} 25|Af#|mj#|mk!|ml#|mm#|mn!|mo#|mp  #|mq#|mr#|ms#|mt!|mu#|mv#|mw-} 25|Ad!|mx-} 25|A]!|my#|mz!|m{0|Um|4G|y<|As|4E-} 25|B#   #|n #|n!0|Ut|y<|B(|B)|4H-} 25|B* #|n#0|Um|A`|y<|B-|4E!|n$#|n% !|n& 0|U{|4;|y<|B3|4< 0|U{|4;|y<|B5|4<-} 25|B6#|n'0|Um|4G|y<|B8|4E-} 25|B9  #|n(#|n)#|n*0|Um|4G|y<|B?|4E#|n+!|n,#|n-#|n.-} 25|B.!|n\/-} 25|B@ -} 25|B4!|n00|U{|4;|y<|B1|4<-} 25|BK0|Ut|y<|AI|AJ|4H-} 25|BM  -|WH|BP0|U{|BQ|y<|BO|4< #|n10|Um|4G|y<|BT|4E#|n2!|n3#|n4#|n5-} 25|AM!|n6 -} 25|BR!|n7 -} 25|BU!|n8  -|WH|Bd0|U{|Be|y<|Bc|4<-} 25|Bf  #|n9#|n:#|n;0|Um|4G|y<|Bl|4E-} 25|Bm#|n<!|n=#|n>#|n?#|n@0|Ut|y<|Br|Bs|4H-} 25|Bt #|nA0|Um|4G|y<|Bw|4E-} 25|Bx !|nB 0|U{|4;|y<|C |4<-} 25|C!0|Um|A`|y<|C#|4E#|nC0|Um|4G|y<|C%|4E-} 25|C&  #|nD#|nE#|nF#|nG#|nH!|nI#|nJ#|nK0|Ut|y<|Br|C1|4H-} 25|C2#|nL#|nM!|nN#|nO#|nP!|nQ#|nR  !|nS 0|U{|4;|y<|C>|4<-} 25|C?0|Um|A`|y<|C@|4E#|nT0|Um|4G|y<|CB|4E-} 25|CC #|nU#|nV#|nW 0|Um|4G|y<|C4|4E#|nX0|Ut|y<|Br|CK|4H-} 25|CL#|nY#|nZ!|n[#|n]!|n^#|n_ #|n`!|na!|nb#|nc #|nd0|Um|4G|y<|CZ|4E-} 25|C[ #|ne#|nf0|Um|4G|y<|C`|4E #|ng0|Um|A`|y<|Cc|4E!|nh#|ni#|nj #|nk 0|U{|4;|y<|Cj|4< 0|U{|4;|y<|Cl|4< 0|U{|4;|y<|Cn|4<-} 25|Co#|nl#|nm0|Um|4G|y<|Cr|4E-} 25|Cs#|nn!|no#|np#|nq  !|nr#|ns#|nt!|nu#|nv-} 25|Cd!|nw-} 25|Ca!|nx0|U{|4;|y<|Ch|4<-} 25|D)#|ny!|nz#|n{!|o 0|Um|4G|y<|D |4E-} 25|D\/#|o!!|o#   -} 25|Cm!|o$-} 25|Ck!|o%-} 25|CA!|o&-} 25|CJ!|o'0|Um|4G|y<|CH|4E-} 25|D>#|o( #|o)-} 25|C$!|o*!|o+#|o,!|o-0|Um|4G|y<|C-|4E-} 25|DH #|o.#|o\/0|Ut|y<|DK|DL|4H-} 25|DM#|o00|Um|4G|y<|DO|4E #|o10|Um|4G|y<|DR|4E-} 25|DS*! |2'*!!|DJ|0X!|o2#|o30|Um|4G|y<|DX|4E-} 25|DY#|o40|Um|4G|y<|D[|4E-} 25|D]#|o50|Um|4G|y<|D_|4E#|o6#|o7!|o8#|o9#|o:!|o;#|o< #|o=0|Um|4G|y<|Di|4E#|o>#|o?!|o@#|oA #|oB0|Um|4G|y<|Dp|4E #|oC#|oD0|Um|4G|y<|Dt|4E-} 25|Du  #|oE#|oF#|oG#|oH#|oI#|oJ0|Ut|y<|E!|E#|4H-} 25|E$  0|U{|4;|y<|E'|4<#|oK0|Um|4G|y<|E)|4E#|oL!|oM#|oN!|oO#|oP!|oQ#|oR #|oS0|Um|4G|y<|E3|4E-} 25|E4#|oT!|oU#|oV#|oW #|oX0|Um|A`|y<|E;|4E!|oY#|oZ #|o[ 0|U{|4;|y<|EA|4< 0|U{|4;|y<|EC|4<-} 25|ED#|o]0|Um|4G|y<|EF|4E-} 25|EG #|o^ #|o_-} 25|E(!|o`#|oa-} 25|E<!|ob#|oc!|od-} 25|E*!|oe0|Um|A`|y<|EL|4E-} 25|EV0|U{|4;|y<|E&|4<-} 25|EX   -} 25|EB!|of0|U{|4;|y<|E?|4<-} 25|E`#|og#|oh0|Ut|y<|Eb|Ec|4H-} 25|Ed#|oi0|Um|4G|y<|Ef|4E#|oj#|ok #|ol0|Um|A`|y<|Ek|4E!|om#|on!|oo#|op#|oq  0|U{|4;|y<|Es|4< 0|U{|4;|y<|Eu|4<#|or 0|U{|4;|y<|Ex|4< 0|U{|4;|y<|Ez|4<-} 25|E{#|os0|Um|4G|y<|F!|4E-} 25|F##|ot!|ou#|ov#|ow#|ox#|oy#|oz!|o{#|p  #|p!!|p##|p$#|p%    #|p&0|Um|4G|y<|F7|4E #|p'#|p(0|Ut|y<|F:|F;|4H-} 25|F< #|p)0|Um|4G|y<|F?|4E-} 25|F@#|p*!|p+#|p, !|p-#|p.0|Um|4G|y<|FG|4E#|p\/!|p0#|p1#|p2#|p3  #|p4#|p5!|p6#|p7 #|p80|Um|A`|y<|FU|4E!|p9#|p:  0|U{|4;|y<|FZ|4<-} 25|F[#|p;0|Um|4G|y<|F^|4E-} 25|F_#|p<!|p=#|p>#|p?  #|p@#|pA#|pB#|pC-} 25|FV!|pD-} 25|FH!|pE #|pF!|pG0|Um|4G|y<|Fg|4E-} 25|Fr #|pH!|pI#|pJ!|pK  0|U{|4;|y<|FY|4<-} 25|F{#|pL-} 25|El!|pM-} 25|Eg!|pN  -} 25|F8-} 25|Ey!|pO-} 25|Ev!|pP-} 25|Et!|pQ0|U{|4;|y<|Er|4<-} 25|G0#|pR!|pS#|pT!|pU#|pV#|pW-} 25|Dq!|pX-} 25|Dj!|pY-} 25|D`!|pZ#|p[!|p]#|p^!|p_#|p`!|pa-} 25|DP   #|pb#|pc0|Ut|y<|GH|GI|4H-} 25|GJ#|pd!|pe#|pf #|pg0|Um|4G|y<|GP|4E#|ph!|pi#|pj!|pk #|pl0|Um|4G|y<|GW|4E #|pm0|Um|4G|y<|GZ|4E#|pn!|po#|pp#|pq #|pr0|Um|4G|y<|Gb|4E #|ps0|Um|4G|y<|Ge|4E #|pt #|pu#|pv#|pw#|px#|py-} 25|Gf!|pz-} 25|Gc!|p{-} 25|G[!|q -} 25|GX!|q!-} 25|GQ!|q#0|Um|4G|y<|Gm|4E-} 25|Gy   #|q$#|q%0|Ut|y<|H#|H$|4H-} 25|H% #|q&0|Um|A`|y<|H(|4E!|q'#|q( !|q) 0|U{|4;|y<|H.|4< 0|U{|4;|y<|H0|4<-} 25|H10|Um|4G|y<|Cx|4E-} 25|H3 #|q*#|q+#|q,0|Um|4G|y<|H8|4E#|q-!|q.#|q\/#|q0-} 25|H)!|q1-} 25|H9 -} 25|H\/!|q20|U{|4;|y<|H,|4<-} 25|HD!|q3#|q4#|q5#|q6#|q7#|q8#|q9#|q:#|q;#|q<#|q=!|q>!|q?!|q@!|qA!|qB!|qC!|qD!|qE!|qF!|qG#|qH#|qI#|qJ0|Ut|y<|H]|H^|4H-} 25|H_#|qK  0|U{|4;|y<|Hc|4< 0|U{|4;|y<|He|4<!|qL 0|U{|4;|y<|Hh|4<0|U{|4;|y<0|4< 0|U{|4;|y<|Hk|4< 0|U{|4;|y<|Hm|4<#|qM0|Um|4G|y<|Ho|4E-} 25|Hp#|qN!|qO#|qP#|qQ#|qR!|qS#|qT-|WM|3=#|qU #|qV!|qW#|qX#|qY!|qZ#|q[ -} 25|Hn!|q]  #|q^#|q_#|q`#|qa#|qb0|Um|Hy|y<|Hz|4E-} 25|I1-} 25|Hl!|qc -} 25|Hj!|qd-} 25|Hi!|qe-} 25|Hf!|qf-} 25|Hd!|qg0|U{|4;|y<|Hb|4<-} 25|I>#|qh!|qi  #|qj#|qk0|Ut|y<|ID|IE|4H-} 25|IF#|ql#|qm#|qn#|qo!|qp#|qq #|qr!|qs!|qt#|qu #|qv!|qw#|qx #|qy#|qz0|Um|4G|y<|IY|4E#|q{!|r #|r!#|r##|r$#|r%#|r&!|r'#|r(#|r)  #|r*!|r+#|r, #|r-!|r.#|r\/#|r0 #|r10|Um|4G|y<|Iq|4E #|r20|Um|4G|y<|It|4E#|r3!|r4#|r5#|r6#|r7#|r8 #|r9!|r:#|r;#|r< #|r= #|r>  #|r?!|r@#|rA0|Um|4G|y<|J.|4E-} 25|J\/#|rB!|rC#|rD#|rE  #|rF #|rG-} 25|Iu!|rH-} 25|Ir!|rI #|rJ!|rK#|rL!|rM#|rN!|rO    #|rP!|rQ#|rR!|rS-} 25|IZ!|rT#|rU!|rV#|rW!|rX #|rY!|rZ 0|Um|4G|y<|J%|4E-} 25|JW#|r[!|r]#|r^!|r_   #|r`#|ra0|Ut|y<|Ja|Jb|4H-} 25|Jc#|rb#|rc!|rd#|re #|rf!|rg#|rh#|ri!|rj #|rk!|rl#|rm #|rn 0|U{|4;|y<|Ju|4<-} 25|Jv0|Um|Hy|y<|Jw|4E#|ro0|Um|4G|y<|Jy|4E#|rp!|rq#|rr#|rs#|rt!|ru#|rv#|rw   #|rx0|Um|4G|y<|K+|4E-} 25|K,#|ry!|rz#|r{#|s #|s!  #|s##|s$!|s%#|s&#|s'  #|s(!|s)#|s*#|s+#|s,-} 25|Jz!|s--} 25|Jx!|s.#|s\/ #|s0!|s1#|s2!|s3  0|Um|4G|y<|K8|4E-} 25|KM#|s4!|s5#|s6!|s7#|s8   #|s9!|s:#|s;#|s<0|Ut|y<|KY|KZ|4H-} 25|K[#|s=#|s>!|s?#|s@ -|WM|39#|sA0|Um|Kc|y<|Kd|4E!|sB!|sC  0|U{|4;|y<|Ki|4<-} 25|Kj#|sD0|Um|4G|y<|Kl|4E#|sE!|sF#|sG#|sH#|sI#|sJ#|sK#|sL  #|sM#|sN#|sO!|sP#|sQ  #|sR!|sS#|sT#|sU#|sV!|sW#|sX #|sY0|Um|4G|y<|L,|4E#|sZ!|s[#|s]#|s^  0|U{|4;|y<|L3|4<-} 25|L40|Um|Hy|y<|L5|4E#|s_0|Um|4G|y<|L7|4E-} 25|L8#|s`!|sa#|sb#|sc   #|sd#|se!|sf#|sg-} 25|L6!|sh-} 25|L-!|si#|sj!|sk#|sl!|sm     #|sn-} 25|Km!|so-} 25|Ke!|sp0|Um|4G|y<|LA|4E-} 25|LW  0|U{|4;|y<|Kh|4<-} 25|L[#|sq!|sr#|ss!|st#|su#|sv0|Ut|y<|Lb|Lc|4H-} 25|Ld  -|WH|Lg0|U{|Lh|y<|Lf|4< #|sw0|Um|4G|y<|Lk|4E!|sx!|sy#|sz#|s{0|Um|4G|y<|Lp|4E#|t !|t!#|t##|t$#|t%#|t&!|t'#|t( #|t)!|t*#|t+#|t, #|t-#|t.0|Um|Hy|y<|M&|4E!|t\/#|t0  0|U{|4;|y<|M+|4<#|t1 0|U{|4;|y<|M.|4<-} 25|M\/#|t20|Um|4G|y<|M1|4E-} 25|M2#|t3!|t4#|t5#|t6#|t7 #|t8!|t9#|t:  #|t;#|t<!|t=#|t>#|t?-} 25|M'!|t@-} 25|Lq!|tA-} 25|M,!|tB0|U{|4;|y<|M*|4<-} 25|MJ#|tC!|tD!|tE  -} 25|Ll!|tF0|Um|4G|y<|M?|4E-} 25|MS-} 25|Li #|tG!|tH#|tI!|tJ  #|tK#|tL0|Ut|y<|M^|M_|4H-} 25|M`#|tM0|Um|4G|y<|Mb|4E#|tN!|tO#|tP#|tQ #|tR!|tS#|tT0|Um|4G|y<|Mk|4E#|tU!|tV#|tW#|tX#|tY  #|tZ #|t[0|Um|4G|y<|Mv|4E-} 25|Mw#|t]!|t^#|t_#|t`#|ta#|tb #|tc     #|td!|te#|tf #|tg-} 25|Ml!|th-} 25|Mc!|ti#|tj!|tk#|tl0|Um|4G|y<|N+|4E-} 25|N7#|tm#|tn!|to#|tp!|tq #|tr!|ts#|tt!|tu#|tv#|tw0|Ut|y<|NC|ND|4H-} 25|NE#|tx !|ty#|tz !|t{#|u 0|Um|Hy|y<|NM|4E!|u!#|u##|u$#|u%#|u& #|u' 0|U{|4;|y<|NV|4< 0|U{|4;|y<|NX|4< 0|U{|4;|y<|NZ|4< 0|U{|4;|y<|N]|4<#|u( 0|U{|4;|y<|N`|4<-} 25|Na#|u)0|Um|4G|y<|Nc|4E-} 25|Nd  #|u*0|Um|4G|y<|Nh|4E#|u+!|u,#|u-#|u.#|u\/-} 25|NN!|u0-} 25|Ni0|U{|4;|y<|NT|4<-} 25|Nr#|u1!|u2#|u3!|u4  -} 25|N^!|u5-} 25|N[!|u6-} 25|NY!|u7-} 25|NW!|u8!|u9#|u:#|u;#|u<#|u=#|u>!|u?!|u@!|uA!|uB!|uC#|uD#|uE#|uF0|Ut|y<|O3|O4|4H-} 25|O5#|uG#|uH!|uI#|uJ#|uK!|uL#|uM !|uN#|uO0|Um|4G|y<|O@|4E#|uP!|uQ#|uR#|uS!|uT#|uU#|uV!|uW#|uX#|uY #|uZ0|Um|4G|y<|OM|4E#|u[!|u]#|u^ #|u_#|u`0|Um|4G|y<|OT|4E#|ua!|ub#|uc #|ud0|Um|4G|y<|OZ|4E#|ue!|uf#|ug#|uh #|ui0|Um|4G|y<|Ob|4E-} 25|Oc  #|uj#|uk#|ul!|um#|un#|uo0|Ut|y<|Ok|Ol|4H-} 25|Om#|up0|Um|4G|y<|Oo|4E#|uq!|ur#|us#|ut#|uu#|uv!|uw#|ux!|uy!|uz#|u{#|v !|v!#|v##|v$!|v%#|v&#|v' #|v(!|v)#|v* #|v+0|Um|4G|y<|P-|4E #|v,-|WM|3=#|v-0|Um|P1|y<|P2|4E!|v.  0|U{|4;|y<|P6|4<-} 25|P7#|v\/#|v00|Um|4G|y<|P:|4E-} 25|P;  #|v1#|v20|Um|4G|y<|P@|4E #|v3-} 25|P3!|v4-} 25|P.!|v5  0|U{|4;|y<|P5|4<-} 25|PJ-} 25|Op!|v6-} 25|PA#|v7!|v8#|v9!|v:    #|v;-} 25|O[!|v<-} 25|OU!|v=    -} 25|ON!|v>-} 25|OA!|v?0|Um|4G|y<|Oh|4E-} 25|Pe     #|v@#|vA0|Ut|y<|Pl|Pm|4H-} 25|Pn#|vB!|vC#|vD #|vE0|Um|4G|y<|Pt|4E#|vF!|vG#|vH#|vI!|vJ#|vK#|vL#|vM#|vN!|vO#|vP #|vQ!|vR#|vS#|vT#|vU!|vV#|vW   #|vX#|vY!|vZ#|v[ #|v]0|Um|4G|y<|Q6|4E#|v^!|v_#|v` #|va!|vb#|vc#|vd!|ve#|vf #|vg#|vh0|Um|4G|y<|QD|4E-} 25|QE#|vi!|vj#|vk#|vl!|vm#|vn #|vo!|vp #|vq#|vr#|vs0|Ut|y<|QR|QS|4H-} 25|QT  0|U{|4;|y<|QW|4< 0|U{|4;|y<|QY|4<!|vt 0|U{|4;|y<|Q]|4< 0|U{|4;|y<|Q_|4<#|vu0|Um|4G|y<|Qa|4E#|vv!|vw#|vx#|vy #|vz0|Um|4G|y<|Qh|4E-} 25|Qi#|v{!|w #|w!  #|w#-} 25|Q`!|w$#|w%#|w&#|w'#|w(-} 25|Qb!|w)0|Um|P1|y<|Qp|4E-} 25|Qy-} 25|Q^!|w*-} 25|QZ!|w+-} 25|QX!|w,0|U{|4;|y<|QV|4<-} 25|R&  #|w--} 25|Q7!|w.-} 25|Pu!|w\/    #|w0   0|Um|4G|y<|QC|4E-} 25|R7  #|w1!|w2#|w3!|w4#|w5!|w6#|w7!|w8 #|w90|Ut|y<|Pl|RD|4H-} 25|RE 0|U{|4;|y<|RG|4<-} 25|RH0|Um|P1|y<|RI|4E#|w:0|Um|4G|y<|RK|4E !|w;#|w<0|Um|P1|y<|RO|4E!|w=  0|U{|4;|y<|RS|4<-} 25|RT#|w>#|w?0|Um|4G|y<|RW|4E #|w@0|Um|4G|y<|RZ|4E-} 25|R[#|wA!|wB#|wC#|wD#|wE#|wF #|wG!|wH#|wI  #|wJ#|wK#|wL -} 25|RX!|wM-} 25|RP!|wN-} 25|RL!|wO-} 25|RJ!|wP0|Um|4G|y<|Rl|4E-} 25|Rv0|U{|4;|y<|RR|4<-} 25|Rx#|wQ!|wR#|wS!|wT  !|wU#|wV#|wW#|wX!|wY!|wZ!|w[#|w]#|w^#|w_0|Ut|y<|S-|S.|4H-} 25|S\/-|WM|3=#|w`0|Um|S1|y<|S2|4E!|wa  0|U{|4;|y<|S6|4<-} 25|S7!|wb#|wc0|Um|4G|y<|S:|4E#|wd!|we#|wf#|wg!|wh#|wi!|wj#|wk#|wl#|wm0|Um|S1|y<|SE|4E!|wn#|wo #|wp 0|U{|4;|y<|SK|4< 0|U{|4;|y<|SM|4<-} 25|SN#|wq0|Um|4G|y<|SP|4E-} 25|SQ#|wr!|ws#|wt#|wu  #|wv#|ww0|Um|4G|y<|SZ|4E #|wx-} 25|SF!|wy-} 25|S;!|wz -} 25|S3!|w{-} 25|S[0|U{|4;|y<|S5|4<-} 25|Sg   -} 25|SL!|x 0|U{|4;|y<|SI|4<-} 25|Sn#|x!#|x#0|Ut|y<|Sp|Sq|4H-} 25|Sr  -|WH|Su0|U{|Sv|y<|St|4< #|x$0|Um|4G|y<|Sy|4E!|x%#|x&!|x'#|x(  -|WH|T%0|U{|T&|y<|T$|4< #|x)#|x*0|Um|4G|y<|T*|4E#|x+!|x,  -|WH|T\/0|U{|T0|y<|T.|4<-} 25|T1#|x-0|Um|4G|y<|T3|4E-} 25|T4#|x.  #|x\/#|x0!|x1#|x2#|x3#|x4-} 25|T+!|x5-} 25|Sz!|x60|Um|4G|y<|T9|4E-} 25|TC-} 25|Sw -} 25|T'#|x7#|x80|Ut|y<|TH|TI|4H-} 25|TJ#|x9  -|WH|TN0|U{|TO|y<|TM|4<-} 25|TP0|Um|4G|y<|TQ|4E!|x:  -|WH|TU0|U{|TV|y<|TT|4<-} 25|TW0|Um|4G|y<|TX|4E-} 25|TY#|x;0|Um|4G|y<|T[|4E #|x<  -|WH|Ta0|U{|Tb|y<|T`|4<-} 25|Tc0|Um|4G|y<|Td|4E-} 25|Te#|x=  -|WH|Ti0|U{|Tj|y<|Th|4<-} 25|Tk0|Um|4G|y<|Tl|4E-} 25|Tm#|x>  -|WH|Tq0|U{|Tr|y<|Tp|4<-} 25|Ts0|Um|4G|y<|Tt|4E-} 25|Tu 0|U{|T0|y<|Tw|4<-} 25|Tx0|Um|4G|y<|Ty|4E-} 25|Tz#|x?  -|WH|U#0|U{|U$|y<|U!|4<-} 25|U%0|Um|4G|y<|U&|4E-} 25|U'#|x@0|Um|4G|y<|U)|4E-} 25|U*#|xA  #|xB#|xC#|xD#|xE!|xF#|xG!|xH#|xI!|xJ#|xK!|xL#|xM!|xN-} 25|T]!|xO#|xP!|xQ-} 25|TR!|xR#|xS!|xT#|xU#|xV#|xW0|Ut|y<|UE|UF|4H-} 25|UG#|xX  -|WM|3= 0|U{|4;|y<|UM|4<-} 25|UN0|Um|UL|y<|UO|4E!|xY#|xZ0|Um|4G|y<|UR|4E #|x[0|Um|4G|y<|UU|4E #|x]#|x^0|Um|4G|y<|UY|4E#|x_!|x`#|xa#|xb #|xc!|xd#|xe#|xf#|xg!|xh#|xi #|xj0|Um|4G|y<|Ui|4E-} 25|Uj#|xk#|xl!|xm#|xn#|xo  #|xp#|xq#|xr!|xs#|xt-} 25|UZ!|xu-} 25|UV!|xv-} 25|US!|xw-} 25|UP!|xx0|Um|4G|y<|Ut|4E-} 25|V%#|xy!|xz    #|x{#|y 0|Ut|y<|V-|V.|4H-} 25|V\/#|y!0|Um|4G|y<|V1|4E#|y#!|y$#|y% !|y&#|y'0|Um|4G|y<|V8|4E-} 25|V9 #|y(0|Um|UL|y<|V<|4E!|y) #|y* 0|U{|4;|y<|VA|4<-} 25|VB#|y+0|Um|4G|y<|VD|4E-} 25|VE#|y,!|y-#|y.  #|y\/#|y0#|y1#|y20|Um|4G|y<|VO|4E #|y3-} 25|V=!|y4#|y5!|y6-} 25|V2!|y7-} 25|VP 0|U{|4;|y<|V?|4<-} 25|V[ #|y8#|y90|Ut|y<|V_|V`|4H-} 25|Va #|y:0|Um|UL|y<|Vd|4E!|y;  0|U{|4;|y<|Vh|4<-} 25|Vi!|y<#|y=0|Um|4G|y<|Vl|4E#|y>!|y?#|y@#|yA#|yB#|yC#|yD#|yE#|yF!|yG#|yH  #|yI #|yJ!|yK#|yL#|yM #|yN!|yO#|yP  #|yQ  -|WH|W.0|U{|W\/|y<|W-|4<-} 25|W00|Um|4G|y<|W1|4E#|yR0|Um|4G|y<|W3|4E-} 25|W4#|yS!|yT#|yU  #|yV#|yW!|yX#|yY#|yZ-} 25|W2!|y[-} 25|Vm!|y]    -} 25|Ve!|y^0|Um|4G|y<|W;|4E-} 25|WJ0|U{|4;|y<|Vg|4<-} 25|WL#|y_!|y`#|ya!|yb#|yc!|yd#|ye!|yf#|yg#|yh0|Ut|y<|WV|WW|4H-} 25|WX  0|U{|4;|y<|W[|4<#|yi0|Um|4G|y<|W^|4E#|yj!|yk#|yl!|ym#|yn!|yo #|yp0|Um|4G|y<|Wg|4E #|yq0|Um|4G|y<|Wj|4E#|yr#|ys!|yt#|yu#|yv#|yw#|yx#|yy!|yz#|y{ #|z   #|z!!|z##|z$ #|z%#|z&0|Um|4G|y<|X$|4E-} 25|X%#|z'!|z(#|z)#|z*#|z+#|z,#|z-#|z. #|z\/ #|z0  #|z1!|z2#|z3#|z4 #|z5!|z6#|z7 #|z8!|z9-} 25|W]!|z:#|z;#|z<  #|z=-} 25|Wk!|z>-} 25|Wh!|z?  #|z@!|zA#|zB!|zC#|zD!|zE#|zF!|zG#|zH!|zI#|zJ  -} 25|W_!|zK 0|Um|UL|y<|X7|4E-} 25|X^0|U{|4;|y<|WZ|4<-} 25|X` #|zL!|zM#|zN!|zO#|zP!|zQ #|zR#|zS0|Ut|y<|Xj|Xk|4H-} 25|Xl#|zT#|zU#|zV#|zW  #|zX!|zY#|zZ!|z[ #|z]!|z^#|z_ #|z`#|za!|zb#|zc#|zd  0|Um|4G|y<|UI|4E#|ze#|zf0|Um|4G|y<|Y+|4E-} 25|Y,  #|zg#|zh!|zi#|zj#|zk#|zl!|zm-} 25|Y)!|zn  0|Um|4G|y<|Y0|4E-} 25|Y;#|zo!|zp#|zq!|zr#|zs!|zt#|zu!|zv#|zw!|zx#|zy !|zz#|z{#|{ #|{!#|{##|{$!|{%!|{&!|{'!|{(!|{)#|{*#|{+0|Ut|y<|YT|YU|4H-} 25|YV 0|U{|4;|y<|YX|4< 0|U{|4;|y<|YZ|4< 0|U{|4;|y<|Y]|4<!|{,#|{-0|Um|4G|y<|Y`|4E-} 25|Ya  #|{.-} 25|Y^!|{\/#|{0#|{1 #|{20|Um|UL|y<|Ye|4E-} 25|Yl-} 25|Y[!|{3-} 25|YY!|{40|U{|4;|y<|Yj|4<-} 25|Yr#|{5#|{60|Ut|y<|Yt|Yu|4H-} 25|Yv#|{7  #|{80|Um|4G|y<|Y{|4E#|{9!|{:#|{;!|{<#|{=#|{>#|{?#|{@#|{A#|{B  #|{C  #|{D!|{E#|{F #|{G  0|U{|4;|y<|Z7|4<-} 25|Z80|Um|UL|y<|Z9|4E#|{H0|Um|4G|y<|Z;|4E-} 25|Z<#|{I!|{J#|{K#|{L#|{M#|{N   #|{O!|{P#|{Q #|{R!|{S#|{T#|{U#|{V-} 25|Z:!|{W-} 25|Z !|{X#|{Y!|{Z#|{[!|{]  #|{^!|{_#|{`!|{a#|{b!|{c  0|Um|4G|y<|ZG|4E-} 25|Zc!|{d#|{e!|{f !|{g#|{h!|{i#|{j!|{k#|{l!|{m#|{n#|{o#|{p0|Ut|y<|Zq|Zr|4H-} 25|Zs#|{q  -|WH|Zw0|U{|Zx|y<|Zv|4< !|{r#|{s0|Um|4G|y<|[ |4E#|{t!|{u#|{v #|{w0|Um|4G|y<|['|4E#|{x!|{y#|{z#|{{#}   #}  !  #}  #!}  $#}  %#}  & -|WM|3=#}  '0|Um|[6|y<|[7|4E!}  (#}  ) #}  * 0|U{|4;|y<|[=|4< 0|U{|4;|y<|[?|4<-} 25|[@#}  +0|Um|4G|y<|[B|4E-} 25|[C#}  ,!}  -#}  .#}  \/#}  0    #}  1#}  2!}  3#}  4#}  5-} 25|[8!}  6-} 25|[(!}  7 -} 25|[>!}  80|U{|4;|y<|[;|4<-} 25|[Z!}  9#}  :!}  ;#}  <!}  =-} 25|[!!}  >0|Um|4G|y<|[N|4E-} 25|[d-} 25|Zy!}  ?  #}  @!}  A#}  B #}  C#}  D0|Ut|y<|[n|[o|4H-} 25|[p#}  E#}  F #}  G!}  H#}  I  !}  J #}  K0|Um|4G|y<|] |4E-} 25|]! #}  L0|Um|4G|y<|]%|4E#}  M!}  N#}  O#}  P #}  Q0|Um|4G|y<|],|4E #}  R0|Um|4G|y<|]\/|4E#}  S#}  T!}  U#}  V#}  W#}  X!}  Y#}  Z #}  [!}  ]#}  ^#}  _ #}  `0|Um|4G|y<|]?|4E-} 25|]@#}  a!}  b#}  c#}  d#}  e   #}  f#}  g!}  h#}  i-} 25|]0!}  j-} 25|]-!}  k  #}  l!}  m -} 25|]&!}  n#}  o!}  p0|Um|4G|y<|]J|4E-} 25|][#}  q!}  r#}  s #}  t!}  u #}  v#}  w0|Ut|y<|]e|]f|4H-} 25|]g#}  x#}  y -|WH|]k#}  z!}  {#} ! !} !! #} !#0|Um|4G|y<|]r|4E#} !$!} !%#} !&#} !' #} !(#} !)0|Um|[6|y<|]z|4E!} !*  0|U{|4;|y<|^#|4<-} 25|^$#} !+#} !,0|Um|4G|y<|^'|4E #} !-0|Um|4G|y<|^*|4E-} 25|^+!} !.#} !\/#} !0#} !1#} !2#} !3#} !4#} !5 #} !6!} !7#} !8 #} !9  #} !:#} !;!} !<#} !=-} 25|^(!} !>-} 25|]{!} !? 0|U{|4;|y<|^!|4<-} 25|^F!} !@#} !A!} !B!} !C#} !D!} !E#} !F!} !G  !} !H-} 25|]s!} !I0|Um|4G|y<|^=|4E-} 25|^U#} !J!} !K!} !L0|U{|]l|y<|Zv|4<-} 25|^Z !} !M#} !N#} !O0|Ut|y<|^_|^`|4H-} 25|^a  0|U{|4;|y<|^d|4<#} !P0|Um|[6|y<|^f|4E!} !Q !} !R 0|U{|4;|y<|^k|4<-} 25|^l#} !S0|Um|4G|y<|^n|4E #} !T0|Um|[6|y<|^q|4E#} !U!} !V  0|U{|4;|y<|^v|4<-} 25|^w#} !W0|Um|4G|y<|^y|4E-} 25|^z #} !X #} !Y#} !Z-} 25|^e!} ![#} !]-} 25|^r!} !^-} 25|^o!} !_-} 25|^g!} !`0|Um|[6|y<|_%|4E-} 25|_\/0|U{|4;|y<|^c|4<-} 25|_10|U{|4;|y<|^i|4<-} 25|_30|U{|4;|y<|^u|4<-} 25|_5!} !a#} !b#} !c!} !d!} !e#} !f#} !g#} !h0|Ut|y<|_=|_>|4H-} 25|_?  0|U{|4;|y<|_B|4<#} !i0|Um|4G|y<|_D|4E#} !j!} !k!} !l#} !m#} !n#} !o#} !p#} !q  #} !r   -|WM|3= 0|U{|4;|y<|_U|4<-} 25|_V0|Um|_T|y<|_W|4E#} !s#} !t0|Um|4G|y<|_Z|4E#} !u!} !v#} !w#} !x!} !y#} !z #} !{ 0|U{|4;|y<|_e|4<-} 25|_f0|Um|_T|y<|_g|4E#} # 0|Um|4G|y<|_i|4E-} 25|_j #} #! #} ##-} 25|_C!} #$#} #%#} #&0|Ut|y<|_r|_s|4H-} 25|_t#} #'!} #(#} #)#} #*!} #+#} #,  !} #-#} #.0|Um|4G|y<|`$|4E#} #\/!} #0#} #1 #} #20|Um|4G|y<|`*|4E-} 25|`+#} #3!} #4#} #5#} #6  #} #7#} #8!} #9#} #:#} #;#} #<-} 25|`%!} #=0|Um|4G|y<|`3|4E-} 25|`;#} #>!} #?     #} #@-} 25|_h!} #A-} 25|_[!} #B   -} 25|_X!} #C-} 25|_E!} #D0|Um|_T|y<|_o|4E-} 25|`P0|U{|4;|y<|_A|4<-} 25|`R#} #E!} #F#} #G!} #H#} #I!} #J#} #K!} #L#} #M#} #N0|Ut|y<|`]|`^|4H-} 25|`_ 0|U{|4;|y<|`a|4< 0|U{|4;|y<|`c|4< 0|U{|4;|y<|`e|4<!} #O#} #P0|Um|4G|y<|`h|4E-} 25|`i  #} #Q-} 25|`f!} #R#} #S#} #T #} #U#} #V0|Ut|y<|`s|`t|4H-} 25|`u #} #W0|Um|4G|y<|`x|4E #} #X0|Um|4G|y<|`{|4E#} #Y!} #Z#} #[!} #]#} #^!} #_#} #`#} #a!} #b#} #c #} #d!} #e#} #f#} #g #} #h0|Um|4G|y<|a2|4E-} 25|a3 #} #i#} #j0|Um|4G|y<|a7|4E#} #k!} #l#} #m#} #n#} #o!} #p!} #q#} #r#} #s#} #t0|Um|4G|y<|aB|4E-} 25|aC#} #u!} #v#} #w#} #x!} #y#} #z #} #{ 0|U{|4;|y<|`w|4<-} 25|aN#} $ -} 25|a8!} $!#} $#!} $$#} $% #} $&!} $'  -} 25|a !} $(-} 25|`y!} $)0|Um|_T|y<|aO|4E-} 25|a`#} $*!} $+#} $,   #} $-0|Um|_T|y<|`m|4E-} 25|ai-} 25|`d!} $.-} 25|`b!} $\/0|U{|4;|y<|`r|4<-} 25|ao!} $0#} $1#} $2!} $3!} $4#} $5#} $6#} $70|Ut|y<|aw|ax|4H-} 25|ay-|WM|3=#} $80|Um|a{|y<|b |4E!} $9  0|U{|4;|y<|b%|4<-} 25|b&!} $:#} $;0|Um|4G|y<|b)|4E#} $<!} $=#} $>#} $?!} $@#} $A!} $B#} $C#} $D #} $E0|Um|4G|y<|b5|4E#} $F!} $G#} $H#} $I#} $J#} $K#} $L#} $M #} $N!} $O#} $P #} $Q#} $R #} $S #} $T #} $U0|Um|4G|y<|bK|4E#} $V#} $W!} $X#} $Y #} $Z0|Um|4G|y<|bR|4E-} 25|bS#} $[!} $]#} $^#} $_#} $`#} $a    #} $b  #} $c#} $d0|Ut|y<|bc|bd|4H-} 25|be#} $e#} $f#} $g#} $h  #} $i!} $j!} $k#} $l    #} $m#} $n0|Um|4G|y<|bv|4E#} $o!} $p#} $q#} $r #} $s0|Um|4G|y<|c!|4E#} $t#} $u!} $v#} $w#} $x#} $y #} $z #} ${ #} %  #} %!0|Um|4G|y<|c1|4E-} 25|c2#} %#!} %$#} %%#} %&  #} %'!} %(#} %)#} %*#} %+-} 25|c#!} %,-} 25|bw!} %-!} %. #} %\/!} %0#} %1!} %2#} %3!} %4 0|Um|4G|y<|c7|4E-} 25|cL#} %5!} %6#} %7!} %8#} %9!} %:#} %;!} %<#} %=!} %>  #} %?-} 25|bL!} %@-} 25|b6!} %A#} %B!} %C#} %D   #} %E!} %F#} %G!} %H#} %I!} %J -} 25|b*!} %K-} 25|b!!} %L0|Um|4G|y<|b`|4E-} 25|cq0|U{|4;|y<|b$|4<-} 25|cs  #} %M!} %N#} %O!} %P#} %Q#} %R0|Ut|y<|c{|d |4H-} 25|d!  0|U{|4;|y<|d%|4< 0|U{|4;|y<|d'|4<#} %S0|Um|4G|y<|d)|4E!} %T #} %U0|Um|a{|y<|d-|4E!} %V#} %W 0|U{|4;|y<|d1|4<#} %X 0|U{|4;|y<|d4|4<-} 25|d5#} %Y0|Um|4G|y<|d7|4E-} 25|d8#} %Z!} %[#} %]  #} %^#} %_-} 25|d(!} %`#} %a#} %b-} 25|d.!} %c-} 25|d*!} %d0|Um|a{|y<|d@|4E-} 25|dI-} 25|d&!} %e0|U{|4;|y<|d$|4<-} 25|dM-} 25|d2 #} %f#} %g0|Ut|y<|dQ|dR|4H-} 25|dS#} %h0|Um|4G|y<|dU|4E#} %i!} %j#} %k#} %l!} %m#} %n#} %o!} %p#} %q!} %r#} %s!} %t#} %u  #} %v 0|U{|4;|y<|dh|4<-} 25|di0|Um|a{|y<|dj|4E#} %w0|Um|4G|y<|dl|4E#} %x!} %y#} %z#} %{!} & #} &!#} &##} &$!} &%#} && #} &'0|Um|4G|y<|dy|4E-} 25|dz#} &( #} &)  0|U{|4;|y<|e%|4<-} 25|e&#} &*-} 25|dm!} &+-} 25|dk!} &, -} 25|dV!} &-0|Um|a{|y<|e'|4E-} 25|e0#} &.   #} &\/ #} &0#} &10|Ut|y<|e8|e9|4H-} 25|e:  #} &20|Um|4G|y<|e>|4E#} &3!} &4#} &5!} &6#} &7!} &8#} &9#} &: #} &;0|Um|a{|y<|eI|4E!} &<#} &=  0|U{|4;|y<|eN|4<-} 25|eO#} &>0|Um|4G|y<|eQ|4E-} 25|eR#} &?!} &@#} &A#} &B#} &C#} &D#} &E     #} &F#} &G!} &H#} &I#} &J#} &K-} 25|eJ!} &L-} 25|e?!} &M#} &N!} &O 0|Um|4G|y<|ea|4E-} 25|en#} &P!} &Q   0|U{|4;|y<|eM|4<-} 25|eu#} &R!} &S#} &T!} &U#} &V#} &W0|Ut|y<|e{|f |4H-} 25|f!  #} &X0|Um|4G|y<|f&|4E#} &Y!} &Z#} &[#} &]!} &^#} &_  #} &`0|Um|4G|y<|f0|4E#} &a!} &b#} &c#} &d#} &e!} &f#} &g  #} &h0|Um|4G|y<|f;|4E-} 25|f<#} &i!} &j#} &k#} &l#} &m#} &n#} &o!} &p#} &q   #} &r#} &s!} &t#} &u#} &v#} &w-} 25|f1!} &x-} 25|f'!} &y#} &z!} &{  0|Um|4G|y<|fJ|4E-} 25|fX#} ' !} '! #} '#!} '$ #} '% !} '&#} ''#} '(0|Ut|y<|fd|fe|4H-} 25|ff #} ')0|Um|a{|y<|fi|4E!} '*#} '+#} ', !} '- 0|U{|4;|y<|fp|4< 0|U{|4;|y<|fr|4<-} 25|fs#} '.0|Um|4G|y<|fu|4E#} '\/!} '0#} '1#} '2#} '3 #} '4!} '5#} '6 #} '7#} '80|Um|4G|y<|g'|4E#} '9!} ':#} ';#} '<#} '=#} '>#} '?#} '@!} 'A#} 'B#} 'C #} 'D #} 'E #} 'F #} 'G #} 'H0|Um|4G|y<|g=|4E-} 25|g>#} 'I!} 'J#} 'K#} 'L  #} 'M!} 'N#} 'O#} 'P#} 'Q0|Ut|y<|gI|gJ|4H-} 25|gK#} 'R!} 'S#} 'T #} 'U0|Um|a{|y<|gQ|4E!} 'V#} 'W!} 'X#} 'Y  0|U{|4;|y<|gX|4< 0|U{|4;|y<|gZ|4<-} 25|g[#} 'Z#} '[0|Um|4G|y<|g_|4E-} 25|g`#} ']!} '^#} '_#} '`#} 'a#} 'b#} 'c!} 'd#} 'e    #} 'f#} 'g#} 'h#} 'i!} 'j#} 'k#} 'l-} 25|gR!} 'm0|Um|4G|y<|go|4E-} 25|gx    !} 'n-} 25|gY!} 'o0|U{|4;|y<|gW|4<-} 25|h&#} 'p!} 'q#} 'r!} 's!} 't#} 'u-} 25|g(!} 'v-} 25|fv!} 'w #} 'x!} 'y#} 'z!} '{#} ( !} (!#} (#!} ($  -} 25|fj!} (%0|Um|4G|y<|gC|4E-} 25|h? !} (&-} 25|fq!} ('0|U{|4;|y<|fn|4<-} 25|hE#} ((!} () !} (*#} (+#} (,#} (-#} (.#} (\/#} (0!} (1!} (2!} (3!} (4!} (5!} (6#} (7#} (8#} (90|Ut|y<|hX|hY|4H-} 25|hZ#} (:#} (;!} (<#} (= #} (>!} (?#} (@!} (A -|WM|3=#} (B0|Um|hg|y<|hh|4E!} (C  0|U{|4;|y<|hl|4<-} 25|hm#} (D#} (E0|Um|4G|y<|hp|4E  0|U{|4;|y<|hs|4<-} 25|ht0|Um|hg|y<|hu|4E#} (F#} (G0|Um|4G|y<|hx|4E-} 25|hy  #} (H#} (I#} (J!} (K#} (L#} (M0|Ut|y<|hX|i'|4H-} 25|i(#} (N#} (O!} (P#} (Q  !} (R#} (S0|Um|4G|y<|i1|4E#} (T!} (U#} (V#} (W  #} (X#} (Y0|Um|hg|y<|i:|4E!} (Z  0|U{|4;|y<|i>|4<-} 25|i?#} ([0|Um|4G|y<|iA|4E#} (] #} (^0|Um|4G|y<|iE|4E-} 25|iF#} (_!} (`#} (a#} (b#} (c#} (d#} (e#} (f#} (g     #} (h#} (i!} (j#} (k-} 25|iB!} (l-} 25|i;!} (m#} (n!} (o#} (p!} (q#} (r!} (s#} (t!} (u!} (v -} 25|i2!} (w0|Um|4G|y<|iV|4E-} 25|ik#} (x!} (y  #} (z!} ({ 0|U{|4;|y<|i=|4<-} 25|it#} ) -} 25|hv!} )!-} 25|hq!} )#-} 25|hi!} )$0|Um|4G|y<|i#|4E-} 25|j!#} )%!} )&   0|U{|4;|y<|hk|4<-} 25|j)!} )'#} )(#} ))#} )*0|Ut|y<|j-|j.|4H-} 25|j\/  0|U{|4;|y<|j2|4< 0|U{|4;|y<|j4|4<!} )+-|WM|3=#} ),0|Um|j7|y<|j8|4E!} )-  0|U{|4;|y<|j<|4<-} 25|j=#} ).#} )\/0|Um|4G|y<|j@|4E #} )00|Um|j7|y<|jC|4E!} )1 #} )2 0|U{|4;|y<|jH|4<-} 25|jI#} )30|Um|4G|y<|jK|4E-} 25|jL#} )4!} )5#} )6#} )7!} )8#} )9#} ):  #} );-} 25|j5!} )<#} )=#} )>-} 25|jD!} )?-} 25|jA!} )@-} 25|j9!} )A0|Um|j7|y<|jW|4E-} 25|jc-} 25|j3!} )B0|U{|4;|y<|j1|4<-} 25|jg0|U{|4;|y<|j;|4<-} 25|ji0|U{|4;|y<|jF|4<-} 25|jk  #} )C#} )D0|Ut|y<|jo|jp|4H-} 25|jq#} )E  0|U{|4;|y<|ju|4< 0|U{|4;|y<|jw|4<!} )F 0|U{|4;|y<|jz|4< 0|U{|4;|y<|k |4<#} )G0|Um|4G|y<|k#|4E#} )H!} )I#} )J#} )K #} )L0|Um|j7|y<|k*|4E!} )M #} )N 0|U{|4;|y<|k\/|4<-} 25|k0#} )O0|Um|4G|y<|k2|4E-} 25|k3#} )P!} )Q#} )R!} )S#} )T #} )U-} 25|k!!} )V#} )W#} )X#} )Y-} 25|k+!} )Z-} 25|k$!} )[ 0|Um|j7|y<|k;|4E-} 25|kF-} 25|j{!} )]-} 25|jx!} )^-} 25|jv!} )_0|U{|4;|y<|jt|4<-} 25|kN 0|U{|4;|y<|k-|4<-} 25|kQ !} )`#} )a#} )b#} )c0|Ut|y<|kV|kW|4H-} 25|kX  0|U{|4;|y<|k[|4< 0|U{|4;|y<|k^|4<!} )d 0|U{|4;|y<|ka|4<#} )e0|Um|4G|y<|kc|4E -|WM|3=#} )f0|Um|kf|y<|kg|4E!} )g#} )h#} )i#} )j  0|U{|4;|y<|kn|4< 0|U{|4;|y<|kp|4<#} )k 0|U{|4;|y<|ks|4<-} 25|kt#} )l0|Um|4G|y<|kv|4E-} 25|kw  #} )m-} 25|kb!} )n#} )o#} )p#} )q-} 25|kh!} )r-} 25|kd!} )s0|Um|kf|y<|k{|4E-} 25|l*-} 25|k_!} )t-} 25|k]!} )u0|U{|4;|y<|kZ|4<-} 25|l0-} 25|kq!} )v-} 25|ko!} )w0|U{|4;|y<|km|4<-} 25|l6#} )x#} )y0|Ut|y<|l8|l9|4H-} 25|l:#} )z!} ){#} *  #} *!0|Um|4G|y<|l@|4E#} *#!} *$#} *%!} *&#} *'!} *(#} *) #} **0|Um|4G|y<|lJ|4E #} *+ 0|U{|4;|y<|lN|4<-} 25|lO0|Um|kf|y<|lP|4E#} *,0|Um|4G|y<|lR|4E-} 25|lS  #} *-#} *.#} *\/#} *0!} *1#} *2#} *3-} 25|lQ!} *4-} 25|lK!} *5-} 25|lA!} *60|Um|4G|y<|lY|4E-} 25|le    #} *7#} *80|Ut|y<|lk|ll|4H-} 25|lm#} *90|Um|4G|y<|lo|4E #} *:0|Um|4G|y<|lr|4E#} *;!} *<#} *=#} *>!} *?#} *@  #} *A!} *B#} *C #} *D#} *E0|Um|kf|y<|m&|4E!} *F  0|U{|4;|y<|m*|4<-} 25|m+#} *G#} *H0|Um|4G|y<|m.|4E #} *I0|Um|4G|y<|m1|4E-} 25|m2#} *J!} *K#} *L #} *M  #} *N#} *O #} *P-} 25|m\/!} *Q-} 25|m'!} *R#} *S-} 25|ls!} *T-} 25|lp!} *U0|Um|4G|y<|m<|4E-} 25|mH#} *V!} *W#} *X!} *Y  0|U{|4;|y<|m)|4<-} 25|mP#} *Z#} *[0|Ut|y<|mR|mS|4H-} 25|mT#} *]!} *^#} *_ #} *`0|Um|4G|y<|mZ|4E#} *a#} *b!} *c#} *d!} *e #} *f0|Um|kf|y<|mc|4E!} *g#} *h#} *i #} *j 0|U{|4;|y<|mj|4< 0|U{|4;|y<|ml|4< 0|U{|4;|y<|mn|4<-} 25|mo#} *k#} *l0|Um|4G|y<|mr|4E-} 25|ms#} *m!} *n#} *o#} *p   #} *q#} *r!} *s#} *t#} *u-} 25|md!} *v-} 25|m[!} *w 0|Um|4G|y<|n |4E-} 25|n+   -} 25|mm!} *x-} 25|mk!} *y0|U{|4;|y<|mh|4<-} 25|n4#} *z!} *{#} + 0|Ut|y<|mR|n8|4H-} 25|n9#} +!!} +##} +$!} +%#} +&0|Um|4G|y<|n?|4E-} 25|n@!} +' #} +(#} +)#} +,#} +.#} +\/ -|WO|nI0|Um|nJ|y<|4<|4E-} 25|nK!} +1-|7?%|#K#} +2#} +3#} +40|Ut|y<|nP|nQ|4H-} 25|nR#} +5!} +6#} +7#} +8  #} +9!} +:#} +;!} +< #} +=0|Um|4G|y<|n`|4E #} +>0|Um|4G|y<|nc|4E#} +?!} +@#} +A#} +B#} +C#} +D!} +E#} +F #} +G!} +H#} +I #} +J #} +K0|Um|4G|y<|nt|4E #} +L0|Um|4G|y<|nw|4E #} +M 0|U{|4;|y<|n{|4<-} 25|o 0|Um|kf|y<|o!|4E#} +N0|Um|4G|y<|o$|4E-} 25|o% #} +O #} +P#} +Q#} +R-} 25|o#!} +S-} 25|nx!} +T#} +U  -} 25|nu!} +V-} 25|nd!} +W-} 25|na!} +X0|Um|4G|y<|o+|4E-} 25|o:#} +Y!} +Z#} +[ #} +]!} +^#} +_#} +`0|Ut|y<|oB|oC|4H-} 25|oD #} +a0|Um|kf|y<|oG|4E!} +b  0|U{|4;|y<|oK|4<-} 25|oL!} +c#} +d0|Um|4G|y<|oO|4E#} +e!} +f#} +g #} +h0|Um|4G|y<|oU|4E#} +i#} +j!} +k#} +l#} +m#} +n!} +o#} +p#} +q!} +r#} +s#} +t#} +u!} +v#} +w#} +x!} +y#} +z  #} +{#} , !} ,!#} ,#  0|U{|4;|y<|oq|4<-} 25|or0|Um|kf|y<|os|4E#} ,$#} ,%0|Um|4G|y<|ov|4E-} 25|ow  #} ,&#} ,'#} ,(-} 25|ot!} ,)-} 25|oV!} ,*     -} 25|oP!} ,+-} 25|oH!} ,,0|Um|4G|y<|o{|4E-} 25|p00|U{|4;|y<|oJ|4<-} 25|p2 #} ,-!} ,.#} ,\/!} ,0#} ,1#} ,2#} ,30|Ut|y<|p:|p;|4H-} 25|p<#} ,4   #} ,50|Um|4G|y<|pB|4E#} ,6!} ,7!} ,8#} ,9#} ,:#} ,;#} ,<  #} ,= 0|U{|4;|y<|pN|4<-} 25|pO0|Um|kf|y<|pP|4E#} ,>0|Um|4G|y<|pR|4E-} 25|pS  #} ,?#} ,@#} ,A!} ,B#} ,C#} ,D#} ,E-} 25|pQ!} ,F-} 25|pC!} ,G0|Um|4G|y<|pX|4E-} 25|pc#} ,H!} ,I!} ,J#} ,K#} ,L!} ,M!} ,N #} ,O#} ,P0|Ut|y<|pm|pn|4H-} 25|po#} ,Q0|Um|4G|y<|pq|4E#} ,R!} ,S#} ,T -|7?%7#} ,U#} ,Y!} ,Z -|7?%U#} ,[0|Um|4G|y<|q!|4E#} ,]!} ,^#} ,_ #} ,`#} ,a #} ,b0|Um|4G|y<|q+|4E #} ,c0|Um|kf|y<|q.|4E!} ,d#} ,e  0|U{|4;|y<|q3|4<-} 25|q4#} ,f0|Um|4G|y<|q6|4E-} 25|q7 #} ,g #} ,h#} ,i #} ,j-} 25|q\/!} ,k-} 25|q,!} ,l-} 25|q#!} ,m-} 25|pr!} ,n0|Um|4G|y<|q=|4E-} 25|qH#} ,o#} ,s#} ,t0|U{|4;|y<|q2|4<-} 25|qM#} ,u#} ,v0|Ut|y<|qO|qP|4H-} 25|qQ 0|U{|4;|y<|qS|4< 0|U{|4;|y<|qU|4< 0|U{|4;|y<|qW|4<!} ,w#} ,x0|Um|4G|y<|qZ|4E-} 25|q[  #} ,y-} 25|qX!} ,z#} ,{#} -  #} -!0|Um|kf|y<|q`|4E-} 25|qg-} 25|qV!} -#-} 25|qT!} -$0|U{|4;|y<|qe|4<-} 25|qm!} -%#} -&#} -'#} -(#} -)#} -*#} -+#} -,#} --!} -.!} -\/!} -0!} -1!} -2!} -3!} -4!} -5#} -6#} -7#} -80|Ut|y<|r&|r'|4H-} 25|r(#} -9   #} -:0|Um|4G|y<|r.|4E!} -; -|WM|3=#} -<0|Um|r2|y<|r3|4E!} -=#} ->#} -? #} -@ 0|U{|4;|y<|r:|4< 0|U{|4;|y<|r<|4< 0|U{|4;|y<|r>|4<-} 25|r?#} -A#} -B0|Um|4G|y<|rB|4E-} 25|rC#} -C!} -D#} -E#} -F   #} -G#} -H!} -I#} -J#} -K#} -L-} 25|r4!} -M-} 25|r\/!} -N 0|Um|4G|y<|rL|4E-} 25|rW#} -O!} -P#} -Q!} -R -} 25|r=!} -S-} 25|r;!} -T0|U{|4;|y<|r8|4<-} 25|rc#} -U!} -V#} -W0|Um|4G|y<|rg|4E#} -X!} -Y#} -Z  -|WH|rm#} -[!} -]-} 25|rh!} -^#} -_!} -`0|U{|rn|y<|rl|4<-} 25|ru#} -a#} -b0|Ut|y<|rw|rx|4H-} 25|ry   0|U{|4;|y<|s!|4<-} 25|s#0|Um|r2|y<|s$|4E-} 25|s%!} -c#} -d0|Um|4G|y<|s(|4E-} 25|s)  #} -e#} -f#} -g#} -h0|Um|4G|y<|s0|4E-} 25|s1 #} -i#} -j0|Ut|y<|s4|s5|4H-} 25|s6#} -k #} -l!} -m #} -n!} -o#} -p!} -q #} -r0|Um|4G|y<|sB|4E #} -s0|Um|r2|y<|sE|4E!} -t#} -u#} -v  0|U{|4;|y<|sK|4< 0|U{|4;|y<|sM|4<-} 25|sN#} -w#} -x0|Um|4G|y<|sQ|4E-} 25|sR  #} -y#} -z!} -{#} . #} .!#} .#-} 25|sF!} .$-} 25|sC!} .%0|Um|4G|y<|sV|4E-} 25|sa#} .&!} .'#} .(!} .)  -} 25|sL!} .*0|U{|4;|y<|sJ|4<-} 25|sk#} .+#} .,0|Ut|y<|sm|sn|4H-} 25|so#} .-#} ..!} .\/#} .0 #} .10|Um|4G|y<|sv|4E-} 25|sw!} .2#} .3!} .4#} .5#} .6!} .7#} .8 #} .90|Um|4G|y<|t&|4E#} .:#} .;!} .<#} .=#} .>#} .? #} .@ #} .A#} .B0|Um|4G|y<|t2|4E#} .C!} .D#} .E#} .F#} .G#} .H!} .I#} .J#} .K#} .L!} .M#} .N  #} .O #} .P 0|U{|4;|y<|tE|4<-} 25|tF0|Um|r2|y<|tG|4E#} .Q0|Um|4G|y<|tI|4E-} 25|tJ#} .R#} .S  #} .T#} .U!} .V#} .W-} 25|tH!} .X-} 25|t3!} .Y #} .Z!} .[#} .]!} .^   -} 25|t'!} ._#} .`!} .a0|Um|4G|y<|tP|4E-} 25|te    #} .b!} .c#} .d#} .e0|Ut|y<|tm|tn|4H-} 25|to  0|U{|4;|y<|tr|4< 0|U{|4;|y<|tt|4<#} .f0|Um|4G|y<|tv|4E!} .g #} .h0|Um|r2|y<|tz|4E!} .i#} .j #} .k 0|U{|4;|y<|u%|4< 0|U{|4;|y<|u'|4<-} 25|u(#} .l0|Um|4G|y<|u*|4E-} 25|u+#} .m!} .n#} .o#} .p  #} .q-} 25|tu!} .r#} .s#} .t-} 25|t{!} .u-} 25|tw!} .v0|Um|r2|y<|u3|4E-} 25|u<-} 25|ts!} .w0|U{|4;|y<|tq|4<-} 25|u@-} 25|u&!} .x0|U{|4;|y<|u#|4<-} 25|uD !} .y#} .z#} .{#} \/ #} \/!!} \/#!} \/$!} \/%!} \/&#} \/'#} \/(0|Ut|y<|uP|uQ|4H-} 25|uR#} \/)0|Um|4G|y<|uT|4E#} \/*!} \/+#} \/,#} \/-  !} \/.#} \/\/0|Um|4G|y<|u^|4E #} \/00|Um|4G|y<|ua|4E#} \/1!} \/2#} \/3#} \/4#} \/5   0|U{|4;|y<|uj|4<-} 25|uk0|Um|r2|y<|ul|4E#} \/6#} \/70|Um|4G|y<|uo|4E-} 25|up#} \/8!} \/9#} \/:  #} \/;#} \/<#} \/= #} \/>-} 25|um!} \/?-} 25|ub!} \/@-} 25|u_!} \/A-} 25|uU!} \/B0|Um|4G|y<|uy|4E-} 25|v)#} \/C!} \/D #} \/E!} \/F  !} \/G!} \/q\/|%p|v2|v5|v6!} 0:!} 0;!} 0<     !} 0= &!} 0>!} 0@!} 0B!} 0D!} 0F!} 0H!} 0K!} 0N!} 0U!} 0W!} 0]!} 0_!} 0a-|7?%|x*-|7?% G} 1#.|'?|vM|vN!} 0b  !} 0r&!} 0t-|7?$-|7?%|),-|7?%}!JA.|'?|vW|vX-|7?%8-|7?%|!A.|'?|vZ|v[-|7?%9-|7?%2.|'?|v^|v_-|7?%|#c-|7?%F.|'?|va|vb!} 1+!} 17!} 1F!} 1W!} 1Y&&&&&&&&&&&&&&&&&&&&&&&&&&&&!} 1^!} 1`!} 1d!} 1q!} 1u&  !} 1y!} 2,!} 2.!} 20!} 24!} 26#} 28!} 29!} 2:!} 2<!} 2=!} 2>!} 2@!} 2B!} 2C!} 2E!} 2I!} 2L!} 2p!} 2t!} 2u!} 2v!} 2w!} 2z!} 2{!} 3#.} 2A|wG|wH.} 2A|wI|wJ!} 3$#} 3&#} 3'#} 3(!} 3)!} 3*!} 3,#} 3-#} 3.!} 3\/!} 32!} 34!} 38!} 3:!} 3<!} 3=!} 3M!} 3V!} 3o!} 3q!} 3s!} 3u!} 3w!} 3{  !} 4!!} 4).200#} 41#} 42.280!} 43 -|6C|wp#} 4=!} 4>!} 5X!} 5Z,} 5]!} 5^!} 5`!} 5b!} 5d            !} 5f!} 5g!} 5h!} 5m-|7?#-|7?% >}$E -|7?% | )} 1&-|7?%7-|7?%| 7-|7?$!} 6(!} 6+!} 6-!} 6:!} 6<!} 6E!} 6L!} 6P#} 6R!} 6S*!!|x6|x^*!!|x7|xv#} 6W!} 6Y#} 6b#} 6c#} 6d#} 6e!} 6f#} 6l#} 6m!} 6n#} 6t#} 6u#} 6v#} 6w!} 6x#} 7##} 7$!} 7%#} 7+#} 7,#} 7-#} 7.!} 7\/#} 75#} 76!} 77!} 7=-|7?$!} 7>  #} 7B  #} 7C& &*!!|xT|xh#} 7D&&#} 7E &&*! |xp!} 7F!} 7T!} 8m-|7?#-|7?%7!} 9o!} 9q&!} 9t!} : *! |#Z!} :#!} :+!} :-!} :5\/|%p|x{|y#|y%,} :6,} :7,} :8!} :9!} :;#} :? !} :A!} :B!} :D#} :F#} :G!} :H!} :]!} :_!} :b!} :d!} :f!} :h!} :k!} :m,} :p!} :q!} :s!} :u!} :w!} :x!} :z#} :{");
+"#$! ##! #!! ##! #!! !!%! #!# #!! !!%! #!# !#'! ##$ !!%! #!# !$)! #!% !#'! #!$ #!! !!%! !#'! $$# $$$ !#'! $$# $$$ !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$$ !#'! $$# $$$ !#'! $$# $$# !#'! $$# $$# !)3! #!* !!%! $$! !#'! #!$ !#'! !#'! !#'! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !#)! !!&&  $ !!'! !!&%  $ !$+! !!&'  $ !!'! !!&%  $  $  $  $ !#%! $$! $$! !#%! $$! $$$ $$! $!( $$! $$! $!( $$# $$! $$# !!#! !#%! !#%! !#%! !#%!  !!|&# !!|&  !!_!!%!!^!!%!!`!!%! $$! $$# !#'!!h!$)!!h!#'!!b!!#!!p!!%!!f$$!!f$$#!f!!%!!h!$)! $$#  $ !#'! $$#  $ !#'! !!#!!s!!%!!t$$!!t$$#!t!#'! !!%! $$! #!! !#'! #!$ !!%! #!# !#'! $$# $$$ !!%! $$!  ! !$'!$| 0| \/| (!#&##| 0| ($$##| 0| ($$%#| 0| ($$% $$%  !  !  !  ! !$'!&| \/| -| ,| +| *!#&#%| -| ,| +| *$$#%| -| ,| +| *$$&%| -| ,| +| *$$&#| +| *$$&#| +| *$$%#| +| *$$$#| +| *$$$!| +$$$ !$'!(|*_|*c|*b| '| &| %| $$$((|*_|*c|*b| '| &| %| $$$'(|*_|*c|*b| '| &| %| $$!''|*c|*b| '| &| %| $$$+&|*c|*b| '| %| $$!+&|*c|*b| '| %| $$$+%|*c|*b| '| $$!+%|*c|*b| '| $$$-%|*c|*b| '| $$!-%|*c|*b| '| $$$*%|*c|*b| '| $$$(#|*c| $$$& !!$% !!$% $$$  ! !#%!!| 0$$!!| 0 #!| 0$$#  !#|&%| :!#%!$|*b| 4| 2$$%!| 4$$% !!$% $$$ $$! !!%! $$! !#%!#|*b| 7$$%  $ !!$% $$$ $$! !#'!!|)C$$!!|)C $ !#'!!|)C$$!!|)C $ !'\/!#| =| <$$(#| =| <$$)#| =| <$$*#| =| <$$*!| =$$( $$) $(' $$) $$* $$)  $ $$! $$!  #  #  #  # !!%!#| g| @ #!| g #!| @!#'!!| B!$)! $$$ $$$ $&! !!%! $$! $&! !#'! $$# $&! !#'! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! !!%! $$! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$$ !#'! $$# $$$ !!%!#|+>|#q$$!#|+>|#q$$!#|+>|#q$$!!|#q$&! !#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!#'!!|$,$$#!|$,$$#!|$,!!%! $$!  !#|)e| C!!%!!| ^$$!!| ^ !#|)d| C!!%!!| `$$!!| `!!%! $$! !!%!!| @!!%!!| c$$!!| c!#'!!| g!!&$!| g #!| g % !#'!!| e$$#!| e$$#!| e!!%!#|)f| C!!%!!| g!!%!!| h$$!!| h$$! !#'!!| i #!| i!$)!!| j!$)!!| k$$$!| k$$$!| k$$$!| k!#'! $$# $$# !#'! $$# $$# !#)! !#)! !!%! $$! !!%! #!# !!%! #!# !!'! #!$ !!%! !!%! $$! !#%!$|!,|!(|!'!!$##|!,|!(!#%!!|!&!$'!'|&Z|%>|)u|!4|!3|!-$$$&|&Z|%>|)u|!4|!-$$$%|&Z|%>|)u|!-$$$$|%>|)u|!-$$$$|%>|)u|!-$!!!|!-$!$#|%>|)u$$##|%>|)u$$%#|%>|)u$$# $!)#|%>|)u$$$#|%>|)u$$&#|%>|)u$$%#|%>|)u$$%#|%>|)u$$%#|%>|)u$$$#|%>|)u$$%!|)u$$$ $$# $$$ $$# $$%!|)u$$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# $$$ $$# !#%!!|!-$$!!|!-$!!!|!-!!#!!|!. !#|'$|!\/ !#|'%|!0!#%! $$! !#%!!|!'!!$# !!#!$|%>|%$|%?!!#!$|%$|%?|%=!#%!!|!&!#%!!|!2!%)! $$$ $$% $$% !$'! $$# $$$ !#'! !#'!#|+:|!:$$##|+:|!:$&$!|!: $!|!:!#'!%|+>|+:|!;|!:$$$%|+>|+:|!;|!:$$$$|+:|!;|!:$&##|+:|!:$&$!|!:$$&!|!: $!|!: $!|!:!#'! !$)! !#'!#|+:|!>$$##|+:|!>$&$!|!>$$%!|!>$&!  %!|!>$$$!|!>$&!  $!|!>!#'!$|!?|#>|!A$$#$|!?|#>|!A$$$$|!?|#>|!A $!|!? $!|!?!!%!!|)C$$!!|)C # $&! !!%!!|!M$!#!|!M!!%! $$! $&! !$)!  $ !$)!!|#P$$#!|#P!!%!!|#P$$!!|#P!#'!!|#P$$#!|#P %!|#P$$$!|#P $!|#P!!&$!|#P$$$!|#P %!|#P$$$!|#P $ !#'!-|$^|#V|!K|!J|!I|!H|!G|!F|!E|!D|!C|!B $ $&!  # $$! $$#  # $$! $$#  ##|$^|#V !#|+_|!@!#'!%|+:|!>|#@|!;$$$%|+:|!>|#@|!;$$# $&##|+:|!>$&$!|!>$$%!|!> %!|!>$$$!|!>$&!  $!|!>$$$!|!> $!|!>!#'!#|+Y|#A$$$#|+Y|#A $#|+Y|#A$$#!|#A$&! !$)!!|#B$$$!|#B $!|#B$&! !#'!  # $&!  $ $&!  $ $&! !$)!  $ $&! !#'! $$# $&! !#'! !$)! #!% !$)! $$$ $$$ $&! !!%!!|!N$$!!|!N$$! !$)! $$$  &  % !!&% $$%  &  $ !!%! $$! !!%! $$! !!%! #!# !!%! $$! !$)!#|+>|#]$$$!|#]$$$#|+>|#]$$$!|#]!#'!$|+>|#^|#]$$#!|#^$$$!|#]!%+!$|$B|#a|#c$$&$|$B|#a|#c$$'$|$B|#a|#c$$($|$B|#a|#c$$'#|$B|#a$$&#|$B|#a$$%#|$B|#a$$#  #  #  # !$)!!|#_$$$!|#_$&! !%+!!|#b$$&!|#b$$'!|#b$$(!|#b$$) $$( $$) $&( $$*  $  % $$*  $  '  % $(( $$+  $  % $$+  $  '  %  %  #  #  #  #  #  !#|)C|#d !#|)C|#d !#|)C|#d!#'!#|$,|$)$$##|$,|$)$$##|$,|$)!#'!!|$,$$#!|$,$$# !#'!#|$,|$)!#'!!|#h$$#!|#h$$#!|#h$$! !#'!!|$,$$#!|$,$$# $$! !#'!#|$,|$*$$##|$,|$*$$##|$,|$*!#'!#|$,|$*$$##|$,|$*$$##|$,|$*!!%! $$! !!%! $$! $$! !#'!%|+;|+?|$,|$+$$$%|+;|+?|$,|$+$$$#|+;|$,$$%#|+;|$,$$$!|+;$$# !!%! $$! !(1! #!) !!%! $$! !!%! $$! !%+! #!& !!%! $$! !*5! #!+ !!%! $$! !$)! #!% !!%! $$! !!%! $$! !#'! #!$ !#'! $$# $$# !#'! $$$ $$$ $$$  %  #  #  #  !!|)> !!|)= !!|)?!!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!'! #!$ !#'! $$# $$$ !!%! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !(1! #!) !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! #!# !#'!#|$]|$J$$##|$]|$J!#'! $$# !#'! $$# $$&  # $$!  # $$!  $ $&! !#'! $$# $$&  # $$!  # $$!  $ $&! !#'! $$# $$$  # $$!  # $$!  $ $&! !#'! $$# $$% !#'!#|$P|$T$$##|$P|$T$$$!|$P $!|$P!#'! $$# !#'! $$#  $  !#|$`|$U !#|$_|$W !#|$_|$Y !#|$`|$S !#|)C|$V!#'!#|$a|$J!!%!$|)C|$_|$Z$$!!|)C #!|$Z !#|)C|$X!#'! $$# $$$ !!%! #!# !!'! #!$ !#'! #!$ !#'! #!$ !#'! $$# !1C! #!2 !1C! $$1 $$1 $$1 $$1 $$1 #!! !!%! #$# ##! #!! #%! #!! !&+!#|&%|$s$$&#|&%|$s $ !#&'#|&%|$s$!'#|&%|$s$$&#|&%|$s$$(#|&%|$s %!|&% % $!+!|$s$!&!|$s !#|&%|$y !#|&%|% !&+!!|$s!!$&!|$s$$%!|$s$$# $$# $!# !&+!%|%+|%'|%&|%!!#&#$|%+|%'|%&$$#$|%+|%'|%&$$+$|%+|%'|%&$$+!|%+$$+!|%+$$# $$+!|%+$$-!|%+$$*!|%+$$,!|%+$$0!|%+$$0!|%+$$1!|%+$$)!|%+$$)!|%+ $ $$#  # $$! $!)!|%+$$)!|%+$$0!|%+$$0!|%+$$-  $ $$( $$% $$#  # $$! $$# !%)!!|%#$$$!|%#!-9!!|%,$$-!|%,$$-!|%,$$\/!|%,$$.!|%,$$.!|%,$$.!|%,$$\/!|%,$$.!|%,$$.!|%,$$.!|%,$&-!|%,$$0!|%,$$1 $$1  # $$! $&0 $!% $$$  %  1 $$0 $$0  # $$!  # $$!  # $$! !!#!!|$z!!#!!|$w!#%! $$! $$% $$% $$% $$#  !#|&%|%* !#|)C|$u!&+! $$!  # $$! !$(% $$% $$& $$( $$& $$& $$# $$# !!%!#|&&|$v!$)! $$$  $ $$# $$! !!#!(|'D|%w|%v|%%|%<|%5|%1$$!'|%w|%v|%%|%<|%5|%1$$!'|%w|%v|%%|%<|%5|%1!!#!(|'D|%w|%v|%%|%<|%3|%5$$!'|%w|%v|%%|%<|%3|%5$$!'|%w|%v|%%|%<|%3|%5!$'!!|%6$$#!|%6!$'!!|%.$$$!|%.$$$!|%.$$*!|%.$$*!|%.$$*!|%.$$(!|%.$!'!|%.$$&!|%.$!!  #!|%.$$%!|%.$$%!|%.$$%!|%.$$$!|%.$$$!|%.$$$!|%.$!!  #!|%.$!!  #!|%.$$$!|%.$$$!|%.$$$!|%.$!!  #!|%.$!!  #!|%.!!#!!|%; !!|%2 !!|%0!#%!#|%$|%?!#%!!|%@!%)!$|*c|%B|%C$$%!|%B # $$%!|%B # !!$%#|*c|%C$$$#|*c|%C$$%#|*c|%C$$!#|*c|%C$$%!|%B$$%!|%B$$%!|%B $ $$# !!%! $$! !%)!$|)Z|*b|%E$$!!|)Z #!|)Z$$!!|)Z!!$% $$$ $$$ $$! !%)!!|%F$$$!|%F$$$!|%F!!%! $$! !#%!#|*b|%I$$! !!$# $$! !#%!!|%J$$!!|%J!#%! $$! !#%!!| 5$$! $$!  # $$!  # $$! !%)!$|*b|%R|%N$$! !!$% $&$ $$% $&! $&! $&! !%)!!|%O$$$!|%O ! !!%!!|%Q!#%!$|*b|%S|%R$$!  # $$! !!$# $&! !#%!!|%T$$!!|%T!#%!!| 9 # $$! !$'!#|*c|%W$&##|*c|%W$$!#|*c|%W$$! !$'!!|%X$$#!|%X!$'!!| ) # $$! !#%!#| 1| \/ # $$! !$'!!| . # $$!  # $$! !#%!!| 5$$! $$!  # $$! !$'!#|*c|%_$$##|*c|%_$$#  $ $$# !#%!!|%`$$!!|%`!%)!#|*c|%b$$$#|*c|%b$$$ !$'!!|%c$$#!|%c$$$!|%c!$'! !)3!#|*c|%f$$)#|*c|%f$$)  * $$)  # $$! $$)  * $$)  # $$! !!$'#|*c|%f$$!#|*c|%f!$'!!|%g$$#!|%g$$#!|%g!'-!!|*c!!$'!|*c$$&!|*c$$'!|*c$$'!|*c$$#!|*c$$! $$! !)3!#|%k|%j$$) $$) !$'!!|%l$$#!|%l$$#!|%l!$'!  # $$! !$'!!|%B$$#!|%B$$)!|%B$$' !%)!#|*c|%p$$$#|*c|%p$$%#|*c|%p$$!#|*c|%p$$! $$! $$!  # $$! !!$%#|*c|%p$$$#|*c|%p$$%#|*c|%p$$!#|*c|%p$$! $$! !)3!!|%s$$)  * $$) !$'!!|%t$$#!|%t$$#!|%t!#'! #!$ !#'! $$# $$# !!%!!|&!!!%!!|&$!!%!!|&&!!%! $$! !#'!!|&E$$#!|&E!#'!!|&=!!#!!|&`!!%!!|&@$$!!|&@$$#!|&@!#'!4|&9|&8|&7|&6|&5|&4|&3|&2|&1|&0|&\/|&.|&-|&,|&+|&*|&)|&(|&'$$#4|&9|&8|&7|&6|&5|&4|&3|&2|&1|&0|&\/|&.|&-|&,|&+|&*|&)|&(|&'!'\/!'|$f|$e|&[|&D|&C|&B$$$$|$f|$e|&[ #!|&[$$#$|$f|$e|&[$$#$|$f|$e|&[ $#|$f|&[ ##|$f|&[ #!|&[ $#|$f|&[ ##|$f|&[ #!|&[ &%|&[|&D|&C|&B$$#!|&[ #!|&[ %$|&D|&C|&B $#|&D|&C$$##|&D|&C $!|&D #!|&D!$)!!|&E$$#!|&E!!%!!|&E$$!!|&E!$)!!|&N$$#!|&N!#'!!|&N$$#!|&N!#'!!|&I!!#!!|&d!!%!!|&L$$!!|&L$$#!|&L!!%!!|&N$$!!|&N!$)!!|&V$$#!|&V!#'!!|&V$$#!|&V!#'!!|&Q!!#!!|&f!!%!!|&T$$!!|&T$$#!|&T!!%!!|&V$$!!|&V!!#!!|&b!!%!!|&Y$$!!|&Y$$#!|&Y$$!!|&Y$$#!|&Y#!! #!! !'\/! #!( #4! #3! #2! #1! #0! #\/! #.! #-! #,! #*! #)! #(! #'! #%! #$! ##! #!! !#)!!|&;$$#!|&;$&#!|&;$$$!|&;$$%!|&;$&#!|&; $!|&; $!|&; #!|&; !!|&&!!%! !$'!!|'>$$#!|'>$$&!|'>!$'!!|'B!!#!!|'\/!!#!!|'2!.?! $&\/ $!2 $!2 $!3 $!3 $!3 $!4 $!4 $!4 $!2 $!4 $!4 $!3 $!3 $!5 $!5 !$'! $$# $$) !!#! !#%! !.?! $&\/ $!2 $!2 !$'! $$# $$) !$)! #!% !&-! #!' #$! ##! #!! !!%! $$!  !#|&%|'=!!#!!|': !#|&%|'A!!#!!|'3!!$# !#&#  !!|'C !!|'F !!|'D$$! !\/?! #!0 ##! #%! #$! ##! #!! !!%! $$! !!%! $$! !!%! $$! !'\/! #!( !!%! $$! !!%! $$! !!%! $$! !'1! #!) !&-! $$& $$( $$( $$( ##! #!! !#%!#|'%|'$ ##|'%|'$ #!|'%!%)! $$$ $$$ $$#  $ !#&$ $$# !!$% $$$ $$$ $$# !!$#  $ !#&$ $$# $$$ $$$ $$#  $ !#&$ $$# !!%! $$! !#%!!|'X!$)! #!% #!! !!%! ### !!%! #!# #!! !#'! #!$ !$)! #!%  !#|)C|'d!#'! ##$ !#'! $$# !!%! #!# !!%! $$! #!! !(1!  & $$% $&% $$' $$& $$& $$( $$& $$& $!& $$$ $$( $$# $$# $$( $$% $$% !%)! $$$ !#&$ $$% $$( $$# !#&& $$% $$% $$# !!&# $$# !$)!!|'e$$%!|'e$$%!|'e!#&%!|'e$$&!|'e$$'!|'e!#&% $$% $$$ $$$ $$& $$! $$# $$& $$$ $$% $$#  $ $$# $$# $$$ $$% $$#  $ !#&% !!%! #!#  ! $!# !%*$ !#)!!|'o$$&  %  % $(#  %  % !#'! $$# $$$ $!$ $$$ $!$ $$$ $$! $!$ $$$ $$! $!$ $$% $$! $!% $$$ !$)!#|+:|$,$$%#|+:|$,$&$ $$% $$$ $$# $$$ $$# !#'!!|'w$$#!|'w$&! !#'!!|'w$&# $$$ $$& $$& $$& $!& $$$ $$$  #  # !#'!!|'t$$#!|'t!#'!!|'w$$#!|'w$&# $$$ $$# $$#  # !#'!'|+:|$,|#a|#v|#e|#^$&#'|+:|$,|#a|#v|#e|#^ %#|#a|#v $  $#|#a|#v # $$%#|+:|$,$$&#|+:|$,$&$  $  $ $$!  #  # !#'!!|'w$$#!|'w$&! !#'!!|'w$$#!|'w$&# $$$ $$# $$#  # !!%! !!%! !!%! !!%! $$! $&! !#'! $$# $$! !!%! $&! $$# !!%! $$! $$! !!%! $$! $&! $$! !#'! $&# !#'! $$# $$# $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! !#'! $$# $$! !!%!!|'p$&!!|'p$$! $$$!|'p$$$!|'p$&#!|'p$&! $$# $$# $$# $$# !!%!!|(5$$!!|(5$&! !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !%+!!|'r$$&!|'r$&&!|'r$$' $$' $$* $$# $$# $!) $$$ $$#  % $$) $$# $$# $!( $$% $$#  $ $$$ $$'!|'r$$&!|'r %  % $&'!|'r$$&!|'r$$&!|'r$$%!|'r !  !  ! !!%!!|(j$$!!|(j!1C! #!2 !!%! $$! !4I! #!5 !!%! $$! !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !#'! $$# $$# !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'!&|+Y|(G|(F|(E|(C$$$&|+Y|(G|(F|(E|(C$$#$|(G|(F|(E$$!#|(F|(E$$$#|+Y|(C$$$#|+Y|(C$$#!|(C$$! $$! !#+! #!& !#'! $$# $$$ !$'! $$& $$' $$$ !!%! !!$# $$# $$% $$# !!%!!|(p!!%!!|(r!#'!  $ !#'! !$)! !#'! !!#!!|)$!!%!!|(x$$!!|(x$$#!|(x!!%! !#'!!|)0!!#!!|)'!!%!!|)($$!!|)($$#!|)(!#'!'|)\/|).|)-|),|)+|)*$$#'|)\/|).|)-|),|)+|)*!$)!!|)0!!%!!|)0#'! #%! #!! !&-! #!' !!%! $$! !!%! $$! !#'! #!$ !!%! $$!  !!|(q !!|(q !!|(q!!%!!|(o !#|)C|)A!!%!!|)@ #!|)@!$)! !&-! !#'! !!&$  % !%+! !!&&  & !%+!#|)C|$P$$!!|)C &!|$P %!|$P %!|$P$$$!|$P$&$!|$P $!|$P $!|$P$$#!|$P %!|$P $  $ !!%!#|)C|)M$$!!|)C #!|)M!!%!#|)C|)O$$!!|)C #!|)O !#|)C|)I!!%!!|)Q$$!!|)Q !#|)C|)H!!%!!|)S$$!!|)S!!%! !!%! $$! !#'! $$# $$# !#'! $$# $$# !$)! $$$ $$$ $$$  !#|)C|)J!#'! #!$ !)3! #!* !&-!  ' !!&'  % !$)!  % !!&%  % !&-!  ' !!&'  % !$)!  % !!&%  % !#'! !!%!!|)N!!%!!|)L!%+!!|)K!%+! $$% $$% $$% !#(#  $  #  # $$% !#(#  $  #  # !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!#!!|)m!#%!%|'E|)q|)p|)o$$!%|'E|)q|)p|)o$$$$|'E|)q|)p$$$$|'E|)q|)p!#&#!|'E$$$ !#&# $$# $$$  $!|)p$$$!|)p$$!!|)p$!( $$# $$# !#%! $$!  !#|%A|%>!#%!!|)u$$# !!%! #!#  !!|)l!#%!!|)r!#'! $$#  $ !$)! !!&% $$%  $ !#'! $$#  $  $ !$'! $$# !!%!!|'[!$'! $$#  $ !$'! $$# !#%! !$'! $$# $$#  $ !$'! $$# !$'! $$# $$# !&-! #!' !&-! #!' !#'! #!$ !!%! ### #!! !#'! !!%! !!%! $$! !!%! $$! !!%! $$! !%+!!|*6$$%!|*6!&-!!|*7!&-!&|)C|$P|*<|*;|*:$$!!|)C '$|$P|*<|*; &$|$P|*<|*; &#|$P|*< %#|$P|*< %!|$P $  $ !%+! #!& !%+! $$% $$% $$%  !#|)C|*4!%+!!|*5!%+! $$% $&& !%)! $$$ $$%  $ $&! !!%! !!%! !$'!  $ $$# $$$ !%)! $$$  $ $$# $$$ !$'!  $ !%)! $$$  $ $$# $$$ !#%! $$# $$#  $  # $$! !%-! $$%  # $$! !$'! $$# !!%! !$'! $$# $$$ !%)! $$$ $$% $$% !#%! $$! !$'! $$# $$$ !)3! #!* !!%! $$! !!%! $$! !%)! $&$ $$# $$& !%)! $&$ $$% $$&  !#|&%|*a!%)!#|*c|*b$$%#|*c|*b$$&#|*c|*b!#%!#|&%|*d $#|&%|*d $!|*d!%+!#|'E|'m!!$&#|'E|'m$$%#|'E|'m$$)!|'m$$' !!%! $$! $$#  # !&1! #!) !%+! $$% !&1! #!) !%+! $$% !$)! $$$ $$' !!%! $$!  # $$!  # $$!  # $&! !$)! !!&% $$%  # $$!  $ $$#  # $&! !!%! $$! !!%! ### !!%! #!# !!%!!|*q!!%!!|*s!$)! $$# !#'! $$# !#'! !!#!!|+\/!!%!!|*z$$!!|*z$$#!|*z!!%! $$! !$)!!|+($$#!|+(!#'!!|+($$#!|+(!#'!!|+#!!#!!|+-!!%!!|+&$$!!|+&$$#!|+&!!%!!|+($$!!|+(#!! !!%! #!#  !!|*r!!'!$|'#|*q|*t $#|'#|*t!!'!$|'#|*q|*u $#|'#|*u!#'! $$# !#'! $$# !#'! $$# $$% $$# !#'!#|+:|+J$$##|+:|+J$$$ $$# $$# $$# $$# $$# $$# $$#!|+:!#'!#|+;|+J$$##|+;|+J$$$ $$#!|+;!#'! $$# $$% $$# !#'! $$# $$% $$$ !#'!#|+>|+Y$$##|+>|+Y$$%!|+>$$#!|+Y!#'!$|+W|+?|+J$$$$|+W|+?|+J$!$$|+W|+?|+J$$$$|+W|+?|+J$!$#|+W|+?$$##|+W|+?$$%!|+?$$$!|+W$$&!|+W$$! !!%! $$! $$# $$# $$#  ! !#'! ##$ !!%! #!# !!%! !#'!  ! !!%! !$)! !#'! !!%! $$# !!'! !#'! $$# !!%! $$! !#'! $$# $$$ $$# !#'! $$# $$$ $$# !#'! $$# $$$ $$# !#'! $$# $$$ $$# !!%! $$! !!%!!|+A$$!!|+A!#'! $$# $$$ $$# !!%!!|+A$$!!|+A!!%! $$! !!%! $$! !!%! $$! !!%! !#'!!|+Y$$#!|+Y$$!!|+Y!#'! !#'! !&+!$|zV|zP|+b$&$$|zV|zP|+b$$%$|zV|zP|+b$$'$|zV|zP|+b$$'$|zV|zP|+b$$'$|zV|zP|+b$$($|zV|zP|+b$$)$|zV|zP|+b$$'!|+b$$'$|zV|zP|+b$$'$|zV|zP|+b$$#!|zP$$! !&+!$|+c|zV|zP$&$$|+c|zV|zP$$%$|+c|zV|zP$$'$|+c|zV|zP$$'$|+c|zV|zP$$'$|+c|zV|zP$$($|+c|zV|zP$$)$|+c|zV|zP$$'!|+c$$'$|+c|zV|zP$$'$|+c|zV|zP$$#!|zP$$! !&+!$|+d|zV|zP$&$$|+d|zV|zP$$%$|+d|zV|zP$$'$|+d|zV|zP$$'$|+d|zV|zP$$'$|+d|zV|zP$$($|+d|zV|zP$$)$|+d|zV|zP$$'!|+d$$'$|+d|zV|zP$$'$|+d|zV|zP$$#!|zP$$! !&+!$|+e|zV|zP$&$$|+e|zV|zP$$%$|+e|zV|zP$$'$|+e|zV|zP$$'$|+e|zV|zP$$'$|+e|zV|zP$$($|+e|zV|zP$$)$|+e|zV|zP$$'!|+e$$'$|+e|zV|zP$$'$|+e|zV|zP$$#!|zP$$! !&+!$|+f|zV|zP$&$$|+f|zV|zP$$%$|+f|zV|zP$$'$|+f|zV|zP$$'$|+f|zV|zP$$'$|+f|zV|zP$$($|+f|zV|zP$$)$|+f|zV|zP$$'!|+f$$'$|+f|zV|zP$$'$|+f|zV|zP$$#!|zP$$! !&+!$|+g|zV|zP$&$$|+g|zV|zP$$%$|+g|zV|zP$$'$|+g|zV|zP$$'$|+g|zV|zP$$'$|+g|zV|zP$$($|+g|zV|zP$$)$|+g|zV|zP$$'!|+g$$'$|+g|zV|zP$$'$|+g|zV|zP$$#!|zP$$! !&+!$|+h|zV|zP$&$$|+h|zV|zP$$%$|+h|zV|zP$$'$|+h|zV|zP$$'$|+h|zV|zP$$'$|+h|zV|zP$$($|+h|zV|zP$$)$|+h|zV|zP$$'!|+h$$'$|+h|zV|zP$$'$|+h|zV|zP$$#!|zP$$! !&+!$|+i|zV|zP$&$$|+i|zV|zP$$%$|+i|zV|zP$$'$|+i|zV|zP$$'$|+i|zV|zP$$'$|+i|zV|zP$$($|+i|zV|zP$$)$|+i|zV|zP$$'!|+i$$'$|+i|zV|zP$$'$|+i|zV|zP$$#!|zP$$! !&+!$|+j|zV|zP$&$$|+j|zV|zP$$%$|+j|zV|zP$$'$|+j|zV|zP$$'$|+j|zV|zP$$'$|+j|zV|zP$$($|+j|zV|zP$$)$|+j|zV|zP$$'!|+j$$'$|+j|zV|zP$$'$|+j|zV|zP$$#!|zP$$! !&+!$|+k|zV|zP$&$$|+k|zV|zP$$%$|+k|zV|zP$$'$|+k|zV|zP$$'$|+k|zV|zP$$'$|+k|zV|zP$$($|+k|zV|zP$$)$|+k|zV|zP$$'!|+k$$'$|+k|zV|zP$$'$|+k|zV|zP$$#!|zP$$! !&+!$|+l|zV|zP$&$$|+l|zV|zP$$%$|+l|zV|zP$$'$|+l|zV|zP$$'$|+l|zV|zP$$'$|+l|zV|zP$$($|+l|zV|zP$$)$|+l|zV|zP$$'!|+l$$'$|+l|zV|zP$$'$|+l|zV|zP$$#!|zP$$! !&+!$|+m|zV|zP$&$$|+m|zV|zP$$%$|+m|zV|zP$$'$|+m|zV|zP$$'$|+m|zV|zP$$'$|+m|zV|zP$$($|+m|zV|zP$$)$|+m|zV|zP$$'!|+m$$'$|+m|zV|zP$$'$|+m|zV|zP$$#!|zP$$! !&+!$|+n|zV|zP$&$$|+n|zV|zP$$%$|+n|zV|zP$$'$|+n|zV|zP$$'$|+n|zV|zP$$'$|+n|zV|zP$$($|+n|zV|zP$$)$|+n|zV|zP$$'!|+n$$'$|+n|zV|zP$$'$|+n|zV|zP$$#!|zP$$! !&+!$|+o|zV|zP$&$$|+o|zV|zP$$%$|+o|zV|zP$$'$|+o|zV|zP$$'$|+o|zV|zP$$'$|+o|zV|zP$$($|+o|zV|zP$$)$|+o|zV|zP$$'!|+o$$'$|+o|zV|zP$$'$|+o|zV|zP$$#!|zP$$! !&+!$|+p|zV|zP$&$$|+p|zV|zP$$%$|+p|zV|zP$$'$|+p|zV|zP$$'$|+p|zV|zP$$'$|+p|zV|zP$$($|+p|zV|zP$$)$|+p|zV|zP$$'!|+p$$'$|+p|zV|zP$$'$|+p|zV|zP$$#!|zP$$! !&+!$|+q|zV|zP$&$$|+q|zV|zP$$%$|+q|zV|zP$$'$|+q|zV|zP$$'$|+q|zV|zP$$'$|+q|zV|zP$$($|+q|zV|zP$$)$|+q|zV|zP$$'!|+q$$'$|+q|zV|zP$$'$|+q|zV|zP$$#!|zP$$! !&+!$|+r|zV|zP$&$$|+r|zV|zP$$%$|+r|zV|zP$$'$|+r|zV|zP$$'$|+r|zV|zP$$'$|+r|zV|zP$$($|+r|zV|zP$$)$|+r|zV|zP$$'!|+r$$'$|+r|zV|zP$$'$|+r|zV|zP$$#!|zP$$! !&+!$|+s|zV|zP$&$$|+s|zV|zP$$%$|+s|zV|zP$$'$|+s|zV|zP$$'$|+s|zV|zP$$'$|+s|zV|zP$$($|+s|zV|zP$$)$|+s|zV|zP$$'!|+s$$'$|+s|zV|zP$$'$|+s|zV|zP$$#!|zP$$! !&+!$|+t|zV|zP$&$$|+t|zV|zP$$%$|+t|zV|zP$$'$|+t|zV|zP$$'$|+t|zV|zP$$'$|+t|zV|zP$$($|+t|zV|zP$$)$|+t|zV|zP$$'!|+t$$'$|+t|zV|zP$$'$|+t|zV|zP$$#!|zP$$! !&+!$|+u|zV|zP$&$$|+u|zV|zP$$%$|+u|zV|zP$$'$|+u|zV|zP$$'$|+u|zV|zP$$'$|+u|zV|zP$$($|+u|zV|zP$$)$|+u|zV|zP$$'!|+u$$'$|+u|zV|zP$$'$|+u|zV|zP$$#!|zP$$! !&+!$|+v|zV|zP$&$$|+v|zV|zP$$%$|+v|zV|zP$$'$|+v|zV|zP$$'$|+v|zV|zP$$'$|+v|zV|zP$$($|+v|zV|zP$$)$|+v|zV|zP$$'!|+v$$'$|+v|zV|zP$$'$|+v|zV|zP$$#!|zP$$! !&+!$|+w|zV|zP$&$$|+w|zV|zP$$%$|+w|zV|zP$$'$|+w|zV|zP$$'$|+w|zV|zP$$'$|+w|zV|zP$$($|+w|zV|zP$$)$|+w|zV|zP$$'!|+w$$'$|+w|zV|zP$$'$|+w|zV|zP$$#!|zP$$! !&+!$|+x|zV|zP$&$$|+x|zV|zP$$%$|+x|zV|zP$$'$|+x|zV|zP$$'$|+x|zV|zP$$'$|+x|zV|zP$$($|+x|zV|zP$$)$|+x|zV|zP$$'!|+x$$'$|+x|zV|zP$$'$|+x|zV|zP$$#!|zP$$! !&+!$|+y|zV|zP$&$$|+y|zV|zP$$%$|+y|zV|zP$$'$|+y|zV|zP$$'$|+y|zV|zP$$'$|+y|zV|zP$$($|+y|zV|zP$$)$|+y|zV|zP$$'!|+y$$'$|+y|zV|zP$$'$|+y|zV|zP$$#!|zP$$! !&+!$|+z|zV|zP$&$$|+z|zV|zP$$%$|+z|zV|zP$$'$|+z|zV|zP$$'$|+z|zV|zP$$'$|+z|zV|zP$$($|+z|zV|zP$$)$|+z|zV|zP$$'!|+z$$'$|+z|zV|zP$$'$|+z|zV|zP$$#!|zP$$! !&+!$|+{|zV|zP$&$$|+{|zV|zP$$%$|+{|zV|zP$$'$|+{|zV|zP$$'$|+{|zV|zP$$'$|+{|zV|zP$$($|+{|zV|zP$$)$|+{|zV|zP$$'!|+{$$'$|+{|zV|zP$$'$|+{|zV|zP$$#!|zP$$! !&+!$|, |zV|zP$&$$|, |zV|zP$$%$|, |zV|zP$$'$|, |zV|zP$$'$|, |zV|zP$$'$|, |zV|zP$$($|, |zV|zP$$)$|, |zV|zP$$'!|, $$'$|, |zV|zP$$'$|, |zV|zP$$#!|zP$$! !&+!$|,!|zV|zP$&$$|,!|zV|zP$$%$|,!|zV|zP$$'$|,!|zV|zP$$'$|,!|zV|zP$$'$|,!|zV|zP$$($|,!|zV|zP$$)$|,!|zV|zP$$'!|,!$$'$|,!|zV|zP$$'$|,!|zV|zP$$#!|zP$$! !&+!$|,#|zV|zP$&$$|,#|zV|zP$$%$|,#|zV|zP$$'$|,#|zV|zP$$'$|,#|zV|zP$$'$|,#|zV|zP$$($|,#|zV|zP$$)$|,#|zV|zP$$'!|,#$$'$|,#|zV|zP$$'$|,#|zV|zP$$#!|zP$$! !&+!$|,$|zV|zP$&$$|,$|zV|zP$$%$|,$|zV|zP$$'$|,$|zV|zP$$'$|,$|zV|zP$$'$|,$|zV|zP$$($|,$|zV|zP$$)$|,$|zV|zP$$'!|,$$$'$|,$|zV|zP$$'$|,$|zV|zP$$#!|zP$$! !&+!$|,%|zV|zP$&$$|,%|zV|zP$$%$|,%|zV|zP$$'$|,%|zV|zP$$'$|,%|zV|zP$$'$|,%|zV|zP$$($|,%|zV|zP$$)$|,%|zV|zP$$'!|,%$$'$|,%|zV|zP$$'$|,%|zV|zP$$#!|zP$$! !&+!$|,&|zV|zP$&$$|,&|zV|zP$$%$|,&|zV|zP$$'$|,&|zV|zP$$'$|,&|zV|zP$$'$|,&|zV|zP$$($|,&|zV|zP$$)$|,&|zV|zP$$'!|,&$$'$|,&|zV|zP$$'$|,&|zV|zP$$#!|zP$$! !&+!$|,'|zV|zP$&$$|,'|zV|zP$$%$|,'|zV|zP$$'$|,'|zV|zP$$'$|,'|zV|zP$$'$|,'|zV|zP$$($|,'|zV|zP$$)$|,'|zV|zP$$'!|,'$$'$|,'|zV|zP$$'$|,'|zV|zP$$#!|zP$$! !&+!$|,(|zV|zP$&$$|,(|zV|zP$$%$|,(|zV|zP$$'$|,(|zV|zP$$'$|,(|zV|zP$$'$|,(|zV|zP$$($|,(|zV|zP$$)$|,(|zV|zP$$'!|,($$'$|,(|zV|zP$$'$|,(|zV|zP$$#!|zP$$! !&+!$|,)|zV|zP$&$$|,)|zV|zP$$%$|,)|zV|zP$$'$|,)|zV|zP$$'$|,)|zV|zP$$'$|,)|zV|zP$$($|,)|zV|zP$$)$|,)|zV|zP$$'!|,)$$'$|,)|zV|zP$$'$|,)|zV|zP$$#!|zP$$! !&+!$|,*|zV|zP$&$$|,*|zV|zP$$%$|,*|zV|zP$$'$|,*|zV|zP$$'$|,*|zV|zP$$'$|,*|zV|zP$$($|,*|zV|zP$$)$|,*|zV|zP$$'!|,*$$'$|,*|zV|zP$$'$|,*|zV|zP$$#!|zP$$! !&+!$|,+|zV|zP$&$$|,+|zV|zP$$%$|,+|zV|zP$$'$|,+|zV|zP$$'$|,+|zV|zP$$'$|,+|zV|zP$$($|,+|zV|zP$$)$|,+|zV|zP$$'!|,+$$'$|,+|zV|zP$$'$|,+|zV|zP$$#!|zP$$! !&+!$|,,|zV|zP$&$$|,,|zV|zP$$%$|,,|zV|zP$$'$|,,|zV|zP$$'$|,,|zV|zP$$'$|,,|zV|zP$$($|,,|zV|zP$$)$|,,|zV|zP$$'!|,,$$'$|,,|zV|zP$$'$|,,|zV|zP$$#!|zP$$! !&+!$|,-|zV|zP$&$$|,-|zV|zP$$%$|,-|zV|zP$$'$|,-|zV|zP$$'$|,-|zV|zP$$'$|,-|zV|zP$$($|,-|zV|zP$$)$|,-|zV|zP$$'!|,-$$'$|,-|zV|zP$$'$|,-|zV|zP$$#!|zP$$! !&+!$|,.|zV|zP$&$$|,.|zV|zP$$%$|,.|zV|zP$$'$|,.|zV|zP$$'$|,.|zV|zP$$'$|,.|zV|zP$$($|,.|zV|zP$$)$|,.|zV|zP$$'!|,.$$'$|,.|zV|zP$$'$|,.|zV|zP$$#!|zP$$! !&+!$|,\/|zV|zP$&$$|,\/|zV|zP$$%$|,\/|zV|zP$$'$|,\/|zV|zP$$'$|,\/|zV|zP$$'$|,\/|zV|zP$$($|,\/|zV|zP$$)$|,\/|zV|zP$$'!|,\/$$'$|,\/|zV|zP$$'$|,\/|zV|zP$$#!|zP$$! !&+!$|,0|zV|zP$&$$|,0|zV|zP$$%$|,0|zV|zP$$'$|,0|zV|zP$$'$|,0|zV|zP$$'$|,0|zV|zP$$($|,0|zV|zP$$)$|,0|zV|zP$$'!|,0$$'$|,0|zV|zP$$'$|,0|zV|zP$$#!|zP$$! !&+!$|,1|zV|zP$&$$|,1|zV|zP$$%$|,1|zV|zP$$'$|,1|zV|zP$$'$|,1|zV|zP$$'$|,1|zV|zP$$($|,1|zV|zP$$)$|,1|zV|zP$$'!|,1$$'$|,1|zV|zP$$'$|,1|zV|zP$$#!|zP$$! !&+!$|,2|zV|zP$&$$|,2|zV|zP$$%$|,2|zV|zP$$'$|,2|zV|zP$$'$|,2|zV|zP$$'$|,2|zV|zP$$($|,2|zV|zP$$)$|,2|zV|zP$$'!|,2$$'$|,2|zV|zP$$'$|,2|zV|zP$$#!|zP$$! !&+!$|,3|zV|zP$&$$|,3|zV|zP$$%$|,3|zV|zP$$'$|,3|zV|zP$$'$|,3|zV|zP$$'$|,3|zV|zP$$($|,3|zV|zP$$)$|,3|zV|zP$$'!|,3$$'$|,3|zV|zP$$'$|,3|zV|zP$$#!|zP$$! !&+!$|,4|zV|zP$&$$|,4|zV|zP$$%$|,4|zV|zP$$'$|,4|zV|zP$$'$|,4|zV|zP$$'$|,4|zV|zP$$($|,4|zV|zP$$)$|,4|zV|zP$$'!|,4$$'$|,4|zV|zP$$'$|,4|zV|zP$$#!|zP$$! !&+!$|,5|zV|zP$&$$|,5|zV|zP$$%$|,5|zV|zP$$'$|,5|zV|zP$$'$|,5|zV|zP$$'$|,5|zV|zP$$($|,5|zV|zP$$)$|,5|zV|zP$$'!|,5$$'$|,5|zV|zP$$'$|,5|zV|zP$$#!|zP$$! !&+!$|,6|zV|zP$&$$|,6|zV|zP$$%$|,6|zV|zP$$'$|,6|zV|zP$$'$|,6|zV|zP$$'$|,6|zV|zP$$($|,6|zV|zP$$)$|,6|zV|zP$$'!|,6$$'$|,6|zV|zP$$'$|,6|zV|zP$$#!|zP$$! !&+!$|,7|zV|zP$&$$|,7|zV|zP$$%$|,7|zV|zP$$'$|,7|zV|zP$$'$|,7|zV|zP$$'$|,7|zV|zP$$($|,7|zV|zP$$)$|,7|zV|zP$$'!|,7$$'$|,7|zV|zP$$'$|,7|zV|zP$$#!|zP$$! !&+!$|,8|zV|zP$&$$|,8|zV|zP$$%$|,8|zV|zP$$'$|,8|zV|zP$$'$|,8|zV|zP$$'$|,8|zV|zP$$($|,8|zV|zP$$)$|,8|zV|zP$$'!|,8$$'$|,8|zV|zP$$'$|,8|zV|zP$$#!|zP$$! !&+!$|,9|zV|zP$&$$|,9|zV|zP$$%$|,9|zV|zP$$'$|,9|zV|zP$$'$|,9|zV|zP$$'$|,9|zV|zP$$($|,9|zV|zP$$)$|,9|zV|zP$$'!|,9$$'$|,9|zV|zP$$'$|,9|zV|zP$$#!|zP$$! !&+!$|,:|zV|zP$&$$|,:|zV|zP$$%$|,:|zV|zP$$'$|,:|zV|zP$$'$|,:|zV|zP$$'$|,:|zV|zP$$($|,:|zV|zP$$)$|,:|zV|zP$$'!|,:$$'$|,:|zV|zP$$'$|,:|zV|zP$$#!|zP$$! !&+!$|,;|zV|zP$&$$|,;|zV|zP$$%$|,;|zV|zP$$'$|,;|zV|zP$$'$|,;|zV|zP$$'$|,;|zV|zP$$($|,;|zV|zP$$)$|,;|zV|zP$$'!|,;$$'$|,;|zV|zP$$'$|,;|zV|zP$$#!|zP$$! !&+!$|,<|zV|zP$&$$|,<|zV|zP$$%$|,<|zV|zP$$'$|,<|zV|zP$$'$|,<|zV|zP$$'$|,<|zV|zP$$($|,<|zV|zP$$)$|,<|zV|zP$$'!|,<$$'$|,<|zV|zP$$'$|,<|zV|zP$$#!|zP$$! !&+!$|,=|zV|zP$&$$|,=|zV|zP$$%$|,=|zV|zP$$'$|,=|zV|zP$$'$|,=|zV|zP$$'$|,=|zV|zP$$($|,=|zV|zP$$)$|,=|zV|zP$$'!|,=$$'$|,=|zV|zP$$'$|,=|zV|zP$$#!|zP$$! !&+!$|,>|zV|zP$&$$|,>|zV|zP$$%$|,>|zV|zP$$'$|,>|zV|zP$$'$|,>|zV|zP$$'$|,>|zV|zP$$($|,>|zV|zP$$)$|,>|zV|zP$$'!|,>$$'$|,>|zV|zP$$'$|,>|zV|zP$$#!|zP$$! !&+!$|,?|zV|zP$&$$|,?|zV|zP$$%$|,?|zV|zP$$'$|,?|zV|zP$$'$|,?|zV|zP$$'$|,?|zV|zP$$($|,?|zV|zP$$)$|,?|zV|zP$$'!|,?$$'$|,?|zV|zP$$'$|,?|zV|zP$$#!|zP$$! !&+!$|,@|zV|zP$&$$|,@|zV|zP$$%$|,@|zV|zP$$'$|,@|zV|zP$$'$|,@|zV|zP$$'$|,@|zV|zP$$($|,@|zV|zP$$)$|,@|zV|zP$$'!|,@$$'$|,@|zV|zP$$'$|,@|zV|zP$$#!|zP$$! !&+!$|,A|zV|zP$&$$|,A|zV|zP$$%$|,A|zV|zP$$'$|,A|zV|zP$$'$|,A|zV|zP$$'$|,A|zV|zP$$($|,A|zV|zP$$)$|,A|zV|zP$$'!|,A$$'$|,A|zV|zP$$'$|,A|zV|zP$$#!|zP$$! !&+!$|,B|zV|zP$&$$|,B|zV|zP$$%$|,B|zV|zP$$'$|,B|zV|zP$$'$|,B|zV|zP$$'$|,B|zV|zP$$($|,B|zV|zP$$)$|,B|zV|zP$$'!|,B$$'$|,B|zV|zP$$'$|,B|zV|zP$$#!|zP$$! !&+!$|,C|zV|zP$&$$|,C|zV|zP$$%$|,C|zV|zP$$'$|,C|zV|zP$$'$|,C|zV|zP$$'$|,C|zV|zP$$($|,C|zV|zP$$)$|,C|zV|zP$$'!|,C$$'$|,C|zV|zP$$'$|,C|zV|zP$$#!|zP$$! !&+!$|zV|zP|,D$&$$|zV|zP|,D$$%$|zV|zP|,D$$'$|zV|zP|,D$$'$|zV|zP|,D$$'$|zV|zP|,D$$($|zV|zP|,D$$)$|zV|zP|,D$$'!|,D$$'$|zV|zP|,D$$'$|zV|zP|,D$$#!|zP$$! !&+!$|,E|zV|zP$&$$|,E|zV|zP$$%$|,E|zV|zP$$'$|,E|zV|zP$$'$|,E|zV|zP$$'$|,E|zV|zP$$($|,E|zV|zP$$)$|,E|zV|zP$$'!|,E$$'$|,E|zV|zP$$'$|,E|zV|zP$$#!|zP$$! !&+!$|,F|zV|zP$&$$|,F|zV|zP$$%$|,F|zV|zP$$'$|,F|zV|zP$$'$|,F|zV|zP$$'$|,F|zV|zP$$($|,F|zV|zP$$)$|,F|zV|zP$$'!|,F$$'$|,F|zV|zP$$'$|,F|zV|zP$$#!|zP$$! !&+!$|,G|zV|zP$&$$|,G|zV|zP$$%$|,G|zV|zP$$'$|,G|zV|zP$$'$|,G|zV|zP$$'$|,G|zV|zP$$($|,G|zV|zP$$)$|,G|zV|zP$$'!|,G$$'$|,G|zV|zP$$'$|,G|zV|zP$$#!|zP$$! !&+!$|,H|zV|zP$&$$|,H|zV|zP$$%$|,H|zV|zP$$'$|,H|zV|zP$$'$|,H|zV|zP$$'$|,H|zV|zP$$($|,H|zV|zP$$)$|,H|zV|zP$$'!|,H$$'$|,H|zV|zP$$'$|,H|zV|zP$$#!|zP$$! !&+!$|,I|zV|zP$&$$|,I|zV|zP$$%$|,I|zV|zP$$'$|,I|zV|zP$$'$|,I|zV|zP$$'$|,I|zV|zP$$($|,I|zV|zP$$)$|,I|zV|zP$$'!|,I$$'$|,I|zV|zP$$'$|,I|zV|zP$$#!|zP$$! !&+!$|,J|zV|zP$&$$|,J|zV|zP$$%$|,J|zV|zP$$'$|,J|zV|zP$$'$|,J|zV|zP$$'$|,J|zV|zP$$($|,J|zV|zP$$)$|,J|zV|zP$$'!|,J$$'$|,J|zV|zP$$'$|,J|zV|zP$$#!|zP$$! !&+!$|,K|zV|zP$&$$|,K|zV|zP$$%$|,K|zV|zP$$'$|,K|zV|zP$$'$|,K|zV|zP$$'$|,K|zV|zP$$($|,K|zV|zP$$)$|,K|zV|zP$$'!|,K$$'$|,K|zV|zP$$'$|,K|zV|zP$$#!|zP$$! !&+!$|,L|zV|zP$&$$|,L|zV|zP$$%$|,L|zV|zP$$'$|,L|zV|zP$$'$|,L|zV|zP$$'$|,L|zV|zP$$($|,L|zV|zP$$)$|,L|zV|zP$$'!|,L$$'$|,L|zV|zP$$'$|,L|zV|zP$$#!|zP$$! !&+!$|,M|zV|zP$&$$|,M|zV|zP$$%$|,M|zV|zP$$'$|,M|zV|zP$$'$|,M|zV|zP$$'$|,M|zV|zP$$($|,M|zV|zP$$)$|,M|zV|zP$$'!|,M$$'$|,M|zV|zP$$'$|,M|zV|zP$$#!|zP$$! !&+!$|,N|zV|zP$&$$|,N|zV|zP$$%$|,N|zV|zP$$'$|,N|zV|zP$$'$|,N|zV|zP$$'$|,N|zV|zP$$($|,N|zV|zP$$)$|,N|zV|zP$$'!|,N$$'$|,N|zV|zP$$'$|,N|zV|zP$$#!|zP$$! !&+!$|,O|zV|zP$&$$|,O|zV|zP$$%$|,O|zV|zP$$'$|,O|zV|zP$$'$|,O|zV|zP$$'$|,O|zV|zP$$($|,O|zV|zP$$)$|,O|zV|zP$$'!|,O$$'$|,O|zV|zP$$'$|,O|zV|zP$$#!|zP$$! !&+!$|,P|zV|zP$&$$|,P|zV|zP$$%$|,P|zV|zP$$'$|,P|zV|zP$$'$|,P|zV|zP$$'$|,P|zV|zP$$($|,P|zV|zP$$)$|,P|zV|zP$$'!|,P$$'$|,P|zV|zP$$'$|,P|zV|zP$$#!|zP$$! !&+!$|,Q|zV|zP$&$$|,Q|zV|zP$$%$|,Q|zV|zP$$'$|,Q|zV|zP$$'$|,Q|zV|zP$$'$|,Q|zV|zP$$($|,Q|zV|zP$$)$|,Q|zV|zP$$'!|,Q$$'$|,Q|zV|zP$$'$|,Q|zV|zP$$#!|zP$$! !&+!$|,R|zV|zP$&$$|,R|zV|zP$$%$|,R|zV|zP$$'$|,R|zV|zP$$'$|,R|zV|zP$$'$|,R|zV|zP$$($|,R|zV|zP$$)$|,R|zV|zP$$'!|,R$$'$|,R|zV|zP$$'$|,R|zV|zP$$#!|zP$$! !&+!$|,S|zV|zP$&$$|,S|zV|zP$$%$|,S|zV|zP$$'$|,S|zV|zP$$'$|,S|zV|zP$$'$|,S|zV|zP$$($|,S|zV|zP$$)$|,S|zV|zP$$'!|,S$$'$|,S|zV|zP$$'$|,S|zV|zP$$#!|zP$$! !&+!$|,T|zV|zP$&$$|,T|zV|zP$$%$|,T|zV|zP$$'$|,T|zV|zP$$'$|,T|zV|zP$$'$|,T|zV|zP$$($|,T|zV|zP$$)$|,T|zV|zP$$'!|,T$$'$|,T|zV|zP$$'$|,T|zV|zP$$#!|zP$$! !&+!$|,U|zV|zP$&$$|,U|zV|zP$$%$|,U|zV|zP$$'$|,U|zV|zP$$'$|,U|zV|zP$$'$|,U|zV|zP$$($|,U|zV|zP$$)$|,U|zV|zP$$'!|,U$$'$|,U|zV|zP$$'$|,U|zV|zP$$#!|zP$$! !&+!$|,V|zV|zP$&$$|,V|zV|zP$$%$|,V|zV|zP$$'$|,V|zV|zP$$'$|,V|zV|zP$$'$|,V|zV|zP$$($|,V|zV|zP$$)$|,V|zV|zP$$'!|,V$$'$|,V|zV|zP$$'$|,V|zV|zP$$#!|zP$$! !&+!$|,W|zV|zP$&$$|,W|zV|zP$$%$|,W|zV|zP$$'$|,W|zV|zP$$'$|,W|zV|zP$$'$|,W|zV|zP$$($|,W|zV|zP$$)$|,W|zV|zP$$'!|,W$$'$|,W|zV|zP$$'$|,W|zV|zP$$#!|zP$$! !&+!$|,X|zV|zP$&$$|,X|zV|zP$$%$|,X|zV|zP$$'$|,X|zV|zP$$'$|,X|zV|zP$$'$|,X|zV|zP$$($|,X|zV|zP$$)$|,X|zV|zP$$'!|,X$$'$|,X|zV|zP$$'$|,X|zV|zP$$#!|zP$$! !&+!$|,Y|zV|zP$&$$|,Y|zV|zP$$%$|,Y|zV|zP$$'$|,Y|zV|zP$$'$|,Y|zV|zP$$'$|,Y|zV|zP$$($|,Y|zV|zP$$)$|,Y|zV|zP$$'!|,Y$$'$|,Y|zV|zP$$'$|,Y|zV|zP$$#!|zP$$! !&+!$|,Z|zV|zP$&$$|,Z|zV|zP$$%$|,Z|zV|zP$$'$|,Z|zV|zP$$'$|,Z|zV|zP$$'$|,Z|zV|zP$$($|,Z|zV|zP$$)$|,Z|zV|zP$$'!|,Z$$'$|,Z|zV|zP$$'$|,Z|zV|zP$$#!|zP$$! !&+!$|,[|zV|zP$&$$|,[|zV|zP$$%$|,[|zV|zP$$'$|,[|zV|zP$$'$|,[|zV|zP$$'$|,[|zV|zP$$($|,[|zV|zP$$)$|,[|zV|zP$$'!|,[$$'$|,[|zV|zP$$'$|,[|zV|zP$$#!|zP$$! !&+!$|,]|zV|zP$&$$|,]|zV|zP$$%$|,]|zV|zP$$'$|,]|zV|zP$$'$|,]|zV|zP$$'$|,]|zV|zP$$($|,]|zV|zP$$)$|,]|zV|zP$$'!|,]$$'$|,]|zV|zP$$'$|,]|zV|zP$$#!|zP$$! !&+!$|,^|zV|zP$&$$|,^|zV|zP$$%$|,^|zV|zP$$'$|,^|zV|zP$$'$|,^|zV|zP$$'$|,^|zV|zP$$($|,^|zV|zP$$)$|,^|zV|zP$$'!|,^$$'$|,^|zV|zP$$'$|,^|zV|zP$$#!|zP$$! !&+!$|,_|zV|zP$&$$|,_|zV|zP$$%$|,_|zV|zP$$'$|,_|zV|zP$$'$|,_|zV|zP$$'$|,_|zV|zP$$($|,_|zV|zP$$)$|,_|zV|zP$$'!|,_$$'$|,_|zV|zP$$'$|,_|zV|zP$$#!|zP$$! !&+!$|,`|zV|zP$&$$|,`|zV|zP$$%$|,`|zV|zP$$'$|,`|zV|zP$$'$|,`|zV|zP$$'$|,`|zV|zP$$($|,`|zV|zP$$)$|,`|zV|zP$$'!|,`$$'$|,`|zV|zP$$'$|,`|zV|zP$$#!|zP$$! !&+!$|,a|zV|zP$&$$|,a|zV|zP$$%$|,a|zV|zP$$'$|,a|zV|zP$$'$|,a|zV|zP$$'$|,a|zV|zP$$($|,a|zV|zP$$)$|,a|zV|zP$$'!|,a$$'$|,a|zV|zP$$'$|,a|zV|zP$$#!|zP$$! !&+!$|,b|zV|zP$&$$|,b|zV|zP$$%$|,b|zV|zP$$'$|,b|zV|zP$$'$|,b|zV|zP$$'$|,b|zV|zP$$($|,b|zV|zP$$)$|,b|zV|zP$$'!|,b$$'$|,b|zV|zP$$'$|,b|zV|zP$$#!|zP$$! !&+!$|,c|zV|zP$&$$|,c|zV|zP$$%$|,c|zV|zP$$'$|,c|zV|zP$$'$|,c|zV|zP$$'$|,c|zV|zP$$($|,c|zV|zP$$)$|,c|zV|zP$$'!|,c$$'$|,c|zV|zP$$'$|,c|zV|zP$$#!|zP$$! !&+!$|,d|zV|zP$&$$|,d|zV|zP$$%$|,d|zV|zP$$'$|,d|zV|zP$$'$|,d|zV|zP$$'$|,d|zV|zP$$($|,d|zV|zP$$)$|,d|zV|zP$$'!|,d$$'$|,d|zV|zP$$'$|,d|zV|zP$$#!|zP$$! !&+!$|,e|zV|zP$&$$|,e|zV|zP$$%$|,e|zV|zP$$'$|,e|zV|zP$$'$|,e|zV|zP$$'$|,e|zV|zP$$($|,e|zV|zP$$)$|,e|zV|zP$$'!|,e$$'$|,e|zV|zP$$'$|,e|zV|zP$$#!|zP$$! !&+!$|,f|zV|zP$&$$|,f|zV|zP$$%$|,f|zV|zP$$'$|,f|zV|zP$$'$|,f|zV|zP$$'$|,f|zV|zP$$($|,f|zV|zP$$)$|,f|zV|zP$$'!|,f$$'$|,f|zV|zP$$'$|,f|zV|zP$$#!|zP$$! !&+!$|,g|zV|zP$&$$|,g|zV|zP$$%$|,g|zV|zP$$'$|,g|zV|zP$$'$|,g|zV|zP$$'$|,g|zV|zP$$($|,g|zV|zP$$)$|,g|zV|zP$$'!|,g$$'$|,g|zV|zP$$'$|,g|zV|zP$$#!|zP$$! !&+!$|,h|zV|zP$&$$|,h|zV|zP$$%$|,h|zV|zP$$'$|,h|zV|zP$$'$|,h|zV|zP$$'$|,h|zV|zP$$($|,h|zV|zP$$)$|,h|zV|zP$$'!|,h$$'$|,h|zV|zP$$'$|,h|zV|zP$$#!|zP$$! !&+!$|,i|zV|zP$&$$|,i|zV|zP$$%$|,i|zV|zP$$'$|,i|zV|zP$$'$|,i|zV|zP$$'$|,i|zV|zP$$($|,i|zV|zP$$)$|,i|zV|zP$$'!|,i$$'$|,i|zV|zP$$'$|,i|zV|zP$$#!|zP$$! !&+!$|,j|zV|zP$&$$|,j|zV|zP$$%$|,j|zV|zP$$'$|,j|zV|zP$$'$|,j|zV|zP$$'$|,j|zV|zP$$($|,j|zV|zP$$)$|,j|zV|zP$$'!|,j$$'$|,j|zV|zP$$'$|,j|zV|zP$$#!|zP$$! !&+!$|,k|zV|zP$&$$|,k|zV|zP$$%$|,k|zV|zP$$'$|,k|zV|zP$$'$|,k|zV|zP$$'$|,k|zV|zP$$($|,k|zV|zP$$)$|,k|zV|zP$$'!|,k$$'$|,k|zV|zP$$'$|,k|zV|zP$$#!|zP$$! !&+!$|,l|zV|zP$&$$|,l|zV|zP$$%$|,l|zV|zP$$'$|,l|zV|zP$$'$|,l|zV|zP$$'$|,l|zV|zP$$($|,l|zV|zP$$)$|,l|zV|zP$$'!|,l$$'$|,l|zV|zP$$'$|,l|zV|zP$$#!|zP$$! !&+!$|,m|zV|zP$&$$|,m|zV|zP$$%$|,m|zV|zP$$'$|,m|zV|zP$$'$|,m|zV|zP$$'$|,m|zV|zP$$($|,m|zV|zP$$)$|,m|zV|zP$$'!|,m$$'$|,m|zV|zP$$'$|,m|zV|zP$$#!|zP$$! !&+!$|,n|zV|zP$&$$|,n|zV|zP$$%$|,n|zV|zP$$'$|,n|zV|zP$$'$|,n|zV|zP$$'$|,n|zV|zP$$($|,n|zV|zP$$)$|,n|zV|zP$$'!|,n$$'$|,n|zV|zP$$'$|,n|zV|zP$$#!|zP$$! !&+!$|,o|zV|zP$&$$|,o|zV|zP$$%$|,o|zV|zP$$'$|,o|zV|zP$$'$|,o|zV|zP$$'$|,o|zV|zP$$($|,o|zV|zP$$)$|,o|zV|zP$$'!|,o$$'$|,o|zV|zP$$'$|,o|zV|zP$$#!|zP$$! !&+!$|,p|zV|zP$&$$|,p|zV|zP$$%$|,p|zV|zP$$'$|,p|zV|zP$$'$|,p|zV|zP$$'$|,p|zV|zP$$($|,p|zV|zP$$)$|,p|zV|zP$$'!|,p$$'$|,p|zV|zP$$'$|,p|zV|zP$$#!|zP$$! !&+!$|,q|zV|zP$&$$|,q|zV|zP$$%$|,q|zV|zP$$'$|,q|zV|zP$$'$|,q|zV|zP$$'$|,q|zV|zP$$($|,q|zV|zP$$)$|,q|zV|zP$$'!|,q$$'$|,q|zV|zP$$'$|,q|zV|zP$$#!|zP$$! !&+!$|,r|zV|zP$&$$|,r|zV|zP$$%$|,r|zV|zP$$'$|,r|zV|zP$$'$|,r|zV|zP$$'$|,r|zV|zP$$($|,r|zV|zP$$)$|,r|zV|zP$$'!|,r$$'$|,r|zV|zP$$'$|,r|zV|zP$$#!|zP$$! !&+!$|,s|zV|zP$&$$|,s|zV|zP$$%$|,s|zV|zP$$'$|,s|zV|zP$$'$|,s|zV|zP$$'$|,s|zV|zP$$($|,s|zV|zP$$)$|,s|zV|zP$$'!|,s$$'$|,s|zV|zP$$'$|,s|zV|zP$$#!|zP$$! !&+!$|,t|zV|zP$&$$|,t|zV|zP$$%$|,t|zV|zP$$'$|,t|zV|zP$$'$|,t|zV|zP$$'$|,t|zV|zP$$($|,t|zV|zP$$)$|,t|zV|zP$$'!|,t$$'$|,t|zV|zP$$'$|,t|zV|zP$$#!|zP$$! !&+!$|,u|zV|zP$&$$|,u|zV|zP$$%$|,u|zV|zP$$'$|,u|zV|zP$$'$|,u|zV|zP$$'$|,u|zV|zP$$($|,u|zV|zP$$)$|,u|zV|zP$$'!|,u$$'$|,u|zV|zP$$'$|,u|zV|zP$$#!|zP$$! !&+!$|,v|zV|zP$&$$|,v|zV|zP$$%$|,v|zV|zP$$'$|,v|zV|zP$$'$|,v|zV|zP$$'$|,v|zV|zP$$($|,v|zV|zP$$)$|,v|zV|zP$$'!|,v$$'$|,v|zV|zP$$'$|,v|zV|zP$$#!|zP$$! !&+!$|,w|zV|zP$&$$|,w|zV|zP$$%$|,w|zV|zP$$'$|,w|zV|zP$$'$|,w|zV|zP$$'$|,w|zV|zP$$($|,w|zV|zP$$)$|,w|zV|zP$$'!|,w$$'$|,w|zV|zP$$'$|,w|zV|zP$$#!|zP$$! !&+!$|,x|zV|zP$&$$|,x|zV|zP$$%$|,x|zV|zP$$'$|,x|zV|zP$$'$|,x|zV|zP$$'$|,x|zV|zP$$($|,x|zV|zP$$)$|,x|zV|zP$$'!|,x$$'$|,x|zV|zP$$'$|,x|zV|zP$$#!|zP$$! !&+!$|,y|zV|zP$&$$|,y|zV|zP$$%$|,y|zV|zP$$'$|,y|zV|zP$$'$|,y|zV|zP$$'$|,y|zV|zP$$($|,y|zV|zP$$)$|,y|zV|zP$$'!|,y$$'$|,y|zV|zP$$'$|,y|zV|zP$$#!|zP$$! !&+!$|,z|zV|zP$&$$|,z|zV|zP$$%$|,z|zV|zP$$'$|,z|zV|zP$$'$|,z|zV|zP$$'$|,z|zV|zP$$($|,z|zV|zP$$)$|,z|zV|zP$$'!|,z$$'$|,z|zV|zP$$'$|,z|zV|zP$$#!|zP$$! !&+!$|,{|zV|zP$&$$|,{|zV|zP$$%$|,{|zV|zP$$'$|,{|zV|zP$$'$|,{|zV|zP$$'$|,{|zV|zP$$($|,{|zV|zP$$)$|,{|zV|zP$$'!|,{$$'$|,{|zV|zP$$'$|,{|zV|zP$$#!|zP$$! !&+!$|- |zV|zP$&$$|- |zV|zP$$%$|- |zV|zP$$'$|- |zV|zP$$'$|- |zV|zP$$'$|- |zV|zP$$($|- |zV|zP$$)$|- |zV|zP$$'!|- $$'$|- |zV|zP$$'$|- |zV|zP$$#!|zP$$! !&+!$|-!|zV|zP$&$$|-!|zV|zP$$%$|-!|zV|zP$$'$|-!|zV|zP$$'$|-!|zV|zP$$'$|-!|zV|zP$$($|-!|zV|zP$$)$|-!|zV|zP$$'!|-!$$'$|-!|zV|zP$$'$|-!|zV|zP$$#!|zP$$! !&+!$|-#|zV|zP$&$$|-#|zV|zP$$%$|-#|zV|zP$$'$|-#|zV|zP$$'$|-#|zV|zP$$'$|-#|zV|zP$$($|-#|zV|zP$$)$|-#|zV|zP$$'!|-#$$'$|-#|zV|zP$$'$|-#|zV|zP$$#!|zP$$! !&+!$|-$|zV|zP$&$$|-$|zV|zP$$%$|-$|zV|zP$$'$|-$|zV|zP$$'$|-$|zV|zP$$'$|-$|zV|zP$$($|-$|zV|zP$$)$|-$|zV|zP$$'!|-$$$'$|-$|zV|zP$$'$|-$|zV|zP$$#!|zP$$! !&+!$|-%|zV|zP$&$$|-%|zV|zP$$%$|-%|zV|zP$$'$|-%|zV|zP$$'$|-%|zV|zP$$'$|-%|zV|zP$$($|-%|zV|zP$$)$|-%|zV|zP$$'!|-%$$'$|-%|zV|zP$$'$|-%|zV|zP$$#!|zP$$! !&+!$|-&|zV|zP$&$$|-&|zV|zP$$%$|-&|zV|zP$$'$|-&|zV|zP$$'$|-&|zV|zP$$'$|-&|zV|zP$$($|-&|zV|zP$$)$|-&|zV|zP$$'!|-&$$'$|-&|zV|zP$$'$|-&|zV|zP$$#!|zP$$! !&+!$|-'|zV|zP$&$$|-'|zV|zP$$%$|-'|zV|zP$$'$|-'|zV|zP$$'$|-'|zV|zP$$'$|-'|zV|zP$$($|-'|zV|zP$$)$|-'|zV|zP$$'!|-'$$'$|-'|zV|zP$$'$|-'|zV|zP$$#!|zP$$! !&+!$|-(|zV|zP$&$$|-(|zV|zP$$%$|-(|zV|zP$$'$|-(|zV|zP$$'$|-(|zV|zP$$'$|-(|zV|zP$$($|-(|zV|zP$$)$|-(|zV|zP$$'!|-($$'$|-(|zV|zP$$'$|-(|zV|zP$$#!|zP$$! !&+!$|-)|zV|zP$&$$|-)|zV|zP$$%$|-)|zV|zP$$'$|-)|zV|zP$$'$|-)|zV|zP$$'$|-)|zV|zP$$($|-)|zV|zP$$)$|-)|zV|zP$$'!|-)$$'$|-)|zV|zP$$'$|-)|zV|zP$$#!|zP$$! !&+!$|-*|zV|zP$&$$|-*|zV|zP$$%$|-*|zV|zP$$'$|-*|zV|zP$$'$|-*|zV|zP$$'$|-*|zV|zP$$($|-*|zV|zP$$)$|-*|zV|zP$$'!|-*$$'$|-*|zV|zP$$'$|-*|zV|zP$$#!|zP$$! !&+!$|-+|zV|zP$&$$|-+|zV|zP$$%$|-+|zV|zP$$'$|-+|zV|zP$$'$|-+|zV|zP$$'$|-+|zV|zP$$($|-+|zV|zP$$)$|-+|zV|zP$$'!|-+$$'$|-+|zV|zP$$'$|-+|zV|zP$$#!|zP$$! !&+!$|-,|zV|zP$&$$|-,|zV|zP$$%$|-,|zV|zP$$'$|-,|zV|zP$$'$|-,|zV|zP$$'$|-,|zV|zP$$($|-,|zV|zP$$)$|-,|zV|zP$$'!|-,$$'$|-,|zV|zP$$'$|-,|zV|zP$$#!|zP$$! !&+!$|--|zV|zP$&$$|--|zV|zP$$%$|--|zV|zP$$'$|--|zV|zP$$'$|--|zV|zP$$'$|--|zV|zP$$($|--|zV|zP$$)$|--|zV|zP$$'!|--$$'$|--|zV|zP$$'$|--|zV|zP$$#!|zP$$! !&+!$|-.|zV|zP$&$$|-.|zV|zP$$%$|-.|zV|zP$$'$|-.|zV|zP$$'$|-.|zV|zP$$'$|-.|zV|zP$$($|-.|zV|zP$$)$|-.|zV|zP$$'!|-.$$'$|-.|zV|zP$$'$|-.|zV|zP$$#!|zP$$! !&+!$|-\/|zV|zP$&$$|-\/|zV|zP$$%$|-\/|zV|zP$$'$|-\/|zV|zP$$'$|-\/|zV|zP$$'$|-\/|zV|zP$$($|-\/|zV|zP$$)$|-\/|zV|zP$$'!|-\/$$'$|-\/|zV|zP$$'$|-\/|zV|zP$$#!|zP$$! !&+!$|-0|zV|zP$&$$|-0|zV|zP$$%$|-0|zV|zP$$'$|-0|zV|zP$$'$|-0|zV|zP$$'$|-0|zV|zP$$($|-0|zV|zP$$)$|-0|zV|zP$$'!|-0$$'$|-0|zV|zP$$'$|-0|zV|zP$$#!|zP$$! !&+!$|-1|zV|zP$&$$|-1|zV|zP$$%$|-1|zV|zP$$'$|-1|zV|zP$$'$|-1|zV|zP$$'$|-1|zV|zP$$($|-1|zV|zP$$)$|-1|zV|zP$$'!|-1$$'$|-1|zV|zP$$'$|-1|zV|zP$$#!|zP$$! !&+!$|-2|zV|zP$&$$|-2|zV|zP$$%$|-2|zV|zP$$'$|-2|zV|zP$$'$|-2|zV|zP$$'$|-2|zV|zP$$($|-2|zV|zP$$)$|-2|zV|zP$$'!|-2$$'$|-2|zV|zP$$'$|-2|zV|zP$$#!|zP$$! !&+!$|-3|zV|zP$&$$|-3|zV|zP$$%$|-3|zV|zP$$'$|-3|zV|zP$$'$|-3|zV|zP$$'$|-3|zV|zP$$($|-3|zV|zP$$)$|-3|zV|zP$$'!|-3$$'$|-3|zV|zP$$'$|-3|zV|zP$$#!|zP$$! !&+!$|-4|zV|zP$&$$|-4|zV|zP$$%$|-4|zV|zP$$'$|-4|zV|zP$$'$|-4|zV|zP$$'$|-4|zV|zP$$($|-4|zV|zP$$)$|-4|zV|zP$$'!|-4$$'$|-4|zV|zP$$'$|-4|zV|zP$$#!|zP$$! !&+!$|-5|zV|zP$&$$|-5|zV|zP$$%$|-5|zV|zP$$'$|-5|zV|zP$$'$|-5|zV|zP$$'$|-5|zV|zP$$($|-5|zV|zP$$)$|-5|zV|zP$$'!|-5$$'$|-5|zV|zP$$'$|-5|zV|zP$$#!|zP$$! !&+!$|-6|zV|zP$&$$|-6|zV|zP$$%$|-6|zV|zP$$'$|-6|zV|zP$$'$|-6|zV|zP$$'$|-6|zV|zP$$($|-6|zV|zP$$)$|-6|zV|zP$$'!|-6$$'$|-6|zV|zP$$'$|-6|zV|zP$$#!|zP$$! !&+!$|-7|zV|zP$&$$|-7|zV|zP$$%$|-7|zV|zP$$'$|-7|zV|zP$$'$|-7|zV|zP$$'$|-7|zV|zP$$($|-7|zV|zP$$)$|-7|zV|zP$$'!|-7$$'$|-7|zV|zP$$'$|-7|zV|zP$$#!|zP$$! !&+!$|-8|zV|zP$&$$|-8|zV|zP$$%$|-8|zV|zP$$'$|-8|zV|zP$$'$|-8|zV|zP$$'$|-8|zV|zP$$($|-8|zV|zP$$)$|-8|zV|zP$$'!|-8$$'$|-8|zV|zP$$'$|-8|zV|zP$$#!|zP$$! !&+!$|-9|zV|zP$&$$|-9|zV|zP$$%$|-9|zV|zP$$'$|-9|zV|zP$$'$|-9|zV|zP$$'$|-9|zV|zP$$($|-9|zV|zP$$)$|-9|zV|zP$$'!|-9$$'$|-9|zV|zP$$'$|-9|zV|zP$$#!|zP$$! !&+!$|-:|zV|zP$&$$|-:|zV|zP$$%$|-:|zV|zP$$'$|-:|zV|zP$$'$|-:|zV|zP$$'$|-:|zV|zP$$($|-:|zV|zP$$)$|-:|zV|zP$$'!|-:$$'$|-:|zV|zP$$'$|-:|zV|zP$$#!|zP$$! !&+!$|-;|zV|zP$&$$|-;|zV|zP$$%$|-;|zV|zP$$'$|-;|zV|zP$$'$|-;|zV|zP$$'$|-;|zV|zP$$($|-;|zV|zP$$)$|-;|zV|zP$$'!|-;$$'$|-;|zV|zP$$'$|-;|zV|zP$$#!|zP$$! !&+!$|-<|zV|zP$&$$|-<|zV|zP$$%$|-<|zV|zP$$'$|-<|zV|zP$$'$|-<|zV|zP$$'$|-<|zV|zP$$($|-<|zV|zP$$)$|-<|zV|zP$$'!|-<$$'$|-<|zV|zP$$'$|-<|zV|zP$$#!|zP$$! !&+!$|-=|zV|zP$&$$|-=|zV|zP$$%$|-=|zV|zP$$'$|-=|zV|zP$$'$|-=|zV|zP$$'$|-=|zV|zP$$($|-=|zV|zP$$)$|-=|zV|zP$$'!|-=$$'$|-=|zV|zP$$'$|-=|zV|zP$$#!|zP$$! !&+!$|->|zV|zP$&$$|->|zV|zP$$%$|->|zV|zP$$'$|->|zV|zP$$'$|->|zV|zP$$'$|->|zV|zP$$($|->|zV|zP$$)$|->|zV|zP$$'!|->$$'$|->|zV|zP$$'$|->|zV|zP$$#!|zP$$! !&+!$|-?|zV|zP$&$$|-?|zV|zP$$%$|-?|zV|zP$$'$|-?|zV|zP$$'$|-?|zV|zP$$'$|-?|zV|zP$$($|-?|zV|zP$$)$|-?|zV|zP$$'!|-?$$'$|-?|zV|zP$$'$|-?|zV|zP$$#!|zP$$! !&+!$|-@|zV|zP$&$$|-@|zV|zP$$%$|-@|zV|zP$$'$|-@|zV|zP$$'$|-@|zV|zP$$'$|-@|zV|zP$$($|-@|zV|zP$$)$|-@|zV|zP$$'!|-@$$'$|-@|zV|zP$$'$|-@|zV|zP$$#!|zP$$! !&+!$|-A|zV|zP$&$$|-A|zV|zP$$%$|-A|zV|zP$$'$|-A|zV|zP$$'$|-A|zV|zP$$'$|-A|zV|zP$$($|-A|zV|zP$$)$|-A|zV|zP$$'!|-A$$'$|-A|zV|zP$$'$|-A|zV|zP$$#!|zP$$! !&+!$|-B|zV|zP$&$$|-B|zV|zP$$%$|-B|zV|zP$$'$|-B|zV|zP$$'$|-B|zV|zP$$'$|-B|zV|zP$$($|-B|zV|zP$$)$|-B|zV|zP$$'!|-B$$'$|-B|zV|zP$$'$|-B|zV|zP$$#!|zP$$! !&+!$|-C|zV|zP$&$$|-C|zV|zP$$%$|-C|zV|zP$$'$|-C|zV|zP$$'$|-C|zV|zP$$'$|-C|zV|zP$$($|-C|zV|zP$$)$|-C|zV|zP$$'!|-C$$'$|-C|zV|zP$$'$|-C|zV|zP$$#!|zP$$! !$)!!|.@ #!|.@!!&$ $$$  $ !!#!#|\/)|,D !!|-E !#| z|(d$(!  !%|(d|(c|x-|-G !#|+b|-H$$!!|+b$$! !!$#!|+b#$! ##! #!! #!! !!%! #!! #.! #-! #,! #+! #*! #)! #(! #'! #&! #%! #$! ##! #!! #$! ##! #!! #%! #$! ##! #!! #$! ##! #!! !$)!!|,n #!|,n!!$#!|,n $ !%+! !!%!%|.x|.w|.v|.u #$|.x|.w|.v$$!$|.x|.w|.v$$! $$! $$! !!%!!|\/8$&! !!%!!|05$&! !!%!!|0s$&! !!%!!|0u$&! !!%!%|0{|0z|0y|0x #$|0{|0z|0y$$!$|0{|0z|0y$$! $$! $$! !!%!!|1&$&! !#'!!|1d$&! !#'!!|1g$&! !#'!!|2%$&! !!%!!|2($&! !!%!!|2+$&! !#'!!|2.$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|0u$&!  !!|.&!!%!!|2>$&! !!%!#|2O|2N #!|2O$$!!|2O$$! !!%!%|2a|2`|2_|2^ #$|2a|2`|2_$$!$|2a|2`|2_$$! $$! $$! !!%!!|2o$&! !!%! !$)!!|.3!!%!$|.2|.1|.0$$!$|.2|.1|.0!#'!!|.3!#'!$|.2|.1|.0$$#$|.2|.1|.0!$)!!|.7!!%!!|.7!#'!!|.7!#'!%|.e|.d|.c|.b$$#%|.e|.d|.c|.b!$)!!|.>!!%!$|.=|.<|.;$$!$|.=|.<|.;!#'!!|.>!#'!$|.=|.<|.;$$#$|.=|.<|.;!$)!!|.@$$# !!%!.|.N|.M|.L|.K|.J|.I|.H|.G|.F|.E|.D|.C|.B$$!.|.N|.M|.L|.K|.J|.I|.H|.G|.F|.E|.D|.C|.B!#'!!|.O!#'!!|.@$$# !$)!!|.S$$#!|.S!!%!!|.S$$!!|.S!#'!!|.T!#'!!|.S$$#!|.S!$)!!|.X$$#!|.X!!%!!|.X$$!!|.X!#'!!|.Y!#'!!|.X$$#!|.X!$)!!|.a!!%!$|.`|._|.^$$!$|.`|._|.^!#'!!|.a!#'!$|.`|._|.^$$#$|.`|._|.^ !!|\/9 !!|06 !!|0t !!|0v !!|1' !!|1e !!|1h !!|2& !!|2) !!|2, !!|2\/ !!|2? !!|2p !!|.z !!|\/! !!|\/  !!|.y!!#!#|-\/|.2!!#!#|.{|-,!!#!#|-.|.1!!#!#|--|.0 !!|\/( !#|+c|\/&$$!!|+c$$! !!$#!|+c !%|\/'|(d|(c|x- !#| z|(d$(! !!#!#|\/)|,C !!|\/0 !#|+{|\/-$$!!|+{$$! !!$#!|+{ !$|(d|(c|x-!!#!#|\/1|,c !!|\/7 !#|, |\/5$$!!|, $$! !!$#!|,  !%|\/6|(d|(c|x- !#| z|(d$(! !!#!#|,b|\/1!!%!&|,p|(d|(c|x-|.f #%|,p|(d|(c|x-$$!!|,p$$! !!$#!|,p!!#!#|,o|\/1 !!|\/? !#|,!|\/=$$!!|,!$$! !!$#!|,! !%|\/>|(d|(c|x- !#| z|(d$(! !!#!#|,a|\/1 !!|\/E !#|,#|\/C$$!!|,#$$! !!$#!|,# !%|\/D|(d|(c|x- !#| z|(d$(! !!#!#|,`|\/1 !!|\/K !#|,$|\/I$$!!|,$$$! !!$#!|,$ !%|\/J|(d|(c|x- !#| z|(d$(! !!#!#|,_|\/1 !!|\/Q !#|,%|\/O$$!!|,%$$! !!$#!|,% !%|\/P|(d|(c|x- !#| z|(d$(! !!#!#|,^|\/1 !!|\/W !#|,&|\/U$$!!|,&$$! !!$#!|,& !%|\/V|(d|(c|x- !#| z|(d$(! !!#!#|,]|\/1 !!|\/^ !#|,'|\/[$$!!|,'$$! !!$#!|,' !%|\/]|(d|(c|x- !#| z|(d$(! !!#!#|,[|\/1 !!|\/d !#|,(|\/b$$!!|,($$! !!$#!|,( !%|\/c|(d|(c|x- !#| z|(d$(! !!#!#|,Z|\/1 !!|\/j !#|,)|\/h$$!!|,)$$! !!$#!|,) !%|\/i|(d|(c|x- !#| z|(d$(! !!#!#|,Y|\/1 !!|\/p !#|,*|\/n$$!!|,*$$! !!$#!|,* !%|\/o|(d|(c|x- !#| z|(d$(! !!#!#|,X|\/1 !!|\/v !#|,+|\/t$$!!|,+$$! !!$#!|,+ !%|\/u|(d|(c|x- !#| z|(d$(! !!#!#|,W|\/1 !!|\/z !#|+d|\/-$$!!|+d$$! !!$#!|+d!!#!#|,B|\/) !!|0# !#|+e|\/5$$!!|+e$$! !!$#!|+e!!#!#|,A|\/) !!|0) !#|+f|0'$$!!|+f$$! !!$#!|+f !%|0(|(d|(c|x- !#| z|(d$(! !!#!#|,@|\/) !!|0. !!|0-$$! !!#!#|,l|._!!#!#|0\/|,G !!|04 !!|03$$! !!#!#|,i|.1!!#!#|,J|.{!!%!&|,r|.h|(d|(c|x- #%|,r|(d|(c|x-$$!!|,r$$! !!$#!|,r!!#!#|,q|\/) !!|0: !#|+g|\/=$$!!|+g$$! !!$#!|+g!!#!#|,?|\/) !!|0? !!|0>$$! !!#!#|-C|.d!!#!#|0@|,S !!|0F !#|+h|0D$$!!|+h$$! !!$#!|+h !%|0E|(d|(c|x- !#| z|(d$(! !!#!#|,>|\/) !!|0J !#|+i|\/C$$!!|+i$$! !!$#!|+i!!#!#|,=|\/) !!|0P !#|+j|0N$$!!|+j$$! !!$#!|+j !%|0O|(d|(c|x- !#| z|(d$(! !!#!#|,<|\/) !!|0V !#|+k|0T$$!!|+k$$! !!$#!|+k !%|0U|(d|(c|x- !#| z|(d$(! !!#!#|,;|\/) !!|0] !#|+l|0Z$$!!|+l$$! !!$#!|+l !%|0[|(d|(c|x- !#| z|(d$(! !!#!#|,:|\/) !!|0a !#|+m|\/I$$!!|+m$$! !!$#!|+m!!#!#|,9|\/) !!|0g !#|+n|0e$$!!|+n$$! !!$#!|+n !%|0f|(d|(c|x- !#| z|(d$(! !!#!#|,8|\/) !!|0m !#|+o|0k$$!!|+o$$! !!$#!|+o !%|0l|(d|(c|x- !#| z|(d$(! !!#!#|,7|\/) !!|0r !!|0q$$! !!#!#|-B|.e!!#!#|,R|0@!!%!$|-?|.i|.7 ##|-?|.7$$!!|-?$$! !!$#!|-?!!#!#|->|0@!!%!$|,t|.k|.j ##|,t|.k$$!#|,t|.k$&!#|,t|.k$$!!|,t$$! !!$#!|,t!!#!#|0w|,s !!|1! !!|1% !!|1$ !!|1 !!#!#|-:|.=!!#!#|1#|-7!!#!#|-9|.<!!#!#|-8|.;!!%!$|-+|.l|.@ ##|-+|.@$$!!|-+$$! !!$#!|-+!!#!#|1(|-* !!|1- !!|1,$$! !!#!#|-=|.<!!#!#|,V|1# !!|12 !!|11$$! !!#!#|-<|.;!!#!#|,U|1# !!|17 !!|16$$! !!#!#|-;|.=!!#!#|,T|1# !!|1< !!|1;$$! !!#!#|,f|.C!!#!#|,O|1( !!|1A !!|1@$$! !!#!#|,d|.E!!#!#|,N|1( !!|1F !!|1E$$! !!#!#|,e|.D!!#!#|,M|1( !!|1K !!|1J$$! !!#!#|,g|.B!!#!#|,L|1( !!|1O !#|+p|\/O$$!!|+p$$! !!$#!|+p!!#!#|,6|\/) !!|1T !!|1S$$! !!#!#|,j|.0!!#!#|,I|.{ !!|1X !#|+q|\/U$$!!|+q$$! !!$#!|+q!!#!#|,5|\/) !!|1] !#|+r|\/[$$!!|+r$$! !!$#!|+r!!#!#|,4|\/) !!|1c !#|+s|1a$$!!|+s$$! !!$#!|+s !%|1b|(d|(c|x- !#| z|(d$(! !!#!#|,3|\/)!#'!#|,v|.m $!|,v$$!!|,v$$! !!$#!|,v!!#!#|1f|,u!#'!#|,x|.n $!|,x$$!!|,x$$! !!$#!|,x!!#!#|1i|,w !!|1o !#|+t|1m$$!!|+t$$! !!$#!|+t !%|1n|(d|(c|x- !#| z|(d$(! !!#!#|,2|\/) !!|1t !!|1s$$! !!#!#|,k|.`!!#!#|,F|0\/ !!|1y !!|1x$$! !!#!#|-A|.c!!#!#|,Q|0@ !!|2$ !#|+u|2!$$!!|+u$$! !!$#!|+u !%|2#|(d|(c|x- !#| z|(d$(! !!#!#|,1|\/)!#'!#|,z|.o $!|,z$$!!|,z$$! !!$#!|,z!!#!#|2'|,y!!%!$|- |#D|.p ##|- |#D$&!!|- $$! !!$$!|- !!#!#|2*|,{!!%!$|-#|.q|#D ##|-#|#D$&!!|-#$$! !!$$!|-#!!#!#|2-|-!!#'!#|-%|.r $!|-%$$!!|-%$$! !!$#!|-%!!#!#|20|-$ !!|24 !#|+v|\/b$$!!|+v$$! !!$#!|+v!!#!#|,0|\/)!!%!$|-'|.s|#D ##|-'|#D$&!!|-'$$! !!$$!|-'!!#!#|2@|-& !!|2D !#|+w|\/h$$!!|+w$$! !!$#!|+w!!#!#|,\/|\/) !!|2I !!|2H$$! !!#!#|,h|.2!!#!#|,H|.{ !!|2M !#|+x|\/n$$!!|+x$$! !!$#!|+x!!#!#|,.|\/) !!|2Q !!|2P!!#!#|-5|.X!!#!#|2R|-4 !!|2W !!|2V$$! !!#!#|,m|.^!!#!#|,E|0\/ !!|2] !!|2[$$! !!#!#|-6|.X!!#!#|,K|2R !!|2c !!|2e !!|2d !!|2b!!#!#|-3|.`!!#!#|-0|0\/!!#!#|-2|._!!#!#|-1|.^ !!|2j !!|2i$$! !!#!#|-@|.b!!#!#|,P|0@ !!|2n !#|+y|\/t$$!!|+y$$! !!$#!|+y!!#!#|,-|\/)!!%!$|-)|.t|#D ##|-)|#D$&!!|-)$$! !!$$!|-)!!#!#|2q|-( !!|2w !#|+z|2u$$!!|+z$$! !!$#!|+z !%|2v|(d|(c|x- !#| z|(d$(! !!#!#|,,|\/)!!%! $$! $$! $$! !!%! $$! $$!  # !$)!#|wo|3&$$$#|wo|3&$$$#|wo|3& %!|wo$$$!|wo$$'!|wo %!|3&!$)!#|wo|3'$$$#|wo|3'$$$#|wo|3' %!|wo$$$!|wo$$'!|wo %!|3'#(! #'! #&! #%! #$! ##! #!! !!%! !!%!  # !!%! !#'! !!%! $$! !#'! !!%! !!%! !#'! !!%! !!%! !#'! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !#'! $$#  $ !#'! $$# !%+! #!& !#'! $$#  $ !#'! $$# !%+! #!& !#'! $$#  $ !#'! $$# !%+! #!& !$)!!|3`!!%!(|3_|3^|3]|3[|3Z|3Y|3-$$!(|3_|3^|3]|3[|3Z|3Y|3-!#'!!|3`!#'!(|3_|3^|3]|3[|3Z|3Y|3-$$#(|3_|3^|3]|3[|3Z|3Y|3-!#'!0|wX|#Q|xY|xV|zW|3p|3o|3n|3m|3l|3k|3j|zJ|3i|3d!#($.|wX|#Q|xV|zW|3p|3o|3n|3m|3l|3k|3j|zJ|3d$$%.|wX|#Q|xV|zW|3p|3o|3n|3m|3l|3k|3j|zJ|3d$$(.|wX|#Q|xV|zW|3p|3o|3n|3m|3l|3k|3j|zJ|3d!!&#  $ !!&&)|3p|3o|3n|3m|3l|3k|3j|3d '(|3p|3o|3n|3m|3l|3k|3d ''|3p|3o|3n|3m|3l|3d &&|3p|3o|3n|3m|3l &&|3p|3o|3n|3m|3l &%|3p|3o|3n|3l %%|3p|3o|3n|3l %%|3p|3o|3n|3l %$|3p|3o|3l $$|3p|3o|3l $#|3p|3o $!|3p #!|3p $  $#|#Q|xV #$|wX|zW|zJ ##|#Q|xY $!|3i!$)!!|3a!#'!!|3a $!|3a!$)!&|!?|3s|3r|3q|3`$$$&|!?|3s|3r|3q|3`$$$#|!?|3s $#|!?|3s $!|!? $!|!?$$$#|3r|3` $#|3r|3` $!|3` $!|3`!!%!!|3d!#'!!|3h!#'!!|3d!#'!$|3y|3x|3w!#($!|3w!!&$!|3x!#($!|3y!#'!0|wX|#Q|xY|xV|zW|4A|3p|3l|zJ|3i|3,|3+|3*|3)|3(!#(%-|wX|#Q|xV|zW|3p|3l|zJ|3,|3+|3*|3)|3($$&-|wX|#Q|xV|zW|3p|3l|zJ|3,|3+|3*|3)|3($$)-|wX|#Q|xV|zW|3p|3l|zJ|3,|3+|3*|3)|3(!!&#  $ !!&&(|3p|3l|3,|3+|3*|3)|3( ''|3p|3l|3,|3+|3*|3) '&|3p|3l|3,|3+|3* &&|3p|3l|3,|3+|3* &&|3p|3l|3,|3+|3* &%|3p|3l|3,|3+ %%|3p|3l|3,|3+ %%|3p|3l|3,|3+ %$|3p|3l|3, $$|3p|3l|3, $#|3p|3, $!|3p #!|3p $  $#|#Q|xV $#|#Q|xV #$|wX|zW|zJ ##|#Q|xY $!|4A ##|#Q|xY $!|3i!$)!!|3t!#'!!|3t $!|3t!%+!!|4#$$%!|4#$$%!|4#!$)!!|4#$$$!|4#!%+!!|4#!!&$!|4#$$$!|4#!$)!%|!?|4&|4%|4$$$$%|!?|4&|4%|4$$$$#|!?|4% $#|!?|4% $!|!? $!|!?!!%!!|3z!#'!!|4!!#'!!|3z!(1!,|wX|zW|4\/|4.|4-|4,|4+|3z|3p|3l|zJ!!&#  $ !!&&)|4\/|4.|4-|4,|4+|3z|3p|3l '(|4\/|4.|4-|4,|3z|3p|3l ''|4\/|4.|4-|3z|3p|3l &&|4\/|4.|4-|3p|3l &&|4\/|4.|4-|3p|3l &%|4\/|4.|3p|3l %%|4\/|4.|3p|3l %%|4\/|4.|3p|3l %$|4\/|3p|3l $$|4\/|3p|3l $#|4\/|3p $!|3p #!|3p $  $  #$|wX|zW|zJ!#'!!|3'$$#!|3'!#'!!|4)$$#!|4)!$)!!|wp$$$!|wp %!|wp$$$!|wp %!|wp!#'!!|3&$$#!|3&#!! !!%! ### !#'! !!&# #$! !!%! ### !!%! #$# #!! !#'!$|3c|3b|3a $!|3a!!&$!|3b $!|3c!#'!$|3v|3u|3t $!|3t!!&$!|3u $!|3v!#'!!|4'!#'!!|4(!#'!!|4*!&+!$|zV|zP|4H$&$$|zV|zP|4H$$%$|zV|zP|4H$$'$|zV|zP|4H$$'$|zV|zP|4H$$'$|zV|zP|4H$$($|zV|zP|4H$$)$|zV|zP|4H$$'!|4H$$'$|zV|zP|4H$$'$|zV|zP|4H$$#!|zP$$! !&+!$|zV|zP|4I$&$$|zV|zP|4I$$%$|zV|zP|4I$$'$|zV|zP|4I$$'$|zV|zP|4I$$'$|zV|zP|4I$$($|zV|zP|4I$$)$|zV|zP|4I$$'!|4I$$'$|zV|zP|4I$$'$|zV|zP|4I$$#!|zP$$! !&+! $$% $$& $$' $$& !!%!$|zh|4M|4L$$!$|zh|4M|4L$$# $$#  # $$! $$!  # $$# $$# $$#  # !&+!#|4K|4L$$%#|4K|4L$$&!|4L$$&!|4L!&+!#|4K|4M$$%#|4K|4M$$&!|4M$$&!|4M!&+!$|zV|zP|4N$&$$|zV|zP|4N$$%$|zV|zP|4N$$'$|zV|zP|4N$$'$|zV|zP|4N$$'$|zV|zP|4N$$($|zV|zP|4N$$)$|zV|zP|4N$$'!|4N$$'$|zV|zP|4N$$'$|zV|zP|4N$$#!|zP$$! !&+!$|zV|zP|4O$&$$|zV|zP|4O$$%$|zV|zP|4O$$'$|zV|zP|4O$$'$|zV|zP|4O$$'$|zV|zP|4O$$($|zV|zP|4O$$)$|zV|zP|4O$$'!|4O$$'$|zV|zP|4O$$'$|zV|zP|4O$$#!|zP$$! !&+!$|zV|zP|4P$&$$|zV|zP|4P$$%$|zV|zP|4P$$'$|zV|zP|4P$$'$|zV|zP|4P$$'$|zV|zP|4P$$($|zV|zP|4P$$)$|zV|zP|4P$$'!|4P$$'$|zV|zP|4P$$'$|zV|zP|4P$$#!|zP$$! !&+!$|zV|zP|4Q$&$$|zV|zP|4Q$$%$|zV|zP|4Q$$'$|zV|zP|4Q$$'$|zV|zP|4Q$$'$|zV|zP|4Q$$($|zV|zP|4Q$$)$|zV|zP|4Q$$'!|4Q$$'$|zV|zP|4Q$$'$|zV|zP|4Q$$#!|zP$$! !&+!$|zV|zP|4R$&$$|zV|zP|4R$$%$|zV|zP|4R$$'$|zV|zP|4R$$'$|zV|zP|4R$$'$|zV|zP|4R$$($|zV|zP|4R$$)$|zV|zP|4R$$'!|4R$$'$|zV|zP|4R$$'$|zV|zP|4R$$#!|zP$$! !&+!$|zV|zP|4S$&$$|zV|zP|4S$$%$|zV|zP|4S$$'$|zV|zP|4S$$'$|zV|zP|4S$$'$|zV|zP|4S$$($|zV|zP|4S$$)$|zV|zP|4S$$'!|4S$$'$|zV|zP|4S$$'$|zV|zP|4S$$#!|zP$$! !&+!$|zV|zP|4T$&$$|zV|zP|4T$$%$|zV|zP|4T$$'$|zV|zP|4T$$'$|zV|zP|4T$$'$|zV|zP|4T$$($|zV|zP|4T$$)$|zV|zP|4T$$'!|4T$$'$|zV|zP|4T$$'$|zV|zP|4T$$#!|zP$$! !&+!$|zV|zP|4U$&$$|zV|zP|4U$$%$|zV|zP|4U$$'$|zV|zP|4U$$'$|zV|zP|4U$$'$|zV|zP|4U$$($|zV|zP|4U$$)$|zV|zP|4U$$'!|4U$$'$|zV|zP|4U$$'$|zV|zP|4U$$#!|zP$$! !&+!$|zV|zP|4V$&$$|zV|zP|4V$$%$|zV|zP|4V$$'$|zV|zP|4V$$'$|zV|zP|4V$$'$|zV|zP|4V$$($|zV|zP|4V$$)$|zV|zP|4V$$'!|4V$$'$|zV|zP|4V$$'$|zV|zP|4V$$#!|zP$$! !&+!$|zV|zP|4W$&$$|zV|zP|4W$$%$|zV|zP|4W$$'$|zV|zP|4W$$'$|zV|zP|4W$$'$|zV|zP|4W$$($|zV|zP|4W$$)$|zV|zP|4W$$'!|4W$$'$|zV|zP|4W$$'$|zV|zP|4W$$#!|zP$$! !&+!$|zV|zP|4X$&$$|zV|zP|4X$$%$|zV|zP|4X$$'$|zV|zP|4X$$'$|zV|zP|4X$$'$|zV|zP|4X$$($|zV|zP|4X$$)$|zV|zP|4X$$'!|4X$$'$|zV|zP|4X$$'$|zV|zP|4X$$#!|zP$$! !&+!$|zV|zP|4Y$&$$|zV|zP|4Y$$%$|zV|zP|4Y$$'$|zV|zP|4Y$$'$|zV|zP|4Y$$'$|zV|zP|4Y$$($|zV|zP|4Y$$)$|zV|zP|4Y$$'!|4Y$$'$|zV|zP|4Y$$'$|zV|zP|4Y$$#!|zP$$! !&+!$|zV|zP|4Z$&$$|zV|zP|4Z$$%$|zV|zP|4Z$$'$|zV|zP|4Z$$'$|zV|zP|4Z$$'$|zV|zP|4Z$$($|zV|zP|4Z$$)$|zV|zP|4Z$$'!|4Z$$'$|zV|zP|4Z$$'$|zV|zP|4Z$$#!|zP$$! !&+!$|zV|zP|4[$&$$|zV|zP|4[$$%$|zV|zP|4[$$'$|zV|zP|4[$$'$|zV|zP|4[$$'$|zV|zP|4[$$($|zV|zP|4[$$)$|zV|zP|4[$$'!|4[$$'$|zV|zP|4[$$'$|zV|zP|4[$$#!|zP$$! !&+!$|zV|zP|4]$&$$|zV|zP|4]$$%$|zV|zP|4]$$'$|zV|zP|4]$$'$|zV|zP|4]$$'$|zV|zP|4]$$($|zV|zP|4]$$)$|zV|zP|4]$$'!|4]$$'$|zV|zP|4]$$'$|zV|zP|4]$$#!|zP$$! !&+!$|zV|zP|4^$&$$|zV|zP|4^$$%$|zV|zP|4^$$'$|zV|zP|4^$$'$|zV|zP|4^$$'$|zV|zP|4^$$($|zV|zP|4^$$)$|zV|zP|4^$$'!|4^$$'$|zV|zP|4^$$'$|zV|zP|4^$$#!|zP$$! !&+!$|zV|zP|4_$&$$|zV|zP|4_$$%$|zV|zP|4_$$'$|zV|zP|4_$$'$|zV|zP|4_$$'$|zV|zP|4_$$($|zV|zP|4_$$)$|zV|zP|4_$$'!|4_$$'$|zV|zP|4_$$'$|zV|zP|4_$$#!|zP$$! !&+!$|zV|zP|4`$&$$|zV|zP|4`$$%$|zV|zP|4`$$'$|zV|zP|4`$$'$|zV|zP|4`$$'$|zV|zP|4`$$($|zV|zP|4`$$)$|zV|zP|4`$$'!|4`$$'$|zV|zP|4`$$'$|zV|zP|4`$$#!|zP$$! !&+!$|zV|zP|4a$&$$|zV|zP|4a$$%$|zV|zP|4a$$'$|zV|zP|4a$$'$|zV|zP|4a$$'$|zV|zP|4a$$($|zV|zP|4a$$)$|zV|zP|4a$$'!|4a$$'$|zV|zP|4a$$'$|zV|zP|4a$$#!|zP$$! !&+!$|zV|zP|4b$&$$|zV|zP|4b$$%$|zV|zP|4b$$'$|zV|zP|4b$$'$|zV|zP|4b$$'$|zV|zP|4b$$($|zV|zP|4b$$)$|zV|zP|4b$$'!|4b$$'$|zV|zP|4b$$'$|zV|zP|4b$$#!|zP$$! !&+!$|zV|zP|4c$&$$|zV|zP|4c$$%$|zV|zP|4c$$'$|zV|zP|4c$$'$|zV|zP|4c$$'$|zV|zP|4c$$($|zV|zP|4c$$)$|zV|zP|4c$$'!|4c$$'$|zV|zP|4c$$'$|zV|zP|4c$$#!|zP$$! !&+!$|zV|zP|4d$&$$|zV|zP|4d$$%$|zV|zP|4d$$'$|zV|zP|4d$$'$|zV|zP|4d$$'$|zV|zP|4d$$($|zV|zP|4d$$)$|zV|zP|4d$$'!|4d$$'$|zV|zP|4d$$'$|zV|zP|4d$$#!|zP$$! !&+!$|zV|zP|4e$&$$|zV|zP|4e$$%$|zV|zP|4e$$'$|zV|zP|4e$$'$|zV|zP|4e$$'$|zV|zP|4e$$($|zV|zP|4e$$)$|zV|zP|4e$$'!|4e$$'$|zV|zP|4e$$'$|zV|zP|4e$$#!|zP$$! !&+!$|zV|zP|4f$&$$|zV|zP|4f$$%$|zV|zP|4f$$'$|zV|zP|4f$$'$|zV|zP|4f$$'$|zV|zP|4f$$($|zV|zP|4f$$)$|zV|zP|4f$$'!|4f$$'$|zV|zP|4f$$'$|zV|zP|4f$$#!|zP$$! !&+!$|zV|zP|4g$&$$|zV|zP|4g$$%$|zV|zP|4g$$'$|zV|zP|4g$$'$|zV|zP|4g$$'$|zV|zP|4g$$($|zV|zP|4g$$)$|zV|zP|4g$$'!|4g$$'$|zV|zP|4g$$'$|zV|zP|4g$$#!|zP$$! !&+!$|zV|zP|4h$&$$|zV|zP|4h$$%$|zV|zP|4h$$'$|zV|zP|4h$$'$|zV|zP|4h$$'$|zV|zP|4h$$($|zV|zP|4h$$)$|zV|zP|4h$$'!|4h$$'$|zV|zP|4h$$'$|zV|zP|4h$$#!|zP$$! !&+!$|zV|zP|4i$&$$|zV|zP|4i$$%$|zV|zP|4i$$'$|zV|zP|4i$$'$|zV|zP|4i$$'$|zV|zP|4i$$($|zV|zP|4i$$)$|zV|zP|4i$$'!|4i$$'$|zV|zP|4i$$'$|zV|zP|4i$$#!|zP$$! !&+!$|zV|zP|4j$&$$|zV|zP|4j$$%$|zV|zP|4j$$'$|zV|zP|4j$$'$|zV|zP|4j$$'$|zV|zP|4j$$($|zV|zP|4j$$)$|zV|zP|4j$$'!|4j$$'$|zV|zP|4j$$'$|zV|zP|4j$$#!|zP$$! !&+!$|zV|zP|4k$&$$|zV|zP|4k$$%$|zV|zP|4k$$'$|zV|zP|4k$$'$|zV|zP|4k$$'$|zV|zP|4k$$($|zV|zP|4k$$)$|zV|zP|4k$$'!|4k$$'$|zV|zP|4k$$'$|zV|zP|4k$$#!|zP$$! !&+!$|zV|zP|4l$&$$|zV|zP|4l$$%$|zV|zP|4l$$'$|zV|zP|4l$$'$|zV|zP|4l$$'$|zV|zP|4l$$($|zV|zP|4l$$)$|zV|zP|4l$$'!|4l$$'$|zV|zP|4l$$'$|zV|zP|4l$$#!|zP$$! !&+!$|zV|zP|4m$&$$|zV|zP|4m$$%$|zV|zP|4m$$'$|zV|zP|4m$$'$|zV|zP|4m$$'$|zV|zP|4m$$($|zV|zP|4m$$)$|zV|zP|4m$$'!|4m$$'$|zV|zP|4m$$'$|zV|zP|4m$$#!|zP$$! !&+!$|zV|zP|4n$&$$|zV|zP|4n$$%$|zV|zP|4n$$'$|zV|zP|4n$$'$|zV|zP|4n$$'$|zV|zP|4n$$($|zV|zP|4n$$)$|zV|zP|4n$$'!|4n$$'$|zV|zP|4n$$'$|zV|zP|4n$$#!|zP$$! !&+!$|zV|zP|4o$&$$|zV|zP|4o$$%$|zV|zP|4o$$'$|zV|zP|4o$$'$|zV|zP|4o$$'$|zV|zP|4o$$($|zV|zP|4o$$)$|zV|zP|4o$$'!|4o$$'$|zV|zP|4o$$'$|zV|zP|4o$$#!|zP$$! !&+!$|zV|zP|4p$&$$|zV|zP|4p$$%$|zV|zP|4p$$'$|zV|zP|4p$$'$|zV|zP|4p$$'$|zV|zP|4p$$($|zV|zP|4p$$)$|zV|zP|4p$$'!|4p$$'$|zV|zP|4p$$'$|zV|zP|4p$$#!|zP$$! !&+!$|zV|zP|4q$&$$|zV|zP|4q$$%$|zV|zP|4q$$'$|zV|zP|4q$$'$|zV|zP|4q$$'$|zV|zP|4q$$($|zV|zP|4q$$)$|zV|zP|4q$$'!|4q$$'$|zV|zP|4q$$'$|zV|zP|4q$$#!|zP$$! !&+!$|zV|zP|4r$&$$|zV|zP|4r$$%$|zV|zP|4r$$'$|zV|zP|4r$$'$|zV|zP|4r$$'$|zV|zP|4r$$($|zV|zP|4r$$)$|zV|zP|4r$$'!|4r$$'$|zV|zP|4r$$'$|zV|zP|4r$$#!|zP$$! !&+!$|zV|zP|4s$&$$|zV|zP|4s$$%$|zV|zP|4s$$'$|zV|zP|4s$$'$|zV|zP|4s$$'$|zV|zP|4s$$($|zV|zP|4s$$)$|zV|zP|4s$$'!|4s$$'$|zV|zP|4s$$'$|zV|zP|4s$$#!|zP$$! !!%! $$! $$! $$$ $$# !!&$ $$$  $ !!%!#|9S|4u$$!#|9S|4u$$!#|9S|4u$$$#|9S|4u$$# !!&% $$% !!&& $$&  $  $  $  #!|4u$$# !!&$ $$$ !!&% $$%  $  $  $  #!|4u!$'! $$#  $ $$#  # $$! $$!  # $$! $$!  $ $$# $$$ $$' !!%!'|4w|87|85|y3|6j|6M$$!'|4w|87|85|y3|6j|6M$$!'|4w|87|85|y3|6j|6M # $$!  #$|85|y3|6M # $$!  #!|4w$&! !!%!#|4x|5t$$!#|4x|5t$$#!|4x #!|4x!&+!$|zV|zP|4y$&$$|zV|zP|4y$$%$|zV|zP|4y$$'$|zV|zP|4y$$'$|zV|zP|4y$$'$|zV|zP|4y$$($|zV|zP|4y$$)$|zV|zP|4y$$'!|4y$$'$|zV|zP|4y$$'$|zV|zP|4y$$#!|zP$$! !&+!$|zV|zP|4z$&$$|zV|zP|4z$$%$|zV|zP|4z$$'$|zV|zP|4z$$'$|zV|zP|4z$$'$|zV|zP|4z$$($|zV|zP|4z$$)$|zV|zP|4z$$'!|4z$$'$|zV|zP|4z$$'$|zV|zP|4z$$#!|zP$$! !&+!$|zV|zP|4{$&$$|zV|zP|4{$$%$|zV|zP|4{$$'$|zV|zP|4{$$'$|zV|zP|4{$$'$|zV|zP|4{$$($|zV|zP|4{$$)$|zV|zP|4{$$'!|4{$$'$|zV|zP|4{$$'$|zV|zP|4{$$#!|zP$$! !&+!$|zV|zP|5 $&$$|zV|zP|5 $$%$|zV|zP|5 $$'$|zV|zP|5 $$'$|zV|zP|5 $$'$|zV|zP|5 $$($|zV|zP|5 $$)$|zV|zP|5 $$'!|5 $$'$|zV|zP|5 $$'$|zV|zP|5 $$#!|zP$$! !&+!$|zV|zP|5!$&$$|zV|zP|5!$$%$|zV|zP|5!$$'$|zV|zP|5!$$'$|zV|zP|5!$&&$|zV|zP|5!$$($|zV|zP|5!$$)$|zV|zP|5!$$'!|5!$$'$|zV|zP|5!$$'$|zV|zP|5!$$#!|zP$$! !!%!(|5#|8*|4u|6)|6-|5!|5X$$!(|5#|8*|4u|6)|6-|5!|5X$$#(|5#|8*|4u|6)|6-|5!|5X$$#(|5#|8*|4u|6)|6-|5!|5X$$$(|5#|8*|4u|6)|6-|5!|5X$$# !!&$&|8*|6)|6-|5!|5X$$$&|8*|6)|6-|5!|5X!!&$&|8*|6)|6-|5!|5X$$$&|8*|6)|6-|5!|5X # $$!  #&|8*|6)|6-|5!|5X$$!&|8*|6)|6-|5!|5X ##|6)|5! #!|5!!!$#!|5! # $$!  $  $  #!|5#!&+!$|zV|zP|5$$&$$|zV|zP|5$$$%$|zV|zP|5$$$'$|zV|zP|5$$$'$|zV|zP|5$$$'$|zV|zP|5$$$($|zV|zP|5$$$)$|zV|zP|5$$$'!|5$$$'$|zV|zP|5$$$'$|zV|zP|5$$$#!|zP$$! !&+!$|zV|zP|5%$&$$|zV|zP|5%$$%$|zV|zP|5%$$'$|zV|zP|5%$$'$|zV|zP|5%$$'$|zV|zP|5%$$($|zV|zP|5%$$)$|zV|zP|5%$$'!|5%$$'$|zV|zP|5%$$'$|zV|zP|5%$$#!|zP$$! !&+!$|zV|zP|5&$&$$|zV|zP|5&$$%$|zV|zP|5&$$'$|zV|zP|5&$$'$|zV|zP|5&$$'$|zV|zP|5&$$($|zV|zP|5&$$)$|zV|zP|5&$$'!|5&$$'$|zV|zP|5&$$'$|zV|zP|5&$$#!|zP$$! !&+!$|zV|zP|5'$&$$|zV|zP|5'$$%$|zV|zP|5'$$'$|zV|zP|5'$$'$|zV|zP|5'$$'$|zV|zP|5'$$($|zV|zP|5'$$)$|zV|zP|5'$$'!|5'$$'$|zV|zP|5'$$'$|zV|zP|5'$$#!|zP$$! !&+!$|zV|zP|5($&$$|zV|zP|5($$%$|zV|zP|5($$'$|zV|zP|5($$'$|zV|zP|5($$'$|zV|zP|5($$($|zV|zP|5($$)$|zV|zP|5($$'!|5($$'$|zV|zP|5($$'$|zV|zP|5($$#!|zP$$! !&+!$|zV|zP|5)$&$$|zV|zP|5)$$%$|zV|zP|5)$$'$|zV|zP|5)$$'$|zV|zP|5)$$'$|zV|zP|5)$$($|zV|zP|5)$$)$|zV|zP|5)$$'!|5)$$'$|zV|zP|5)$$'$|zV|zP|5)$$#!|zP$$! !&+!$|zV|zP|5*$&$$|zV|zP|5*$$%$|zV|zP|5*$$'$|zV|zP|5*$$'$|zV|zP|5*$$'$|zV|zP|5*$$($|zV|zP|5*$$)$|zV|zP|5*$$'!|5*$$'$|zV|zP|5*$$'$|zV|zP|5*$$#!|zP$$! !&+!$|zV|zP|5+$&$$|zV|zP|5+$$%$|zV|zP|5+$$'$|zV|zP|5+$$'$|zV|zP|5+$$'$|zV|zP|5+$$($|zV|zP|5+$$)$|zV|zP|5+$$'!|5+$$'$|zV|zP|5+$$'$|zV|zP|5+$$#!|zP$$! !&+!$|zV|zP|5,$&$$|zV|zP|5,$$%$|zV|zP|5,$$'$|zV|zP|5,$$'$|zV|zP|5,$&&$|zV|zP|5,$$($|zV|zP|5,$$)$|zV|zP|5,$$'!|5,$$'$|zV|zP|5,$$'$|zV|zP|5,$$#!|zP$$! !!%!.|87|85|y3|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$!.|87|85|y3|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$!.|87|85|y3|5-|6j|6 |5z|5x|5n|5X|5L|6$|5,$$%.|87|85|y3|5-|6j|6 |5z|5x|5n|5X|5L|6$|5, # $$!  # $$!  #!|5-$&!  # $$!  #$|85|y3|5z ##|6 |5, #!|5,!!$#!|5, # $$!  #!|5-$&!  # $$!  #$|85|y3|5x # $$!  #!|5-$&! !#'!(|9_|5.|8*|99|6F|6?|5J$$#(|9_|5.|8*|99|6F|6?|5J$$$(|9_|5.|8*|99|6F|6?|5J # $$!  $'|9_|8*|99|6F|6?|5J$$#'|9_|8*|99|6F|6?|5J #!|5J$&!!|5J $!|9_$&!  # $$!  $!|5.$&! !&+!$|zV|zP|5\/$&$$|zV|zP|5\/$$%$|zV|zP|5\/$$'$|zV|zP|5\/$$'$|zV|zP|5\/$&&$|zV|zP|5\/$$($|zV|zP|5\/$$)$|zV|zP|5\/$$'!|5\/$$'$|zV|zP|5\/$$'$|zV|zP|5\/$$#!|zP$$! !&+!$|zV|zP|50$&$$|zV|zP|50$$%$|zV|zP|50$$'$|zV|zP|50$$'$|zV|zP|50$&&$|zV|zP|50$$($|zV|zP|50$$)$|zV|zP|50$$'!|50$$'$|zV|zP|50$$'$|zV|zP|50$$#!|zP$$! !&+!$|zV|zP|51$&$$|zV|zP|51$$%$|zV|zP|51$$'$|zV|zP|51$$'$|zV|zP|51$&&$|zV|zP|51$$($|zV|zP|51$$)$|zV|zP|51$$'!|51$$'$|zV|zP|51$$'$|zV|zP|51$$#!|zP$$! !&+!$|zV|zP|52$&$$|zV|zP|52$$%$|zV|zP|52$$'$|zV|zP|52$$'$|zV|zP|52$&&$|zV|zP|52$$($|zV|zP|52$$)$|zV|zP|52$$'!|52$$'$|zV|zP|52$$'$|zV|zP|52$$#!|zP$$! !&+!$|zV|zP|53$&$$|zV|zP|53$$%$|zV|zP|53$$'$|zV|zP|53$$'$|zV|zP|53$&&$|zV|zP|53$$($|zV|zP|53$$)$|zV|zP|53$$'!|53$$'$|zV|zP|53$$'$|zV|zP|53$$#!|zP$$! !&+!$|zV|zP|54$&$$|zV|zP|54$$%$|zV|zP|54$$'$|zV|zP|54$$'$|zV|zP|54$&&$|zV|zP|54$$($|zV|zP|54$$)$|zV|zP|54$$'!|54$$'$|zV|zP|54$$'$|zV|zP|54$$#!|zP$$! !&+!$|zV|zP|55$&$$|zV|zP|55$$%$|zV|zP|55$$'$|zV|zP|55$$'$|zV|zP|55$&&$|zV|zP|55$$($|zV|zP|55$$)$|zV|zP|55$$'!|55$$'$|zV|zP|55$$'$|zV|zP|55$$#!|zP$$! !&+!$|zV|zP|56$&$$|zV|zP|56$$%$|zV|zP|56$$'$|zV|zP|56$$'$|zV|zP|56$&&$|zV|zP|56$$($|zV|zP|56$$)$|zV|zP|56$$'!|56$$'$|zV|zP|56$$'$|zV|zP|56$$#!|zP$$! !!%!9|4w|85|y3|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$!9|4w|85|y3|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$!9|4w|85|y3|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58$$%9|4w|85|y3|5-|57|6d|6b|6[|6Y|6W|6U|6O|5\/|5I|5G|5E|5C|5A|5?|5=|5;|5:|59|58 # $$!  #$|85|y3|6b ##|6d|5\/ #!|5\/!!$#!|5\/ # $$!  #!|57$&!  # $$!  #)|6W|5G|5E|5C|5A|5?|5=|5; #(|5G|5E|5C|5A|5?|5=|5;$$!(|5G|5E|5C|5A|5?|5=|5; #$|85|y3|6Y #!|4w$&!  # $$!  #!|57$&!  # $$!  #$|85|y3|6U #!|5-$&!  # $$!  #!|57$&!  !!|5<!!#!#|3-|56 !!|5>!!#!#|3Y|55 !!|5@!!#!#|3Z|54 !!|5B!!#!#|3[|53 !!|5D!!#!#|3]|52 !!|5F!!#!#|3^|51 !!|5H!!#!#|3_|50 !#|5O|5M !!|5N!!#!#|5q|5+ !!|5P!!#!#|8K|5* !#|5V|5S !!|5T!!#!#|5)|5U !!|5W!!#!#|8K|5(!!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%! !!%!  !#|5r|5o !!|5p!!#!#|4z|5q !!|5s!!#!#|8K|4y !!|7{!!#! !!#!  !!|5y!!#!#|8g|4s !!|5{!!#!#|8g|4r !!|6!!!#!#|6+|4q !#|6'|6% !!|6&!!#!#|60|4p !!|6(!!#!#|63|4o !!|6*!!#!#|6+|4n !#|61|6. !!|6\/!!#!#|4m|60 !!|62!!#!#|4l|63 !!|65!!#!#|8K|4k !!|67!!#!#|68|4j !!|6:!!#!#|6;|4i !#|6C|6@ !!|6A!!#!#|4f|6B !!|6D!!#!#|8K|4e !#|6J|6G !!|6H!!#!#|4d|6I !!|6K!!#!#|8K|4c !!|6N!!#!#|8g|4b !#|6S|6P !!|6Q!!#!#|4a|6R !!|6T!!#!#|8K|4` !!|6V!!#!#|8g|4_ !!|6X!!#!#|8K|4^ !!|6Z!!#!#|8g|4] !#|6`|6] !!|6^!!#!#|4[|6_ !!|6a!!#!#|8K|4Z !!|6c!!#!#|8g|4Y !!|6e!!#!#|6f|4X!!#!#|!&|9W !'|8;|8:|89|y(|8-|7  !!|9R!!%!#|$^|8+$$!#|$^|8+$$$#|$^|8+$$#!|8+$&! !!%!$|8E|8-|7 !$)!!|6r$$$!|6r$$$!|6r$$%!|6r!$)!!|9S!!&' $$' $$& $$(  $ !!&& !!&%  $  $  $ !!&$ !!&$  $  $  #!|9S #  # !#'! !!&& $$& $$% $$'  $ !!&$  #  # !!%!!|9T!!#! !!#! !!%!!|8,$$!!|8,$&! !!%!#|5#|9-$$!#|5#|9- #!|5#$$! !!#!!|9V!!%!!|8<$$!!|8<$&! !!%!!|9X !#|9^|8-!!%!!|4w$&! !!%!!|57$&! !#'!!|8+$&! !$)!!|9_$&! !!%!!|5-$&! !!%!$|5.|8\/|9-$$!$|5.|8\/|9- ##|5.|8\/$&! !!%! $$! !!%! $$! !!%! $$! !!%! $$! !!%!!|7;!!%! !!%! !!%!!|72!!%! !!%! !!%!!|76!!%! !!%! !!%!!|7:!!%! !!%! !!%!!|7K!!%! !!%! !!%!!|7B!!%! !!%! !!%!!|7F!!%! !!%! !!%!!|7J!!%! !!%! !!%!!|7O!!%!!|7P!!%! !!%!!|7T!!%!!|7P!!%! !#'! $$#  $ !#'! $$# !%+! #!& !!%! $$! !!%! $$! $$! $$! $$! $$! !!%! #!# ##! #$! !!%! #%# !!%! $$! !!%! $$! $$! $$! $$! $$! $$! $$! #!! ##! #$! #%! !!%! $$! $$! !!%! $$! !!%! $$! $$! $$! $$! $$! $$! $$! !!#!!|7y!$'! !!#!!|7z !$|8#|8)|7{$$!#|8#|8)$$#!|8) !!|8& !!|4x!#'!.|8`|86|85|y3|84|83|82|81|5-|8p|80|57|8*$$#.|8`|86|85|y3|84|83|82|81|5-|8p|80|57|8*$$#.|8`|86|85|y3|84|83|82|81|5-|8p|80|57|8*$$&.|8`|86|85|y3|84|83|82|81|5-|8p|80|57|8* # $$!  #!|5-$&!  #%|84|83|82|81 #$|84|83|82$$!$|84|83|82 #$|86|85|y3 # $$!  #!|57$&! !#'!.|9(|9'|8E|y1|8-|8*|7 |6h|6=|69|66|64|5R $)|9(|8E|y1|8-|7 |69|66|64$$#)|9(|8E|y1|8-|7 |69|66|64$&! !!&%)|9(|8E|y1|8-|7 |69|66|64 # $$!  $$|69|66|64 $#|69|66$$##|69|66!!&#  # $&!  # $$!  % $&! !!&# !!&#  # $$!  # $$!  !#|8w|8v !  !!|8n !!|+5 !!|8l !!|8h!!%!!|4K$$!  !!|8f !#|9a|9`!!#!!|9Q!#'!,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$#,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$!,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8*$$$,|$^|5#|5.|8<|8\/|9-|9H|8,|8+|9K|8* #!|5#$$!  ##|5.|8\/$&! $&!  $#|$^|8+$$##|$^|8+$$!!|8+$&!  $!|8,$&! !#'!+|8\/|y1|8.|8X|8-|9M|9-|8+|8*|7  $*|8\/|y1|8.|8X|8-|9M|8+|8*|7 $&! !#($)|y1|8.|8X|8-|9M|8+|8*|7 $$%)|y1|8.|8X|8-|9M|8+|8*|7 $$&)|y1|8.|8X|8-|9M|8+|8*|7  # $$! !!&#  #  # $$! $&!  $!|8+$&!  # $$!  % $&! !!%!!|8F !#|8C|8B !!|8J !!|8G!!#!#|8I|4I!!#!#|8K|4H!!%!!|8O !!|8T !!|8R!!#!#|8S|5%!!#!#|8U|5$ !!|8^ !!|8[!!#!#|8]|5 !!#!#|4{|8K !#|8b|8a !!|8e !!|8c!!#!#|8d|4Q!!#!#|4P|8K!!#!#|8g|4R!!#!#|8k|4S!!#!#|8m|4T!!#!#|4U|8K !#|8r|8q !!|8u !!|8s!!#!#|8t|4W!!#!#|4V|8K !!|8{ !!|8y !#|8Z|8Y!!#!#|8z|4O!!#!#|4N|8K !!|9% !!|9#!!#!#|9$|5'!!#!#|5&|8K!!%!!|8X!!%!!|96!!%!!|9A !#|8Q|8P !#|9!|9 !!%!!|9U!!#!%|yR|8:|89|6m!!#!%|yR|8:|89|6m!!%!!|9Y$&! !!%!'|$^|9H|8,|8+|9K|8* ##|$^|8+$$!#|$^|8+$$$#|$^|8+$$#!|8+$&!  #!|8,$$!!|8,$&!  !!|@q !!|9[$$! !#'!(|88|87|5-|y1|8X|8-|7 $$#(|88|87|5-|y1|8X|8-|7 $$#(|88|87|5-|y1|8X|8-|7 $$$(|88|87|5-|y1|8X|8-|7  # $$! !!&#  # $$!  #!|5-$&!  !!|9d !!|9b!!#!#|9c|4h!!#!#|4g|8K!!%! !!%! !!#!!|6k!!%!$|3&|9u|:!$$!$|3&|9u|:!$$##|3&|9u$$$!|3&!!%!$|3&|9v|9z$$!$|3&|9v|9z$$##|3&|9v$$$!|3&!!%!$|3&|9w|9x$$!$|3&|9w|9x$$##|3&|9w$$$!|3& !!|9y !!|9{ !!|:#!#'! !!%!#|3&|:B$$!#|3&|:B!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%! !$)!!|:C$$! !!%!#|3&|:H$$!#|3&|:H!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !%|1{|1z|3&|:I!!%!#|3&|:L$$!#|3&|:L!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!#|3&|:N$$!#|3&|:N!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!!|:(!!%!#|3&|:P$$!#|3&|:P!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !#|:R|9u!#'!!|:1!!%! !#'!!|3&!!&#  $!|3&$$#!|3&$$$!|3&!!%!$|\/G|\/F|3' !#|9v|:H!!%! !!%!#|3&|:e$$!#|3&|:e!!&$!|3&$$$!|3&$$$!|3&$$$!|3&!!%!!|:7!!%!#|3&|:h$$!#|3&|:h!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !#|:m|9w!!%! !!%!  # !!%!$|01|00|3'!!%!!|:=!!%!$|\/S|\/R|3'!!%!$|3&|:o|:n$$!#|3&|:o$$!#|3&|:o!!&$!|3&$$$!|3&$$$!|3&$$$!|3& #!|:n #!|:n #!|:n!!%!#|3&|:u$$!#|3&|:u!!&$!|3&$$$!|3&$$$!|3&$$$!|3& !%|0R|0Q|3&|:v!$)!$|3&|3'|:F $!|3&$$#!|3&$$$!|3& ##|3'|:F!!&#  ##|3'|:F!!&$!|3'$$$!|3'$$$!|3'$$$!|3' #  !!|:J !#|-%|#D$&!!|-%$$! !!$$!|-% !!|2>$&!  !!|2($&!  !!|2+$&!  !#|#D|,z$&!!|,z$$! !!$$!|,z !!|2>$&!  !!|:w !#|>r|?% !%|0R|0Q|3&|;7 !#|;)|;\/ !#|;'|;,!!%!!|;?!!%!!|;2 !!|;0 !#|;9|;8 !#|;5|;4!!%!!|;= !!|;1!!%!!|;; !#|;A|;S!!%!!|;B !#|;M|;L !!|;x !%|01|00|3'|;s!!%!!|<:!!%!!|<F!!%!!|<O!!%!!|;O!!%!!|;[ !#|;W|;h!!%!!|;X !#|;P|;e !!|<P !%|01|00|3'|<I!!%!!|<&!!%!!|<'!!%!!|<*!!%!!|<0 !!|;l !%|0R|0Q|3&|;F !#|;z|;y !#|:(|;t !!|;w!!%!!|<- !%|0R|0Q|3&|;] !#|<$|<M!!%!!|<% !#|;_|;^ !#|;`|<D !#|;a|<9 !#|<+|<6!!%!!|<, !#|;b|<3 !#|;H|;G !#|<;|<A !#|;I|;k!!%!!|<> !!|<E !#|;J|;V !#|:(|<J !!|<N !%|0R|0Q|3&|<z !#|<[|<r !!|=) !!|<Y!!%!!|<X !#|:(|=*!!%!!|<e !#|<_|<j!!%!!|<` !#|=,|=+ !#|=.|=- !#|= |<{ !#|:(|<n !#|=!|;k !!|<s !#|=$|=# !#|<x|<w !!|<Z!!%!!|<y !#|=(|=' !!|<t !%|01|00|3'|<m!!%!!|<o!!%!!|<u!!%!!|=& !#|<W|<V!!%!!|<U!!%!!|<a!!%!!|=0 !%|2B|2A|3&|>d !#|==|=J !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|=7 !#|=;|=: !%|.m|3&|=6|=5!!%!!|=< !#|:*|>n!!%!!|=G !!|=@ !#|=D|=C !!|=F!!%!!|=E !!|>o !#|>f|>e !#|=L|=K !!|=N!!%!!|=M !!|>p !#|>h|>g !#|>j|>i !#|=S|=:!!%!!|=T !#|:*|>m !%|2B|2A|3&|>F !#|=d|>? !#|=[|=Z !!|=h!!%!!|=] !#|>a|>` !#|>b|=f !!|>c !!|=c!!%!!|=b !#|:(|>K!!%!!|=n !#|:(|=g!!%!!|=_ !#|=l|=k !#|=o|=b!!%!!|=m !#|=e|=( !#|>H|>G!!%!!|=p !!|>L !#|:(|=s !#|=w|=v !#|=z|=a!!%!!|=y !#|>J|>I !!|>M !!|={ !#|>$|># !!|>-!!%!!|>% !#|>O|>N !#|>P|=( !#|>V|>U !#|:(|>,!!%!!|>+ !!|>Q !#|>X|>W !#|>2|>1 !#|>5|>4!!%!!|>3 !!|>R !!|>7!!%!!|>6 !#|:(|>S !#|>Z|>Y !#|:(|>< !#|>A|>@ !#|:+|>C!!%!!|>B !!|>T !#|>]|>[ !!|>E !%|01|00|3'|>;!!%!!|=x!!%!!|>' !#|>*|>)!!%!!|>& !#|:(|>(!!%!!|>.!!%!!|>8!!%!!|>D!!%!!|>_ !#|=f|=e!!%!!|=^ !#|=a|=` !!|=O!!%!!|=P!!%!!|=Q!!%!!|>l!!%!!|>s !#|>x|;  !#|>y|<T !#|>z|=4 !#|>{|=X !#|? |;p!!%!!|>t!!%!!|>u!!%!!|>v!!%!!|>w!!%!!|<# !%|0R|0Q|3&|?] !#|?\/|?V !#|?(|?' !!|?*!!%!!|?) !!|?r !#|:(|?.!!%!!|?9 !#|?3|?2 !#|?<|?;!!%!!|?4 !#|?t|?s !!|?u !!|?:!!%!!|?8 !#|:(|?b !#|?_|?^ !#|??|?>!!%!!|?= !#|:(|?c !%|.m|3&|?A|=5!!%!!|?@ !!|?d !!|=7 !#|?a|?` !#|:(|?F !#|?I|?>!!%!!|?J !!|?e !#|?i|?h !#|?N|?>!!%!!|?O !!|?f !!|?R !#|?k|?j !#|?W|<K!!%!!|?X !#|:(|?g !#|?m|?l !#|?o|?n !!|?Y!!%!!|?B!!%!!|?K!!%!!|?S !%|01|00|3'|?E!!%!!|?Z!!%!!|?[ !%|01|00|3'|?-!!%!!|?q !#|?7|?6!!%!!|?5!!%!$|3'|?v|@-$$!$|3'|?v|@-$$##|3'|?v$$$!|3'!!%!$|3'|?w|@%$$!$|3'|?w|@%$$##|3'|?w$$$!|3'!!%!$|3'|?x|@ $$!$|3'|?x|@ $$##|3'|?x$$$!|3'!!%!$|3'|?y|@-$$!$|3'|?y|@-$$##|3'|?y$$$!|3' !!|@! !!|@& !!|@) !%|2B|2A|3&|@L !!|@; !!|@8 !!|@C$$!  !%|.n|3'|@@|@<!!%!!|@E !!|@A$$!  !!|@B!!#!#|,x|.S !!|@D!!#!#|,v|.S !'|2o|01|00|3'|@O|@N$&!&|01|00|3'|@O|@N$$$%|01|00|3'|@O$$!%|01|00|3'|@O$$!!|@O !#|@Q|@P !#|@S|@R !#|@T|?x !!|@F !%|.m|3'|@:|@9!!%!!|@G !%|01|00|3'|@7!!%!!|@H !#|@4|?y!!%!!|@I !#|@`|@_ !#|@X|?w!!%!!|@a !'|2o|01|00|3'|@h|@N$&!&|01|00|3'|@h|@N$$!%|01|00|3'|@h$$!!|@h !#|@i|@P !#|@k|@j !%|01|00|3'|@l !!|@g!!%!!|@b!!%!!|@c !#|?v|@4!!%!!|@d !!|@q !#|@^|A* !#|@^|A# !#|@^|A$ !#|@^|A( !#|@^|A, !#|@^|A\/!!%!!|@w !#|S1|A% !#|a{|@t !#|kI|A) !#|A=|A) !#|:x|A) !#|sI|A- !#|UI|A. !#|_A|A) !#|Zu|A0!!%!!|@x!!%!!|A1!!%!!|@v!!%!!|A2 !#|HP|A)!!%!!|@y!!%!!|@1!!%!!|@u!!%!!|A3!!%!!|@z!!%!!|@{!!%!!|A !!%!!|A!!!%!!|A' !#|lx|A& !#|O'|A+ !#|iu|A)!!%!$|3&|A4|A;$$!$|3&|A4|A;$$##|3&|A4$$$!|3&!!%!$|3&|A5|A9$$!$|3&|A5|A9$$##|3&|A5$$$!|3&!!%!$|3&|A6|A7$$!$|3&|A6|A7$$##|3&|A6$$$!|3& !!|A8 !!|A: !!|A< !#|H;|G@ !%|0 |\/{|3&|BN !#|BV|BU !#|AD|AC !!|BH!!%!!|AE !#|BS|BR !!|BT !%|0H|0G|3&|Al !#|AR|A[ !#|:*|AO !!|AS!!%!!|A] !#|A_|A^ !#|An|Am !#|Ab|Aa!!%!!|A` !!|Av !!|Ad!!%!!|Ac !#|:+|Aw !#|Ap|Ao !#|Ar|Aq !#|Aj|Ai !!|AK!!%!!|Ak !!|Au !!|Ae!!%!!|Af!!%!!|Ag !%|01|00|3'|AN!!%!!|At !%|0H|0G|3&|B9 !#|B'|B\/ !#|B$|B,!!%!!|B% !#|B?|B>!!%!!|B2 !!|B0 !#|B;|B: !%|\/S|\/R|3'|B< !#|B7|B6 !!|B !!%!!|B8 !!|B= !!|B1!!%!!|B3!!%!!|BA !#|BL|BK !!|B]!!%!!|BM !#|B[|BS !!|B^!!%!!|B`!!%!!|AF!!%!!|B_ !#|BP|BO !%|\/S|\/R|3'|Bc !#|Be|Bd !!|A@!!%!!|Bf !!|BQ !%|08|07|3&|D7 !#|Bp|Bw !#|:*|Bo!!%!!|Bz !!|Bx !#|D9|D8 !#|D:|Ao !#|D<|D; !#|C$|C# !!|Bk!!%!!|C% !!|D? !#|C2|C9 !#|C+|C* !!|C1!!%!!|C, !#|D5|BS !!|C0!!%!!|C\/ !#|:(|D6!!%!!|C; !!|C: !#|D0|D\/ !#|D2|D1 !!|C> !#|CL|Ci !!|D( !#|CG|CF!!%!!|:. !#|:5|CI!!%!!|CH !!|D) !#|:(|CN!!%!!|CM!!%!!|CS !!|D* !!|CR !#|Cv|Cu !!|CV !#|CY|Ce!!%!!|CZ !#|D,|D+ !#|D.|D- !#|Cx|Cw !#|D#|D! !#|Ck|Cj !#|Cp|Bu!!%!!|Cl !#|D |C{ !!|Cn!!%!!|CJ !#|Cs|Cr !#|CK|CJ!!%!!|Ct !#|D'|D&!!%!!|C^!!%!!|Cf !!|Co!!%!!|Cm !%|\/S|\/R|3'|CQ!!%!!|D% !#|CE|CD!!%!!|CC!!%!!|C[!!%!!|Cz!!%!!|C<!!%!!|D4 !#|C.|C- !!|By!!%!!|B{!!%!!|C  !%|01|00|3'|Bn!!%!!|D> !%|1k|1j|3&|G, !#|DL|Dk !!|DF !#|DK|A4!!%!!|DU !#|A5|DK !#|A6|DK !#|DW|DV !#|G.|G- !#|DZ|DY!!%!!|DX !!|G: !#|:(|D]!!%!!|D[ !!|G; !#|Db|Da !#|G0|G\/ !#|:*|Dd!!%!!|Dc !#|:*|G< !#|:*|Dg !#|G2|G1 !!|Dl !#|G4|G3 !#|G6|G5 !#|G8|G7 !%|01|00|3'|G9 !%|1k|1j|3&|ED !#|E#|E= !#|E |D{ !#|E%|E$!!%!!|E! !!|EO!!%!!|E. !!|E'!!%!!|E& !#|:(|EP !#|E,|E+ !!|E\/!!%!!|E- !!|EQ !#|EF|EE !#|E2|E:!!%!!|E3 !#|ES|ER !#|EH|EG !!|E> !#|EJ|EI !#|EC|EB!!%!!|EN !!|E@!!%!!|E5 !%|\/S|\/R|3'|E*!!%!!|E?!!%!!|EL!!%!!|EU !%|0X|0W|3&|Fr !#|Ed|Et !#|E]|BS !#|E^|CE !!|E_ !#|Eb|Eq!!%!!|Ec !#|F{|Fz!!%!!|El !#|G!|G  !#|G$|G# !#|Ft|Fs !#|Ev|Eu !!|F*!!%!!|Ex !#|Fv|Fu !#|G(|G' !#|G*|G) !#|G+|BS !!|F#!!%!!|F! !#|:+|Fw !!|F(!!%!!|F& !#|:+|Fx !%|\/S|\/R|3'|Fy !!|F. !%|0X|0W|3&|F_ !#|F;|FT !#|F8|F7 !!|F:!!%!!|F9 !!|Fi!!%!!|FE !#|F?|F> !#|FG|FF!!%!!|F@ !#|Fk|Fj !#|Fm|Fl !!|Fn !#|Fa|F` !!|FI!!%!!|FH !#|:+|Fo !#|FL|FQ!!%!!|Fq !#|Fc|Fb !#|FV|FU !!|FY!!%!!|FW !!|Fd !#|Ff|Fe !#|F]|BS !#|F^|CE !!|F3 !!|FZ!!%!!|FM!!%!!|FX !%|\/S|\/R|3'|F6!!%!!|Fh !!|FD!!%!!|FA !!|FC!!%!!|FB !!|F+!!%!!|Ew!!%!!|F'!!%!!|Ee!!%!!|Ef!!%!!|G& !!|F)!!%!!|Ey !#|F%|F$!!%!!|Ez !#|F |E{ !!|Dm!!%!!|D`!!%!!|Dh!!%!!|Dn !%|01|00|3'|DR!!%!!|Do !%|01|00|3'|DO!!%!!|Dp !%|01|00|3'|DI!!%!!|Dq !%|2K|2J|3&|Gc !#|GJ|E= !!|GD!!%!!|GC !!|Gp !#|GH|GG !#|:*|GK!!%!!|GI !#|:*|Gq!!%!!|GT !#|:*|GN !#|GR|GQ !!|GU!!%!!|GS !!|Gr !#|Ge|Gd !#|:*|GX !#|:*|G[ !#|Gg|Gf !#|Gi|Gh !#|Gk|Gj !#|Gm|Gl !#|GB|GA !!|G^!!%!!|G]!!%!!|G_!!%!!|G`!!%!!|Ga!!%!!|Go !%|2K|2J|3&|H2 !#|H!|H) !#|Gz|H'!!%!!|G{ !#|H8|H7!!%!!|H+ !#|H4|H3 !%|\/S|\/R|3'|H5 !#|H0|H\/ !!|Gw!!%!!|H1 !!|H6 !!|H*!!%!!|H,!!%!!|H:!!%!!|H< !#|HF|Gv !#|HO|C( !#|HG|AJ !#|HH|A{ !#|HI|BC !#|HJ|DC !#|HK|Du !#|HL|EY !#|HM|F2 !#|HN|Bj!!%!!|H>!!%!!|H?!!%!!|H@!!%!!|HA!!%!!|HB!!%!!|HC!!%!!|HD!!%!!|HE!!%!!|H=!!%!!|CB !#|Nw|LY !%|0R|0Q|3&|I% !#|H[|Hf !#|I2|I1!!%!!|I' !#|Hh|Hg !#|Hr|Hq!!%!!|Hi !#|I6|I5 !!|I7 !!|Hp!!%!!|Hm !#|:(|I8 !#|Hy|Hx !#|Hu|Ht!!%!!|Hs !!|I* !!|Hz!!%!!|Hv !#|:(|Hw!!%!!|I  !#|I)|I( !!|I, !#|I.|I- !#|I0|I\/ !!|H{!!%!!|I!!!%!!|I#!!%!!|I$!!%!!|HU!!%!!|I4 !#|Hl|Hk!!%!!|Hj !%|0i|0h|3&|J. !#|IF|J% !#|JQ|JP !#|JG|Hv !!|JR !#|:(|IC!!%!!|IB !!|JS !#|:(|IH!!%!!|IG!!%!!|IM !!|JT !#|:(|IL!!%!!|IK !!|J3 !#|J0|J\/ !#|IQ|IP !#|Ib|Ia!!%!!|IR !#|J5|J4 !#|J7|J6 !#|J9|J8 !!|J: !!|IZ!!%!!|IX !#|:(|J; !#|J2|J1 !!|I`!!%!!|I_ !#|:+|J< !!|Ie!!%!!|Id !#|JC|JB !#|:(|J= !!|Ih !#|Il|Ik !!|I{!!%!!|Im !#|J?|J> !#|JA|J@ !#|JE|JD !#|JG|JF !#|:5|Iv!!%!!|It !!|JH !#|J!|J  !#|:5|Ix !#|:5|Iz !#|IJ|II!!%!!|J, !#|J'|J& !!|J+!!%!!|J( !#|JJ|JI !!|JK !#|JO|JN !!|J-!!%!!|IY!!%!!|Ic !#|I^|I]!!%!!|IS !!|I[!!%!!|IT !#|IW|IV!!%!!|IU !#|Iy|Is!!%!!|In !#|Iw|Is!!%!!|Io!!%!!|JM !#|Is|Ir!!%!!|Ip !#|:5|Iq!!%!!|I? !#|:+|J*!!%!!|J) !#|IE|ID!!%!!|I= !#|IA|I@!!%!!|I> !%|-I|-F|3&|K5 !#|Jc|K! !#|KH|JG !!|J^!!%!!|J] !#|:5|KI !#|Jb|Hl!!%!!|Ja !!|KJ !!|Jd!!%!!|Ji !#|Jf|Jb!!%!!|Jg !#|:5|KK !#|K7|K6 !#|Jq|Jp !!|Jz!!%!!|Jr !#|KM|KL !#|K:|JG !!|Jx!!%!!|Jv !#|:5|K; !#|K9|K8 !#|K$|K# !#|K*|Is!!%!!|K% !#|K=|K< !#|K?|K> !!|K@ !#|K,|K+ !!|K\/!!%!!|K. !#|K2|K1 !#|:+|KA !!|Jh!!%!!|K3 !#|KE|KD !#|KG|KF !!|K0!!%!!|Jw!!%!!|KC !#|Ju|Jt !!|K)!!%!!|K& !!|K(!!%!!|K' !#|Je|Is!!%!!|K4 !#|J`|J_!!%!!|JY !#|J[|JZ !#|:-|Jy!!%!!|Js !%|1k|1j|3&|L9 !#|K[|L. !!|LN !!|KV!!%!!|KU !#|:(|LO !#|KZ|K`!!%!!|LQ!!%!!|Ke !#|Kd|Kc !#|Ku|Kt!!%!!|Kf !#|L;|L: !#|LS|LR !#|LU|LT !#|L?|L> !#|LA|L@ !!|LB !#|L=|L< !#|Kp|Ko !!|Kr!!%!!|Kq !#|:(|LC !#|Ky|Kx!!%!!|Kv !!|LD !#|LI|LH !!|K{!!%!!|Kz !#|:-|LE !#|L$|L# !!|L'!!%!!|L% !!|LF !#|LK|LJ !#|L0|L\/ !!|L4!!%!!|L1 !#|LG|JG !!|L3 !#|L8|L7 !#|KT|KS!!%!!|KR !!|L5!!%!!|Km!!%!!|Kw !!|Kl!!%!!|Ki !#|:+|Kk!!%!!|Kj !#|L2|Ky!!%!!|L&!!%!!|LM !!|Ks!!%!!|Kg !#|Kn|JG!!%!!|Kh !%|0R|0Q|3&|M8 !#|Lc|M( !#|Lb|Ik!!%!!|Ld!!%!!|Ln !#|:(|MK !#|Lh|Lg !#|Lq|Lp!!%!!|Li !#|MM|ML !#|MO|MN !!|MP !#|ID|IA!!%!!|I@ !#|M:|M9 !#|Ls|Hu!!%!!|Lr !!|MQ !!|Lt !#|M<|M; !#|Lx|M%!!%!!|Ly !#|M>|M= !#|MG|MF !#|M*|M) !#|M0|M\/!!%!!|M+ !#|MB|MA !#|MC|Hv !!|MD !!|M2!!%!!|M1 !#|:(|ME !#|M6|M5 !!|L_!!%!!|M7 !#|MJ|JG !!|M3!!%!!|Lu!!%!!|M!!!%!!|M@ !!|M.!!%!!|M,!!%!!|M-!!%!!|MI !!|Lo!!%!!|Lj !#|Lm|Ll!!%!!|Lk !%|1M|1L|3&|N$ !#|M_|Mm !#|MY|MX !#|M^|Jf!!%!!|MZ !#|N.|JG !!|M] !!|N#!!%!!|Mi !#|Mc|Mb !!|Mj!!%!!|Md !#|N0|N\/ !#|N2|N1 !!|N3 !#|N&|N% !#|Mo|Mn !!|My!!%!!|Mp !#|N5|N4 !#|N7|N6 !#|N*|N) !#|N+|JG !#|N(|N' !#|N |M^!!%!!|N! !#|J]|JG !!|Mz!!%!!|Mu!!%!!|N- !!|Mv!!%!!|Ms !#|:(|Mt !#|M[|Hl !!|Mh!!%!!|Me !#|:(|Mg!!%!!|Mf !!|Mx!!%!!|Mq !#|:(|Mw!!%!!|Mr !%|0R|0Q|3&|Nc !#|NA|NY !!|Nm!!%!!|N? !!|Nn!!%!!|NJ !#|ND|NV!!%!!|NE !#|Np|No !#|Nr|Nq !#|Nt|Ns !#|Nv|Nu !#|Ne|Nd !%|\/S|\/R|3'|Nf !!|NZ !#|N`|N_ !!|N@!!%!!|Na !#|Nj|Ni !#|Nl|Nk !!|N[!!%!!|NS !#|N>|I@!!%!!|Nb !#|:(|N=!!%!!|N<!!%!!|NF!!%!!|NG!!%!!|NH!!%!!|Nh!!%!!|Nx !#|O!|N; !#|O#|HT !#|O$|MU !#|O%|I< !#|O&|JX!!%!!|Ny!!%!!|Nz!!%!!|N{!!%!!|O !!%!!|KQ !#|S*|RF !%|1Z|1Y|3&|PZ !#|O4|OX !!|Pj !#|O1|O0!!%!!|O\/ !#|:+|Pk !#|:+|O3!!%!!|O2 !!|Pl!!%!!|O@ !#|O8|O7 !#|O;|O:!!%!!|O9 !!|Pm !#|O>|O=!!%!!|O< !#|:+|Pn !#|:+|OA!!%!!|O? !!|P` !#|P]|P[ !#|OE|OD !!|OG!!%!!|OF !!|Pa !#|P_|P^ !#|OL|OK !#|:+|ON!!%!!|OM !#|:*|Pb !#|OR|OQ !#|:+|OU!!%!!|OT !#|Pe|Pd !#|:*|Pc !!|OY !#|Pg|Pf !#|O_|O^ !#|O.|O-!!%!!|O, !%|1Z|1Y|3&|PA !#|On|P; !#|Oh|Og !#|O{|Oz!!%!!|Oi !#|PT|PS !#|PV|PU !!|PW !#|:.|Op!!%!!|Oo!!%!!|Ox !#|:+|PX!!%!!|Oq !!|PY !#|Ov|Ou!!%!!|Ot !!|PF !!|Oy!!%!!|Ow !#|:(|PG !#|PC|PB !!|P!!!%!!|P  !#|:(|PH !#|P'|P& !#|PE|PD !!|P+!!%!!|P( !#|PJ|PI !!|PK !!|P\/ !#|PO|PN !#|P3|P7!!%!!|PM !#|PQ|PP !!|P< !%|\/S|\/R|3'|PR !!|Od !!|P=!!%!!|P%!!%!!|P. !#|:(|P*!!%!!|P)!!%!!|P8!!%!!|P> !#|Os|Or!!%!!|Oj !#|Om|Ol!!%!!|Ok !!|OZ!!%!!|OH!!%!!|OS!!%!!|O[!!%!!|Pi !%|1Z|1Y|3&|R+ !#|Q!|QF !!|Pv!!%!!|Pu !#|:(|R: !#|Pz|Py !#|Q3|Q2!!%!!|P{ !#|R<|R; !#|R>|R=!!%!!|Q+ !#|R@|R? !#|RB|RA !!|RC !#|:+|Q)!!%!!|Q( !!|R0 !#|Q-|Q, !#|R-|R, !!|Q\/!!%!!|Q. !#|:+|R1 !#|:+|Q6!!%!!|Q5 !#|R\/|R. !!|R2 !#|Q:|Q9 !#|Q>|Q=!!%!!|Q; !#|R3|PJ !#|QA|Q@!!%!!|Q? !!|R4 !!|QC!!%!!|QB !#|:+|R5 !#|QI|QH !#|QQ|QP !#|QL|QK!!%!!|QJ !!|R6 !!|QN!!%!!|QM !#|:+|QO !#|Pt|Ps!!%!!|QR !!|R9 !%|-I|-F|3&|Qw !#|Q]|Qk!!%!!|Qg !#|Qe|Qd !!|Qh!!%!!|Qf !!|R) !#|Qy|Qx !#|Qm|Ql !!|Qo!!%!!|Qn !!|R* !#|Qs|Qr!!%!!|Qt !#|R!|R  !#|R$|R# !#|R&|R% !!|Qp!!%!!|Q{!!%!!|Qu!!%!!|Qv!!%!!|R( !!|QO!!%!!|Q4!!%!!|R8 !#|:+|Q< !!|Q1!!%!!|Q  !!|Q0!!%!!|Q# !#|Q*|PJ!!%!!|Q$ !#|Q'|Q&!!%!!|Q% !#|RN|R` !#|S!|PJ!!%!!|RV !!|RQ !#|RT|RY!!%!!|S$ !#|Rs|Rr !!|R] !#|Rb|Ra !!|Rm!!%!!|Rd !#|Ru|Rt !#|S&|S% !#|S(|S' !!|S) !#|:+|Rk!!%!!|Rj !!|Rv !#|Rx|Rw !#|Rz|Ry !#|Rq|Rp !!|RI!!%!!|RG!!%!!|Rc!!%!!|Rl!!%!!|Rn!!%!!|S  !#|:+|RH !#|Ri|Rh!!%!!|Re !!|Rg!!%!!|Rf!!%!!|S+ !#|S.|O+ !#|S\/|Oc !#|S0|Pr!!%!!|S,!!%!!|S-!!%!!|QV !#|UF|Sx !%|2B|2A|3&|Sc !#|S>|SW !#|S9|S=!!%!!|Sm!!%!!|SH !#|SB|SA !#|SE|SD!!%!!|SC !!|Sn !#|:.|SG!!%!!|SF !#|:(|So!!%!!|SI !#|Se|Sd !!|Sp !#|SL|ST!!%!!|SM !#|Sr|Sq !#|Sg|Sf !#|SY|SX !!|S]!!%!!|SZ !!|Sh !#|Sj|Si !%|01|00|3'|Sk !!|Sb !!|S^!!%!!|SO!!%!!|S[!!%!!|S_!!%!!|St !%|2B|2A|3&|TC !#|T%|T: !#|T'|T&!!%!!|T. !!|T-!!%!!|T( !#|TL|T2 !#|TE|TD !#|T2|T1 !%|2F|2E|3&|T7!!%!!|TB !!|T< !#|TG|TF !#|T@|T? !!|T!!!%!!|TA !#|TJ|T2 !!|TK !!|T=!!%!!|T;!!%!!|TI !%|0X|0W|3&|U6 !#|TX|U0 !%|01|00|3'|UE!!%!!|Td !!|Tc !#|U8|U7 !#|U:|U9 !#|U<|U; !#|U>|U= !!|U2 !#|U@|U? !#|UB|UA !#|UD|UC !!|U3 !%|01|00|3'|U-!!%!!|Tl !%|01|00|3'|U%!!%!!|Tt !%|01|00|3'|T{!!%!!|U& !%|01|00|3'|Ts!!%!!|U1 !%|01|00|3'|Tk!!%!!|U4!!%!!|U5 !%|01|00|3'|T`!!%!!|TQ!!%!!|UG !#|UH|S5!!%!!|TP !#|YN|UM !%|0%|0$|3&|V  !#|UV|Up !!|UO!!%!!|U^ !!|UY !!|U] !#|V#|V! !#|Ub|Ua !#|Ug|Uf!!%!!|Uc !#|V-|V, !!|V. !#|Uk|Uj!!%!!|Uh !!|V\/ !#|V%|V$ !!|Um!!%!!|Ul !#|:(|V0 !#|Uq|Ug !#|Us|Ur !!|Uv!!%!!|Ut !#|:(|V1 !#|V'|V& !#|V)|V( !#|U{|Uz !!|UP!!%!!|UN !!|Uw!!%!!|Ui!!%!!|Uu!!%!!|Ux!!%!!|V+ !!|Ue!!%!!|Ud !%|2B|2A|3&|VW !#|V<|VK !#|V9|V8 !!|V;!!%!!|V: !!|V`!!%!!|VE !!|V@ !#|VC|VH!!%!!|Vb !#|VY|VX !#|VM|VL !!|VO!!%!!|VN !!|Vc !#|V[|VZ !#|V^|V] !%|\/S|\/R|3'|V_ !!|VV !!|VP!!%!!|VQ !%|\/S|\/R|3'|V?!!%!!|VR!!%!!|VS !%|0%|0$|3&|WD !#|Vp|W: !#|Vk|Vo!!%!!|WR!!%!!|Vz !#|Vt|Vs !!|W0!!%!!|Vu !#|WT|WS !#|WV|WU !#|WX|WW !#|WZ|WY !!|WI !#|WF|WE !!|W$!!%!!|W! !#|:(|W# !#|:5|W& !#|:5|W+!!%!!|W* !#|WH|WG !!|WJ !#|:5|W\/!!%!!|W. !!|WK !#|WN|WM !#|W<|W; !!|W>!!%!!|W= !!|WL !#|WB|WA !!|Vh!!%!!|WC !#|:.|Ug !!|W?!!%!!|W)!!%!!|W1!!%!!|WP !#|W-|W,!!%!!|Vv !#|W(|W'!!%!!|Vw !#|W%|Ug!!%!!|Vx !#|W |V{!!%!!|Vy !%|0%|0$|3&|XK !#|Wh|X+ !#|Wf|We !#|Wj|Wi!!%!!|Wg !!|Xg!!%!!|Wq !!|Wk!!%!!|:. !!|Wn !#|Ws|Wr !#|XM|XL !#|X%|X$!!%!!|Wt !#|Xi|Xh !#|Xk|Xj !#|Xm|Xl !!|Xn !#|:(|W{!!%!!|Wz !!|XP !#|XO|XN !!|X'!!%!!|X& !#|:(|XQ !#|Xa|X` !#|X-|X, !#|XD|XC!!%!!|X. !#|XS|XR !#|XU|XT !#|XW|XV !#|XY|XX !#|X[|XZ !#|X]|Ug !#|:(|X6 !#|:(|X8 !!|X>!!%!!|X= !#|XF|XE !#|:(|X^ !!|XB!!%!!|XA !#|:(|X_ !#|XH|Uk!!%!!|XG!!%!!|Xf !!|Xb !!|XI !!|XJ!!%!!|X !!%!!|X( !#|X@|X?!!%!!|X\/ !#|X;|X:!!%!!|X0 !!|X9!!%!!|X1 !#|X7|W-!!%!!|X2 !#|X5|W(!!%!!|X3 !#|:(|X4!!%!!|Xd !!|X#!!%!!|Wu !!|X!!!%!!|Wv !#|Wy|Wx!!%!!|Ww !%|0%|0$|3&|Y: !#|Y |Y2 !#|YG|YF !#|YI|YH !#|YK|YJ !#|YL|Ug !!|Y!!!%!!|X{ !#|:?|YM!!%!!|Y* !!|Y&!!%!!|Y% !#|:(|Y> !#|Y)|Y( !!|Y,!!%!!|Y+ !#|Y;|VX !#|:(|Y? !#|Y=|Y< !!|Y3 !#|Y7|Y6 !!|Y-!!%!!|Y8 !#|YC|YB !#|YE|YD !!|Y4!!%!!|Y\/!!%!!|YA !#|:-|W&!!%!!|Y9 !#|Y'|Ug!!%!!|Xs !#|Y$|Y#!!%!!|Xt !#|Xz|Xy!!%!!|Xu !!|Xx!!%!!|Xv !#|:5|Xw!!%!!|YO !#|YT|W_ !#|YU|Vg !#|YV|Z  !#|YW|Xr !#|YX|Y]!!%!!|YP!!%!!|YQ!!%!!|YR!!%!!|YS!!%!!|V5 !%|0%|0$|3&|Yp !#|Yd|Yg!!%!!|Yr !!|Yh !#|Yl|Yk!!%!!|Ym !#|Yt|Ys !#|Yv|Yu !!|Yi!!%!!|Yn!!%!!|Yx !%|0%|0$|3&|ZT !#|Z*|ZB !!|Zm !#|Z(|Z' !!|Z;!!%!!|Z) !#|Zn|W!!!%!!|Z3 !#|Zp|Zo !#|Zr|Zq !#|Zt|Zs !#|ZZ|ZY !#|Z]|Z[ !!|Z^ !#|ZV|ZU !!|Z9!!%!!|Z8 !#|:(|Z_ !#|ZX|ZW !#|ZD|ZC !#|ZM|X$!!%!!|ZE !#|Za|Z` !#|Zc|Zb !#|Ze|Zd !!|Zf !#|ZQ|ZP!!%!!|ZN !#|:(|Zg !!|Z$!!%!!|ZR !#|Zj|W' !#|Zl|Zk !!|ZO!!%!!|Z:!!%!!|Zi !!|Z2!!%!!|Z\/ !#|:(|Z1!!%!!|Z0 !!|ZK!!%!!|ZF !!|ZJ!!%!!|ZG !#|:(|ZI!!%!!|ZH!!%!!|ZS !!|Z#!!%!!|Z!!!%!!|Z+ !#|Z7|Z6!!%!!|Z, !!|Z5!!%!!|Z- !!|Z4!!%!!|Z. !#|_<|]m !%|1_|1^|3&|[W !#|[%|[I !!|[m!!%!!|[1 !#|[)|[( !!|[+!!%!!|[* !#|:(|[n !#|[\/|[. !#|[7|[6!!%!!|[0 !#|[p|[o !#|[Y|[X !#|[q|[f !!|[r !!|[:!!%!!|[8 !#|:(|[] !#|[[|[Z !#|[>|[F!!%!!|[? !#|[_|[^ !#|[h|[g !#|[K|[J !!|[Q!!%!!|[L !#|[b|[8 !#|[d|[c !#|[f|[e !#|[U|[T !!|[$!!%!!|[V !#|[l|[k !!|[R!!%!!|[9!!%!!|[A!!%!!|[a!!%!!|[M !!|[P!!%!!|[N !#|:(|[O!!%!!|[3!!%!!|[j!!%!!|Zz !!|[5!!%!!|[2 !#|:(|[4 !%|2B|2A|3&|]R !#|]$|]F !#|]d|]c !#|]e|[f !#|:5|]#!!%!!|]  !!|]!!!%!!|]. !!|]) !#|]-|], !!|]0!!%!!|]\/ !#|]T|]S !!|]f !!|]3 !#|]8|]7 !#|]V|]U !#|]@|]?!!%!!|]9 !#|]h|]g !!|]i !!|]>!!%!!|]= !#|:(|]W !!|]C!!%!!|]B !#|]^|]] !#|:-|]X !#|]H|]G !!|]M!!%!!|]I !#|]Z|]Y !!|][ !#|]`|]_ !#|]Q|]P !!|]%!!%!!|[w !!|]N!!%!!|]6!!%!!|]A !!|]L!!%!!|]J!!%!!|]K !%|\/S|\/R|3'|](!!%!!|]b !#|[{|[z!!%!!|[x !#|:5|[y !#|]<|];!!%!!|]: !%|1_|1^|3&|^E !#|]u|^1 !#|^^|^] !#|^_|[3 !!|]v!!%!!|]t !#|:(|^b!!%!!|^# !#|]z|]y !!|^!!!%!!|]{ !#|^c|[z !!|^J !#|^G|^F !#|^&|^*!!%!!|^L !#|^I|^H !!|^. !#|^2|[J!!%!!|^3 !#|^M|[q !#|^O|^N !#|^P|[e !#|^R|^Q !#|^W|[g !#|^T|^S !!|^U !!|^>!!%!!|^= !#|:(|^V !#|^Y|^X !#|^D|^C !#|]s|]r!!%!!|]n !!|^A!!%!!|^+!!%!!|^7!!%!!|^4 !!|^@!!%!!|^5!!%!!|^6 !#|^<|^;!!%!!|^8 !!|^:!!%!!|^9!!%!!|^?!!%!!|^[ !#|]<|] !!%!!|]o!!%!!|^a!!%!!|^  !%|1_|1^|3&|_- !#|^o|_% !#|^m|^r!!%!!|_9!!%!!|^x !!|^u !#|^y|_! !#|_\/|_.!!%!!|_; !!|_& !#|_1|_0 !#|_3|_2 !#|_,|_+!!%!!|_7 !!|_(!!%!!|_'!!%!!|_)!!%!!|_5!!%!!|_= !#|_?|Zy !#|_@|^g!!%!!|_>!!%!!|[v !#|av|_E !%|1V|1U|3&|`I !#|_M|_p !#|_L|_K !#|:(|_X!!%!!|_N!!%!!|_U !#|`Z|`Y !#|`]|`[ !#|`_|`^ !#|`a|`` !!|`N !#|`K|`J !#|`M|`L !#|_c|_b !#|_f|_e!!%!!|_d !!|`O !!|_h!!%!!|_g !#|:(|`P !#|`R|`Q !!|_q !#|`T|`S !#|_v|_u!!%!!|`X !%|1V|1U|3&|`= !#|`(|`1 !#|`$|`#!!%!!|`! !#|:5|`E !#|:5|`&!!%!!|`% !!|`F!!%!!|`4 !#|`,|`+ !!|`.!!%!!|`- !!|`G !#|`3|`2 !!|`6!!%!!|`5 !#|`?|`> !!|`H !#|`:|`9 !!|`'!!%!!|`; !#|`C|`B !!|`D !!|`7!!%!!|`A !#|` |_{!!%!!|`< !!|_s!!%!!|__!!%!!|_i!!%!!|_r!!%!!|`V !!|_W!!%!!|_O !#|:(|_V!!%!!|_P !!|_T!!%!!|_Q !#|:(|_S!!%!!|_R !%|1V|1U|3&|am !#|`l|`o!!%!!|ao !!|`p !#|`t|`s!!%!!|`u !#|aq|ap !#|as|ar !%|1V|1U|3&|aU !#|a*|aI !!|a$ !#|a(|a' !#|a3|a2!!%!!|a) !#|ah|ag!!%!!|a4 !#|ai|`C!!%!!|a- !#|:(|aj !!|a1!!%!!|a0 !#|:5|ak !!|a6!!%!!|a5 !#|aW|aV !#|:(|al !!|a: !#|aY|aX !#|a?|a> !#|aC|aB!!%!!|a@ !#|aZ|`C !#|a5|`$ !#|aD|a2!!%!!|a.!!%!!|aE !#|:(|a[ !#|ab|aa !#|aK|aJ !!|aP!!%!!|aL !#|a^|a] !!|a_!!%!!|aO !!|a` !#|ad|ac !!|aR!!%!!|a; !%|\/S|\/R|3'|a9!!%!!|aF !#|aA|a\/ !#|aN|a0!!%!!|aM!!%!!|aQ!!%!!|af !#|a\/|a.!!%!!|a+ !#|a,|`% !!|`q!!%!!|`v!!%!!|au!!%!!|aw !#|ay|_z !#|az|`e!!%!!|ax!!%!!|`{ !#|id|b$ !%|0H|0G|3&|c` !#|b-|bY !#|b(|b,!!%!!|cy!!%!!|b8 !#|b1|b0 !#|b4|b3!!%!!|b2 !!|cz !#|b6|b5!!%!!|:. !#|:(|b9!!%!!|b7 !!|c{ !#|cb|ca !#|b=|b< !#|bN|bF!!%!!|b> !#|d!|d  !#|d$|d# !#|cf|ce !#|cg|cO !#|cd|cc !!|ch !#|:(|bH!!%!!|bG !!|ci !#|:(|bK !#|cs|cr !#|:(|bM !#|:(|bO !#|bT|bS !#|cu|ct !!|bV!!%!!|bU !!|cj !#|b[|bZ !!|bd!!%!!|b] !#|cl|ck !#|cn|cm !#|cp|co !!|cq !!|bg !%|0H|0G|3&|cC !#|bt|c8 !#|cX|cW !#|cZ|cY !#|c]|c[ !!|c^ !!|bv!!%!!|bu!!%!!|bz !#|:+|c_ !#|cE|cD !#|c#|c! !!|c&!!%!!|c$ !#|cH|b5 !!|cI !#|c+|c* !#|cG|cF !#|c4|bF!!%!!|c, !#|cK|cJ !#|cM|cL !#|cO|cN !#|:(|c1 !#|:(|c3 !#|:(|c5 !#|c:|c9 !!|c=!!%!!|c; !!|cP !#|c@|c? !#|:(|by!!%!!|cA !#|cT|cS !#|cV|cU !!|c>!!%!!|c)!!%!!|cR!!%!!|c% !#|c2|bF!!%!!|c- !#|c0|bF!!%!!|c. !#|:(|c\/!!%!!|bC !!|bx!!%!!|cB !#|:(|bw!!%!!|bl !#|bs|br!!%!!|bm !!|bq!!%!!|bn !!|bp!!%!!|bo !!|bf!!%!!|bB!!%!!|bJ !#|bF|bE!!%!!|bA !#|:(|bD !#|:+|bc!!%!!|b^ !!|bb!!%!!|b_ !#|:+|ba!!%!!|b`!!%!!|bR!!%!!|cw !#|bL|bF!!%!!|b? !#|bI|bF!!%!!|b@ !%|0_|0^|3&|dO !#|d0|d< !#|d-|d9!!%!!|d. !#|dW|dV !#|dY|dX!!%!!|d6 !#|dQ|dP !#|d>|d= !#|dC|dB!!%!!|d? !#|d^|d] !!|d_ !#|dE|b4!!%!!|dD !!|d` !!|dF !#|dJ|dI !!|d*!!%!!|dK !#|dT|cO !!|d)!!%!!|dN !#|:(|dU !!|dG!!%!!|dS !#|dM|dL!!%!!|d\/!!%!!|d[ !#|:(|dA!!%!!|d@ !%|0R|0Q|3&|e7 !#|dp|e\/ !#|dh|dg !!|du!!%!!|di !#|eA|cO !#|dn|dm!!%!!|dl !#|:(|eB !#|dr|dq!!%!!|do !!|eC!!%!!|dv !!|dt!!%!!|ds !#|:(|eD !#|e9|e8 !#|e#|e! !!|e,!!%!!|e$ !#|eE|cO !#|e)|dn!!%!!|e' !#|:(|eF !#|e;|e: !#|e*|dq!!%!!|e+ !#|:(|e< !#|e0|b4 !!|e1 !#|e>|e= !!|e3!!%!!|e(!!%!!|e2!!%!!|e@ !#|dk|dj !#|e&|e% !%|0H|0G|3&|fN !#|eR|ec !#|eP|eO !#|eT|eS!!%!!|eQ !!|f[!!%!!|e[ !#|eV|b4!!%!!|eU !!|f] !!|eW !#|eZ|e`!!%!!|f_ !#|fP|fO !#|ee|ed !!|en!!%!!|ef !#|fa|f` !#|fc|fb !#|fR|fQ !#|fT|fS !!|fU !#|er|eq !!|eL!!%!!|es !#|fY|fX !!|fZ !%|0H|0G|3&|f= !#|f'|f1 !#|e{|ez !!|f!!!%!!|f  !!|fD !#|f%|d9!!%!!|f& !#|fF|fE!!%!!|f. !#|fH|fG !#|f?|f> !#|f3|f2 !!|f7!!%!!|f4 !#|fL|fK !!|fM !#|fA|f@ !!|f; !!|f9!!%!!|f8!!%!!|fC!!%!!|f(!!%!!|fJ !!|f6!!%!!|f5 !!|eo!!%!!|eh!!%!!|fW !!|ek!!%!!|ej !!|eK!!%!!|et !#|:(|em!!%!!|eg !!|el!!%!!|ei !%|0_|0^|3&|gf !#|fp|g& !#|fm|fl !#|:(|fo!!%!!|fn !!|go!!%!!|fw !#|fs|g#!!%!!|ft !#|gq|gp !#|gs|gr !#|gh|gg !#|g)|g( !#|gj|gi !!|g-!!%!!|g* !#|gw|gv !!|gx !#|g1|g0!!%!!|gn !%|0_|0^|3&|gW !#|g>|gL !#|g9|g=!!%!!|gb!!%!!|gF !!|gA !#|gD|gI!!%!!|gd !#|gY|gX !#|gN|gM !#|gP|dM!!%!!|gO !!|ge !!|gQ !#|g[|gZ !#|g^|g] !!|gV !!|gS!!%!!|gR!!%!!|gT!!%!!|g` !!|g.!!%!!|g'!!%!!|gl!!%!!|fu!!%!!|gu !#|:(|g,!!%!!|g+ !%|0H|0G|3&|iD !#|h*|hV !#|h%|h-!!%!!|h& !#|i^|gu !#|i_|gs!!%!!|h4 !#|h1|h0 !#|h7|h6!!%!!|h2 !#|ia|i` !!|ib !#|iF|iE !!|h9!!%!!|h8 !#|:+|ic !#|h=|h< !#|hR|hH!!%!!|h? !#|iH|iG !#|iJ|iI !#|iL|iK !#|iN|iM !#|iP|iO !#|iR|iQ !#|iT|iS !!|iU !#|iY|iX!!%!!|hI !!|iV !#|:(|hK !#|:(|hM !#|:(|hO !#|:(|hQ !#|:(|hS !#|hY|hX !#|h_|h^ !!|h[!!%!!|hZ !!|iW !!|h!!!%!!|h` !!|i] !%|0H|0G|3&|i1 !#|hm|hx !!|hh!!%!!|hg !#|:5|i9 !#|hk|ht!!%!!|hl !#|i:|i>!!%!!|hu !#|i<|i; !#|i3|i2 !#|hz|hy !!|i)!!%!!|h{ !#|i@|i? !#|iB|iA !#|iC|hg !!|i6 !#|:5|i'!!%!!|i& !!|i7 !#|i,|cO !#|i-|b4 !#|i\/|i. !#|hf|he!!%!!|i0 !!|i8 !!|i*!!%!!|i5!!%!!|hn!!%!!|i> !!|i(!!%!!|i  !#|i%|i$!!%!!|i!!!%!!|i# !!|h]!!%!!|h>!!%!!|hG !#|hP|hH!!%!!|h@ !#|hN|hH!!%!!|hA !#|hL|hH!!%!!|hB !#|hJ|hH!!%!!|hC !#|hH|cU!!%!!|hD !#|:(|hF!!%!!|hE!!%!!|i[!!%!!|h' !!|h5!!%!!|h3!!%!!|ie !#|im|bk !#|in|fg !#|io|g6 !#|ip|d( !#|iq|h  !#|ir|hd !#|is|eJ !#|it|ex!!%!!|if!!%!!|ig!!%!!|ih!!%!!|ii!!%!!|ij!!%!!|ik!!%!!|il!!%!!|dd !#|kH|iy !%|1M|1L|3&|k8 !#|j'|j< !!|kC !!|j#!!%!!|j! !#|:5|kD !!|j(!!%!!|j& !#|:5|kE!!%!!|j1 !#|j,|j0!!%!!|kG !#|k:|k9 !!|j4 !#|k<|k; !!|j= !#|k>|k= !#|jB|jA !#|j%|j$!!%!!|jC !#|kB|kA !#|jM|je !!|k1 !!|jK!!%!!|jJ !#|:(|k2!!%!!|jV !#|jQ|jP !!|jU!!%!!|jR !#|k4|k3 !!|k5 !#|jy|jx !#|jY|j^!!%!!|k7 !!|jb !#|j{|jz !#|jg|jf !!|js!!%!!|jh !#|k!|k  !#|k$|k# !#|k&|k% !#|k(|k' !#|k)|k  !#|k,|k+ !!|k* !#|jv|ju !!|jL!!%!!|jw !#|k0|k\/!!%!!|ja!!%!!|jm !#|:-|jo!!%!!|ji !!|jr!!%!!|jj !!|jq!!%!!|jk !!|jp!!%!!|jl!!%!!|jn!!%!!|k. !#|jI|jH!!%!!|jG !#|:5|jT!!%!!|jS !!|j>!!%!!|j9!!%!!|j?!!%!!|k@ !#|j |i{!!%!!|iz!!%!!|jF !#|lr|l4 !%|0R|0Q|3&|ky !#|kS|kk!!%!!|k] !#|kW|k[!!%!!|l, !#|k{|kz !!|k` !#|kc|kh!!%!!|l. !#|l!|l  !#|km|kl !#|kp|ko!!%!!|kn !!|l\/ !!|ks!!%!!|kq !#|:5|l0 !#|l$|l# !#|kw|kv!!%!!|kx !#|l(|l' !!|kt!!%!!|ke!!%!!|kr!!%!!|l&!!%!!|l* !%|0R|0Q|3&|l^ !#|l;|lQ !#|lk|lj!!%!!|lE !#|lC|lB !!|lF!!%!!|lD !!|ln !#|l`|l_ !#|lI|lN!!%!!|lp !#|lb|la !#|lS|lR !#|lU|ko!!%!!|lT !!|lq!!%!!|lV !!|lc !#|lZ|lY!!%!!|l[ !#|lg|lf !#|li|lh !!|lW!!%!!|lK!!%!!|le!!%!!|l]!!%!!|l5!!%!!|lm!!%!!|kM !!|ls !!|lu !#|n`|mf !#|s3|o] !%|2B|2A|3&|mG !#|m'|m?!!%!!|m1 !!|m, !#|m0|m<!!%!!|m2 !#|mI|mH !#|mU|mT !#|mW|mV !#|mK|mJ !!|m@ !#|mD|mC!!%!!|mE !#|mO|mN !#|mQ|mP !!|mA!!%!!|m9!!%!!|mM!!%!!|mF!!%!!|mS!!%!!|m3!!%!!|mY !%|2B|2A|3&|n% !#|mh|mw !!|mb!!%!!|ma !#|:5|n\/ !#|mf|me !#|mj|mi!!%!!|mg !!|n0!!%!!|mp !!|ml!!%!!|mk !#|:5|n1 !!|mo !#|n'|n& !!|mx !#|n)|n( !#|n+|n* !#|n#|n! !#|m`|m_!!%!!|n$ !!|n. !!|my!!%!!|mz!!%!!|m{!!%!!|n- !%|2B|2A|3&|lt !#|ng|n? !#|n8|mf !#|nh|n: !!|n< !!|nD !#|:5|n9 !#|ns|nA!!%!!|nG !#|nn|n;!!%!!|n@ !#|:(|nB !#|ne|nI !#|nd|nU !!|nK !#|nR|nN !#|:(|nH!!%!!|nc !#|nt|nf !!|nW !#|nZ|lv !#|nr|ni!!%!!|lw !#|nk|nj !!|n_ !#|:+|n[!!%!!|nO!!%!!|nL!!%!!|nY!!%!!|n=!!%!!|n]!!%!!|nm!!%!!|nE!!%!!|n> !#|no|nF !!|nC !%|2B|2A|3&|oG !#|o(|o; !!|o !!%!!|n{ !#|:-|oP !#|o$|mf !#|o&|o% !!|o)!!%!!|o' !#|:(|oQ!!%!!|o0 !#|o,|o7!!%!!|o- !#|oS|oR !#|oU|oT !#|oI|oH !#|oK|oJ !#|o=|o< !!|oA!!%!!|o> !#|oY|oX !!|oL !#|oE|oD !#|nz|ny!!%!!|oF !!|oO !!|oB!!%!!|o8!!%!!|oN!!%!!|o.!!%!!|oW !!|o@!!%!!|o? !#|oe|od !!|o_!!#!#|,x|.S !!|oa!!#!#|,v|.S !!|of!!%!!|og !!|op !&|2o|01|00|3'|or$&!%|01|00|3'|or$$!$|01|00|3' !!|o`$$!  !%|.n|3'|oo|ok !!|o^$$! !!%!!|oh !%|.m|3'|oj|oi !%|2B|2A|3&|pN !#|p%|pH !#|p#|p!!!%!!|oy !#|p`|p_ !#|pa|mf !!|p&!!%!!|p$ !#|:-|pb!!%!!|p\/ !!|p) !#|p-|p, !!|p:!!%!!|p. !#|pd|pc !#|pP|pO !#|pS|mf !!|p4!!%!!|p3 !#|:5|pT !!|p8!!%!!|p7 !#|:5|pU !#|pR|pQ !!|p= !!|p@ !#|pW|pV !!|pI !#|pY|pX !#|p[|pZ !#|ox|ow !!|pK!!%!!|p9!!%!!|pA !#|p2|p1!!%!!|pJ!!%!!|pL!!%!!|p^ !!|p !!%!!|oz !#|:(|o{ !#|p6|p5!!%!!|p0 !%|0X|0W|3&|q< !#|q9|pr !#|pl|pp!!%!!|qR !!|q;!!%!!|p{ !#|pv|pu !!|px!!%!!|pw !!|qS !#|qT|q! !#|qC|qB!!%!!|q# !#|qU|q\/ !#|qW|qV !#|qX|mf!!%!!|q' !#|:5|qF !#|qG|q- !!|q( !#|qE|qD !#|qH|q0 !#|:5|q, !!|q2 !!|qI !#|:-|q !!%!!|q1 !#|qL|qK !!|qJ !#|qN|qM !!|q= !%|01|00|3&|q? !!|pi!!%!!|q+!!%!!|q4!!%!!|q*!!%!!|q.!!%!!|q:!!%!!|qP !#|q5|q3!!%!!|q$ !#|q)|nh!!%!!|q% !#|q&|p1 !%|2B|2A|3&|r! !#|qf|qt !#|r,|mf !#|qe|qd !!|ql!!%!!|qg!!%!!|qm !#|r.|r- !#|r\/|mg !!|r0 !!|qk !#|r$|r# !!|qu !#|r&|r% !#|qz|qy !!|qa!!%!!|q{ !#|r*|r) !#|r+|p1 !!|qv!!%!!|qw!!%!!|r( !#|:5|q`!!%!!|r !!%!!|q^ !#|:5|q_ !#|qj|p#!!%!!|qh!!%!!|qi !%|2B|2A|3&|r_ !#|r>|rW !#|r8|r7 !%|.m|3&|r=|r<!!%!!|r9 !%|.m|3&|rk|rj !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|r?!!%!!|rG !#|rD|rC !%|.m|3&|rH|r<!!%!!|rE !%|.m|3&|rl|rj !#|ra|r` !#|:*|rI !!|rL !#|rO|rT!!%!!|rn !#|rc|rb !!|rX !#|re|rd !#|rg|rf !!|r^ !!|rZ!!%!!|rP!!%!!|rY!!%!!|r[!!%!!|ri !#|#D|,v$&!!|,v$$! !!$$!|,v !#|:*|r: !#|:*|rF !%|0_|0^|3&|s* !#|ry|s !!%!!|s, !!|s! !#|s&|s%!!%!!|s' !#|s.|s- !#|s0|s\/ !!|s#!!%!!|s(!!%!!|s2!!%!!|s4 !#|s<|nx !#|s=|r4 !#|s>|rr !#|s?|n5 !#|s@|m  !#|sA|ov !#|sB|m^ !#|sC|q]!!%!!|s5!!%!!|s6!!%!!|s7!!%!!|s8!!%!!|s9!!%!!|s:!!%!!|s;!!%!!|ph !!|sD !!|sF !!|w= !#|vi|t[ !%|1M|1L|3&|sv !#|sT|si !!|t' !!|sU!!%!!|s^ !#|sY|se!!%!!|sZ !#|t)|t( !#|t+|t* !#|sx|sw !#|sz|sy !#|sk|sj !!|so!!%!!|sl !#|t\/|t. !!|s{ !#|ss|sr !#|:(|sQ!!%!!|st !#|t$|t# !#|t&|t% !!|sp!!%!!|sf!!%!!|t! !!|sP!!%!!|su !#|:(|sO!!%!!|sN!!%!!|s[!!%!!|t- !#|:(|sn!!%!!|sm !#|t3|t2 !!|tE!!%!!|t4 !#|t=|t< !!|tP!!%!!|tR!!%!!|tS !!|tD!!%!!|t? !%|1M|1L|3&|t8 !#|tK|tN!!%!!|tQ !!|tO !#|t9|tJ !#|t;|t: !%|\/S|\/R|3'|tV !!|tW !%|1M|1L|3&|u% !#|te|tx !!|u0 !!|ta!!%!!|:. !!|tf!!%!!|td !#|:(|u1!!%!!|tm !!|ti !#|tl|tt!!%!!|tn !#|u'|u& !#|u3|u2 !#|u)|u( !!|ty !#|u!|u  !#|tc|tb!!%!!|u# !#|u-|u, !#|u\/|u. !!|tz!!%!!|tu!!%!!|u+ !#|t`|t_!!%!!|u$ !!|t^!!%!!|t]!!%!!|u5 !%|1M|1L|3&|ux !#|uB|up !!|v0 !!|u>!!%!!|u= !#|:(|v1 !#|uD|uC!!%!!|uL !#|uG|uF!!%!!|uE !!|v2 !!|uI!!%!!|uH !#|:(|v3 !#|uN|uM !#|uz|uy !#|uS|tc!!%!!|uO !#|v5|v4 !!|v! !!|uR !!|uT !#|v |u{ !#|uY|uX !#|ug|u<!!%!!|uZ !#|v$|v# !#|v&|v% !!|v' !#|uc|ub!!%!!|u` !!|v( !#|v+|v* !!|ue!!%!!|ud !#|:(|v) !!|uh !#|v-|v, !#|uq|t& !#|ur|uG !!|us !#|uw|uv !#|u<|u;!!%!!|u: !!|ut!!%!!|uU!!%!!|ua !!|uf!!%!!|u[ !#|u_|u^!!%!!|u]!!%!!|ui !%|\/S|\/R|3'|uA!!%!!|v\/ !#|uQ|u<!!%!!|uP !%|1M|1L|3&|vX !#|vA|vM !!|vB!!%!!|vH !#|vE|se!!%!!|vF !#|ve|vd !#|vZ|vY !#|vO|vN !!|vQ!!%!!|vP !!|vh !#|v]|v[ !#|vV|vU!!%!!|vW !#|va|v` !!|vR!!%!!|vS!!%!!|v_!!%!!|vc!!%!!|vg!!%!!|vj !#|vn|v9 !#|vo|tC !#|vp|sM !#|vq|u9!!%!!|vk!!%!!|vl!!%!!|vm!!%!!|vu !%|1M|1L|3&|sE !#|wH|w! !#|wP|wO !!|wQ !#|wI|w#!!%!!|w, !!|w$ !#|:+|w(!!%!!|w2 !#|:(|v{ !#|wD|w'!!%!!|w* !#|wU|wE !!|w1 !#|w9|w4 !!|w-!!%!!|w: !#|wT|wG !#|wC|sG !#|wJ|wF !#|wA|w@ !#|vz|t&!!%!!|wB !#|wN|wM!!%!!|sH !!|w.!!%!!|w5!!%!!|w>!!%!!|w)!!%!!|wL !!|vy!!%!!|vv !!|vx!!%!!|vw !#|w\/|w+!#'!\/|z=|#=|#<|zJ|zC|zW|wX|w[|wb|wa|w`|w_|w^|w]$$#\/|z=|#=|#<|zJ|zC|zW|wX|w[|wb|wa|w`|w_|w^|w]$$#$|#=|#<|wa!!&#  $ !!&#$|#=|#<|wa $#|#=|#<$$##|#=|#<$$##|z=|w`$$$#|z=|w`!!&#!|w` $!|w` $ !!&#!|w` $  $!|z=$$##|zC|w_!!&##|zC|w_ $#|zC|w_ $!|zC$&! !!&##|zC|w_ $!|zC$&! $$##|w[|w^$$%#|w[|w^!!&##|w[|w^ $#|w[|w^ $!|w[!!&##|w[|w^ $!|w[ % !!&&  $ $$#%|zJ|zW|wX|w]!!&#!|w] $!|w] $ !!&#!|w] $  #$|zJ|zW|wX!#'!\/|z=|#=|#<|zJ|zC|zW|wX|w[|wb|wa|w`|w_|w^|w]$$#\/|z=|#=|#<|zJ|zC|zW|wX|w[|wb|wa|w`|w_|w^|w]!!&#  $ !!&#$|#=|#<|wa $#|#=|#<$$##|#=|#<$$##|z=|w`!!&#!|w` $!|w` $ !!&#!|w` $  $!|z=!!&##|zC|w_ $#|zC|w_ $!|zC$&! !!&##|zC|w_ $!|zC$&! $$##|w[|w^!!&##|w[|w^ $#|w[|w^ $!|w[!!&##|w[|w^ $!|w[ % !!&&  $ !!&#!|w] $!|w] $ !!&#!|w] $  #$|zJ|zW|wX!!%!!|wW!#'!!|w[!!%!!|wV!!%!!|wc!!%! #$# !!%! $$! !!%! #!# !!%! $$! !-9! $$# !'\/! $$( $$) !'\/! $$' $$( !(1!%|zh|wl|wm|wn$$(%|zh|wl|wm|wn$$# $$& $$+ $$! $$' !)3!#|zh|wl$$& !'\/!!|zh$0#!|zh$$*!|zh$$+!|zh % !&-!!|wl$$&!|wl!$)!!|wo$$$!|wo!%+! !(1! $$) $$) $$) $$) $$( $$% $$% $$$ !!&'  %  %  $  #  #  # !#'!%|#U| ?| z|ww $$|#U| ?| z!(1! $$( $$( $$( $$) $$' $$' $$& $$& $$& $$$ !!&&  %  $  %  $  #  # !$)!$| z|wx|wv!!&##|wx|wv $!|wx$$#!|wx$$%!|wx$$%!|wx$$%!|wx %!|wx $!|wx %!| z$$$!| z$(! !$)! $$( $$' $$&  #  %  %  $  #  #  #  #  #  #  # !$)! $$% $$& $$( $$' $$&  #  '  $  #  &  $  #  #  #  #  # !$)! #!% !$)! $$$ $$$ $$$ !$)! #!% !$)! $$$ $$$ $$$ !%+! $$' $$' $$) $$&  %  $  #  %  $  #  #  # !$)! $$$  % !!&$ !$)!#|xU|xT$$$#|xU|xT $  $ !%+!#|xU|xT$$%#|xU|xT!!&#!|xU $!|xU $ !!&#!|xU $  $ !!&#!|xT $!|xT $ !!&#!|xT $  $ !%+!!|xV$$%!|xV!%+!!|xV!!&$!|xV!#'!$|xX|xW|xR!#($!|xW!!&$!|xR!#($!|xX!!%! ### !!%! #!#  ! !!%! !!%! $$! !!%! !!%! !$'!  $ !#'! #!$ !$'! !!%! $$! !#%! $$! $$#  # !#%! $$! $$# !#%!'|(e|xv|xu|xt|z<|xh$$!'|(e|xv|xu|xt|z<|xh ##|xv|xu$$!#|xv|xu$$!#|(e|z< $#|(e|z<$$! $$! $$! $$!  % $$!!|xh$$! $$# !#&&!|xh$$$ $$# $$# !&,$ $$' !!$' !&,$ $$' !!$' !$(&!|xh$$'!|xh$$%!|xh$$' $$% !&,$!|xh$$'!|xh$$(!|xh$$)!|xh$$+ $$) !#%!#|xi|xh$$!#|xi|xh$$#!|xi$$# !#%!!|xh!!#! !#%!!|xj!#%!!|xi$$! $$# !#%! !#%! $$! $$# !#%! !!%! $$!  !  !  ! !$)! !!%! $$! !$)!  !  !!|xz!!'!!|x{!!$$!|x{$($ !!%! $$# !#%! $$! $$# $$# !#%! $$! !#%! $$# !$'! !%)!!|y<!$(%!|y<$$&!|y<$$&!|y<$$&!|y<$$&!|y<$$# $$# $$$ $$% $$$ $$$  $ !!$# !!$#  # !&-!!|y'$$$!|y'!!$%!|y'$$$ $$% $$$ $$$ !$(#  % !%)! !!$$ $$# $$# $$$ $$# $!! !!$# !!$$ !#&$ $!# $$# $$# $$$ $$# $!! !!$$ !#&$ $!# !#&% $$# $$# $$# $$# !!%! $$! !%+! #!& !#'! #!$ !#'! #!$ !#'! !!$# $$! $!$ !!%! $$! !#'!  # $$! !!&%  $  $  $ !$)!!|xq # $$! !!&%  $  $  $  $  !!|y6 ! !#%!#|y |y;$$!#|y |y;$$##|y |y;$$%!|y;$$' $$'  #  # $$#  #  !!|y !&+!&|xt|y:|y8|y6|y5!#&##|y:|y8$$##|y:|y8$$!!|y8$$!!|y8!#&%$|xt|y6|y5$$%$|xt|y6|y5$$$ $$#  $ $$#  # $$!  $ $$#  # $$!  # $$! $$&#|xt|y5$$&#|xt|y5$$'!|y5$$&!|y5$$&!|y5$$&!|y5$$&!|y5 #!|y5$$!!|y5$$%!|y5$$%!|y5 #!|y5$$!!|y5 #!|xt$$!!|xt$$!!|xt$$$ $$$ $$&#|xt|y6$$%#|xt|y6$$&!|y6$$&!|y6$$&!|y6 $!|y6 $!|y6$$#!|y6 #!|y6$$!!|y6$$'!|y6$$&!|y6 $!|y6 $!|y6$$#!|y6 #!|y6$$!!|y6 #!|xt$$!!|xt$$!!|xt$$$ $$$ !#&% $$% $$$ $$#  # $$!  $ $$#  # $$! !$(&!|y6$$'!|y6$$% $$$  #  # !!&$  $ $$&!|y6$$%!|y6 #!|y6 #!|y6!#&$ $$# $$% $$$ $$% $$$ $$% $$%  # $$% $$& $$%  #  # $$! !#&% $$% $$$ $$#  # $$!  $ $$#  # $$! $$& $$$ $$% $$$ $$$  $ $$$ $$% $$$ $$$ !#'! #'$ !$)! #!% #'! !#'! #&$ !!%! #%# !'\/! ##( !$)! #!% !!#!!|x]!!#! !&+!#|y<|yP$$# $$# $$# $$$ !!%!%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$$#%|+>|+;|$,|yS$(&%|+>|+;|$,|yS$$(%|+>|+;|$,|yS $!|+>$$(%|+>|+;|$,|yS #!|+>$$$$|+;|$,|yS$$%$|+;|$,|yS$$#!|yS$$# !!%! $$! $$# !!%!  # !$)! $$$ $$% $$$ $$# $$!  # $&# $$$ $$$  #  # $$! !$)! $$$ !!%!#|+:|y_$$##|+:|y_ # $$! $$!  #!|y_$$!!|y_ #!|+:$&! !$)!#|z0|y`$$#!|z0 #!|z0$$!!|z0 #!|z0$$!!|z0$$$!|y`!#'!#|+:|ya$&$!|ya$$%!|ya$$# !!%!#|z2|yb #!|yb !!|yd!!#!#|*@|ye$!# !$($ $$%  !!|yh$&! !!%!%|+>|yc|z&|yh #!|+> #!|yh$&!  #$|+>|yc|z&$$##|+>|z&$$%#|+>|z&$$&#|+>|z& !#|+W|yk !!|yk !#|+>|yl !#|$B|ym!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z* !#|+>|yo !#|$B|yp!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z* !#|+W|ys !!|ys !#|+>|yt !#|$B|yu!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z* !#|+>|yw !#|$B|yx!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z* !#|+W|y{ !!|y{ !#|+>|z  !#|$B|z!!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z* !#|+>|z$ !#|$B|z%!#'!$|yc|*A|z* #$|yc|*A|z*$$##|*A|z*$$%#|*A|z*$$&#|*A|z*$$'#|*A|z*!$)!#|*A|z*!#'!$|#U|z6|z3$$#$|#U|z6|z3$$!!|z3$$!!|z3 !#|)C|z, !!|+6 !!|+6 !#|)C|z7!#'!#|ya|y_$$$#|ya|y_ # $$!  $ $$# $$# $$#  #!|y_$$!!|y_$$! $&!  $!|ya$&! !$)!>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$%>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi # $$*>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$*>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$+>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$!*  % $$$  $  #  # $!*>|+>|+W|)B|#e|#^|$B|#q|yS|z%|z$|z#|z!|z |yz|yy|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$)7|+>|+W|)B|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$)7|+>|+W|)B|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$)7|+>|+W|)B|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$)6|+>|+W|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$)6|+>|+W|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$'6|+>|+W|#e|#^|$B|#q|yS|yx|yw|yv|yu|yt|yr|yq|yp|yo|yn|ym|yl|yj|yi$$(\/|+>|+W|#e|#^|$B|#q|yS|yp|yo|yn|ym|yl|yj|yi$$(.|+>|+W|#e|#^|$B|#q|yp|yo|yn|ym|yl|yj|yi $ $$#  #  %.|+>|+W|#e|#^|$B|#q|yp|yo|yn|ym|yl|yj|yi $.|+>|+W|#e|#^|$B|#q|yp|yo|yn|ym|yl|yj|yi$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|yi$&! $$#%|+>|+W|#q|yl$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|yo$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  %.|+>|+W|#e|#^|$B|#q|yx|yw|yv|yu|yt|yr|yq $.|+>|+W|#e|#^|$B|#q|yx|yw|yv|yu|yt|yr|yq$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|yq$&! $$#%|+>|+W|#q|yt$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|yw$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  %.|+>|+W|#e|#^|$B|#q|z%|z$|z#|z!|z |yz|yy $.|+>|+W|#e|#^|$B|#q|z%|z$|z#|z!|z |yz|yy$$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$!#|#q|yy$&! $$#%|+>|+W|#q|z $$#$|+>|+W|#q$$$#|+>|#q$$$#|+>|#q$$#!|#q$&! $$##|+>|#q$$!#|+>|#q$$!!|#q$&! $$!#|+>|#q$$!!|#q$&! $$#$|+>|#q|z$$$##|+>|#q$$!#|+>|#q$$!!|#q$&!  # $$!  #!|)B$$! $$!  #!|)B #  #  # !%+!.|+Y|#U|$[|z;|z6|z0|y`|z.|z-|z+|z)|yb|z($$&.|+Y|#U|$[|z;|z6|z0|y`|z.|z-|z+|z)|yb|z( &#|+Y|z;$$%!|z;$&$ $&$ !$*$,|#U|$[|z6|z0|y`|z.|z-|z+|z)|yb|z($$&,|#U|$[|z6|z0|y`|z.|z-|z+|z)|yb|z($$$ $$$&|#U|z6|z0|y`|z($$$%|#U|z6|z0|z($&#$|#U|z6|z0$$$$|#U|z6|z0$&##|#U|z0 #!|#U$$! $$#!|z0$&!!|z0$$#!|z0 # $$!  # $$!  % $$$  # $$!  # $$! $$!  %!|z($$#!|z($&!!|z( # $$! !!&$  $ $&!!|z( # $$! $$##|#U|y` $!|#U!!&$  $  #!|#U #!|#U$$$)|#U|$[|z6|z.|z-|z+|z)|yb$$%'|#U|$[|z6|z.|z)|yb$$&'|#U|$[|z6|z.|z)|yb$$%'|#U|$[|z6|z.|z)|yb ##|z)|yb$$!#|z)|yb$!%%|#U|$[|z6|z. # $$!  % $$$  $ $$# $$# $&!  $$|#U|$[|z.$$#$|#U|$[|z.$$!$|#U|$[|z.$$!$|#U|$[|z.$$!#|#U|z.$$!!|z.$$!#|#U|z.$$!!|z. # $$!  $!|z6$&!!|z6$$#!|z6 # $$!  # $$! $$##|z-|z+$$$!|z-$$%!|z-$!% $$$  $  #  # $$! $&!  #  # $$! $&! !#'! #!$ !#'! $$# $$# !#'!!|!? $!|!?$$#!|!?$$#!|!?!!&%  $  $  $ !$)!!|zC$&! !!%!!|!? #!|!?$$!!|!?$$!!|!?!!&%  $  $  $ !!%!!|zF$&! !#'!!|!? $!|!?$$#!|!?$$#!|!?!!&%  $  $  $ !#'!!|zH#$! ##! #!! !$)! #!% !$)! $$$ $$$ $$$  !!|zU$$! !!#! !!%! #!# !!%! #!#  !  !#|)C|zQ!%+!!|$P!!&#  $ !!&&!|$P &!|$P!#($!|$P$$%!|$P '!|$P $  $  # !#(# $$$ !%,# $$'  ' !%,$  ' !%,$  ' !#'! #&$ !#'! $$# $$# !!%! #%# !!%! $$! !$)! #$% !#'! $$# $$# !#'! ##$ !#'! $$# $$# #!! !#'! #!$ !#'! $$# !!%! #!# !!%! !!%! #!# !!%!  !!|)C",
+", ,!,#%,%!&$!)!+!-!\/!1,3!4!5!8!;!>!A!D!G!J!M!P!S.[CD+)WE<=>?@AB!V!X!Z!]!^!_!`!c!f!i!l!o!r.[SR+)WTMONQP:;!u!w!y!{!| #!| &!| )!| \/!| 2!| =!| >!| ?!| @!| A#| B#| C#| D!| E1|2s| $| (h| %| '!| F1|2sq| )jrt!| G!| J!| K!| L !| M!| N !| Q!| R!| U!| X  +(|6'% }%8G}'e\/% }#$C} nH% } 9P}'(g% |pv}$p+xyp+(|6#% }%8G}'e\/% }#$C} nH% } 9P}'(g% |pv}$p+z00 +(|6'% }%-H} <\/% }!2'} gT% }'-9|?w% }!lz|scxy|  +(|6#% }%-H} <\/% }!2'} gT% }'-9|?w% }!lz|sc| !00!| Y!| Z!| ^!| _\/|%pu| 'w\/|%pnto,| a!| b!| d!| f!| i    #| k!| l#| r#| s#| t#| u!| v!|!%#|!5!|!6  #|!:!|!;!|!A -|7?%,!|!C2|-:|*9|&{| =| >|*9|*9-|7?$!|!I!|!L-|7?#!|!O!|!b!|!e+)|3Z| j| l| t| m| o| L| q| w !|!f!|!j!|!m!|!p!|!q!|!t!|!w!|!z!|# &!|#!!|#$!|#'!|#*!|#-!|#0!|#3!|#6!|#9!|#>!|#A!|#D!|#G!|#J-|7?$#|#L!|#M#|#O!|#P!|#R!|#T!|#U!|#W!|#[!|#_!|#`!|#a!|#d!|#f!|#g&!|#k&.2| z| x!|#n!|#q!|#r!|#s.[| y|! +)W|!%| Z| [| ]| ^| _| `| a\/|%p| O| P| R+(|'u| S| T| U| V| W| Y|!$\/|'9|!(|!&| b+*|'5|!)| M| c| d| c| d| e| f| g.|3X| z| x!|#u!|#w!|#y!|#{!|$ !|$#!|$%!|$&&&&!|$O!|$R#|$S#|$T !|$U!|$W!|$Y!|$Z!|$[!|$]!|$^!|$b!|$e!|$f!|$j!|$r!|$s!|$t!|%!*# % |ow}#I2% } 6%            &!|%'!|%+                                 *! |!{*!!|!q|!z*!!|!r|!y*!!|!s|!x*!!|!t|!w*!!|!u|!v*!!|!v|!u*!!|!w|!t*!!|!x|!s*!!|!y|!r*!!|!z|!q*!!|!{|!p*!!|# |!o*!!|#!|!n*!!|##|!m*!!|#$|!l*!!|#%|!k*!!|#&|!j*!!|#'|!i*!!|#(|!h*!!|#)|!g*!!|#*|!f*!!|#+|!e*!!|#,|!d*!!|#-|!c*!!|#.|!b*!!|#\/|!a*!!|#0|!`*!!|#1|!_*!!|#2|!^*!!|#3|!]*!!|#4|![!|%-!|%0!|%2!|%4!|%6&  !|%@-|7?% } pQ}&BU#|%J!|%K!|%W-|7?#!|%]&!|%a&&!|%h!|%k!|%n&&&& \/|%p|#C|#D|#E!|%o!|%q\/|%p|#_|#A|#V!|%u*!!|#5|!Z!|%x!|&%!|&'!|&)!|&+!|&-!|&1!|&4!|&?!|&B#|&`#|&a #|&b!|&c!|&f!|&i!|&j!|&n!|&r&!|&u!|&x!|&z-|7?$!|'!!|'(-|7?%\/-|7?#\/|'9|$LU|#z+*|'5|$%|)g|#q|#r|#t|#u|#v|#x|#y!|'*!|',!|'.!|'0!|'2!|'4!|'6!|'8!|':!|'<!|'>!|'@!|'C#|'K.2|$4|#w#|'L#|'M!|'N!|'P!|'R!|'T!|'V!|'X!|'Z!|']!|'_!|'b!|'c!|'f!|'i!|'l!|'n&&&!|'p!|'r+(|'u|$B|$C|$D|$E|$F|$J|$K+(|'u|+H|+G|+I|+e|+c|+b|$A!|'t!|'v!|'x!|'z!|( !|(#!|(%!|('!|()!|(+!|(4!|(=!|(F!|(I!|(M!|(O #|(R #|(S #|(T  #|(U#|(V!|(W !|(X#|([!|(]!|(`!|(b  !|(d!|(f!|(h!|(j!|(l,|(r!|(s,|(u,|(v,|(w,|(x.|(e|$w|$w!|(y-|(t|*9  #|)) 2|-:|*9|')0|%(|*9|*9#|)* 2|-:|*9|')0|%+|*9|*9!|)+!|)1!|)Q!|)S!|)r!|)s!|)t 2|-:|*9|')0|%4|*9|*9#|)z#|){!|* !|*-!|*.!|*3 !|*6 !|*9-|4h|%?!|*;   +(|6'% }'P9}&6w% }$>>|pk% }'d8}!h=% }#s:} hz|%B|%C|%D+(|6#% }'P9}&6w% }$>>|pk% }'d8}!h=% }#s:} hz|%E00!|*W#|*X#|*Y !|*Z!|*[!|*] !|*k !|*m!|*u!|*x !|*z!|+#!|+%!|+' !|+.!|+6#|+8!|+9 !|+:!|+@!|+B !|+E!|+I!|+K!|+N!|+Q!|+V !|+[!|+a !|+c!|+f!|+i !|+j!|+x&!|+{ !|,(!|,+!|,.!|,1 &&!|,5!|,D!|,H+\/|.4|%R|%V|%W|%X|%[|%a|%b|%e|%f|%g|%h|%i|%l|%o2|.A|%p|%s|%x|%y|%z|&%!|,K!|,M.|,L%\/#.|,L$#!|,P1|2s|&`|&r|&,|&a|&c!|,Q1|2s|&W|&s|&.|&X|&Z!|,R1|2s|&K|&t|&0|&L|&R                   !|,S &!|,U!|,W !|,X!|,Y!|,]  !|,_!|,r!|,t!|,v!|,x!|,z !|,{!|-  !|-$!|-&!|-(!|-* !|-+!|-, !|-\/ !|-1!|-2   +(|6'% }#\/f|da% }'Y8}#(W% }$b+} -,% }&w4}%oH|&h|&i|&J+(|6#% }#\/f|da% }'Y8}#(W% }$b+} -,% }&w4}%oH|&j00+(|6'% |UJ}%U[% }$H`}$>o% }( V}#o2% }$%_|bE|&h|&i|&d+(|6#% |UJ}%U[% }$H`}$>o% }( V}#o2% }$%_|bE|&l00+(|6'% }'nc}!lM% }#tR|;J% } ZV}%^\/% }$1F}&r_|&h|&i|&V+(|6#% }'nc}!lM% }#tR|;J% } ZV}%^\/% }$1F}&r_|&n00+(|6'% |SD}!C.% }'?V}#mX% }$D(| )% }$Hh|x6|&h|&i|&_+(|6#% |SD}!C.% }'?V}#mX% }$D(| )% }$Hh|x6|&p00\/|%p|&[|&c|&^\/|%p|&S|&Z|&U\/|%p|&Q|&R|&I,|-7,|-8!|-9,|-;,|-<,|-=,|->,|-?,|-@,|-A,|-B,|-C,|-D,|-E,|-F,|-G,|-H,|-I,|-J,|-K!|-L#|-U!|-V!|-W!|-Z!|-[!|-] !|-^!|-o!|-r!|-s1|.#|'7|'2|'8|'8|'9!|-t!|-x1|.#|'<|'1|'8|'8|'9\/|. |'5|'3|'4!|-{!|.!,|.$,|.%,|.&!|.'#|.)  2|-:|*9|'#|'G|'F|*9|*9!|.*  2|-:|*9|'#|'J|'K|*9|*9#|.+!|.,#|.\/#|.0#|.1!|.3,|.5,|.6,|.7,|.8,|.9!|.:!|.<!|.>!|.@!|.B!|.D!|.F!|.H!|.J,|.O,|.P!|.Q!|.T!|.j!|.l!|.m,|.o!|.p!|.r,|.t!|.u!|.w #|.y!|.z!|\/ !|\/#!|\/%,|\/'!|\/(!|\/:!|\/F!|\/`#|\/b!|\/e!|\/l!|0 !|0)!|0,!|07!|09!|0@!|0N!|0Q-|7?%\/!|0X&!|0Y&&.2|(.|(\/!|0Z!|0[!|0_!|0b!|0e!|0h!|0l!|0n!|0r!|0t!|0v!|0x!|0z!|0{-|7?$!|1#!|1.'!|11!|14!|16!|18!|1:''!|1<!|1>!|1@-|7?#!|1B'#|1_#|1`#|1a!|1b!|1d!|1f!|1h!|1j!|1l!|1o!|1q!|1s!|1u!|1w!|1y!|1{!|2!!|2$!|2&!|2(!|2*!|2,!|2.!|21!|24!|27+(|'u|(j|(i|(h|(f|(G|(J|(K\/|'9|(kF|(A0|'1|(k|(g|(L|(S+(|'+|(l|(m|((|(#|(%|(&|()+4|1i|(m|(B|(e|(d|(c|(X|(C|(b|(a|(`|(_|(^|(]|([|(Z|(Y|(D|(E|(F+1|1e|(n|(o|(+|(-|(1|(2|(3|(5|(6|(8|(9|(:|(;|(<|(=|(>!|2:!|2<!|2>!|2@!|2B!|2K!|2M!|2P!|2T!|2Y1|2s|)(|)>|(z|))|)*!|2Z1|2s|)3|)?|) |)4|)=!|2[!|2^!|2_!|2` !|2a!|2b!|2e!|2f  +(|6'% }&2n}#1A% }#A<}#)C% }$R-}#;$% }&W`}&y<|),|)-|)'+(|6#% }&2n}#1A% }#A<}#)C% }$R-}#;$% }&W`}&y<|).00 +(|6'% } ?w}%cb% }'r5}!mI% }#JS}#]5% }%nF}! k|),|)-|)0+(|6#% } ?w}%cb% }'r5}!mI% }#JS}#]5% }%nF}! k|)100!|2g!|2h      !|2k!|2m!|2n\/|%p|)%|)*|)&\/|%p|)<|)=|)+,|2o,|2p,|2q!|2r!|2t!|2v!|2x!|2z#|3 #|3!#|3#!|3$ #|3%!|3&!|3(!|3)!|3*!|3-   !|30!|3= !|3@ *! |#S#|3C!|3D#|3F!|3G!|3I!|3J!|3L!|3O!|3R#|3V+)|3Z|)^|)`|)a|)a|)b|)c|)d|)e!|3W!|3Y!|3[!|3`!|3d!|3h!|3l!|3m!|3n!|3o!|3p!|4!!|4$!|4&!|4(!|4*!|4+!|4:#|4<  !|4=&!|4?#|4A!|4B!|4C!|4F!|4J!|4N!|4P!|4Q!|4T!|4V!|4W!|4[!|4^.|4f|*,|*-1|4d|*2|*.|*\/|*0|*11|4b|*3|**|*0|*.|*+!|4a!|4c!|4e!|4g,|4i!|4j!|4k!|4l!|4n!|4p !|4r!|4t!|4u*! |#S*!!|*8|#S   &!|5#!|5%#|5)!|5*!|5+!|5.&!|53!|54!|55!|59!|5>!|5@!|5E!|5K!|5O&!|5Q!|5R!|5U!|5Y!|5[&+)|5`|*Z|*Z|!C|!B|*[|*]|*^|*_+)|5`|*P|*Q|*R|*S|*T|*U|*V|*X!|5_!|5a!|5c!|5e!|5i& #|5m 2|-:|*9|'*|*i|*k|*9|*9!|5n!|5q!|5t!|5y!|6!!|6$!|6&!|6(!|6*!|6-!|65!|6>!|6@!|6B!|6D1|2s|+*|+;|*{|++|+,!|6E1|2s|+1|+<|+!|+2|+4  !|6F!|6H!|6J !|6K!|6L!|6O!|6Q!|6S!|6U !|6V!|6W !|6Z  +(|6'% }#{p} ;>% }%Z-}$wb% } ^U}&\/y% }$r5}#3k|+5|+6|+0+(|6#% }#{p} ;>% }%Z-}$wb% } ^U}&\/y% }$r5}#3k|+700+(|6'% }'#w} ))% |#,}#`*% }&*M}$m^% |(k}$&w|+5|+6|+)+(|6#% }'#w} ))% |#,}#`*% }&*M}$m^% |(k}$&w|+900\/|%p|+&|+,|+(\/|%p|+-|+4|+\/,|6]!|6^#|6`!|6a!|6c!|6e!|6g!|6i!|6m!|6w!|6{!|7$!|7(!|7,!|76#|7;-|7?% }$$(}((0-|7?%,-|7?#-|7?$!|7<!|7>!|7@!|7A#|7B!|7C!|7D!|7E!|7F!|7H!|7I!|7K!|7M!|7Q!|7U!|7Y!|7^!|7`!|7b!|7f!|7h!|7j!|7l!|7n!|7o!|7r!|7s!|7t!|8&!|83!|8@!|8M!|8Z!|8h!|8u!|9'!|94!|9A!|9N!|9[!|9i!|9v!|:(!|:5!|:B!|:O!|:]!|:j!|:w!|;)!|;6!|;C!|;P!|;^!|;k!|;x!|<*!|<7!|<D!|<Q!|<_!|<l!|<y!|=+!|=8!|=E!|=R!|=`!|=m!|=z!|>,!|>9!|>F!|>S!|>a!|>n!|>{!|?-!|?:!|?G!|?T!|?b!|?o!|@ !|@.!|@;!|@H!|@U!|@c!|@p!|A!!|A\/!|A<!|AI!|AV!|Ad!|Aq!|B#!|B0!|B=!|BJ!|BW!|Be!|Br!|C$!|C1!|C>!|CK!|CX!|Cf!|Cs!|D%!|D2!|D?!|DL!|DY!|Dg!|Dt!|E&!|E3!|E@!|EM!|EZ!|Eh!|Eu!|F'!|F4!|FA!|FN!|F[!|Fi!|Fv!|G(!|G5!|GB!|GO!|G]!|Gj!|Gw!|H)!|H6!|HC!|HP!|H^!|Hk!|Hx!|I*!|I7!|ID!|IQ!|I_!|Il!|Iy!|J+!|J8!|JE!|JR!|J`!|Jm!|Jz!|K,!|K9!|KF!|KS!|Ka!|Kn!|K{!|L-!|L:!|LG!|LT!|Lb!|Lo!|M !|M.!|M;!|MH!|MU!|Mc!|Mh#|Mi#|Mj#|Ml#|Mm,|Mq,|Mr,|Ms,|Mt!|Mu,|Mv,|Mw,|Mx,|My,|Mz,|M{,|N ,|N!,|N#,|N$,|N%,|N&,|N',|N(,|N),|N*,|N+,|N,,|N-,|N.,|N\/,|N0,|N1,|N2.2|-Q|-T!|N3!|N7!|N8!|N>!|N@,} ;[!|NB!|ND!|NF!|NL!|NN!|NP!|NR!|NT!|NV!|NX#|NZ#|N]#|N_#|Na#|Nc#|Ne#|Ng#|Ni#|Nk#|Nm!|Nn!|Np!|Nt!|Nz!|O !|O!!|O#!|O%   !|O&!|O(!|O)!|O*!|O+!|O-!|O.!|O0   !|O1!|O3!|O5!|O7             !|O8!|O:!|O<!|O> !|O?!|OA!|OC!|OE !|OF!|OH!|OI!|OK   !|OL    #|ON&#|OO#|OP#|OQ #|OR#|OS#|OT#|OU#|OV#|OW#|OX#|OY#|OZ#|O[#|O]#|O^#|O_!|O`!|Oa !|Ob!|Oc#|Od#|Oe.2|\/.|\/\/#|Oi#|Oj!|Ol #|Om#|On.2|\/5|\/6#|Or'\/} 2J|\/9|\/9|\/9!|Os #|Ot#|Ou.2|\/=|\/>#|Oy#|Oz!|P !|P!!|P'#|P(#|P).2|\/E|\/F#|P-#|P.!|P0#|P1#|P2.2|\/K|\/L#|P6#|P7!|P9#|P:#|P;.2|\/Q|\/R#|P?#|P@!|PB#|PC#|PD.2|\/W|\/X#|PH#|PI!|PK#|PL#|PM.2|\/^|\/_#|PQ#|PR!|PT#|PU#|PV.2|\/d|\/e#|PZ#|P[!|P^#|P_#|P`.2|\/j|\/k#|Pd#|Pe!|Pg#|Ph#|Pi.2|\/p|\/q#|Pm#|Pn!|Pp#|Pq#|Pr.2|\/v|\/w#|Pv#|Pw!|Py#|Pz#|P{.2|0 |0!#|Q$#|Q%!|Q'#|Q(#|Q).2|0'|0(!|Q-#|Q.#|Q\/.2|0+|0,!|Q3#|Q4#|Q5.2|0\/|00#|Q9#|Q:!|Q<#|Q=#|Q>.2|05|06!|Q@!|QA #|QB#|QC.2|0;|0<!|QE!|QF!|QG!|QL#|QM#|QN.2|0B|0C!|QR#|QS#|QT.2|0F|0G!|QV!|QW #|QX#|QY.2|0L|0M#|Q^#|Q_!|Qa#|Qb#|Qc.2|0R|0S!|Qg#|Qh#|Qi.2|0V|0W#|Qm#|Qn!|Qp#|Qq#|Qr.2|0]|0^#|Qv#|Qw!|Qy#|Qz#|Q{.2|0c|0d#|R$#|R%!|R'#|R(#|R).2|0i|0j!|R-#|R.#|R\/.2|0m|0n#|R3#|R4!|R6#|R7#|R8.2|0s|0t#|R<#|R=!|R?#|R@#|RA.2|0y|0z!|RC!|RD!|RE!|RJ!|RK!|RR #|RS#|RT#|RU#|RV!|RW!|RX !|RY!|RZ!|R[!|Ra #|Rb#|Rc.2|14|15!|Re!|Rf#|Rg#|Rh.2|19|1:!|Rj!|Rk#|Rl#|Rm.2|1>|1?!|Ro!|Rp#|Rq#|Rr.2|1C|1D!|Rt!|Ru#|Rv#|Rw.2|1H|1I!|Ry!|Rz#|R{#|S .2|1M|1N!|S#!|S$#|S%#|S&.2|1R|1S!|S(!|S)#|S*#|S+.2|1W|1X!|S\/#|S0#|S1.2|1[|1]!|S3!|S4#|S5#|S6.2|1a|1b!|S:#|S;#|S<.2|1e|1f!|S@#|SA#|SB.2|1i|1j#|SF#|SG!|SI!|SJ!|SO !|SP!|SU #|SV#|SW.2|1u|1v#|S[#|S]!|S_#|S`#|Sa.2|1{|2 !|Sc!|Sd#|Se#|Sf.2|2%|2&!|Sh!|Si#|Sj#|Sk.2|2*|2+#|So#|Sp!|Sr!|Ss!|Sx !|Sy!|T# !|T$!|T) !|T*!|T\/ #|T0#|T1.2|2<|2=!|T5&&&&&&&&&!|T6!|T; #|T<#|T=.2|2L|2M!|TA#|TB#|TC.2|2P|2Q!|TE!|TF#|TG#|TH.2|2U|2V!|TL#|TM#|TN!|TO!|TP #|TQ#|TR.2|2_|2`!|TT!|TU#|TV#|TW.2|2d|2e!|TY!|TZ#|T[#|T]#|T^#|T_!|T`!|Ta!|Tb!|Tc#|Td#|Te.2|2q|2r!|Tg!|Th#|Ti#|Tj.2|2v|2w!|Tn!|To!|Tt #|Tu#|Tv.2|3!|3##|Tz#|T{!|U!\/|%p|.8|.9|.:\/|%p|.?|.@|.A\/|%p|.C|.D|.E\/|%p|-O|.K|.L\/|%p|.[|.]|.^\/|%p|.a|.b|.c\/|%p|.f|.g|.h!|U#!|U'!|U+!|U2      ,|U9,|U:,|U;,|U<,|U=,|U>,|U?!|U@!|UA!|UC!|UD!|UE!|UG!|UH!|UI!|UJ!|UK!|UL!|UM!|UN!|UP!|UR!|UT!|UV!|UX!|UZ!|U]!|U_!|Ua!|Uc!|Ue!|Ug!|Uj!|Ul!|Un!|Uq!|Us!|Uu!|Ux!|Uz!|V !|V!!|V$      !|V%!|V'!|V?!|V@!|VB!|VL!|VM&!|VN!|VO          !|VS!|Vo!|Vp!|Vr!|Vu!|Vw!|Vz!|W%!|W&!|W'!|W(   !|W;!|W=!|W?!|WD     ,|WF-} 3#8!|WG!|WI-} 3#8.|4f|3_|3`,|WK0|U{|4A|zl0|4<-} 3 |4B!|WL-} 3#8!|WN,|WP-} 3#8.|4f|3X|3Y.|4f|3[|3]\/|%p|3b|3c|3d!|WQ\/|%p|3o|3p|3q!|WU\/|%p|4*|4+|4,!|WY!|WZ!|W[!|W]!|Wj!|Ww!|X !|X-!|X1!|X5!|XB!|XO!|X]!|Xj!|Xw!|Y)!|Y6!|YC!|YP!|Y^!|Yk!|Yx!|Z*!|Z7!|ZD!|ZQ!|Z_!|Zl!|Zy!|[+!|[8!|[E!|[R!|[`!|[m!|[z!|],!|]9!|]F!|]S!|]a!|]n!|]{!|^-!|^:!|^G!|^T!|^]!|^s!|_&!|_0!|_4!|_A!|_N!|_[!|_i!|_v!|`1!|`>!|`K!|`X!|`f!|`s!|a%!|a2!|a?!|aL!|ah!|aw!|b)!|b6!|bC!|bP!|b^!|bk!|bx!|c*-|6C|yR-|6C|yQ-|6C|yX#|cM!|cN#|cO!|cP#|cQ!|cR#|cS!|cT#|cU!|cV#|cW!|cX#|cY!|cZ-|6C|yT #|c[*! |5V#|c]!|c^#|c_!|c`#|ca*! |5]#|cb!|cc #|cd!|ce-|6C|yZ.28|yJ!|cf!|cg!|ch!|ci!|cj!|ck!|cl!|cm!|cn!|co!|cp!|cq!|cr!|cs!|ct!|cu!|cv!|cw#|cx*! |5x#|cy!|cz #|c{!|d #|d!!|d#!|d$*! 0#|d%!|d&#|d'!|d(#|d)!|d*#|d+*! |6.#|d,!|d-#|d.!|d\/#|d0!|d1 #|d2*! |67#|d3!|d4 #|d5!|d6 #|d7!|d8#|d9!|d: #|d;!|d<  -} 6L|6G#|d=*! |6I#|d>!|d? #|d@!|dA#|dB*! |6P#|dC!|dD #|dE!|dF-|6C|yU#|dG!|dH#|dI#|dJ!|dK #|dL!|dM#|dN!|dO#|dP!|dQ#|dR!|dS#|dT#|dU!|dV #|dW!|dX#|dY!|dZ#|d[!|d]  -} 6L|6r-|6C|yY\/} 6P|6t0|yJ!|d^*! 0#|d_#|d`!|da!|df!|dg!|dk!|e!!|e+!|e,!|e-!|e.!|e1!|e5!|e6!|e9#|e:!|e;!|e=!|e?!|eA!|eC!|eE!|eI!|eK!|eM!|eO!|eQ!|eR!|eS!|eT!|eU!|eV !|eW!|eX!|eY !|eZ!|e[!|e]  !|e^!|e_!|e`!|ea!|eb!|ec !|ed!|ee!|ef !|eg!|eh!|ei  !|ej!|ek!|el  !|em!|en!|eo !|ep!|es!|eu!|ew!|ey-|.s|'l-|.q|'l-|.s|7g-|.q|7f!|f$,|f&,|f'!|f(!|f*!|f,-|.q|'l-|.s|'l-|.q|'l-|.s|'l-|.s|7s-|.s|7r-|.q|7q-|.q|7p,|f4,|f5,|f6,|f7!|f8!|f;!|f=!|fE!|fF   !|fG#|fH#|fK0|2L% } `Y}'bz% }'L1|!E% }#1[|O`% }#)c}&xc#|fL*!!|8!|8,+(|6'% }',v}%fw% }!o!}#o%% }'8f}'ZU% }!P6} zd|8&|8'|8(+(|6#% }',v}%fw% }!o!}#o%% }'8f}'ZU% }!P6} zd|8\/00*! |80  +(|6'% } `Y}'bz% }'L1|!E% }#1[|O`% }#)c}&xc|82|7[|83-|6C|yW!|fM!|f^.} 4`|8)|5&#|fu#|fv-|6C|yV#|fw#|fx#|fy#|fz!|f{#|g!-|6C|yP#|g#!|g$ !|g%!|g4!|gG.} 6E|y<|8H-|f)|7y0} 4^|88|8 |7,|8J#|gH#|gI#|gJ0} 4^|88|8 |7,|7k*! |8O*!!|8E|8K!|gK& !|gL !|gM.} 6E|y;|8W0} 4^|88|8 |7,|7l*!!|8E|8Y#|gN#|gO!|gP !|gQ -|f)|7x0} 4^|88|8 |7,|8b*!!|8E|8c#|gR#|gS!|gT !|gU#|gV*! |8j#|gW#|gX!|gY !|gZ!|g[ !|g] -} 6L|8t !|g^ !|g_#|g`*! |8z#|ga#|gb!|gc !|gd#|ge#|gf#|gg!|gh !|gi#|gj#|gk!|gl !|gm*! |8L-|6C|yO-|6C|yS!|gn.} 6E|y<|94*! |95*!!|9+|9(\/} 6P|85|97|8u -} 6L|99!|go.} 6E|y<|9;*! |9<\/} 6P|93|9=|9:-|f)|7{0} 4^|88|8 |7,|9?*!!|8E|9@ -} 6L|9B\/} 6P|6W0|9C!|gp.} 6E|y<|9E*! |9F\/} 6P|93|9G|9C.} 6J|9H|9>-|f)|7z0} 4^|88|8 |7,|9J*!!|8E|9K*! |8I -} 6L|9N\/} 6P|93|9M|9O.} 6J|9P|9I\/} 6P|920|9Q\/} 6P|85|91|9R#|gq*! |8X*!!|9J|9T#|gr*! |9W  +(|6'% }&vE} mw% }$'x}#XG% }&!!}#z[% |$S}%P_|8&|9Y|9Z+(|6#% }&vE} mw% }$'x}#XG% }&!!}#z[% |$S}%P_|9[00.28|98 !|gs.28|9S!|gt!|gu!|gv!|gx&#|h&#|h'0|ev|9f|9g|9h|7x!|h)#|h4#|h5!|h6 !|h7\/|.n|77|5q|5p\/|.n|7:|5s|5r\/|.n|7>|5u|5t\/|.n|7B|5w|5v\/|.n|7G|5h|5g\/|.n|7J|5j|5i\/|.n|7N|5l|5k\/|.n|7R|5n|5m\/|.x|7W|7X|5o\/|.x|7]|7^|5f.|4f|7a|7b.|.v|7d|7e.|.v|7n|7o!|h8!|h9!|h:!|h;!|h?!|hC#|hG #|hH -|WM|3=#|hI !|hJ!|hK!|hQ!|hR!|hT#|hZ!|h[!|hb!|hh!|hi#|ho!|hp!|hq!|hr!|hw#|hx!|hy!|hz!|i%!|i&#|i,!|i-!|i.!|i0!|i1!|i2!|i3!|i=#|iC*! |2'*!!|:A|01!|iD*! |.-*!!|:D|1E*!!|:E|0=*! |1Y*!!|:G|2'#|iP *! |01*!!|:K|16*! |1E*!!|:M|16*!!|:N|2'*!!|:O|1w*! |16*!!|:Q|0X#|iQ-|7?%7-|7?%| 6#|iU#|iW#|iY.2|\/!|:_#|i[.2|.z|:f*! |:g*!!|:]|:e*!!|:^|:d*!!|:_|:c*!!|:`|:b*!!|:a|16*!!|:b|2'*!!|:c|3$*!!|:d|\/M-|7?$*!!|:a|2'*!!|:g|\/f0|Um|4G|zl|4C|4E-} 3 |:t*! |0-*!!|:k|\/l*!!|:l|2' *!!|:A|2N#|i`*!!|:`|:{*!!|:q|1E-|7?%2*!!|:r|1Y*!!|:t|\/r#|ib #|ic#|id#|ie0|Ut|zl|;)|;*|4H-} 3 |;+ 0|U{|4;|zl|;-|4<-|WM|3=#|if0|Um|;\/|zl|;0|4E!|ig !|ih 0|U{|4;|zl|;5|4<-} 3 |;6#|ii0|Um|4G|zl|;8|4E-} 3 |;9  #|ij#|ik-} 3 |;.!|il #|im-} 3 |;1!|in0|Um|;\/|zl|;>|4E-} 3 |;E0|U{|4;|zl|;A|4<-} 3 |;G0|U{|4;|zl|;3|4<-} 3 |;I#|io!|ip#|iq  0|U{|4;|zl|;O|4<#|ir#|is!|it!|iu!|iv0|Um|;\/|zl|;K|4E-} 3 |;P!|iw0|U{|4;|zl|;N|4<-} 3 |;Y!|ix 0|U{|4;|zl|;]|4<-} 3 |;^#|iy0|Um|;\/|zl|;`|4E-} 3 |;a!|iz#|i{ 0|U{|4;|zl|;e|4<-} 3 |;f#|j #|j!!|j#!|j$!|j%!|j& 0|U{|4;|zl|;n|4<-} 3 |;o 0|U{|4;|zl|;q|4<-} 3 |;r#|j'0|Um|4G|zl|;t|4E-} 3 |;u #|j(#|j)0|Ut|zl|;x|;y|4H-} 3 |;z#|j*0|Um|4G|zl|< |4E-} 3 |<! #|j+0|Um|4G|zl|<%|4E  -} 3 |<&!|j,#|j-#|j.0|Ut|zl|<+|<,|4H-} 3 |<-!|j\/#|j0#|j1#|j2#|j30|Um|;\/|zl|<3|4E-} 3 |<4!|j4#|j5#|j6 0|U{|4;|zl|<9|4<-} 3 |<: 0|U{|4;|zl|<<|4<-} 3 |<= 0|U{|4;|zl|<?|4<-} 3 |<@#|j70|Um|;\/|zl|<B|4E-} 3 |<C#|j8!|j9 0|U{|4;|zl|<G|4<-} 3 |<H 0|U{|4;|zl|<J|4<-} 3 |<K#|j:0|Um|4G|zl|<M|4E-} 3 |<N #|j;#|j<0|Um|4G|zl|<R|4E-} 3 |<S #|j=0|Um|4G|zl|<V|4E-} 3 |<W -} 3 |;V #|j>#|j?0|Ut|zl|<]|<^|4H-} 3 |<_#|j@#|jA!|jB#|jC  !|jD#|jE0|Um|;\/|zl|<h|4E!|jF#|jG#|jH  0|U{|4;|zl|<n|4<#|jI 0|U{|4;|zl|<q|4< 0|U{|4;|zl|<s|4<-} 3 |<t#|jJ0|Um|4G|zl|<v|4E-} 3 |<w #|jK#|jL0|Um|4G|zl|<{|4E-} 3 |=   #|jM#|jN#|jO!|jP#|jQ#|jR#|jS!|jT!|jU-} 3 |<i!|jV0|Um|4G|zl|=&|4E-} 3 |=0#|jW!|jX  -} 3 |<r!|jY-} 3 |<o!|jZ0|U{|4;|zl|<m|4<-} 3 |=:#|j[#|j]0|Ut|zl|=<|==|4H-} 3 |=>#|j^#|jb #|jc0|Um|4G|zl|=C|4E#|jd!|je#|jf!|jg#|jh0|Um|4G|zl|=I|4E #|ji0|Um|4G|zl|=L|4E#|jj!|jk#|jl #|jm#|jn0|Um|4G|zl|=S|4E-} 3 |=T#|jo!|jp#|jq  #|jr#|js#|jt!|ju#|jv#|jw#|jx0|Ut|zl|=a|=b|4H-} 3 |=c#|jy#|jz!|j{#|k #|k!#|k##|k$!|k%#|k& !|k'#|k(!|k)  #|k*0|Um|4G|zl|=t|4E#|k+!|k,#|k-#|k.!|k\/#|k0#|k10|Um|4G|zl|> |4E #|k20|Um|4G|zl|>$|4E#|k3!|k4#|k5#|k6#|k7 #|k80|Um|4G|zl|>,|4E#|k9!|k:#|k;#|k<#|k= #|k>!|k?#|k@  #|kA#|kB0|Um|4G|zl|>:|4E#|kC!|kD#|kE#|kF!|kG#|kH #|kI#|kJ0|Um|4G|zl|>D|4E-} 3 |>E #|kK0|Um|4G|zl|>H|4E-} 3 |>I#|kL!|kM#|kN #|kO #|kP#|kQ!|kR-} 3 |>;!|kS   #|kT!|kU#|kV    -} 3 |>-!|kW-} 3 |>%!|kX-} 3 |>!!|kY-} 3 |=u!|kZ0|Um|4G|zl|=e|4E-} 3 |>i#|k[!|k]#|k^ #|k_-} 3 |=M!|k`-} 3 |=J!|ka-} 3 |=D!|kb0|Um|4G|zl|=^|4E-} 3 |>v    -|7?%A!|kc#|kd#|ke#|kf#|kg#|kh!|ki!|kj!|kk!|kl!|km#|kn#|ko0|Ut|zl|?-|?.|4H-} 3 |?\/#|kp#|kq!|kr#|ks #|kt0|Um|4G|zl|?6|4E-} 3 |?7 !|ku#|kv0|Um|4G|zl|?;|4E#|kw!|kx#|ky#|kz#|k{!|l #|l!#|l# #|l$!|l%#|l&#|l'!|l(#|l)#|l*#|l+#|l,0|Um|4G|zl|?N|4E-} 3 |?O #|l-0|Um|4G|zl|?R|4E!|l.#|l\/#|l0#|l10|Um|4G|zl|?W|4E!|l2#|l3#|l40|Um|4G|zl|?[|4E #|l5#|l60|Um|4G|zl|?`|4E-} 3 |?a!|l7#|l8 #|l9#|l:#|l;-} 3 |?]!|l<-} 3 |?X!|l=      -} 3 |?S!|l>#|l?!|l@-} 3 |?<!|lA#|lB!|lC0|Um|4G|zl|?1|4E-} 3 |?{ #|lD!|lE !|lF!|lJ!|lN!|lR#|lV0|Um|4G|zl|@*|4E-} 3 |@+ #|lW0|Um|4G|zl|@.|4E-} 3 |@\/ #|lX-|WH|@2 0|U{|@3|zl|@4|4<-} 3 |@50|Um|4G|zl|@6|4E-} 3 |@7#|lY#|lZ0|Ut|zl|@9|@:|4H-} 3 |@;*! |1Y*!!|@2|2'*!!|@3|0=#|l[0|Um|4G|zl|@@|4E-} 3 |@A #|l]#|l_!|l`#|la -|WO|@H0|Um|@I|zl|4<|4E-} 3 |@J#|lc!|ld#|le!|lf#|lg #|ll#|lm#|ln*! |.-*!!|@J|1E#|lo-|7?%|!A#|lp!|lq#|lr!|ls#|lt!|lu*!!|@K|0=#|lv*!!|@2|1E*!!|@V|0=*!!|@W|.. 0|U{|4;|zl|@e|4<-} 3 |@f0|Ut|zl|@g|@a|4H-} 3 |@h#|lw!|lx#|ly#|m!#|m##|m$#|m%0|Um|4G|zl|@p|4E !|m&!|m'#|m(!|m)-} 3 |@q#|m*#|m+#|m,#|m-#|m.#|m\/#|m0!|m1#|m2#|m3#|m4#|m5#|m6#|m7#|m8#|m9#|m:!|m;!|m<!|m=!|m>#|m?!|m@!|mA!|mB!|mC!|mD!|mE!|mF!|mG!|mH#|mI#|mJ#|mK!|mL!|mP!|mT#|mX #|mY #|mZ #|m[#|m]#|m^ #|m_0|Um|4G|zl|AL|4E#|m`!|ma#|mb#|mc#|md#|me0|Ut|zl|AR|AS|4H-} 3 |AT #|mf0|Um|4G|zl|AW|4E-} 3 |AX #|mg0|Um|4G|zl|A[|4E!|mh -|WM|3= 0|U{|4;|zl|Aa|4<-} 3 |Ab0|Um|A`|zl|Ac|4E#|mi0|Um|4G|zl|Ae|4E-} 3 |Af#|mj#|mk!|ml#|mm#|mn!|mo#|mp  #|mq#|mr#|ms#|mt!|mu#|mv#|mw-} 3 |Ad!|mx-} 3 |A]!|my#|mz!|m{0|Um|4G|zl|As|4E-} 3 |B#   #|n #|n!0|Ut|zl|B(|B)|4H-} 3 |B* #|n#0|Um|A`|zl|B-|4E!|n$#|n% !|n& 0|U{|4;|zl|B3|4< 0|U{|4;|zl|B5|4<-} 3 |B6#|n'0|Um|4G|zl|B8|4E-} 3 |B9  #|n(#|n)#|n*0|Um|4G|zl|B?|4E#|n+!|n,#|n-#|n.-} 3 |B.!|n\/-} 3 |B@ -} 3 |B4!|n00|U{|4;|zl|B1|4<-} 3 |BK0|Ut|zl|AI|AJ|4H-} 3 |BM  -|WH|BP0|U{|BQ|zl|BO|4< #|n10|Um|4G|zl|BT|4E#|n2!|n3#|n4#|n5-} 3 |AM!|n6 -} 3 |BR!|n7 -} 3 |BU!|n8  -|WH|Bd0|U{|Be|zl|Bc|4<-} 3 |Bf  #|n9#|n:#|n;0|Um|4G|zl|Bl|4E-} 3 |Bm#|n<!|n=#|n>#|n?#|n@0|Ut|zl|Br|Bs|4H-} 3 |Bt #|nA0|Um|4G|zl|Bw|4E-} 3 |Bx !|nB 0|U{|4;|zl|C |4<-} 3 |C!0|Um|A`|zl|C#|4E#|nC0|Um|4G|zl|C%|4E-} 3 |C&  #|nD#|nE#|nF#|nG#|nH!|nI#|nJ#|nK0|Ut|zl|Br|C1|4H-} 3 |C2#|nL#|nM!|nN#|nO#|nP!|nQ#|nR  !|nS 0|U{|4;|zl|C>|4<-} 3 |C?0|Um|A`|zl|C@|4E#|nT0|Um|4G|zl|CB|4E-} 3 |CC #|nU#|nV#|nW 0|Um|4G|zl|C4|4E#|nX0|Ut|zl|Br|CK|4H-} 3 |CL#|nY#|nZ!|n[#|n]!|n^#|n_ #|n`!|na!|nb#|nc #|nd0|Um|4G|zl|CZ|4E-} 3 |C[ #|ne#|nf0|Um|4G|zl|C`|4E #|ng0|Um|A`|zl|Cc|4E!|nh#|ni#|nj #|nk 0|U{|4;|zl|Cj|4< 0|U{|4;|zl|Cl|4< 0|U{|4;|zl|Cn|4<-} 3 |Co#|nl#|nm0|Um|4G|zl|Cr|4E-} 3 |Cs#|nn!|no#|np#|nq  !|nr#|ns#|nt!|nu#|nv-} 3 |Cd!|nw-} 3 |Ca!|nx0|U{|4;|zl|Ch|4<-} 3 |D)#|ny!|nz#|n{!|o 0|Um|4G|zl|D |4E-} 3 |D\/#|o!!|o#   -} 3 |Cm!|o$-} 3 |Ck!|o%-} 3 |CA!|o&-} 3 |CJ!|o'0|Um|4G|zl|CH|4E-} 3 |D>#|o( #|o)-} 3 |C$!|o*!|o+#|o,!|o-0|Um|4G|zl|C-|4E-} 3 |DH #|o.#|o\/0|Ut|zl|DK|DL|4H-} 3 |DM#|o00|Um|4G|zl|DO|4E #|o10|Um|4G|zl|DR|4E-} 3 |DS*! |2'*!!|DJ|0X!|o2#|o30|Um|4G|zl|DX|4E-} 3 |DY#|o40|Um|4G|zl|D[|4E-} 3 |D]#|o50|Um|4G|zl|D_|4E#|o6#|o7!|o8#|o9#|o:!|o;#|o< #|o=0|Um|4G|zl|Di|4E#|o>#|o?!|o@#|oA #|oB0|Um|4G|zl|Dp|4E #|oC#|oD0|Um|4G|zl|Dt|4E-} 3 |Du  #|oE#|oF#|oG#|oH#|oI#|oJ0|Ut|zl|E!|E#|4H-} 3 |E$  0|U{|4;|zl|E'|4<#|oK0|Um|4G|zl|E)|4E#|oL!|oM#|oN!|oO#|oP!|oQ#|oR #|oS0|Um|4G|zl|E3|4E-} 3 |E4#|oT!|oU#|oV#|oW #|oX0|Um|A`|zl|E;|4E!|oY#|oZ #|o[ 0|U{|4;|zl|EA|4< 0|U{|4;|zl|EC|4<-} 3 |ED#|o]0|Um|4G|zl|EF|4E-} 3 |EG #|o^ #|o_-} 3 |E(!|o`#|oa-} 3 |E<!|ob#|oc!|od-} 3 |E*!|oe0|Um|A`|zl|EL|4E-} 3 |EV0|U{|4;|zl|E&|4<-} 3 |EX   -} 3 |EB!|of0|U{|4;|zl|E?|4<-} 3 |E`#|og#|oh0|Ut|zl|Eb|Ec|4H-} 3 |Ed#|oi0|Um|4G|zl|Ef|4E#|oj#|ok #|ol0|Um|A`|zl|Ek|4E!|om#|on!|oo#|op#|oq  0|U{|4;|zl|Es|4< 0|U{|4;|zl|Eu|4<#|or 0|U{|4;|zl|Ex|4< 0|U{|4;|zl|Ez|4<-} 3 |E{#|os0|Um|4G|zl|F!|4E-} 3 |F##|ot!|ou#|ov#|ow#|ox#|oy#|oz!|o{#|p  #|p!!|p##|p$#|p%    #|p&0|Um|4G|zl|F7|4E #|p'#|p(0|Ut|zl|F:|F;|4H-} 3 |F< #|p)0|Um|4G|zl|F?|4E-} 3 |F@#|p*!|p+#|p, !|p-#|p.0|Um|4G|zl|FG|4E#|p\/!|p0#|p1#|p2#|p3  #|p4#|p5!|p6#|p7 #|p80|Um|A`|zl|FU|4E!|p9#|p:  0|U{|4;|zl|FZ|4<-} 3 |F[#|p;0|Um|4G|zl|F^|4E-} 3 |F_#|p<!|p=#|p>#|p?  #|p@#|pA#|pB#|pC-} 3 |FV!|pD-} 3 |FH!|pE #|pF!|pG0|Um|4G|zl|Fg|4E-} 3 |Fr #|pH!|pI#|pJ!|pK  0|U{|4;|zl|FY|4<-} 3 |F{#|pL-} 3 |El!|pM-} 3 |Eg!|pN  -} 3 |F8-} 3 |Ey!|pO-} 3 |Ev!|pP-} 3 |Et!|pQ0|U{|4;|zl|Er|4<-} 3 |G0#|pR!|pS#|pT!|pU#|pV#|pW-} 3 |Dq!|pX-} 3 |Dj!|pY-} 3 |D`!|pZ#|p[!|p]#|p^!|p_#|p`!|pa-} 3 |DP   #|pb#|pc0|Ut|zl|GH|GI|4H-} 3 |GJ#|pd!|pe#|pf #|pg0|Um|4G|zl|GP|4E#|ph!|pi#|pj!|pk #|pl0|Um|4G|zl|GW|4E #|pm0|Um|4G|zl|GZ|4E#|pn!|po#|pp#|pq #|pr0|Um|4G|zl|Gb|4E #|ps0|Um|4G|zl|Ge|4E #|pt #|pu#|pv#|pw#|px#|py-} 3 |Gf!|pz-} 3 |Gc!|p{-} 3 |G[!|q -} 3 |GX!|q!-} 3 |GQ!|q#0|Um|4G|zl|Gm|4E-} 3 |Gy   #|q$#|q%0|Ut|zl|H#|H$|4H-} 3 |H% #|q&0|Um|A`|zl|H(|4E!|q'#|q( !|q) 0|U{|4;|zl|H.|4< 0|U{|4;|zl|H0|4<-} 3 |H10|Um|4G|zl|Cx|4E-} 3 |H3 #|q*#|q+#|q,0|Um|4G|zl|H8|4E#|q-!|q.#|q\/#|q0-} 3 |H)!|q1-} 3 |H9 -} 3 |H\/!|q20|U{|4;|zl|H,|4<-} 3 |HD!|q3#|q4#|q5#|q6#|q7#|q8#|q9#|q:#|q;#|q<#|q=!|q>!|q?!|q@!|qA!|qB!|qC!|qD!|qE!|qF!|qG#|qH#|qI#|qJ0|Ut|zl|H]|H^|4H-} 3 |H_#|qK  0|U{|4;|zl|Hc|4< 0|U{|4;|zl|He|4<!|qL 0|U{|4;|zl|Hh|4<0|U{|4;|zl0|4< 0|U{|4;|zl|Hk|4< 0|U{|4;|zl|Hm|4<#|qM0|Um|4G|zl|Ho|4E-} 3 |Hp#|qN!|qO#|qP#|qQ#|qR!|qS#|qT-|WM|3=#|qU #|qV!|qW#|qX#|qY!|qZ#|q[ -} 3 |Hn!|q]  #|q^#|q_#|q`#|qa#|qb0|Um|Hy|zl|Hz|4E-} 3 |I1-} 3 |Hl!|qc -} 3 |Hj!|qd-} 3 |Hi!|qe-} 3 |Hf!|qf-} 3 |Hd!|qg0|U{|4;|zl|Hb|4<-} 3 |I>#|qh!|qi  #|qj#|qk0|Ut|zl|ID|IE|4H-} 3 |IF#|ql#|qm#|qn#|qo!|qp#|qq #|qr!|qs!|qt#|qu #|qv!|qw#|qx #|qy#|qz0|Um|4G|zl|IY|4E#|q{!|r #|r!#|r##|r$#|r%#|r&!|r'#|r(#|r)  #|r*!|r+#|r, #|r-!|r.#|r\/#|r0 #|r10|Um|4G|zl|Iq|4E #|r20|Um|4G|zl|It|4E#|r3!|r4#|r5#|r6#|r7#|r8 #|r9!|r:#|r;#|r< #|r= #|r>  #|r?!|r@#|rA0|Um|4G|zl|J.|4E-} 3 |J\/#|rB!|rC#|rD#|rE  #|rF #|rG-} 3 |Iu!|rH-} 3 |Ir!|rI #|rJ!|rK#|rL!|rM#|rN!|rO    #|rP!|rQ#|rR!|rS-} 3 |IZ!|rT#|rU!|rV#|rW!|rX #|rY!|rZ 0|Um|4G|zl|J%|4E-} 3 |JW#|r[!|r]#|r^!|r_   #|r`#|ra0|Ut|zl|Ja|Jb|4H-} 3 |Jc#|rb#|rc!|rd#|re #|rf!|rg#|rh#|ri!|rj #|rk!|rl#|rm #|rn 0|U{|4;|zl|Ju|4<-} 3 |Jv0|Um|Hy|zl|Jw|4E#|ro0|Um|4G|zl|Jy|4E#|rp!|rq#|rr#|rs#|rt!|ru#|rv#|rw   #|rx0|Um|4G|zl|K+|4E-} 3 |K,#|ry!|rz#|r{#|s #|s!  #|s##|s$!|s%#|s&#|s'  #|s(!|s)#|s*#|s+#|s,-} 3 |Jz!|s--} 3 |Jx!|s.#|s\/ #|s0!|s1#|s2!|s3  0|Um|4G|zl|K8|4E-} 3 |KM#|s4!|s5#|s6!|s7#|s8   #|s9!|s:#|s;#|s<0|Ut|zl|KY|KZ|4H-} 3 |K[#|s=#|s>!|s?#|s@ -|WM|39#|sA0|Um|Kc|zl|Kd|4E!|sB!|sC  0|U{|4;|zl|Ki|4<-} 3 |Kj#|sD0|Um|4G|zl|Kl|4E#|sE!|sF#|sG#|sH#|sI#|sJ#|sK#|sL  #|sM#|sN#|sO!|sP#|sQ  #|sR!|sS#|sT#|sU#|sV!|sW#|sX #|sY0|Um|4G|zl|L,|4E#|sZ!|s[#|s]#|s^  0|U{|4;|zl|L3|4<-} 3 |L40|Um|Hy|zl|L5|4E#|s_0|Um|4G|zl|L7|4E-} 3 |L8#|s`!|sa#|sb#|sc   #|sd#|se!|sf#|sg-} 3 |L6!|sh-} 3 |L-!|si#|sj!|sk#|sl!|sm     #|sn-} 3 |Km!|so-} 3 |Ke!|sp0|Um|4G|zl|LA|4E-} 3 |LW  0|U{|4;|zl|Kh|4<-} 3 |L[#|sq!|sr#|ss!|st#|su#|sv0|Ut|zl|Lb|Lc|4H-} 3 |Ld  -|WH|Lg0|U{|Lh|zl|Lf|4< #|sw0|Um|4G|zl|Lk|4E!|sx!|sy#|sz#|s{0|Um|4G|zl|Lp|4E#|t !|t!#|t##|t$#|t%#|t&!|t'#|t( #|t)!|t*#|t+#|t, #|t-#|t.0|Um|Hy|zl|M&|4E!|t\/#|t0  0|U{|4;|zl|M+|4<#|t1 0|U{|4;|zl|M.|4<-} 3 |M\/#|t20|Um|4G|zl|M1|4E-} 3 |M2#|t3!|t4#|t5#|t6#|t7 #|t8!|t9#|t:  #|t;#|t<!|t=#|t>#|t?-} 3 |M'!|t@-} 3 |Lq!|tA-} 3 |M,!|tB0|U{|4;|zl|M*|4<-} 3 |MJ#|tC!|tD!|tE  -} 3 |Ll!|tF0|Um|4G|zl|M?|4E-} 3 |MS-} 3 |Li #|tG!|tH#|tI!|tJ  #|tK#|tL0|Ut|zl|M^|M_|4H-} 3 |M`#|tM0|Um|4G|zl|Mb|4E#|tN!|tO#|tP#|tQ #|tR!|tS#|tT0|Um|4G|zl|Mk|4E#|tU!|tV#|tW#|tX#|tY  #|tZ #|t[0|Um|4G|zl|Mv|4E-} 3 |Mw#|t]!|t^#|t_#|t`#|ta#|tb #|tc     #|td!|te#|tf #|tg-} 3 |Ml!|th-} 3 |Mc!|ti#|tj!|tk#|tl0|Um|4G|zl|N+|4E-} 3 |N7#|tm#|tn!|to#|tp!|tq #|tr!|ts#|tt!|tu#|tv#|tw0|Ut|zl|NC|ND|4H-} 3 |NE#|tx !|ty#|tz !|t{#|u 0|Um|Hy|zl|NM|4E!|u!#|u##|u$#|u%#|u& #|u' 0|U{|4;|zl|NV|4< 0|U{|4;|zl|NX|4< 0|U{|4;|zl|NZ|4< 0|U{|4;|zl|N]|4<#|u( 0|U{|4;|zl|N`|4<-} 3 |Na#|u)0|Um|4G|zl|Nc|4E-} 3 |Nd  #|u*0|Um|4G|zl|Nh|4E#|u+!|u,#|u-#|u.#|u\/-} 3 |NN!|u0-} 3 |Ni0|U{|4;|zl|NT|4<-} 3 |Nr#|u1!|u2#|u3!|u4  -} 3 |N^!|u5-} 3 |N[!|u6-} 3 |NY!|u7-} 3 |NW!|u8!|u9#|u:#|u;#|u<#|u=#|u>!|u?!|u@!|uA!|uB!|uC#|uD#|uE#|uF0|Ut|zl|O3|O4|4H-} 3 |O5#|uG#|uH!|uI#|uJ#|uK!|uL#|uM !|uN#|uO0|Um|4G|zl|O@|4E#|uP!|uQ#|uR#|uS!|uT#|uU#|uV!|uW#|uX#|uY #|uZ0|Um|4G|zl|OM|4E#|u[!|u]#|u^ #|u_#|u`0|Um|4G|zl|OT|4E#|ua!|ub#|uc #|ud0|Um|4G|zl|OZ|4E#|ue!|uf#|ug#|uh #|ui0|Um|4G|zl|Ob|4E-} 3 |Oc  #|uj#|uk#|ul!|um#|un#|uo0|Ut|zl|Ok|Ol|4H-} 3 |Om #|up0|Um|4G|zl|Op|4E#|uq!|ur#|us#|ut#|uu#|uv!|uw!|ux#|uy!|uz#|u{#|v !|v!#|v##|v$!|v%#|v&#|v' #|v(!|v)#|v* #|v+0|Um|4G|zl|P.|4E#|v,#|v-!|v.#|v\/#|v0  #|v10|Um|4G|zl|P7|4E#|v2 -|WM|3=#|v30|Um|P;|zl|P<|4E!|v4  0|U{|4;|zl|P@|4<-} 3 |PA#|v5#|v60|Um|4G|zl|PD|4E-} 3 |PE  #|v7#|v80|Um|4G|zl|PJ|4E#|v9-} 3 |P=!|v:-} 3 |P8!|v;   #|v<!|v= 0|U{|4;|zl|P?|4<-} 3 |PW-} 3 |P\/!|v>-} 3 |Oq!|v?-} 3 |PK#|v@!|vA#|vB!|vC   #|vD-} 3 |O[!|vE-} 3 |OU!|vF    -} 3 |ON!|vG-} 3 |OA!|vH0|Um|4G|zl|Oh|4E-} 3 |Ps     #|vI#|vJ0|Ut|zl|Pz|P{|4H-} 3 |Q #|vK!|vL#|vM #|vN0|Um|4G|zl|Q'|4E#|vO!|vP#|vQ#|vR!|vS#|vT#|vU#|vV#|vW!|vX#|vY #|vZ#|v[#|v]!|v^#|v_   #|v`!|va#|vb#|vc #|vd0|Um|4G|zl|QB|4E#|ve!|vf#|vg #|vh!|vi#|vj#|vk!|vl#|vm #|vn0|Um|4G|zl|QO|4E-} 3 |QP#|vo#|vp!|vq#|vr#|vs!|vt#|vu  #|vv!|vw#|vx#|vy#|vz0|Ut|zl|Q_|Q`|4H-} 3 |Qa  0|U{|4;|zl|Qd|4< 0|U{|4;|zl|Qf|4<!|v{ 0|U{|4;|zl|Qi|4< 0|U{|4;|zl|Qk|4<#|w 0|Um|4G|zl|Qm|4E#|w!!|w##|w$#|w% #|w&0|Um|4G|zl|Qt|4E-} 3 |Qu#|w'!|w(#|w)  #|w*-} 3 |Ql!|w+#|w,#|w-#|w.#|w\/-} 3 |Qn!|w00|Um|P;|zl|R |4E-} 3 |R*-} 3 |Qj!|w1-} 3 |Qg!|w2-} 3 |Qe!|w30|U{|4;|zl|Qc|4<-} 3 |R2  #|w4-} 3 |QC!|w5-} 3 |Q(!|w6   #|w7   0|Um|4G|zl|QR|4E-} 3 |RB  #|w8!|w9#|w:!|w;#|w<!|w=#|w>!|w? #|w@0|Ut|zl|Pz|RO|4H-} 3 |RP#|wA   0|U{|4;|zl|RU|4<-} 3 |RV0|Um|P;|zl|RW|4E!|wB#|wC0|Um|4G|zl|RZ|4E #|wD0|Um|P;|zl|R^|4E!|wE #|wF 0|U{|4;|zl|Rc|4<-} 3 |Rd#|wG0|Um|4G|zl|Rf|4E #|wH0|Um|4G|zl|Ri|4E-} 3 |Rj#|wI!|wJ#|wK#|wL#|wM#|wN #|wO!|wP#|wQ #|wR #|wS#|wT#|wU!|wV-} 3 |Rg!|wW-} 3 |R_!|wX -} 3 |R[!|wY-} 3 |RX!|wZ0|Um|4G|zl|Rz|4E-} 3 |S+#|w[0|U{|4;|zl|Ra|4<-} 3 |S.#|w]!|w^#|w_!|w` !|wa#|wb#|wc#|wd!|we!|wf!|wg#|wh#|wi#|wj0|Ut|zl|S=|S>|4H-} 3 |S?-|WM|3=#|wk0|Um|SA|zl|SB|4E!|wl  0|U{|4;|zl|SF|4<-} 3 |SG!|wm#|wn0|Um|4G|zl|SJ|4E#|wo!|wp#|wq#|wr!|ws#|wt!|wu#|wv#|ww#|wx0|Um|SA|zl|SU|4E!|wy#|wz #|w{ 0|U{|4;|zl|S[|4< 0|U{|4;|zl|S^|4<-} 3 |S_#|x 0|Um|4G|zl|Sa|4E-} 3 |Sb#|x!!|x##|x$#|x%  #|x&#|x'0|Um|4G|zl|Sk|4E #|x(-} 3 |SV!|x)-} 3 |SK!|x* -} 3 |SC!|x+-} 3 |Sl0|U{|4;|zl|SE|4<-} 3 |Sw   -} 3 |S]!|x,0|U{|4;|zl|SY|4<-} 3 |T##|x-#|x.0|Ut|zl|T%|T&|4H-} 3 |T'  -|WH|T*0|U{|T+|zl|T)|4< #|x\/0|Um|4G|zl|T.|4E!|x0#|x1!|x2#|x3  -|WH|T50|U{|T6|zl|T4|4< #|x4#|x50|Um|4G|zl|T:|4E#|x6!|x7  -|WH|T?0|U{|T@|zl|T>|4<-} 3 |TA#|x80|Um|4G|zl|TC|4E-} 3 |TD#|x9  #|x:#|x;!|x<#|x=#|x>#|x?-} 3 |T;!|x@-} 3 |T\/!|xA0|Um|4G|zl|TI|4E-} 3 |TS-} 3 |T, -} 3 |T7#|xB#|xC0|Ut|zl|TX|TY|4H-} 3 |TZ#|xD  -|WH|T_0|U{|T`|zl|T^|4<-} 3 |Ta0|Um|4G|zl|Tb|4E!|xE  -|WH|Tf0|U{|Tg|zl|Te|4<-} 3 |Th0|Um|4G|zl|Ti|4E-} 3 |Tj#|xF0|Um|4G|zl|Tl|4E #|xG  -|WH|Tq0|U{|Tr|zl|Tp|4<-} 3 |Ts0|Um|4G|zl|Tt|4E-} 3 |Tu#|xH  -|WH|Ty0|U{|Tz|zl|Tx|4<-} 3 |T{0|Um|4G|zl|U |4E-} 3 |U!#|xI  -|WH|U&0|U{|U'|zl|U%|4<-} 3 |U(0|Um|4G|zl|U)|4E-} 3 |U* 0|U{|T@|zl|U,|4<-} 3 |U-0|Um|4G|zl|U.|4E-} 3 |U\/#|xJ  -|WH|U30|U{|U4|zl|U2|4<-} 3 |U50|Um|4G|zl|U6|4E-} 3 |U7#|xK0|Um|4G|zl|U9|4E-} 3 |U:#|xL  #|xM#|xN#|xO#|xP!|xQ#|xR!|xS#|xT!|xU#|xV!|xW#|xX!|xY-} 3 |Tm!|xZ#|x[!|x]-} 3 |Tc!|x^#|x_!|x`#|xa#|xb#|xc0|Ut|zl|UU|UV|4H-} 3 |UW#|xd  -|WM|3= 0|U{|4;|zl|U^|4<-} 3 |U_0|Um|U]|zl|U`|4E!|xe#|xf0|Um|4G|zl|Uc|4E #|xg0|Um|4G|zl|Uf|4E #|xh#|xi0|Um|4G|zl|Uj|4E#|xj!|xk#|xl#|xm #|xn!|xo#|xp#|xq#|xr!|xs#|xt #|xu0|Um|4G|zl|Uy|4E-} 3 |Uz#|xv#|xw!|xx#|xy#|xz  #|x{#|y #|y!!|y##|y$-} 3 |Uk!|y%-} 3 |Ug!|y&-} 3 |Ud!|y'-} 3 |Ua!|y(0|Um|4G|zl|V)|4E-} 3 |V5#|y)!|y*    #|y+#|y,0|Ut|zl|V=|V>|4H-} 3 |V?#|y-0|Um|4G|zl|VA|4E#|y.!|y\/#|y0 !|y1#|y20|Um|4G|zl|VH|4E-} 3 |VI #|y30|Um|U]|zl|VL|4E!|y4 #|y5 0|U{|4;|zl|VQ|4<-} 3 |VR#|y60|Um|4G|zl|VT|4E-} 3 |VU#|y7!|y8#|y9  #|y:#|y;#|y<#|y=0|Um|4G|zl|V`|4E #|y>-} 3 |VM!|y?#|y@!|yA-} 3 |VB!|yB-} 3 |Va 0|U{|4;|zl|VO|4<-} 3 |Vl #|yC#|yD0|Ut|zl|Vo|Vp|4H-} 3 |Vq #|yE0|Um|U]|zl|Vt|4E!|yF  0|U{|4;|zl|Vx|4<-} 3 |Vy!|yG#|yH0|Um|4G|zl|W |4E#|yI!|yJ#|yK#|yL#|yM#|yN#|yO#|yP#|yQ!|yR#|yS  #|yT #|yU!|yV#|yW#|yX #|yY!|yZ#|y[  #|y]  -|WH|W>0|U{|W?|zl|W=|4<-} 3 |W@0|Um|4G|zl|WA|4E#|y^0|Um|4G|zl|WC|4E-} 3 |WD#|y_!|y`#|ya  #|yb#|yc!|yd#|ye#|yf-} 3 |WB!|yg-} 3 |W!!|yh    -} 3 |Vu!|yi0|Um|4G|zl|WK|4E-} 3 |WZ0|U{|4;|zl|Vw|4<-} 3 |W]#|yj!|yk#|yl!|ym#|yn!|yo#|yp!|yq#|yr#|ys0|Ut|zl|Wg|Wh|4H-} 3 |Wi  0|U{|4;|zl|Wl|4<#|yt0|Um|4G|zl|Wn|4E#|yu!|yv#|yw!|yx#|yy!|yz #|y{0|Um|4G|zl|Ww|4E #|z 0|Um|4G|zl|Wz|4E#|z!#|z#!|z$#|z%#|z&#|z'#|z(#|z)!|z*#|z+ #|z,  #|z-!|z.#|z\/ #|z0#|z10|Um|4G|zl|X4|4E-} 3 |X5#|z2!|z3#|z4#|z5#|z6#|z7#|z8#|z9 #|z: #|z;  #|z<!|z=#|z>#|z? #|z@!|zA#|zB #|zC!|zD-} 3 |Wm!|zE#|zF#|zG  #|zH-} 3 |W{!|zI-} 3 |Wx!|zJ  #|zK!|zL#|zM!|zN#|zO!|zP#|zQ!|zR#|zS!|zT#|zU  -} 3 |Wo!|zV 0|Um|U]|zl|XG|4E-} 3 |Xn0|U{|4;|zl|Wk|4<-} 3 |Xp #|zW!|zX#|zY!|zZ#|z[!|z] #|z^#|z_0|Ut|zl|Xz|X{|4H-} 3 |Y #|z`#|za#|zb#|zc  #|zd!|ze#|zf!|zg #|zh!|zi#|zj #|zk#|zl!|zm#|zn#|zo  0|Um|4G|zl|UY|4E#|zp#|zq0|Um|4G|zl|Y;|4E-} 3 |Y<  #|zr#|zs!|zt#|zu#|zv#|zw!|zx-} 3 |Y9!|zy  0|Um|4G|zl|Y@|4E-} 3 |YK#|zz!|z{#|{ !|{!#|{#!|{$#|{%!|{&#|{'!|{(#|{) !|{*#|{+#|{,#|{-#|{.#|{\/!|{0!|{1!|{2!|{3!|{4#|{5#|{60|Ut|zl|Ye|Yf|4H-} 3 |Yg 0|U{|4;|zl|Yi|4< 0|U{|4;|zl|Yk|4< 0|U{|4;|zl|Ym|4<!|{7#|{80|Um|4G|zl|Yp|4E-} 3 |Yq  #|{9-} 3 |Yn!|{:#|{;#|{< #|{=0|Um|U]|zl|Yu|4E-} 3 |Z -} 3 |Yl!|{>-} 3 |Yj!|{?0|U{|4;|zl|Yz|4<-} 3 |Z'#|{@#|{A0|Ut|zl|Z)|Z*|4H-} 3 |Z+#|{B  #|{C0|Um|4G|zl|Z0|4E#|{D!|{E#|{F!|{G#|{H#|{I#|{J#|{K#|{L#|{M  #|{N  #|{O!|{P#|{Q #|{R  0|U{|4;|zl|ZG|4<-} 3 |ZH0|Um|U]|zl|ZI|4E#|{S0|Um|4G|zl|ZK|4E-} 3 |ZL#|{T!|{U#|{V#|{W#|{X#|{Y   #|{Z!|{[#|{] #|{^!|{_#|{`#|{a#|{b-} 3 |ZJ!|{c-} 3 |Z1!|{d#|{e!|{f#|{g!|{h  #|{i!|{j#|{k!|{l#|{m!|{n  0|Um|4G|zl|ZW|4E-} 3 |Zs!|{o#|{p!|{q !|{r#|{s!|{t#|{u!|{v#|{w!|{x#|{y#|{z#|{{0|Ut|zl|[&|['|4H-} 3 |[(#}     -|WH|[,0|U{|[-|zl|[+|4< !}  !#}  #0|Um|4G|zl|[1|4E#}  $!}  %#}  & #}  '0|Um|4G|zl|[7|4E#}  (!}  )#}  *#}  +#}  ,#}  -  #}  .!}  \/#}  0#}  1 -|WM|3=#}  20|Um|[F|zl|[G|4E!}  3#}  4 #}  5 0|U{|4;|zl|[M|4< 0|U{|4;|zl|[O|4<-} 3 |[P#}  60|Um|4G|zl|[R|4E-} 3 |[S#}  7!}  8#}  9#}  :#}  ;    #}  <#}  =!}  >#}  ?#}  @-} 3 |[H!}  A-} 3 |[8!}  B -} 3 |[N!}  C0|U{|4;|zl|[K|4<-} 3 |[k!}  D#}  E!}  F#}  G!}  H-} 3 |[2!}  I0|Um|4G|zl|[_|4E-} 3 |[t-} 3 |[.!}  J  #}  K!}  L#}  M #}  N#}  O0|Ut|zl|]#|]$|4H-} 3 |]%#}  P#}  Q #}  R!}  S#}  T  !}  U #}  V0|Um|4G|zl|]1|4E-} 3 |]2 #}  W0|Um|4G|zl|]5|4E#}  X!}  Y#}  Z#}  [ #}  ]0|Um|4G|zl|]<|4E #}  ^0|Um|4G|zl|]?|4E#}  _#}  `!}  a#}  b#}  c#}  d!}  e#}  f #}  g!}  h#}  i#}  j #}  k0|Um|4G|zl|]O|4E-} 3 |]P#}  l!}  m#}  n#}  o#}  p   #}  q#}  r!}  s#}  t-} 3 |]@!}  u-} 3 |]=!}  v  #}  w!}  x -} 3 |]6!}  y#}  z!}  {0|Um|4G|zl|]Z|4E-} 3 |]l#} ! !} !!#} !# #} !$!} !% #} !&#} !'0|Ut|zl|]u|]v|4H-} 3 |]w#} !(#} !) -|WH|]{#} !*!} !+#} !,!} !- #} !.0|Um|4G|zl|^'|4E#} !\/!} !0#} !1#} !2 #} !3#} !40|Um|[F|zl|^\/|4E!} !5  0|U{|4;|zl|^3|4<-} 3 |^4#} !6#} !70|Um|4G|zl|^7|4E #} !80|Um|4G|zl|^:|4E-} 3 |^;!} !9#} !:#} !;#} !<#} !=#} !>#} !?#} !@ #} !A!} !B#} !C #} !D  #} !E#} !F!} !G#} !H-} 3 |^8!} !I-} 3 |^0!} !J 0|U{|4;|zl|^2|4<-} 3 |^V!} !K#} !L!} !M!} !N#} !O!} !P#} !Q!} !R  !} !S-} 3 |^(!} !T0|Um|4G|zl|^M|4E-} 3 |^f#} !U!} !V!} !W0|U{|^ |zl|[+|4<-} 3 |^k !} !X#} !Y#} !Z0|Ut|zl|^o|^p|4H-} 3 |^q  0|U{|4;|zl|^t|4<#} ![0|Um|[F|zl|^v|4E!} !] !} !^ 0|U{|4;|zl|^{|4<-} 3 |_ #} !_0|Um|4G|zl|_#|4E #} !`0|Um|[F|zl|_&|4E#} !a!} !b  0|U{|4;|zl|_+|4<-} 3 |_,#} !c0|Um|4G|zl|_.|4E-} 3 |_\/ #} !d #} !e#} !f-} 3 |^u!} !g#} !h-} 3 |_'!} !i-} 3 |_$!} !j-} 3 |^w!} !k0|Um|[F|zl|_5|4E-} 3 |_?0|U{|4;|zl|^s|4<-} 3 |_A0|U{|4;|zl|^y|4<-} 3 |_C0|U{|4;|zl|_*|4<-} 3 |_E!} !l#} !m#} !n!} !o!} !p#} !q#} !r#} !s0|Ut|zl|_M|_N|4H-} 3 |_O  0|U{|4;|zl|_R|4<#} !t0|Um|4G|zl|_T|4E#} !u!} !v!} !w#} !x#} !y#} !z#} !{#} #   #} #!   -|WM|3= 0|U{|4;|zl|_f|4<-} 3 |_g0|Um|_e|zl|_h|4E#} ###} #$0|Um|4G|zl|_k|4E#} #%!} #&#} #'#} #(!} #)#} #* #} #+ 0|U{|4;|zl|_u|4<-} 3 |_v0|Um|_e|zl|_w|4E#} #,0|Um|4G|zl|_y|4E-} 3 |_z #} #- #} #.-} 3 |_S!} #\/#} #0#} #10|Ut|zl|`'|`(|4H-} 3 |`)#} #2!} #3#} #4#} #5!} #6#} #7  !} #8#} #90|Um|4G|zl|`4|4E#} #:!} #;#} #< #} #=0|Um|4G|zl|`:|4E-} 3 |`;#} #>!} #?#} #@#} #A  #} #B#} #C!} #D#} #E#} #F#} #G-} 3 |`5!} #H0|Um|4G|zl|`C|4E-} 3 |`K#} #I!} #J     #} #K-} 3 |_x!} #L-} 3 |_l!} #M   -} 3 |_i!} #N-} 3 |_U!} #O0|Um|_e|zl|`$|4E-} 3 |`a0|U{|4;|zl|_Q|4<-} 3 |`c#} #P!} #Q#} #R!} #S#} #T!} #U#} #V!} #W#} #X#} #Y0|Ut|zl|`m|`n|4H-} 3 |`o 0|U{|4;|zl|`q|4< 0|U{|4;|zl|`s|4< 0|U{|4;|zl|`u|4<!} #Z#} #[0|Um|4G|zl|`x|4E-} 3 |`y  #} #]-} 3 |`v!} #^#} #_#} #` #} #a#} #b0|Ut|zl|a(|a)|4H-} 3 |a* #} #c0|Um|4G|zl|a-|4E #} #d0|Um|4G|zl|a0|4E#} #e!} #f#} #g!} #h#} #i!} #j#} #k#} #l!} #m#} #n #} #o!} #p#} #q#} #r #} #s0|Um|4G|zl|aB|4E-} 3 |aC #} #t#} #u0|Um|4G|zl|aG|4E#} #v!} #w#} #x#} #y#} #z!} #{!} $ #} $!#} $##} $$0|Um|4G|zl|aR|4E-} 3 |aS#} $%!} $&#} $'#} $(!} $)#} $* #} $+ 0|U{|4;|zl|a,|4<-} 3 |a_#} $,-} 3 |aH!} $-#} $.!} $\/#} $0 #} $1!} $2  -} 3 |a1!} $3-} 3 |a.!} $40|Um|_e|zl|a`|4E-} 3 |ap#} $5!} $6#} $7   #} $80|Um|_e|zl|a!|4E-} 3 |ay-} 3 |`t!} $9-} 3 |`r!} $:0|U{|4;|zl|a'|4<-} 3 |b$!} $;#} $<#} $=!} $>!} $?#} $@#} $A#} $B0|Ut|zl|b,|b-|4H-} 3 |b.-|WM|3=#} $C0|Um|b0|zl|b1|4E!} $D  0|U{|4;|zl|b5|4<-} 3 |b6!} $E#} $F0|Um|4G|zl|b9|4E#} $G!} $H#} $I#} $J!} $K#} $L!} $M#} $N#} $O #} $P0|Um|4G|zl|bE|4E#} $Q!} $R#} $S#} $T#} $U#} $V#} $W#} $X #} $Y!} $Z#} $[ #} $]#} $^ #} $_ #} $` #} $a0|Um|4G|zl|b[|4E#} $b#} $c!} $d#} $e #} $f0|Um|4G|zl|bc|4E-} 3 |bd#} $g!} $h#} $i#} $j#} $k#} $l    #} $m  #} $n#} $o0|Ut|zl|bs|bt|4H-} 3 |bu#} $p#} $q#} $r#} $s  #} $t!} $u!} $v#} $w    #} $x#} $y0|Um|4G|zl|c+|4E#} $z!} ${#} % #} %! #} %#0|Um|4G|zl|c2|4E#} %$#} %%!} %&#} %'#} %(#} %) #} %* #} %+ #} %, #} %-0|Um|4G|zl|cA|4E-} 3 |cB#} %.!} %\/#} %0#} %1  #} %2!} %3#} %4#} %5#} %6-} 3 |c3!} %7-} 3 |c,!} %8!} %9 #} %:!} %;#} %<!} %=#} %>!} %? 0|Um|4G|zl|cG|4E-} 3 |c]#} %@!} %A#} %B!} %C#} %D!} %E#} %F!} %G#} %H!} %I  #} %J-} 3 |b]!} %K-} 3 |bF!} %L#} %M!} %N#} %O   #} %P!} %Q#} %R!} %S#} %T!} %U -} 3 |b:!} %V-} 3 |b2!} %W0|Um|4G|zl|bp|4E-} 3 |d&0|U{|4;|zl|b4|4<-} 3 |d(  #} %X!} %Y#} %Z!} %[#} %]#} %^0|Ut|zl|d0|d1|4H-} 3 |d2  #} %_0|Um|b0|zl|d6|4E!} %`#} %a#} %b!} %c  0|U{|4;|zl|d=|4< 0|U{|4;|zl|d?|4<#} %d 0|U{|4;|zl|dB|4<-} 3 |dC#} %e0|Um|4G|zl|dE|4E-} 3 |dF#} %f!} %g#} %h#} %i #} %j!} %k#} %l#} %m  #} %n#} %o!} %p#} %q#} %r!} %s#} %t#} %u-} 3 |d7!} %v0|Um|4G|zl|dS|4E-} 3 |d^#} %w -} 3 |d@!} %x-} 3 |d>!} %y0|U{|4;|zl|d<|4<-} 3 |df#} %z!} %{  #} & #} &!0|Ut|zl|dl|dm|4H-} 3 |dn#} &#0|Um|4G|zl|dp|4E#} &$!} &%#} &&#} &'!} &(#} &)#} &*!} &+#} &,!} &-#} &.!} &\/#} &0  #} &1 0|U{|4;|zl|e'|4<-} 3 |e(0|Um|b0|zl|e)|4E#} &20|Um|4G|zl|e+|4E#} &3!} &4#} &5#} &6!} &7#} &8#} &9#} &:!} &;#} &< #} &=0|Um|4G|zl|e8|4E-} 3 |e9#} &> #} &?  0|U{|4;|zl|e?|4<-} 3 |e@#} &@-} 3 |e,!} &A-} 3 |e*!} &B -} 3 |dq!} &C0|Um|b0|zl|eA|4E-} 3 |eJ#} &D   #} &E #} &F#} &G0|Ut|zl|eR|eS|4H-} 3 |eT  #} &H0|Um|4G|zl|eX|4E#} &I!} &J#} &K!} &L#} &M!} &N#} &O#} &P #} &Q0|Um|b0|zl|ed|4E!} &R#} &S  0|U{|4;|zl|ei|4<-} 3 |ej#} &T0|Um|4G|zl|el|4E-} 3 |em#} &U!} &V#} &W#} &X#} &Y#} &Z#} &[     #} &]#} &^!} &_#} &`#} &a#} &b#} &c0|Ut|zl|f%|f&|4H-} 3 |f'#} &d#} &e!} &f#} &g #} &h0|Um|b0|zl|f.|4E!} &i#} &j!} &k#} &l  0|U{|4;|zl|f5|4< 0|U{|4;|zl|f7|4<#} &m#} &n0|Um|4G|zl|f:|4E-} 3 |f;#} &o!} &p#} &q#} &r  #} &s #} &t 0|Um|4G|zl|f)|4E#} &u-} 3 |f\/!} &v-} 3 |fG!} &w0|Um|4G|zl|fE|4E-} 3 |fM -} 3 |f8!} &x-} 3 |f6!} &y0|U{|4;|zl|f4|4<-} 3 |fT#} &z!} &{ #} ' -} 3 |ee!} '!-} 3 |eY!} '##} '$!} '% 0|Um|4G|zl|e{|4E-} 3 |fb#} '&!} ''   0|U{|4;|zl|eh|4<-} 3 |fi#} '(!} ')#} '*!} '+#} ',#} '-0|Ut|zl|fo|fp|4H-} 3 |fq 0|U{|4;|zl|fs|4<#} '.0|Um|4G|zl|fu|4E#} '\/!} '0#} '1 !} '2#} '30|Um|b0|zl|g |4E!} '4#} '5#} '6 #} '7 0|U{|4;|zl|g(|4< 0|U{|4;|zl|g*|4< 0|U{|4;|zl|g,|4<-} 3 |g-#} '80|Um|4G|zl|g\/|4E-} 3 |g0#} '9#} ':!} ';#} '<#} '=   #} '>-} 3 |ft!} '? #} '@#} 'A0|Ut|zl|g>|g?|4H-} 3 |g@#} 'B0|Um|b0|zl|gB|4E!} 'C  0|U{|4;|zl|gF|4<-} 3 |gG!} 'D#} 'E0|Um|4G|zl|gJ|4E #} 'F0|Um|b0|zl|gM|4E!} 'G #} 'H 0|U{|4;|zl|gR|4<-} 3 |gS#} 'I0|Um|4G|zl|gU|4E-} 3 |gV#} 'J!} 'K#} 'L#} 'M #} 'N #} 'O#} 'P #} 'Q-} 3 |gN!} 'R-} 3 |gK!} 'S-} 3 |gC!} 'T0|Um|4G|zl|ga|4E-} 3 |gj0|U{|4;|zl|gE|4<-} 3 |gl0|U{|4;|zl|gP|4<-} 3 |gn #} 'U-} 3 |g!!} 'V-} 3 |fv!} 'W0|Um|b0|zl|g:|4E-} 3 |gv0|U{|4;|zl|g=|4<-} 3 |gx -} 3 |g+!} 'X-} 3 |g)!} 'Y0|U{|4;|zl|g&|4<-} 3 |h$#} 'Z!} '[ #} ']#} '^0|Ut|zl|h)|h*|4H-} 3 |h+ #} '_0|Um|b0|zl|h.|4E!} '`#} 'a#} 'b 0|U{|4;|zl|h3|4<!} 'c 0|U{|4;|zl|h6|4<-} 3 |h7#} 'd0|Um|4G|zl|h9|4E#} 'e!} 'f#} 'g#} 'h#} 'i #} 'j!} 'k#} 'l #} 'm0|Um|4G|zl|hE|4E#} 'n!} 'o#} 'p#} 'q#} 'r#} 's#} 't#} 'u#} 'v#} 'w #} 'x!} 'y#} 'z#} '{ #} (  #} (! #} (# #} ($ #} (%0|Um|4G|zl|h`|4E-} 3 |ha#} (&#} ('!} ((#} ()  #} (*!} (+#} (,#} (-#} (.0|Ut|zl|hl|hm|4H-} 3 |hn#} (\/!} (0#} (1 #} (20|Um|b0|zl|ht|4E!} (3#} (4!} (5#} (6  0|U{|4;|zl|h{|4< 0|U{|4;|zl|i!|4<-} 3 |i##} (7#} (80|Um|4G|zl|i&|4E-} 3 |i'#} (9!} (:#} (;#} (<#} (=#} (>#} (?!} (@#} (A    #} (B#} (C#} (D#} (E!} (F#} (G#} (H-} 3 |hu!} (I0|Um|4G|zl|i6|4E-} 3 |i?    !} (J-} 3 |i !} (K0|U{|4;|zl|hz|4<-} 3 |iH#} (L!} (M#} (N!} (O!} (P#} (Q-} 3 |hF!} (R-} 3 |h:!} (S#} (T!} (U#} (V!} (W#} (X!} (Y#} (Z!} ([#} (]!} (^#} (_!} (`   -} 3 |h\/!} (a0|Um|4G|zl|hc|4E-} 3 |if !} (b-} 3 |h4#} (c!} (d  !} (e#} (f#} (g#} (h#} (i#} (j#} (k#} (l#} (m!} (n!} (o!} (p!} (q!} (r!} (s!} (t!} (u#} (v#} (w#} (x0|Ut|zl|j&|j'|4H-} 3 |j(#} (y#} (z!} ({#} )  #} )!!} )##} )$!} )% -|WM|3=#} )&0|Um|j4|zl|j5|4E!} )'  0|U{|4;|zl|j9|4<-} 3 |j:#} )(#} ))0|Um|4G|zl|j=|4E  0|U{|4;|zl|j@|4<-} 3 |jA0|Um|j4|zl|jB|4E#} )*#} )+0|Um|4G|zl|jE|4E-} 3 |jF  #} ),#} )-#} ).!} )\/#} )0#} )10|Ut|zl|j&|jO|4H-} 3 |jP#} )2#} )3!} )4#} )5  !} )6#} )70|Um|4G|zl|jY|4E#} )8!} )9#} ):#} );  #} )<#} )=0|Um|j4|zl|jc|4E!} )>  0|U{|4;|zl|jg|4<-} 3 |jh#} )?0|Um|4G|zl|jj|4E#} )@ #} )A0|Um|4G|zl|jn|4E-} 3 |jo#} )B!} )C#} )D#} )E#} )F#} )G#} )H#} )I#} )J     #} )K#} )L!} )M#} )N-} 3 |jk!} )O-} 3 |jd!} )P#} )Q!} )R#} )S!} )T#} )U!} )V#} )W!} )X!} )Y -} 3 |jZ!} )Z0|Um|4G|zl|k$|4E-} 3 |k8#} )[!} )]  #} )^!} )_ 0|U{|4;|zl|jf|4<-} 3 |kA#} )`-} 3 |jC!} )a-} 3 |j>!} )b-} 3 |j6!} )c0|Um|4G|zl|jK|4E-} 3 |kJ#} )d!} )e   0|U{|4;|zl|j8|4<-} 3 |kQ!} )f#} )g#} )h#} )i0|Ut|zl|kU|kV|4H-} 3 |kW  0|U{|4;|zl|kZ|4< 0|U{|4;|zl|k]|4<!} )j-|WM|3=#} )k0|Um|k`|zl|ka|4E!} )l  0|U{|4;|zl|ke|4<-} 3 |kf#} )m#} )n0|Um|4G|zl|ki|4E #} )o0|Um|k`|zl|kl|4E!} )p #} )q 0|U{|4;|zl|kq|4<-} 3 |kr#} )r0|Um|4G|zl|kt|4E-} 3 |ku#} )s!} )t#} )u#} )v!} )w#} )x#} )y  #} )z-} 3 |k^!} ){#} * #} *!-} 3 |km!} *#-} 3 |kj!} *$-} 3 |kb!} *%0|Um|k`|zl|l%|4E-} 3 |l0-} 3 |k[!} *&0|U{|4;|zl|kY|4<-} 3 |l40|U{|4;|zl|kd|4<-} 3 |l60|U{|4;|zl|ko|4<-} 3 |l8  #} *'#} *(0|Ut|zl|l<|l=|4H-} 3 |l>#} *)  0|U{|4;|zl|lB|4< 0|U{|4;|zl|lD|4<!} ** 0|U{|4;|zl|lG|4< 0|U{|4;|zl|lI|4<#} *+0|Um|4G|zl|lK|4E#} *,!} *-#} *.#} *\/ #} *00|Um|k`|zl|lR|4E!} *1 #} *2 0|U{|4;|zl|lW|4<-} 3 |lX#} *30|Um|4G|zl|lZ|4E-} 3 |l[#} *4!} *5#} *6!} *7#} *8 #} *9-} 3 |lJ!} *:#} *;#} *<#} *=-} 3 |lS!} *>-} 3 |lL!} *? 0|Um|k`|zl|ld|4E-} 3 |lo-} 3 |lH!} *@-} 3 |lE!} *A-} 3 |lC!} *B0|U{|4;|zl|lA|4<-} 3 |lw 0|U{|4;|zl|lU|4<-} 3 |lz !} *C #} *D #} *E#} *F#} *G#} *H#} *I0|Ut|zl|m)|m*|4H-} 3 |m+  0|U{|4;|zl|m.|4< 0|U{|4;|zl|m0|4<!} *J 0|U{|4;|zl|m3|4<#} *K0|Um|4G|zl|m5|4E -|WM|3=#} *L0|Um|m8|zl|m9|4E!} *M#} *N#} *O#} *P  0|U{|4;|zl|m@|4< 0|U{|4;|zl|mB|4<#} *Q 0|U{|4;|zl|mE|4<-} 3 |mF#} *R0|Um|4G|zl|mH|4E-} 3 |mI  #} *S-} 3 |m4!} *T#} *U#} *V#} *W-} 3 |m:!} *X-} 3 |m6!} *Y0|Um|m8|zl|mM|4E-} 3 |mW-} 3 |m1!} *Z-} 3 |m\/!} *[0|U{|4;|zl|m-|4<-} 3 |m^-} 3 |mC!} *]-} 3 |mA!} *^0|U{|4;|zl|m?|4<-} 3 |md#} *_#} *`0|Ut|zl|mf|mg|4H-} 3 |mh#} *a!} *b#} *c #} *d0|Um|4G|zl|mn|4E#} *e!} *f#} *g!} *h#} *i!} *j#} *k #} *l0|Um|4G|zl|mx|4E #} *m 0|U{|4;|zl|n |4<-} 3 |n!0|Um|m8|zl|n#|4E#} *n0|Um|4G|zl|n%|4E-} 3 |n&  #} *o#} *p#} *q#} *r!} *s#} *t#} *u-} 3 |n$!} *v-} 3 |my!} *w-} 3 |mo!} *x0|Um|4G|zl|n,|4E-} 3 |n7    #} *y#} *z0|Ut|zl|n=|n>|4H-} 3 |n?#} *{0|Um|4G|zl|nA|4E#} +  #} +!#} +# #} +$#} +%!} +&#} +'!} +(   #} +)#} +*#} ++ #} +,#} +- #} +.0|Um|m8|zl|nU|4E!} +\/#} +0 0|U{|4;|zl|n[|4<-} 3 |n]#} +10|Um|4G|zl|n_|4E-} 3 |n`#} +2 0|Um|4G|zl|nb|4E#} +3!} +4 #} +5#} +6 #} +7 0|U{|4;|zl|nl|4<-} 3 |nm!} +8!} +9!} +:-} 3 |nd!} +;!} +<-} 3 |nB!} +=0|Um|4G|zl|ni|4E-} 3 |nw!} +>!} +?#} +@0|Um|4G|zl|n{|4E-} 3 |o #} +A-} 3 |nX#} +B#} +C0|Ut|zl|o%|o&|4H-} 3 |o'#} +D!} +E#} +F #} +G0|Um|4G|zl|o-|4E#} +H#} +I!} +J#} +K!} +L #} +M0|Um|m8|zl|o5|4E!} +N#} +O#} +P #} +Q 0|U{|4;|zl|o<|4< 0|U{|4;|zl|o>|4< 0|U{|4;|zl|o@|4<-} 3 |oA#} +R#} +S0|Um|4G|zl|oD|4E-} 3 |oE#} +T!} +U#} +V#} +W   #} +X#} +Y!} +Z#} +[#} +]-} 3 |o6!} +^-} 3 |o.!} +_ 0|Um|4G|zl|oN|4E-} 3 |oX   -} 3 |o?!} +`-} 3 |o=!} +a0|U{|4;|zl|o:|4<-} 3 |ob#} +b!} +c#} +d0|Ut|zl|o%|of|4H-} 3 |og#} +e!} +f#} +g!} +h#} +i0|Um|4G|zl|om|4E-} 3 |on!} +j #} +k#} +l#} +o#} +q#} +r -|WO|ow0|Um|ox|zl|4<|4E-} 3 |oy!} +t-|7?%|#K#} +u#} +v#} +w0|Ut|zl|p#|p$|4H-} 3 |p%#} +x!} +y#} +z#} +{  #} , !} ,!#} ,#!} ,$ #} ,%0|Um|4G|zl|p2|4E #} ,&0|Um|4G|zl|p5|4E#} ,'!} ,(#} ,)#} ,*#} ,+#} ,,!} ,-#} ,. #} ,\/!} ,0#} ,1 #} ,2 #} ,30|Um|4G|zl|pF|4E #} ,40|Um|4G|zl|pI|4E #} ,5 0|U{|4;|zl|pM|4<-} 3 |pN0|Um|m8|zl|pO|4E#} ,60|Um|4G|zl|pQ|4E-} 3 |pR #} ,7 #} ,8#} ,9#} ,:-} 3 |pP!} ,;-} 3 |pJ!} ,<#} ,=  -} 3 |pG!} ,>-} 3 |p6!} ,?-} 3 |p3!} ,@0|Um|4G|zl|pX|4E-} 3 |ph#} ,A!} ,B#} ,C #} ,D!} ,E#} ,F#} ,G0|Ut|zl|pp|pq|4H-} 3 |pr #} ,H0|Um|m8|zl|pu|4E!} ,I  0|U{|4;|zl|py|4<-} 3 |pz#} ,J!} ,K#} ,L0|Um|4G|zl|q#|4E#} ,M!} ,N#} ,O #} ,P0|Um|4G|zl|q)|4E#} ,Q !} ,R#} ,S#} ,T#} ,U!} ,V#} ,W #} ,X#} ,Y#} ,Z #} ,[#} ,]#} ,^#} ,_#} ,` !} ,a#} ,b#} ,c 0|U{|4;|zl|qA|4<0|Um|4G|zl|q |4E-} 3 |qC#} ,d #} ,e #} ,f#} ,g-} 3 |qB0|Um|m8|zl|qK|4E-} 3 |qL!} ,h-} 3 |q*!} ,i !} ,j!} ,k  -} 3 |q$!} ,l-} 3 |pv!} ,m0|Um|4G|zl|qI|4E-} 3 |qZ0|U{|4;|zl|px|4<-} 3 |q] #} ,n!} ,o#} ,p!} ,q#} ,r#} ,s#} ,t0|Ut|zl|qe|qf|4H-} 3 |qg#} ,u   #} ,v0|Um|4G|zl|qm|4E#} ,w!} ,x!} ,y#} ,z#} ,{#} - #} -!  #} -# 0|U{|4;|zl|qy|4<-} 3 |qz0|Um|m8|zl|q{|4E#} -$0|Um|4G|zl|r!|4E-} 3 |r#  #} -%#} -&#} -'!} -(#} -)#} -*#} -+-} 3 |r !} -,-} 3 |qn!} --0|Um|4G|zl|r(|4E-} 3 |r2#} -.!} -\/!} -0#} -1#} -2!} -3!} -4 #} -5#} -60|Ut|zl|r<|r=|4H-} 3 |r>#} -70|Um|4G|zl|r@|4E#} -8!} -9#} -: -|7?%7#} -;#} -?!} -@ -|7?%U#} -A0|Um|4G|zl|rL|4E#} -B!} -C#} -D #} -E#} -F #} -G0|Um|4G|zl|rU|4E #} -H0|Um|m8|zl|rX|4E!} -I#} -J  0|U{|4;|zl|r^|4<-} 3 |r_#} -K0|Um|4G|zl|ra|4E-} 3 |rb #} -L #} -M#} -N #} -O-} 3 |rY!} -P-} 3 |rV!} -Q-} 3 |rM!} -R-} 3 |rA!} -S0|Um|4G|zl|rh|4E-} 3 |rs#} -T#} -X#} -Y0|U{|4;|zl|r]|4<-} 3 |rx#} -Z#} -[0|Ut|zl|rz|r{|4H-} 3 |s  0|U{|4;|zl|s#|4< 0|U{|4;|zl|s%|4< 0|U{|4;|zl|s'|4<!} -]#} -^0|Um|4G|zl|s*|4E-} 3 |s+  #} -_-} 3 |s(!} -`#} -a#} -b #} -c0|Um|m8|zl|s\/|4E-} 3 |s6-} 3 |s&!} -d-} 3 |s$!} -e0|U{|4;|zl|s4|4<-} 3 |s<!} -f#} -g#} -h#} -i#} -j#} -k#} -l#} -m#} -n!} -o!} -p!} -q!} -r!} -s!} -t!} -u!} -v #} -w #} -x#} -y#} -z#} -{#} . 0|Ut|zl|sU|sV|4H-} 3 |sW#} .!   #} .#0|Um|4G|zl|s^|4E!} .$ -|WM|3=#} .%0|Um|sb|zl|sc|4E!} .&#} .'#} .( #} .) 0|U{|4;|zl|sj|4< 0|U{|4;|zl|sl|4< 0|U{|4;|zl|sn|4<-} 3 |so#} .*#} .+0|Um|4G|zl|sr|4E-} 3 |ss#} .,!} .-#} ..#} .\/   #} .0#} .1!} .2#} .3#} .4#} .5-} 3 |sd!} .6-} 3 |s_!} .7 0|Um|4G|zl|t |4E-} 3 |t,#} .8!} .9#} .:!} .; -} 3 |sm!} .<-} 3 |sk!} .=0|U{|4;|zl|sh|4<-} 3 |t7#} .>!} .?#} .@0|Um|4G|zl|t;|4E#} .A!} .B#} .C  -|WH|tA#} .D!} .E-} 3 |t<!} .F#} .G!} .H0|U{|tB|zl|t@|4<-} 3 |tI#} .I#} .J0|Ut|zl|tK|tL|4H-} 3 |tM   0|U{|4;|zl|tQ|4<-} 3 |tR0|Um|sb|zl|tS|4E-} 3 |tT!} .K#} .L0|Um|4G|zl|tW|4E-} 3 |tX  #} .M#} .N#} .O#} .P0|Um|4G|zl|t`|4E-} 3 |ta #} .Q#} .R0|Ut|zl|td|te|4H-} 3 |tf#} .S #} .T!} .U #} .V!} .W#} .X!} .Y #} .Z0|Um|4G|zl|tr|4E #} .[0|Um|sb|zl|tu|4E!} .]#} .^#} ._  0|U{|4;|zl|t{|4< 0|U{|4;|zl|u!|4<-} 3 |u##} .`#} .a0|Um|4G|zl|u&|4E-} 3 |u'  #} .b#} .c!} .d#} .e#} .f#} .g-} 3 |tv!} .h-} 3 |ts!} .i0|Um|4G|zl|u+|4E-} 3 |u5#} .j!} .k#} .l!} .m  -} 3 |u !} .n0|U{|4;|zl|tz|4<-} 3 |u?#} .o#} .p0|Ut|zl|uA|uB|4H-} 3 |uC#} .q#} .r!} .s#} .t #} .u0|Um|4G|zl|uJ|4E-} 3 |uK!} .v#} .w!} .x#} .y#} .z!} .{#} \/  #} \/!0|Um|4G|zl|uU|4E#} \/##} \/$!} \/%#} \/&#} \/'#} \/( #} \/) #} \/*#} \/+0|Um|4G|zl|ub|4E#} \/,!} \/-#} \/.#} \/\/#} \/0#} \/1!} \/2#} \/3#} \/4#} \/5!} \/6#} \/7  #} \/8 #} \/9 0|U{|4;|zl|uu|4<-} 3 |uv0|Um|sb|zl|uw|4E#} \/:0|Um|4G|zl|uy|4E-} 3 |uz#} \/;#} \/<  #} \/=#} \/>!} \/?#} \/@-} 3 |ux!} \/A-} 3 |uc!} \/B #} \/C!} \/D#} \/E!} \/F   -} 3 |uV!} \/G#} \/H!} \/I0|Um|4G|zl|v%|4E-} 3 |v9    #} \/J!} \/K#} \/L#} \/M0|Ut|zl|vA|vB|4H-} 3 |vC  0|U{|4;|zl|vF|4< 0|U{|4;|zl|vH|4<#} \/N0|Um|4G|zl|vJ|4E!} \/O #} \/P0|Um|sb|zl|vN|4E!} \/Q#} \/R #} \/S 0|U{|4;|zl|vT|4<#} \/T0|Um|4G|zl|vV|4E-} 3 |vW#} \/U!} \/V#} \/W  #} \/X#} \/Y-} 3 |vI!} \/Z#} \/[#} \/]-} 3 |vO!} \/^-} 3 |vK!} \/_0|Um|sb|zl|v`|4E-} 3 |vi-} 3 |vG!} \/`0|U{|4;|zl|vE|4<-} 3 |vm-} 3 |vU!} \/a0|U{|4;|zl|vR|4<-} 3 |vq !} \/b#} \/c#} \/d#} \/e#} \/f!} \/g!} \/h!} \/i!} \/j#} \/k#} \/l0|Ut|zl|w!|w#|4H-} 3 |w$#} \/m#} \/n  #} \/o  !} \/p#} \/q #} \/r0|Um|4G|zl|w0|4E!} \/s #} \/t#} \/u!} \/v#} \/w  #} \/x#} \/y #} \/z0|Um|sb|zl|w;|4E!} \/{#} 0 0|U{|4;|zl|w,|4< 0|U{|4;|zl|wB|4<-} 3 |wC-} 3 |wA#} 0!0|Um|4G|zl|wF|4E #} 0##} 0$#} 0%!} 0&#} 0'!} 0(#} 0)!} 0*-} 3 |w1!} 0+-} 3 |wG!} 0,!} 0-0|Um|4G|zl|wJ|4E-} 3 |wV#} 0.!} 0\/#} 00!} 01 #} 020|Um|4G|zl|w^|4E-} 3 |w_-} 3 |w>!} 03!} 0]\/|%p|wb|we|wf!} 1&!} 1'!} 1(     !} 1) &!} 1*!} 1,!} 1.!} 10!} 12!} 14!} 17!} 1:!} 1A!} 1C!} 1H!} 1J!} 1L-|7?%|x*-|7?% G} 1#.|'?|x!|x#!} 1M  !} 1^&!} 1`-|7?$-|7?%|),-|7?%}!JA.|'?|x,|x--|7?%8-|7?%|!A.|'?|x\/|x0-|7?%9-|7?%2.|'?|x2|x3-|7?%|#c-|7?%F.|'?|x5|x6!} 1r!} 2#!} 22!} 2C!} 2E&&&&&&&&&&&&&&&&&&&&&&&&&&&&!} 2I!} 2K!} 2O!} 2]!} 2a&  !} 2e!} 2s!} 2u!} 2w!} 2{!} 3!#} 3$!} 3%!} 3&!} 3(!} 3)!} 3*!} 3,!} 3.!} 3\/!} 31!} 35!} 38!} 3[!} 3`!} 3a!} 3b!} 3c!} 3f!} 3g!} 3j.} 3-|xw|xx.} 3-|xy|xz!} 3k#} 3m#} 3n#} 3o!} 3p!} 3q!} 3s#} 3t#} 3u!} 3v!} 3y!} 3{!} 4$!} 4&!} 4(!} 4)!} 49!} 4B!} 4Z!} 4]!} 4_!} 4a!} 4c!} 4g  !} 4i!} 4p.200#} 4x#} 4y.280!} 4z -|6C|yD#} 5)!} 5*!} 6D!} 6F,} 6H!} 6I!} 6K!} 6M!} 6O            !} 6Q!} 6R!} 6S!} 6X-|7?#-|7?% >}$E -|7?% | )} 1&-|7?%7-|7?%| 7-|7?$!} 6o!} 6r!} 6t!} 7&!} 7(!} 71!} 78!} 7<#} 7>!} 7?*!!|yf|z2*!!|yg|zJ#} 7C!} 7E#} 7M#} 7N#} 7O#} 7P!} 7Q#} 7W#} 7X!} 7Y#} 7`#} 7a#} 7b#} 7c!} 7d#} 7j#} 7k!} 7l#} 7r#} 7s#} 7t#} 7u!} 7v#} 8 #} 8!!} 8#!} 8)-|7?$!} 8*  #} 8.  #} 8\/& &*!!|z)|z<#} 80&&#} 81 &&*! |zD!} 82!} 8@!} 9X-|7?#-|7?%7!} :Z!} :]&!} :`!} :h*! |#Z!} :j!} :r!} :t!} ; \/|%p|zO|zR|zT,} ;!,} ;#,} ;$!} ;%!} ;'#} ;+ !} ;-!} ;.!} ;0#} ;2#} ;3!} ;4!} ;H!} ;J!} ;M!} ;O!} ;Q!} ;S!} ;V!} ;X,} ;[!} ;]!} ;_!} ;a!} ;c!} ;d!} ;f#} ;g");
 h$staticDelayed = [];
 h$main(h$mainZCZCMainzimain);
 
